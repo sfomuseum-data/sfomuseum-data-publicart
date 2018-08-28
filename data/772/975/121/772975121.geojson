@@ -1,0 +1,100 @@
+{
+  "id": 772975121,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.38910079,37.6129778437,-122.38910079,37.6129778437",
+    "geom:latitude":37.612978,
+    "geom:longitude":-122.389101,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_currrent":1,
+    "mz:is_retail":-1,
+    "sfac:accession_id":"2008.4.a-c",
+    "sfac:artist":"Hsu, Joyce",
+    "sfac:created_at":"01/01/1970 12:33:28 AM +0000",
+    "sfac:credit_line":"",
+    "sfac:display_dimensions":"",
+    "sfac:id":"63daabb62278559f8a0643be883049b3",
+    "sfac:location":"",
+    "sfac:location_description":"Airport : International terminal : Gate A-3",
+    "sfac:medium":"Anodized aluminum and stainless steel",
+    "sfac:revision":"2-641b30d3e96c4a21455bd986f3fad35c",
+    "sfac:source":"San Francisco Arts Commission",
+    "sfac:title":"Namoo House",
+    "sfomuseum:description":"The artwork, made of powder coated aluminum and stainless steel, imagines the view looking down from the air onto SFO, using a graphic background that is, in fact, a stylized aerial view of the airport. On top of this flattened and compressed landscape are flowers and insects.",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:map_id":110,
+    "sfomuseum:medium":"Powder-coated aluminum, stainless steel",
+    "sfomuseum:object_id":109298,
+    "sfomuseum:on_display":1,
+    "sfomuseum:placetype":"publicart",
+    "sfomuseum:post_security":1,
+    "sfomuseum:type":"sculpture",
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        1159157339,
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159157271,
+        1159157333,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sfac:accession_id":"2008.4.a-c",
+        "sfomuseum:object_id":109298
+    },
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1462387365,
+    "wof:geomhash":"bf411f93c6ea351bff99f1acebebd8de",
+    "wof:hierarchy":[
+        {
+            "building_id":1159157271,
+            "campus_id":102527513,
+            "concourse_id":1159157339,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "venue_id":772975121,
+            "wing_id":1159157333
+        }
+    ],
+    "wof:id":772975121,
+    "wof:lastmodified":1534977856,
+    "wof:name":"Namoo House",
+    "wof:parent_id":1159157339,
+    "wof:placetype":"venue",
+    "wof:repo":"sfomuseum-data-publicart",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "artwork",
+        "public_art"
+    ]
+},
+  "bbox": [
+    -122.3891007900238,
+    37.6129778437367,
+    -122.3891007900238,
+    37.6129778437367
+],
+  "geometry": {"coordinates":[-122.3891007900238,37.6129778437367],"type":"Point"}
+}

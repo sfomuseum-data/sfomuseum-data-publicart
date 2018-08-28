@@ -1,0 +1,100 @@
+{
+  "id": 772975495,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.383693457,37.6173503801,-122.383693457,37.6173503801",
+    "geom:latitude":37.61735,
+    "geom:longitude":-122.383693,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_currrent":1,
+    "mz:is_retail":-1,
+    "sfac:accession_id":"1985.1",
+    "sfac:artist":"Pomodoro, Arnaldo",
+    "sfac:created_at":"01/01/1970 12:33:03 AM +0000",
+    "sfac:credit_line":"Purchased by the San Francisco Art Commission for the San Francisco International Airport.",
+    "sfac:display_dimensions":"192\" H X 18\"diameter",
+    "sfac:id":"63daabb62278559f8a0643be88362a9d",
+    "sfac:location":"",
+    "sfac:location_description":"Airport : Terminal 2 : Stairway from Arrivals to Departures",
+    "sfac:medium":"cast bronze",
+    "sfac:revision":"2-6c9bc5546f9e38e0f9626ba04c878892",
+    "sfac:source":"San Francisco Arts Commission",
+    "sfac:title":"Cilindro Costruito",
+    "sfomuseum:description":"Polished cylindrical bronze column with vertical fissures exposing \\dendritic\\\" internal skeleton structure.\"",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:map_id":54,
+    "sfomuseum:medium":"Cast bronze with lacquer",
+    "sfomuseum:object_id":109362,
+    "sfomuseum:on_display":0,
+    "sfomuseum:placetype":"publicart",
+    "sfomuseum:post_security":0,
+    "sfomuseum:type":"sculpture",
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        1159157327,
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159157271,
+        1159157325,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sfac:accession_id":"1985.1",
+        "sfomuseum:object_id":109362
+    },
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1462387377,
+    "wof:geomhash":"b71968d5e8d85a3849f9d9c86fc133a3",
+    "wof:hierarchy":[
+        {
+            "building_id":1159157271,
+            "campus_id":102527513,
+            "concourse_id":1159157327,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "venue_id":772975495,
+            "wing_id":1159157325
+        }
+    ],
+    "wof:id":772975495,
+    "wof:lastmodified":1534977857,
+    "wof:name":"Cilindro Costruito",
+    "wof:parent_id":1159157327,
+    "wof:placetype":"venue",
+    "wof:repo":"sfomuseum-data-publicart",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "artwork",
+        "public_art"
+    ]
+},
+  "bbox": [
+    -122.38369345664978,
+    37.61735038005604,
+    -122.38369345664978,
+    37.61735038005604
+],
+  "geometry": {"coordinates":[-122.38369345664978,37.61735038005604],"type":"Point"}
+}

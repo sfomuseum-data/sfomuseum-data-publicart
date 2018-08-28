@@ -1,0 +1,100 @@
+{
+  "id": 772975229,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.383484244,37.6163645634,-122.383484244,37.6163645634",
+    "geom:latitude":37.616365,
+    "geom:longitude":-122.383484,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_currrent":1,
+    "mz:is_retail":-1,
+    "sfac:accession_id":"1986.11",
+    "sfac:artist":"Katano, Marc",
+    "sfac:created_at":"01/01/1970 12:33:06 AM +0000",
+    "sfac:credit_line":"Purchased by the San Francisco Art Commission for the San Francisco International Airport",
+    "sfac:display_dimensions":"108\" H X 54\" W",
+    "sfac:id":"63daabb62278559f8a0643be88328432",
+    "sfac:location":"",
+    "sfac:location_description":"Airport : Terminal 2 : Ticketing Lobby : Connector to Terminal 1",
+    "sfac:medium":"Oil on canvas",
+    "sfac:revision":"2-108f57477e35443008cd74ba6dcb9eff",
+    "sfac:source":"San Francisco Arts Commission",
+    "sfac:title":"Torso",
+    "sfomuseum:description":"Abstract dark shapes reminiscent of traditional calligraphic brush work against light blue/gray background.",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:map_id":65,
+    "sfomuseum:medium":"Oil on canvas",
+    "sfomuseum:object_id":109325,
+    "sfomuseum:on_display":1,
+    "sfomuseum:placetype":"publicart",
+    "sfomuseum:post_security":0,
+    "sfomuseum:type":"painting",
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        1159157327,
+        102527513,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1159157271,
+        1159157325,
+        85688637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sfac:accession_id":"1986.11",
+        "sfomuseum:object_id":109325
+    },
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1462387368,
+    "wof:geomhash":"49aacbcd6c6c96e658dbc998426d432f",
+    "wof:hierarchy":[
+        {
+            "building_id":1159157271,
+            "campus_id":102527513,
+            "concourse_id":1159157327,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "neighbourhood_id":-1,
+            "region_id":85688637,
+            "venue_id":772975229,
+            "wing_id":1159157325
+        }
+    ],
+    "wof:id":772975229,
+    "wof:lastmodified":1534977856,
+    "wof:name":"Torso",
+    "wof:parent_id":1159157327,
+    "wof:placetype":"venue",
+    "wof:repo":"sfomuseum-data-publicart",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "artwork",
+        "public_art"
+    ]
+},
+  "bbox": [
+    -122.3834842443466,
+    37.61636456341374,
+    -122.3834842443466,
+    37.61636456341374
+],
+  "geometry": {"coordinates":[-122.3834842443466,37.61636456341374],"type":"Point"}
+}
