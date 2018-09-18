@@ -58,10 +58,11 @@
         }
     ],
     "wof:id":1159162799,
-    "wof:lastmodified":1534977855,
+    "wof:lastmodified":1537232669,
     "wof:name":"Spirogyrate",
     "wof:parent_id":1159396267,
     "wof:placetype":"venue",
+    "wof:placetype_alt":"publicart",
     "wof:repo":"sfomuseum-data-publicart",
     "wof:superseded_by":[],
     "wof:supersedes":[],

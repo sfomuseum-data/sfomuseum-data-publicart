@@ -78,10 +78,11 @@
         }
     ],
     "wof:id":772975121,
-    "wof:lastmodified":1534977856,
+    "wof:lastmodified":1537232668,
     "wof:name":"Namoo House",
     "wof:parent_id":1159157339,
     "wof:placetype":"venue",
+    "wof:placetype_alt":"publicart",
     "wof:repo":"sfomuseum-data-publicart",
     "wof:superseded_by":[],
     "wof:supersedes":[],

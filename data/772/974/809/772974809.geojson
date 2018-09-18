@@ -75,10 +75,11 @@
         }
     ],
     "wof:id":772974809,
-    "wof:lastmodified":1534977856,
+    "wof:lastmodified":1537232668,
     "wof:name":"Death Valley II",
     "wof:parent_id":1159396121,
     "wof:placetype":"venue",
+    "wof:placetype_alt":"publicart",
     "wof:repo":"sfomuseum-data-publicart",
     "wof:superseded_by":[],
     "wof:supersedes":[],

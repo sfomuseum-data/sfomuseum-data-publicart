@@ -75,10 +75,11 @@
         }
     ],
     "wof:id":772975041,
-    "wof:lastmodified":1534977856,
+    "wof:lastmodified":1537232668,
     "wof:name":"Map for the Pacific and Orient Steamship Lines",
     "wof:parent_id":1159160869,
     "wof:placetype":"venue",
+    "wof:placetype_alt":"publicart",
     "wof:repo":"sfomuseum-data-publicart",
     "wof:superseded_by":[],
     "wof:supersedes":[],

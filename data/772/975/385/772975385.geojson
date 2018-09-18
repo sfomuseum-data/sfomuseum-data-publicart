@@ -78,10 +78,11 @@
         }
     ],
     "wof:id":772975385,
-    "wof:lastmodified":1535412776,
+    "wof:lastmodified":1537232668,
     "wof:name":"Billboard Series",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",
+    "wof:placetype_alt":"publicart",
     "wof:repo":"sfomuseum-data-publicart",
     "wof:superseded_by":[],
     "wof:supersedes":[],

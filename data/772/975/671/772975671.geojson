@@ -76,10 +76,11 @@
         }
     ],
     "wof:id":772975671,
-    "wof:lastmodified":1534977857,
+    "wof:lastmodified":1537232668,
     "wof:name":"Martha H.",
     "wof:parent_id":1159157317,
     "wof:placetype":"venue",
+    "wof:placetype_alt":"publicart",
     "wof:repo":"sfomuseum-data-publicart",
     "wof:superseded_by":[],
     "wof:supersedes":[],

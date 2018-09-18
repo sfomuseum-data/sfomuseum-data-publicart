@@ -79,10 +79,11 @@
         }
     ],
     "wof:id":772974799,
-    "wof:lastmodified":1534977856,
+    "wof:lastmodified":1537232669,
     "wof:name":"Untitled",
     "wof:parent_id":1159396181,
     "wof:placetype":"venue",
+    "wof:placetype_alt":"publicart",
     "wof:repo":"sfomuseum-data-publicart",
     "wof:superseded_by":[],
     "wof:supersedes":[],

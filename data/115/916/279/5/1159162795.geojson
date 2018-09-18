@@ -62,10 +62,11 @@
         }
     ],
     "wof:id":1159162795,
-    "wof:lastmodified":1534977855,
+    "wof:lastmodified":1537232669,
     "wof:name":"Sky",
     "wof:parent_id":1159396267,
     "wof:placetype":"venue",
+    "wof:placetype_alt":"publicart",
     "wof:repo":"sfomuseum-data-publicart",
     "wof:superseded_by":[],
     "wof:supersedes":[],

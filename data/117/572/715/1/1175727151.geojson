@@ -49,10 +49,11 @@
         }
     ],
     "wof:id":1175727151,
-    "wof:lastmodified":1534977855,
+    "wof:lastmodified":1537232669,
     "wof:name":"City Hall Dome",
     "wof:parent_id":1159160869,
     "wof:placetype":"venue",
+    "wof:placetype_alt":"publicart",
     "wof:repo":"sfomuseum-data-publicart",
     "wof:superseded_by":[],
     "wof:supersedes":[],
