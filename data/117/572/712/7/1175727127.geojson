@@ -19,6 +19,7 @@
     "sfomuseum:object_id":109383,
     "sfomuseum:on_display":-2,
     "sfomuseum:placetype":"publicart",
+    "sfomuseum:post_security":0,
     "wof:belongsto":[
         1175727101,
         102527513,
@@ -51,7 +52,7 @@
         }
     ],
     "wof:id":1175727127,
-    "wof:lastmodified":1537399392,
+    "wof:lastmodified":1537399492,
     "wof:name":"Untitled/ print no. 79.67-4/9",
     "wof:parent_id":1159160869,
     "wof:placetype":"venue",

@@ -18,6 +18,7 @@
     "sfomuseum:object_id":109365,
     "sfomuseum:on_display":-2,
     "sfomuseum:placetype":"publicart",
+    "sfomuseum:post_security":0,
     "wof:belongsto":[
         1175727101,
         102527513,
@@ -49,7 +50,7 @@
         }
     ],
     "wof:id":1175727107,
-    "wof:lastmodified":1537399391,
+    "wof:lastmodified":1537399492,
     "wof:name":"Bay Area Foothills",
     "wof:parent_id":1159160869,
     "wof:placetype":"venue",
