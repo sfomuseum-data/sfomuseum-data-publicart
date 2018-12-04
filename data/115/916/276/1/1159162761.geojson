@@ -62,14 +62,16 @@
         }
     ],
     "wof:id":1159162761,
-    "wof:lastmodified":1537232669,
+    "wof:lastmodified":1543887513,
     "wof:name":"Bay Area Bird Encounters",
     "wof:parent_id":1159396181,
     "wof:placetype":"venue",
     "wof:placetype_alt":"publicart",
     "wof:repo":"sfomuseum-data-publicart",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        772975241
+    ],
     "wof:tags":[]
 },
   "bbox": [

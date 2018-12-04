@@ -62,14 +62,16 @@
         }
     ],
     "wof:id":1159162757,
-    "wof:lastmodified":1537232669,
+    "wof:lastmodified":1543887700,
     "wof:name":"Topograph I and II",
     "wof:parent_id":1159157327,
     "wof:placetype":"venue",
     "wof:placetype_alt":"publicart",
     "wof:repo":"sfomuseum-data-publicart",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        772974583
+    ],
     "wof:tags":[]
 },
   "bbox": [
