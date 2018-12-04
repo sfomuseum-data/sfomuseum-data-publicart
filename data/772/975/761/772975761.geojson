@@ -12,9 +12,9 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=4883",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389979,37.615223,-122.389979,37.615223",
-    "geom:latitude":37.615223,
-    "geom:longitude":-122.389979,
+    "geom:bbox":"-122.384241,37.617775,-122.384241,37.617775",
+    "geom:latitude":37.617775,
+    "geom:longitude":-122.384241,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -65,7 +65,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387388,
-    "wof:geomhash":"ee5428ca70ade116af62d352bcb62211",
+    "wof:geomhash":"74ed97d4b2384c6614480bde2d901f80",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -82,7 +82,7 @@
     ],
     "wof:id":772975761,
     "wof:label":"Tchakalian, Sam Hitwood",
-    "wof:lastmodified":1543888302,
+    "wof:lastmodified":1543957611,
     "wof:name":"Hitwood",
     "wof:parent_id":1159396121,
     "wof:placetype":"venue",
@@ -96,10 +96,10 @@
     ]
 },
   "bbox": [
-    -122.389979,
-    37.615223,
-    -122.389979,
-    37.615223
+    -122.384241,
+    37.617775,
+    -122.384241,
+    37.617775
 ],
-  "geometry": {"coordinates":[-122.389979,37.615223],"type":"Point"}
+  "geometry": {"coordinates":[-122.384241,37.617775],"type":"Point"}
 }

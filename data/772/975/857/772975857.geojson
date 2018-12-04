@@ -12,9 +12,9 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3338",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389979,37.615223,-122.389979,37.615223",
-    "geom:latitude":37.615223,
-    "geom:longitude":-122.389979,
+    "geom:bbox":"-122.388875,37.61752,-122.388875,37.61752",
+    "geom:latitude":37.61752,
+    "geom:longitude":-122.388875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -71,7 +71,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387392,
-    "wof:geomhash":"ee5428ca70ade116af62d352bcb62211",
+    "wof:geomhash":"5b14f7bda4caf4ae1510b1e247ba03d1",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -88,7 +88,7 @@
     ],
     "wof:id":772975857,
     "wof:label":"BFILRYD",
-    "wof:lastmodified":1543888302,
+    "wof:lastmodified":1543957760,
     "wof:name":"BFILRYD",
     "wof:parent_id":1159157307,
     "wof:placetype":"venue",
@@ -102,10 +102,10 @@
     ]
 },
   "bbox": [
-    -122.389979,
-    37.615223,
-    -122.389979,
-    37.615223
+    -122.388875,
+    37.61752,
+    -122.388875,
+    37.61752
 ],
-  "geometry": {"coordinates":[-122.389979,37.615223],"type":"Point"}
+  "geometry": {"coordinates":[-122.388875,37.61752],"type":"Point"}
 }

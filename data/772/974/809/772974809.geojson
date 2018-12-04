@@ -12,9 +12,9 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3321",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389979,37.615223,-122.389979,37.615223",
-    "geom:latitude":37.615223,
-    "geom:longitude":-122.389979,
+    "geom:bbox":"-122.383962,37.615906,-122.383962,37.615906",
+    "geom:latitude":37.615906,
+    "geom:longitude":-122.383962,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -65,7 +65,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387356,
-    "wof:geomhash":"ee5428ca70ade116af62d352bcb62211",
+    "wof:geomhash":"6df00b9fb06eb12f78fa7c9a57c395af",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -82,7 +82,7 @@
     ],
     "wof:id":772974809,
     "wof:label":"Dixon, Willard Death Valley II",
-    "wof:lastmodified":1543888302,
+    "wof:lastmodified":1543957079,
     "wof:name":"Death Valley II",
     "wof:parent_id":1159396121,
     "wof:placetype":"venue",
@@ -96,10 +96,10 @@
     ]
 },
   "bbox": [
-    -122.389979,
-    37.615223,
-    -122.389979,
-    37.615223
+    -122.383962,
+    37.615906,
+    -122.383962,
+    37.615906
 ],
-  "geometry": {"coordinates":[-122.389979,37.615223],"type":"Point"}
+  "geometry": {"coordinates":[-122.383962,37.615906],"type":"Point"}
 }

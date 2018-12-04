@@ -12,9 +12,9 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3292",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389979,37.615223,-122.389979,37.615223",
-    "geom:latitude":37.615223,
-    "geom:longitude":-122.389979,
+    "geom:bbox":"-122.382996,37.616509,-122.382996,37.616509",
+    "geom:latitude":37.616509,
+    "geom:longitude":-122.382996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -68,7 +68,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387357,
-    "wof:geomhash":"ee5428ca70ade116af62d352bcb62211",
+    "wof:geomhash":"9ddcc541a4f7b1502f5b750182498e2d",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -85,7 +85,7 @@
     ],
     "wof:id":772974839,
     "wof:label":"Eversley, Fred Untitled",
-    "wof:lastmodified":1543888303,
+    "wof:lastmodified":1543957157,
     "wof:name":"Untitled",
     "wof:parent_id":1159396121,
     "wof:placetype":"venue",
@@ -99,10 +99,10 @@
     ]
 },
   "bbox": [
-    -122.389979,
-    37.615223,
-    -122.389979,
-    37.615223
+    -122.382996,
+    37.616509,
+    -122.382996,
+    37.616509
 ],
-  "geometry": {"coordinates":[-122.389979,37.615223],"type":"Point"}
+  "geometry": {"coordinates":[-122.38299600000001,37.616509],"type":"Point"}
 }

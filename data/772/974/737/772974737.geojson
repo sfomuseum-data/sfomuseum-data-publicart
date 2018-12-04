@@ -12,9 +12,9 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3243",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389814258,37.6153957309,-122.389814258,37.6153957309",
-    "geom:latitude":37.615396,
-    "geom:longitude":-122.389814,
+    "geom:bbox":"-122.389777,37.615464,-122.389777,37.615464",
+    "geom:latitude":37.615464,
+    "geom:longitude":-122.389777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -68,7 +68,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387354,
-    "wof:geomhash":"6ebc974cb585551ef721ab4a82fe9af0",
+    "wof:geomhash":"2deadcbb2da4e7558bb7b6e26d658588",
     "wof:hierarchy":[
         {
             "building_id":1159157271,
@@ -86,7 +86,7 @@
     ],
     "wof:id":772974737,
     "wof:label":"DeSoto, Lewis On The Air",
-    "wof:lastmodified":1543951308,
+    "wof:lastmodified":1543956951,
     "wof:name":"On The Air",
     "wof:parent_id":1159157335,
     "wof:placetype":"venue",
@@ -100,10 +100,10 @@
     ]
 },
   "bbox": [
-    -122.38981425762177,
-    37.61539573087601,
-    -122.38981425762177,
-    37.61539573087601
+    -122.389777,
+    37.615464,
+    -122.389777,
+    37.615464
 ],
-  "geometry": {"coordinates":[-122.38981425762177,37.61539573087601],"type":"Point"}
+  "geometry": {"coordinates":[-122.389777,37.615464],"type":"Point"}
 }
