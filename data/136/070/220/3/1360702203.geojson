@@ -1,20 +1,22 @@
 {
-  "id": 772974353,
+  "id": 1360702203,
   "type": "Feature",
   "properties": {
     "addr:full":"",
     "addr:housenumber":"",
     "addr:postcode":"",
     "addr:street":"",
-    "edtf:cessation":"2018-12-04",
-    "edtf:inception":"uuuu",
-    "flysfo:node":3309,
-    "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3309",
+    "date:inception_lower":"2018-12-04",
+    "date:inception_upper":"2018-12-04",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"2018-12-04",
+    "flysfo:node":"",
+    "flysfo:url":"",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.383548617,37.6175798355,-122.383548617,37.6175798355",
-    "geom:latitude":37.61758,
-    "geom:longitude":-122.383549,
+    "geom:bbox":"-122.386166,37.616356,-122.386166,37.616356",
+    "geom:latitude":37.616356,
+    "geom:longitude":-122.386166,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":0,
@@ -26,7 +28,7 @@
     "sfac:display_dimensions":"84\" H X 144\" W",
     "sfac:id":"63daabb62278559f8a0643be88262f39",
     "sfac:location":"",
-    "sfac:location_description":"Airport : Terminal 2 : Meeting Area",
+    "sfac:location_description":"",
     "sfac:medium":"Flat weave wool tapestry",
     "sfac:revision":"2-b62dd5bf7e5f6b7e8a62cd78a216d052",
     "sfac:source":"San Francisco Arts Commission",
@@ -36,26 +38,25 @@
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Flat-weave wool tapestry with scene of large, colorful flower heads.  Picket fence visible on left side.  Woven in the traditional Aubusson style.",
     "sfomuseum:is_sfo":1,
-    "sfomuseum:level":"2",
-    "sfomuseum:map_id":62,
+    "sfomuseum:level":"",
+    "sfomuseum:map_id":-1,
     "sfomuseum:medium":"Flat-weave wool tapestry",
     "sfomuseum:object_id":109358,
     "sfomuseum:on_display":0,
     "sfomuseum:placetype":"publicart",
     "sfomuseum:post_security":0,
     "sfomuseum:subcategory":"tapestry",
-    "sfomuseum:terminal":"2",
+    "sfomuseum:terminal":"",
     "sfomuseum:type":"textile",
     "src:geom":"sfomuseum",
     "wof:belongsto":[
-        1159157327,
+        1360702201,
         102527513,
         102191575,
         85633793,
         85922583,
         102087579,
-        1159157271,
-        1159157325,
+        1159160869,
         85688637
     ],
     "wof:breaches":[],
@@ -68,44 +69,42 @@
     ],
     "wof:country":"US",
     "wof:created":1462387337,
-    "wof:geomhash":"f72b593680b47fc2542a0cd5b867c349",
+    "wof:geomhash":"b6e33f47475d56bc8da457bc31afadc8",
     "wof:hierarchy":[
         {
-            "building_id":1159157271,
+            "building_id":1159160869,
             "campus_id":102527513,
-            "concourse_id":1159157327,
             "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087579,
             "locality_id":85922583,
             "neighbourhood_id":-1,
             "region_id":85688637,
-            "venue_id":772974353,
-            "wing_id":1159157325
+            "venue_id":1360702201
         }
     ],
-    "wof:id":772974353,
+    "wof:id":1360702203,
     "wof:label":"Adams, Mark Garden Outside the Gate",
     "wof:lastmodified":1543967150,
     "wof:name":"Garden Outside the Gate",
-    "wof:parent_id":1159157327,
+    "wof:parent_id":1159160869,
     "wof:placetype":"venue",
     "wof:placetype_alt":"publicart",
     "wof:repo":"sfomuseum-data-publicart",
-    "wof:superseded_by":[
-        1360702203
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        772974353
     ],
-    "wof:supersedes":[],
     "wof:tags":[
         "artwork",
         "public_art"
     ]
 },
   "bbox": [
-    -122.38354861736298,
-    37.6175798355028,
-    -122.38354861736298,
-    37.6175798355028
+    -122.386166,
+    37.616356,
+    -122.386166,
+    37.616356
 ],
-  "geometry": {"coordinates":[-122.38354861736298,37.6175798355028],"type":"Point"}
+  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
 }
