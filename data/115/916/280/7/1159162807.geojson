@@ -4,6 +4,8 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "flysfo:node":21546,
+    "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=21546",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.385002375,37.6182427028,-122.385002375,37.6182427028",
@@ -67,7 +69,7 @@
     ],
     "wof:id":1159162807,
     "wof:label":"Untitled (Large Variation)",
-    "wof:lastmodified":1537377939,
+    "wof:lastmodified":1543888303,
     "wof:name":"Untitled (Large Variation)",
     "wof:parent_id":1159396267,
     "wof:placetype":"venue",

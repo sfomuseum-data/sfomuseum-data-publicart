@@ -4,6 +4,8 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "flysfo:node":3315,
+    "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3315",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.381118536,37.6171251731,-122.381118536,37.6171251731",
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":1159162761,
-    "wof:lastmodified":1543887513,
+    "wof:lastmodified":1543888303,
     "wof:name":"Bay Area Bird Encounters",
     "wof:parent_id":1159396181,
     "wof:placetype":"venue",

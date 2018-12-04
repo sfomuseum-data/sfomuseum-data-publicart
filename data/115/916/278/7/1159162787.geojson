@@ -4,6 +4,8 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "flysfo:node":21550,
+    "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=21550",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.386633158,37.6183616784,-122.386633158,37.6183616784",
@@ -66,7 +68,7 @@
     ],
     "wof:id":1159162787,
     "wof:label":"New Generation",
-    "wof:lastmodified":1537377939,
+    "wof:lastmodified":1543888302,
     "wof:name":"New Generation",
     "wof:parent_id":1159157309,
     "wof:placetype":"venue",

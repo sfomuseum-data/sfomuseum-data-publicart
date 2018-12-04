@@ -4,6 +4,8 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "flysfo:node":21552,
+    "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=21552",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.386568785,37.618030246,-122.386568785,37.618030246",
@@ -67,7 +69,7 @@
     ],
     "wof:id":1159162791,
     "wof:label":"Everywhere All At Once",
-    "wof:lastmodified":1537377939,
+    "wof:lastmodified":1543888302,
     "wof:name":"Everywhere All At Once",
     "wof:parent_id":1159157309,
     "wof:placetype":"venue",

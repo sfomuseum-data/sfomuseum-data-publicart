@@ -4,6 +4,8 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "flysfo:node":5268,
+    "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=5268",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.384090424,37.6193984573,-122.384090424,37.6193984573",
@@ -68,7 +70,7 @@
     ],
     "wof:id":1159162795,
     "wof:label":"Merge Conceptual Design Sky",
-    "wof:lastmodified":1537377939,
+    "wof:lastmodified":1543888303,
     "wof:name":"Sky",
     "wof:parent_id":1159396267,
     "wof:placetype":"venue",

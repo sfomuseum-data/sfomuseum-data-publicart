@@ -4,6 +4,8 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "flysfo:node":21548,
+    "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=21548",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.384111881,37.6157356736,-122.384111881,37.6157356736",
@@ -66,7 +68,7 @@
     ],
     "wof:id":1159162773,
     "wof:label":"Voyage",
-    "wof:lastmodified":1537377939,
+    "wof:lastmodified":1543888303,
     "wof:name":"Voyage",
     "wof:parent_id":1159157327,
     "wof:placetype":"venue",

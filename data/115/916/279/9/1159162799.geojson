@@ -4,6 +4,8 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "flysfo:node":5269,
+    "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=5269",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.384144068,37.6189310588,-122.384144068,37.6189310588",
@@ -64,7 +66,7 @@
     ],
     "wof:id":1159162799,
     "wof:label":"Spirogyrate",
-    "wof:lastmodified":1537377939,
+    "wof:lastmodified":1543888303,
     "wof:name":"Spirogyrate",
     "wof:parent_id":1159396267,
     "wof:placetype":"venue",

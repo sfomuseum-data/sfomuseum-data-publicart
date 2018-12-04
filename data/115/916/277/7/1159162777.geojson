@@ -4,6 +4,8 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "flysfo:node":21551,
+    "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=21551",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.383790016,37.6158312822,-122.383790016,37.6158312822",
@@ -64,7 +66,7 @@
     ],
     "wof:id":1159162777,
     "wof:label":"High Heels for Going to Heaven ",
-    "wof:lastmodified":1537377939,
+    "wof:lastmodified":1543888302,
     "wof:name":"High Heels for Going to Heaven ",
     "wof:parent_id":1159157323,
     "wof:placetype":"venue",

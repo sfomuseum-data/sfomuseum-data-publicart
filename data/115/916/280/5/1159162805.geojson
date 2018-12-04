@@ -4,6 +4,8 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "flysfo:node":21557,
+    "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=21557",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.384669781,37.6183616784,-122.384669781,37.6183616784",
@@ -68,7 +70,7 @@
     ],
     "wof:id":1159162805,
     "wof:label":"Ocean Voices II",
-    "wof:lastmodified":1537377939,
+    "wof:lastmodified":1543888302,
     "wof:name":"Ocean Voices II",
     "wof:parent_id":1159396267,
     "wof:placetype":"venue",

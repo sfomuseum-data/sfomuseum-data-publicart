@@ -4,6 +4,8 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
+    "flysfo:node":23203,
+    "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=23203",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"-122.384991646,37.6136789966,-122.384991646,37.6136789966",
@@ -66,7 +68,7 @@
     ],
     "wof:id":1159162747,
     "wof:label":"Peephole Cinema",
-    "wof:lastmodified":1537377939,
+    "wof:lastmodified":1543888303,
     "wof:name":"Peephole Cinema",
     "wof:parent_id":1159396217,
     "wof:placetype":"venue",
