@@ -20,6 +20,7 @@
     "sfomuseum:on_display":-2,
     "sfomuseum:placetype":"publicart",
     "sfomuseum:post_security":0,
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1175727101,
         102527513,
@@ -52,7 +53,7 @@
         }
     ],
     "wof:id":1175727103,
-    "wof:lastmodified":1543955551,
+    "wof:lastmodified":1543969650,
     "wof:name":"Kaneko, Jun Tall Dango (00-08-21)",
     "wof:parent_id":1159160869,
     "wof:placetype":"venue",

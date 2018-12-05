@@ -45,7 +45,7 @@
     "sfomuseum:post_security":1,
     "sfomuseum:terminal":"IT",
     "sfomuseum:type":"mural",
-    "src:geom":"sfgov",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -88,7 +88,7 @@
     ],
     "wof:id":772975857,
     "wof:label":"BFILRYD",
-    "wof:lastmodified":1543957760,
+    "wof:lastmodified":1543969650,
     "wof:name":"BFILRYD",
     "wof:parent_id":1159157307,
     "wof:placetype":"venue",

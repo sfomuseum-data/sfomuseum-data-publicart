@@ -34,7 +34,7 @@
     "sfomuseum:is_sfo":0,
     "sfomuseum:object_id":-1,
     "sfomuseum:on_display":0,
-    "src:geom":"sfgov",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":772975789,
-    "wof:lastmodified":1534977857,
+    "wof:lastmodified":1543969650,
     "wof:name":"The Red Horizon",
     "wof:parent_id":102527513,
     "wof:placetype":"venue",

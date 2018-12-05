@@ -46,7 +46,7 @@
     "sfomuseum:subcategory":"etching",
     "sfomuseum:terminal":"3",
     "sfomuseum:type":"print",
-    "src:geom":"sfgov",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -84,7 +84,7 @@
     ],
     "wof:id":772974345,
     "wof:label":"Acconci, Vito Two Wings for Wall and Person",
-    "wof:lastmodified":1543888303,
+    "wof:lastmodified":1543969650,
     "wof:name":"Two Wings for Wall and Person",
     "wof:parent_id":1159157307,
     "wof:placetype":"venue",

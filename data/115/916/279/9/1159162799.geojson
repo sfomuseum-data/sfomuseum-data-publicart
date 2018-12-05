@@ -30,6 +30,7 @@
     "sfomuseum:subcategory":"interactive sculpture",
     "sfomuseum:terminal":"3",
     "sfomuseum:type":"sculpture",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1159396267,
         102527513,
@@ -66,7 +67,7 @@
     ],
     "wof:id":1159162799,
     "wof:label":"Spirogyrate",
-    "wof:lastmodified":1543888303,
+    "wof:lastmodified":1543969651,
     "wof:name":"Spirogyrate",
     "wof:parent_id":1159396267,
     "wof:placetype":"venue",

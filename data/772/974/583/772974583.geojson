@@ -43,7 +43,7 @@
     "sfomuseum:post_security":0,
     "sfomuseum:subcategory":"ceiling sculpture",
     "sfomuseum:terminal":"2",
-    "src:geom":"sfgov",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -86,7 +86,7 @@
     ],
     "wof:id":772974583,
     "wof:label":"Buster, Kendall Topograph I and II",
-    "wof:lastmodified":1543963186,
+    "wof:lastmodified":1543969650,
     "wof:name":"Topograph I and II",
     "wof:parent_id":1159396121,
     "wof:placetype":"venue",

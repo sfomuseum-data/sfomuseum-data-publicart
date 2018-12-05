@@ -46,7 +46,7 @@
     "sfomuseum:subcategory":"interactive sculpture",
     "sfomuseum:terminal":"2",
     "sfomuseum:type":"sculpture",
-    "src:geom":"sfgov",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1159396181,
         102527513,
@@ -86,7 +86,7 @@
     ],
     "wof:id":772975735,
     "wof:label":"Sowers, Charles Butterfly Wall",
-    "wof:lastmodified":1543888302,
+    "wof:lastmodified":1543969650,
     "wof:name":"Butterfly Wall",
     "wof:parent_id":1159396181,
     "wof:placetype":"venue",

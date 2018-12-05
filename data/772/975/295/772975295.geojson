@@ -33,7 +33,7 @@
     "sfac:title":"Angulos en Todas Direciones",
     "sfomuseum:is_sfo":1,
     "sfomuseum:on_display":0,
-    "src:geom":"sfgov",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         85688637,
@@ -61,7 +61,7 @@
         }
     ],
     "wof:id":772975295,
-    "wof:lastmodified":1534977856,
+    "wof:lastmodified":1543969650,
     "wof:name":"Angulos en Todas Direciones",
     "wof:parent_id":102527513,
     "wof:placetype":"venue",

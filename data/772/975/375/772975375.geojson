@@ -45,7 +45,7 @@
     "sfomuseum:post_security":1,
     "sfomuseum:terminal":"1",
     "sfomuseum:type":"sculpture",
-    "src:geom":"sfgov",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1159396307,
         102527513,
@@ -85,7 +85,7 @@
     ],
     "wof:id":772975375,
     "wof:label":"Neri, Manuel Mujer Pegada, No. 4",
-    "wof:lastmodified":1543888302,
+    "wof:lastmodified":1543969650,
     "wof:name":"Mujer Pegada, No. 4",
     "wof:parent_id":1159396307,
     "wof:placetype":"venue",

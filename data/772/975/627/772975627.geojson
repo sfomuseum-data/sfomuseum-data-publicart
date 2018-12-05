@@ -46,7 +46,7 @@
     "sfomuseum:subcategory":"composite mural",
     "sfomuseum:terminal":"2",
     "sfomuseum:type":"mural",
-    "src:geom":"sfgov",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -84,7 +84,7 @@
     ],
     "wof:id":772975627,
     "wof:label":"Sato, Norie Air Over Under",
-    "wof:lastmodified":1543888302,
+    "wof:lastmodified":1543969650,
     "wof:name":"Air Over Under",
     "wof:parent_id":1159396121,
     "wof:placetype":"venue",

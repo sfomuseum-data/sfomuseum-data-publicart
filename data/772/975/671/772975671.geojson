@@ -45,7 +45,7 @@
     "sfomuseum:post_security":1,
     "sfomuseum:terminal":"1",
     "sfomuseum:type":"sculpture",
-    "src:geom":"sfgov",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -83,7 +83,7 @@
     ],
     "wof:id":772975671,
     "wof:label":"Shaw, Richard Martha H",
-    "wof:lastmodified":1543888302,
+    "wof:lastmodified":1543969650,
     "wof:name":"Martha H",
     "wof:parent_id":1159157317,
     "wof:placetype":"venue",

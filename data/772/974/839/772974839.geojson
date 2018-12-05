@@ -46,7 +46,7 @@
     "sfomuseum:subcategory":"wall piece",
     "sfomuseum:terminal":"2",
     "sfomuseum:type":"sculpture",
-    "src:geom":"sfgov",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -85,7 +85,7 @@
     ],
     "wof:id":772974839,
     "wof:label":"Eversley, Fred Untitled",
-    "wof:lastmodified":1543957157,
+    "wof:lastmodified":1543969650,
     "wof:name":"Untitled",
     "wof:parent_id":1159396121,
     "wof:placetype":"venue",

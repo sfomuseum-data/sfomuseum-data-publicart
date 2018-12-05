@@ -46,7 +46,7 @@
     "sfomuseum:subcategory":"ceiling sculpture",
     "sfomuseum:terminal":"3",
     "sfomuseum:type":"sculpture",
-    "src:geom":"sfgov",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1159396301,
         102527513,
@@ -86,7 +86,7 @@
     ],
     "wof:id":772975385,
     "wof:label":"O\u2019Banion, Nance Billboard Series",
-    "wof:lastmodified":1543888302,
+    "wof:lastmodified":1543969650,
     "wof:name":"Billboard Series",
     "wof:parent_id":1159396301,
     "wof:placetype":"venue",

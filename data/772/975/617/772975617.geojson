@@ -45,7 +45,7 @@
     "sfomuseum:post_security":1,
     "sfomuseum:terminal":"IT",
     "sfomuseum:type":"painting",
-    "src:geom":"sfgov",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         1159157337,
         102527513,
@@ -85,7 +85,7 @@
     ],
     "wof:id":772975617,
     "wof:label":"Rojas, Claire Blue Deer",
-    "wof:lastmodified":1543888302,
+    "wof:lastmodified":1543969650,
     "wof:name":"Blue Deer",
     "wof:parent_id":1159157337,
     "wof:placetype":"venue",

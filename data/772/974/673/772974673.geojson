@@ -40,7 +40,7 @@
     "sfomuseum:placetype":"publicart",
     "sfomuseum:post_security":0,
     "sfomuseum:type":"",
-    "src:geom":"sfgov",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -77,7 +77,7 @@
         }
     ],
     "wof:id":772974673,
-    "wof:lastmodified":1543955551,
+    "wof:lastmodified":1543969650,
     "wof:name":"Untitled",
     "wof:parent_id":1159160869,
     "wof:placetype":"venue",

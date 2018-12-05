@@ -43,7 +43,7 @@
     "sfomuseum:subcategory":"etching",
     "sfomuseum:terminal":"IT",
     "sfomuseum:type":"",
-    "src:geom":"sfgov",
+    "src:geom":"sfomuseum",
     "wof:belongsto":[
         102527513,
         102191575,
@@ -81,7 +81,7 @@
     ],
     "wof:id":772974791,
     "wof:label":"Untitled/ print no. 79.67-8/9",
-    "wof:lastmodified":1543955551,
+    "wof:lastmodified":1543969650,
     "wof:name":"Untitled/ print no. 79.67-8/9",
     "wof:parent_id":1159160869,
     "wof:placetype":"venue",
