@@ -2,7 +2,7 @@
   "id": 1159162777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2019-07-23",
     "edtf:inception":"uuuu",
     "flysfo:node":21551,
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=21551",
@@ -13,7 +13,7 @@
     "geom:longitude":-122.38379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sfac:accession_id":"T2015.455.a-b",
     "sfomuseum:boardingarea":"C",
     "sfomuseum:category":"sculpture",
@@ -67,13 +67,15 @@
     ],
     "wof:id":1159162777,
     "wof:label":"High Heels for Going to Heaven ",
-    "wof:lastmodified":1543969651,
+    "wof:lastmodified":1568926965,
     "wof:name":"High Heels for Going to Heaven ",
     "wof:parent_id":1159157323,
     "wof:placetype":"venue",
     "wof:placetype_alt":"publicart",
     "wof:repo":"sfomuseum-data-publicart",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1477873921
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

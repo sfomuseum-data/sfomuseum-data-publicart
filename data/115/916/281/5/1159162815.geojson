@@ -2,7 +2,7 @@
   "id": 1159162815,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2019-07-23",
     "edtf:inception":"uuuu",
     "flysfo:node":3283,
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3283",
@@ -13,7 +13,7 @@
     "geom:longitude":-122.389042,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sfac:accession_id":"1979.71",
     "sfomuseum:boardingarea":"A",
     "sfomuseum:category":"painting",
@@ -69,13 +69,15 @@
     ],
     "wof:id":1159162815,
     "wof:label":"Mayhew, Richard Seneca",
-    "wof:lastmodified":1543888303,
+    "wof:lastmodified":1568926964,
     "wof:name":"Seneca",
     "wof:parent_id":1159157339,
     "wof:placetype":"venue",
     "wof:placetype_alt":"publicart",
     "wof:repo":"sfomuseum-data-publicart",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1477873915
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

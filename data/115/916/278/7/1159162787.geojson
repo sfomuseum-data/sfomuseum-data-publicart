@@ -2,7 +2,7 @@
   "id": 1159162787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2019-07-23",
     "edtf:inception":"uuuu",
     "flysfo:node":21550,
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=21550",
@@ -13,7 +13,7 @@
     "geom:longitude":-122.386633,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sfac:accession_id":"T2015.456.a-l",
     "sfomuseum:boardingarea":"E",
     "sfomuseum:category":"mosaic",
@@ -69,13 +69,15 @@
     ],
     "wof:id":1159162787,
     "wof:label":"New Generation",
-    "wof:lastmodified":1543951308,
+    "wof:lastmodified":1568926969,
     "wof:name":"New Generation",
     "wof:parent_id":1159157309,
     "wof:placetype":"venue",
     "wof:placetype_alt":"publicart",
     "wof:repo":"sfomuseum-data-publicart",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1477873937
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

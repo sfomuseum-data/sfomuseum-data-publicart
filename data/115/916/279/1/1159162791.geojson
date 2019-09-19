@@ -2,7 +2,7 @@
   "id": 1159162791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2019-07-23",
     "edtf:inception":"uuuu",
     "flysfo:node":21552,
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=21552",
@@ -13,7 +13,7 @@
     "geom:longitude":-122.386569,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "sfac:accession_id":"T2015.458.a-f",
     "sfomuseum:boardingarea":"E ",
     "sfomuseum:category":"print",
@@ -69,13 +69,15 @@
     ],
     "wof:id":1159162791,
     "wof:label":"Everywhere All At Once",
-    "wof:lastmodified":1543888302,
+    "wof:lastmodified":1568926966,
     "wof:name":"Everywhere All At Once",
     "wof:parent_id":1159157309,
     "wof:placetype":"venue",
     "wof:placetype_alt":"publicart",
     "wof:repo":"sfomuseum-data-publicart",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1477873927
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

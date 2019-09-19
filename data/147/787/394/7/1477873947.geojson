@@ -1,0 +1,131 @@
+{
+  "id": 1477873947,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"",
+    "addr:housenumber":"",
+    "addr:postcode":"",
+    "addr:street":"",
+    "date:inception_lower":"2019-07-23",
+    "date:inception_upper":"2019-07-23",
+    "edtf:cessation":"open",
+    "edtf:inception":"2019-07-23",
+    "flysfo:node":3343,
+    "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3343",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.382765412,37.6171846618,-122.382765412,37.6171846618",
+    "geom:latitude":37.617185,
+    "geom:longitude":-122.382765,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_retail":-1,
+    "sfac:accession_id":"2011.6",
+    "sfac:artist":"Echelman, Janet",
+    "sfac:created_at":"01/01/1970 12:33:31 AM +0000",
+    "sfac:credit_line":"Commissioned by the San Francisco Arts Commission and the Airport Commission for San Francisco International Airport\n",
+    "sfac:display_dimensions":"",
+    "sfac:id":"63daabb62278559f8a0643be882c5dff",
+    "sfac:location":"",
+    "sfac:location_description":"Airport : Terminal 2 : Recomposure Area : Post-security",
+    "sfac:medium":"POWDER-COATED STEEL, COLORED FIBER, COMPUTER-PROGRAMMED \nAIRFLOW & COLORED LIGHT",
+    "sfac:revision":"2-bad2f69638b05fe571d37c3eef70cca7",
+    "sfac:source":"San Francisco Arts Commission",
+    "sfac:title":"Untitled [T-2 interior]",
+    "sfomuseum:boardingarea":"D",
+    "sfomuseum:category":"sculpture",
+    "sfomuseum:collection":"Arts Commission",
+    "sfomuseum:description":"Three round skylights into the ceiling, from which descend delicate layers of translucent colored netting to create three voluptuous volumetric forms. A series of shaded outlines below are embedded into the terrazzo floor, reflecting the precise shadows that would occur on the summer solstice if the sun could penetrate through the roof. ",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:level":"2",
+    "sfomuseum:map_id":115,
+    "sfomuseum:medium":"Powder-coated steel, colored fiber, colored light, mechanized air flow, and computer programming",
+    "sfomuseum:object_id":113727,
+    "sfomuseum:on_display":1,
+    "sfomuseum:placetype":"publicart",
+    "sfomuseum:post_security":1,
+    "sfomuseum:subcategory":"ceiling sculpture",
+    "sfomuseum:terminal":"2",
+    "sfomuseum:type":"sculpture",
+    "src:geom":"sfomuseum",
+    "wof:belongsto":[
+        1477855609,
+        102527513,
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1477855605,
+        1477855607,
+        554784711,
+        102085387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sfac:accession_id":"2011.6",
+        "sfomuseum:object_id":113727
+    },
+    "wof:concordances_alt":{
+        "sfac:accession_id":[
+            "T2009.35.a-c"
+        ]
+    },
+    "wof:controlled":[
+        "wof:hierarchy"
+    ],
+    "wof:country":"US",
+    "wof:created":1462387357,
+    "wof:geomhash":"83629ea73ab2a1ccb7fe9750c02b72a1",
+    "wof:hierarchy":[
+        {
+            "building_id":1477855605,
+            "campus_id":102527513,
+            "concourse_id":1477855609,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "postalcode_id":554784711,
+            "region_id":85688637,
+            "venue_id":1477873947,
+            "wing_id":1477855607
+        },
+        {
+            "building_id":1477855605,
+            "campus_id":102527513,
+            "concourse_id":1477855609,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "region_id":85688637,
+            "venue_id":1477873947,
+            "wing_id":1477855607
+        }
+    ],
+    "wof:id":1477873947,
+    "wof:label":"Echelman, Janet Every Beating Second ",
+    "wof:lastmodified":1568926972,
+    "wof:name":"Every Beating Second ",
+    "wof:parent_id":1477855609,
+    "wof:placetype":"venue",
+    "wof:placetype_alt":"publicart",
+    "wof:repo":"sfomuseum-data-publicart",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        772974829
+    ],
+    "wof:tags":[
+        "artwork",
+        "public_art"
+    ]
+},
+  "bbox": [
+    -122.38276541233063,
+    37.61718466179301,
+    -122.38276541233063,
+    37.61718466179301
+],
+  "geometry": {"coordinates":[-122.38276541233063,37.61718466179301],"type":"Point"}
+}
