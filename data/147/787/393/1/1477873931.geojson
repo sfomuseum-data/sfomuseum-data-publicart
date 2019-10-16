@@ -10,7 +10,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=5268",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.384090424,37.6193984573,-122.384090424,37.6193984573",
+    "geom:bbox":"-122.38409,37.619398,-122.38409,37.619398",
     "geom:latitude":37.619398,
     "geom:longitude":-122.38409,
     "iso:country":"US",
@@ -18,6 +18,7 @@
     "mz:is_current":1,
     "sfac:accession_id":"T2013.7.a-z",
     "sfomuseum:boardingarea":"E",
+    "sfomuseum:building":"T3",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Sky is a collaborative installation by Franka Diehnelt and Claudia Reisenberger that explores perceptions of space. The exteriors of the mirrored spheres reflect and distort their surroundings. Subtle shifts in light and color in the interior of each sphere create an optical effect in which space seems to be simultaneously expanding and flattening, causing the viewer to lose sense of the spheres proportions. ",
@@ -58,7 +59,7 @@
     ],
     "wof:country":"US",
     "wof:created":1523296716,
-    "wof:geomhash":"be0e140264332161268dc8b5e81d22d8",
+    "wof:geomhash":"3ac6ba578ac47272f749941e189ce993",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -89,7 +90,7 @@
     ],
     "wof:id":1477873931,
     "wof:label":"Merge Conceptual Design Sky",
-    "wof:lastmodified":1568926968,
+    "wof:lastmodified":1571259873,
     "wof:name":"Sky",
     "wof:parent_id":1477855785,
     "wof:placetype":"venue",
@@ -102,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.384090423584,
-    37.6193984573291,
-    -122.384090423584,
-    37.6193984573291
+    -122.38409,
+    37.619398,
+    -122.38409,
+    37.619398
 ],
-  "geometry": {"coordinates":[-122.384090423584,37.6193984573291],"type":"Point"}
+  "geometry": {"coordinates":[-122.38409,37.619398],"type":"Point"}
 }

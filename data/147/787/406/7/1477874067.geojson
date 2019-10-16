@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3295",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.384288907,37.6154637195,-122.384288907,37.6154637195",
+    "geom:bbox":"-122.384289,37.615464,-122.384289,37.615464",
     "geom:latitude":37.615464,
     "geom:longitude":-122.384289,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Flight Patterns",
     "sfomuseum:boardingarea":"C",
+    "sfomuseum:building":"T1",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"A large aerial sculpture of shimmering pieces pulsating with light and color.  Each of the 1500 elements suspended by 3000 wires represents an air traffic control symbol: triangles (landmarks); dotted lines (land boundaries); and x\u2019s (flying objects).",
@@ -75,7 +76,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387369,
-    "wof:geomhash":"27cacb99d787299491d7732614eb0a56",
+    "wof:geomhash":"81349cbbe596cd922c67825d42681e4f",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -106,7 +107,7 @@
     ],
     "wof:id":1477874067,
     "wof:label":"Flight Patterns",
-    "wof:lastmodified":1568927004,
+    "wof:lastmodified":1571259872,
     "wof:name":"Flight Patterns",
     "wof:parent_id":1477855667,
     "wof:placetype":"venue",
@@ -122,10 +123,10 @@
     ]
 },
   "bbox": [
-    -122.38428890705107,
-    37.61546371953609,
-    -122.38428890705107,
-    37.61546371953609
+    -122.384289,
+    37.615464,
+    -122.384289,
+    37.615464
 ],
-  "geometry": {"coordinates":[-122.38428890705107,37.61546371953609],"type":"Point"}
+  "geometry": {"coordinates":[-122.384289,37.615464],"type":"Point"}
 }

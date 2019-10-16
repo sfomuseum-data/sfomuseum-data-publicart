@@ -10,7 +10,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3315",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.381118536,37.6171251731,-122.381118536,37.6171251731",
+    "geom:bbox":"-122.381119,37.617125,-122.381119,37.617125",
     "geom:latitude":37.617125,
     "geom:longitude":-122.381119,
     "iso:country":"US",
@@ -19,6 +19,7 @@
     "mz:is_currrent":1,
     "sfac:accession_id":"2011.7",
     "sfomuseum:boardingarea":"D",
+    "sfomuseum:building":"T2",
     "sfomuseum:category":"mural",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Kitundu\u2019s work includes two benches shaped like bird wings that double as musical instruments. Serving as the backdrop for these musical benches, is a mural made of inlaid wood featuring the images of local birds. The birds, which are printed on wood, are photographs that the artist took in San Francisco. The focal point of the mural is a large bird whose wings, like the benches, are reminiscent of a xylophone or marimba and can be played with rubber mallets.",
@@ -57,7 +58,7 @@
     ],
     "wof:country":"US",
     "wof:created":1523296712,
-    "wof:geomhash":"4208b1d62f6d04ab775c65c662a78e7f",
+    "wof:geomhash":"4e9ab59e4c9a0013fd934091c5568e7a",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -86,7 +87,7 @@
     ],
     "wof:id":1477873939,
     "wof:label":"Kitundu, Walter Bay Area Bird Encounters",
-    "wof:lastmodified":1568926969,
+    "wof:lastmodified":1571259873,
     "wof:name":"Bay Area Bird Encounters",
     "wof:parent_id":1477855609,
     "wof:placetype":"venue",
@@ -99,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.38111853599548,
-    37.61712517309567,
-    -122.38111853599548,
-    37.61712517309567
+    -122.381119,
+    37.617125,
+    -122.381119,
+    37.617125
 ],
-  "geometry": {"coordinates":[-122.38111853599548,37.61712517309567],"type":"Point"}
+  "geometry": {"coordinates":[-122.381119,37.617125],"type":"Point"}
 }

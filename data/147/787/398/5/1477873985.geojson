@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3289",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.393118739,37.6184296643,-122.393118739,37.6184296643",
+    "geom:bbox":"-122.393119,37.61843,-122.393119,37.61843",
     "geom:latitude":37.61843,
     "geom:longitude":-122.393119,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Sanctuario",
     "sfomuseum:boardingarea":"G",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"mural",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Colorful sculpture depicting a range of emotions, interactions, and significant meetings and partings that travelers and their loved ones experience in an airport.",
@@ -74,7 +75,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387338,
-    "wof:geomhash":"5becf19bd59499de06078d73cf35b55a",
+    "wof:geomhash":"fdfb63f489167c37a00981cb1a95b42c",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -105,7 +106,7 @@
     ],
     "wof:id":1477873985,
     "wof:label":"Montoya, Emmanual C. and Juana Alicia Sanctuary/Santuario",
-    "wof:lastmodified":1568926982,
+    "wof:lastmodified":1571259871,
     "wof:name":"Sanctuary/Santuario",
     "wof:parent_id":1477855885,
     "wof:placetype":"venue",
@@ -121,10 +122,10 @@
     ]
 },
   "bbox": [
-    -122.39311873912811,
-    37.61842966432278,
-    -122.39311873912811,
-    37.61842966432278
+    -122.393119,
+    37.61843,
+    -122.393119,
+    37.61843
 ],
-  "geometry": {"coordinates":[-122.39311873912811,37.61842966432278],"type":"Point"}
+  "geometry": {"coordinates":[-122.393119,37.61843],"type":"Point"}
 }

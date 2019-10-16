@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3343",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.382765412,37.6171846618,-122.382765412,37.6171846618",
+    "geom:bbox":"-122.382765,37.617185,-122.382765,37.617185",
     "geom:latitude":37.617185,
     "geom:longitude":-122.382765,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Untitled [T-2 interior]",
     "sfomuseum:boardingarea":"D",
+    "sfomuseum:building":"T2",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Three round skylights into the ceiling, from which descend delicate layers of translucent colored netting to create three voluptuous volumetric forms. A series of shaded outlines below are embedded into the terrazzo floor, reflecting the precise shadows that would occur on the summer solstice if the sun could penetrate through the roof. ",
@@ -77,7 +78,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387357,
-    "wof:geomhash":"83629ea73ab2a1ccb7fe9750c02b72a1",
+    "wof:geomhash":"a250254526a1d96d41c71ba3eb9d34d5",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -106,7 +107,7 @@
     ],
     "wof:id":1477873947,
     "wof:label":"Echelman, Janet Every Beating Second ",
-    "wof:lastmodified":1568926972,
+    "wof:lastmodified":1571259873,
     "wof:name":"Every Beating Second ",
     "wof:parent_id":1477855609,
     "wof:placetype":"venue",
@@ -122,10 +123,10 @@
     ]
 },
   "bbox": [
-    -122.38276541233063,
-    37.61718466179301,
-    -122.38276541233063,
-    37.61718466179301
+    -122.382765,
+    37.617185,
+    -122.382765,
+    37.617185
 ],
-  "geometry": {"coordinates":[-122.38276541233063,37.61718466179301],"type":"Point"}
+  "geometry": {"coordinates":[-122.38276500000001,37.617185],"type":"Point"}
 }

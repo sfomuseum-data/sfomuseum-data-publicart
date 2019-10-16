@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3330",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.384465933,37.6185231449,-122.384465933,37.6185231449",
+    "geom:bbox":"-122.384466,37.618523,-122.384466,37.618523",
     "geom:latitude":37.618523,
     "geom:longitude":-122.384466,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"San Francisco Nova",
     "sfomuseum:boardingarea":"E",
+    "sfomuseum:building":"T3",
     "sfomuseum:category":"painting",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Robert Bechtle\u2019s early work was as a Bay Area Figurative painter, but in the 1970s he received national acclaim as a Photorealist. His use of ordinary subject matter, harsh lighting and unstudied composition creates a sense of ironic distance typical of the genre, but Bechtle\u2019s paintings also have a more personal quality. Shown here is Benton Street in San Francisco, one of the familiar local neighborhoods Bechtle frequently paints.",
@@ -73,7 +74,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387340,
-    "wof:geomhash":"92c108e058d94a89c2b73f39113addee",
+    "wof:geomhash":"5a11acfbc6d0c00ea78bc2ff21023831",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -104,7 +105,7 @@
     ],
     "wof:id":1477873975,
     "wof:label":"Bechtle, Robert San Francisco Nova",
-    "wof:lastmodified":1568926979,
+    "wof:lastmodified":1571259871,
     "wof:name":"San Francisco Nova",
     "wof:parent_id":1477855785,
     "wof:placetype":"venue",
@@ -120,10 +121,10 @@
     ]
 },
   "bbox": [
-    -122.38446593284607,
-    37.61852314489997,
-    -122.38446593284607,
-    37.61852314489997
+    -122.384466,
+    37.618523,
+    -122.384466,
+    37.618523
 ],
-  "geometry": {"coordinates":[-122.38446593284607,37.61852314489997],"type":"Point"}
+  "geometry": {"coordinates":[-122.384466,37.618523],"type":"Point"}
 }

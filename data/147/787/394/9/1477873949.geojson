@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3261",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389977872,37.6121385763,-122.389977872,37.6121385763",
+    "geom:bbox":"-122.389978,37.612139,-122.389978,37.612139",
     "geom:latitude":37.612139,
     "geom:longitude":-122.389978,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"World Civilization",
     "sfomuseum:boardingarea":"A",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"mosaic",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"This colorful ceramic tile mural consists of hand-painted images drawn from the artist\u2019s personal mythology. These various images recur in different forms throughout most of her work, including a workman\u2019s glove holding a globe of the world in the palm as a symbol of the power of work and creativity.",
@@ -73,7 +74,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387358,
-    "wof:geomhash":"f184c29dbd88cbb7bdd5223419ae48c4",
+    "wof:geomhash":"361b4208c59d052d57f1ef672c8bfd62",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -104,7 +105,7 @@
     ],
     "wof:id":1477873949,
     "wof:label":"Frey, Viola World Civilization",
-    "wof:lastmodified":1568926972,
+    "wof:lastmodified":1571259871,
     "wof:name":"World Civilization",
     "wof:parent_id":1477855835,
     "wof:placetype":"venue",
@@ -120,10 +121,10 @@
     ]
 },
   "bbox": [
-    -122.38997787237167,
-    37.6121385763058,
-    -122.38997787237167,
-    37.6121385763058
+    -122.389978,
+    37.612139,
+    -122.389978,
+    37.612139
 ],
-  "geometry": {"coordinates":[-122.38997787237167,37.6121385763058],"type":"Point"}
+  "geometry": {"coordinates":[-122.389978,37.612139],"type":"Point"}
 }

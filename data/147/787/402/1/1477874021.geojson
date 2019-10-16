@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3306",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.383878529,37.6160671162,-122.383878529,37.6160671162",
+    "geom:bbox":"-122.383879,37.616067,-122.383879,37.616067",
     "geom:latitude":37.616067,
     "geom:longitude":-122.383879,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Stacking Stones",
     "sfomuseum:boardingarea":"D",
+    "sfomuseum:building":"T2",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"\u201cStacking Stones\u201d weighs 14 tons and is created from Nose stone quarried near Nagoya, Japan. Each section of rock was shaped to fit into the next and the outer surface was chiseled or polished to create contrasts of color, texture and depth.",
@@ -71,7 +72,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387370,
-    "wof:geomhash":"605450f27ae7e4006fc006a68298b6a4",
+    "wof:geomhash":"60a7a468ed62a4efb499b322535dc075",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -100,7 +101,7 @@
     ],
     "wof:id":1477874021,
     "wof:label":"Kunishima, Seiji Stacking Stones",
-    "wof:lastmodified":1568926991,
+    "wof:lastmodified":1571259872,
     "wof:name":"Stacking Stones",
     "wof:parent_id":1477855655,
     "wof:placetype":"venue",
@@ -116,10 +117,10 @@
     ]
 },
   "bbox": [
-    -122.3838785290718,
-    37.61606711617044,
-    -122.3838785290718,
-    37.61606711617044
+    -122.383879,
+    37.616067,
+    -122.383879,
+    37.616067
 ],
-  "geometry": {"coordinates":[-122.38387852907179,37.61606711617044],"type":"Point"}
+  "geometry": {"coordinates":[-122.38387899999999,37.616067],"type":"Point"}
 }

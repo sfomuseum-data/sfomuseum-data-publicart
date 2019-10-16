@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3337",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.387856245,37.6174948521,-122.387856245,37.6174948521",
+    "geom:bbox":"-122.387856,37.617495,-122.387856,37.617495",
     "geom:latitude":37.617495,
     "geom:longitude":-122.387856,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Two Wings for Wall and Person",
     "sfomuseum:boardingarea":"G",
+    "sfomuseum:building":"T3",
     "sfomuseum:category":"print",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Twelve panels, arranged in two rows of six: pink pastel wing shapes, both left and right.  In this etching, rather than the just looking at the wings, the artist suggests that the viewer has a place within the wings; lean back against the wall and see if you can fly!",
@@ -74,7 +75,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387337,
-    "wof:geomhash":"9f3356b57c3e96819d23132b979ba955",
+    "wof:geomhash":"305e27dddc307c1cdbedeaacf4681e69",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -105,7 +106,7 @@
     ],
     "wof:id":1477873983,
     "wof:label":"Acconci, Vito Two Wings for Wall and Person",
-    "wof:lastmodified":1568926981,
+    "wof:lastmodified":1571259872,
     "wof:name":"Two Wings for Wall and Person",
     "wof:parent_id":1477855699,
     "wof:placetype":"venue",
@@ -121,10 +122,10 @@
     ]
 },
   "bbox": [
-    -122.3878562450409,
-    37.61749485208657,
-    -122.3878562450409,
-    37.61749485208657
+    -122.387856,
+    37.617495,
+    -122.387856,
+    37.617495
 ],
-  "geometry": {"coordinates":[-122.38785624504089,37.61749485208657],"type":"Point"}
+  "geometry": {"coordinates":[-122.387856,37.617495],"type":"Point"}
 }

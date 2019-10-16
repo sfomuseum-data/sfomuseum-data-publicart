@@ -10,7 +10,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=5269",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.384144068,37.6189310588,-122.384144068,37.6189310588",
+    "geom:bbox":"-122.384144,37.618931,-122.384144,37.618931",
     "geom:latitude":37.618931,
     "geom:longitude":-122.384144,
     "iso:country":"US",
@@ -18,6 +18,7 @@
     "mz:is_current":1,
     "sfac:accession_id":"T2013.6.a-l",
     "sfomuseum:boardingarea":"E",
+    "sfomuseum:building":"T3",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Interactive installation composed of 12 embedded discs (9 embedded in floor, 3 in wall) with graphic spiral patterns and light that change and respond to people\u2019s movement through the space. ",
@@ -55,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1523296716,
-    "wof:geomhash":"fc792531c8fdd060be25acb90e010370",
+    "wof:geomhash":"926cec4b8b148e2cf2dd66356f976466",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -86,7 +87,7 @@
     ],
     "wof:id":1477873925,
     "wof:label":"Spirogyrate",
-    "wof:lastmodified":1568926966,
+    "wof:lastmodified":1571259873,
     "wof:name":"Spirogyrate",
     "wof:parent_id":1477855785,
     "wof:placetype":"venue",
@@ -99,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.38414406776428,
-    37.61893105877049,
-    -122.38414406776428,
-    37.61893105877049
+    -122.384144,
+    37.618931,
+    -122.384144,
+    37.618931
 ],
-  "geometry": {"coordinates":[-122.38414406776428,37.61893105877049],"type":"Point"}
+  "geometry": {"coordinates":[-122.38414400000001,37.618931],"type":"Point"}
 }

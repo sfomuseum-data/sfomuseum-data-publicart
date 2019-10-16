@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3246",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389186621,37.6157399228,-122.389186621,37.6157399228",
+    "geom:bbox":"-122.389187,37.61574,-122.389187,37.61574",
     "geom:latitude":37.61574,
     "geom:longitude":-122.389187,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Anemone",
     "sfomuseum:boardingarea":"Main Hall",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"This kinetic sculpture is activated by an electronic sensor when viewers approach. In its resting position, the stainless steel sculpture is closed in a ball form. When activated, the form opens like a flower and spins.",
@@ -75,7 +76,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387369,
-    "wof:geomhash":"ea757a548d8a21279827b4943c0fb0a7",
+    "wof:geomhash":"4466feab57f545898f94a2f7fa5ac9f1",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -106,7 +107,7 @@
     ],
     "wof:id":1477874015,
     "wof:label":"Anemone",
-    "wof:lastmodified":1568926989,
+    "wof:lastmodified":1571259873,
     "wof:name":"Anemone",
     "wof:parent_id":1477855927,
     "wof:placetype":"venue",
@@ -122,10 +123,10 @@
     ]
 },
   "bbox": [
-    -122.38918662071228,
-    37.61573992282852,
-    -122.38918662071228,
-    37.61573992282852
+    -122.389187,
+    37.61574,
+    -122.389187,
+    37.61574
 ],
-  "geometry": {"coordinates":[-122.38918662071228,37.61573992282852],"type":"Point"}
+  "geometry": {"coordinates":[-122.38918700000001,37.61574],"type":"Point"}
 }

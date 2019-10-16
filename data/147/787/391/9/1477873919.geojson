@@ -10,7 +10,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=21547",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.383744419,37.6158631517,-122.383744419,37.6158631517",
+    "geom:bbox":"-122.383744,37.615863,-122.383744,37.615863",
     "geom:latitude":37.615863,
     "geom:longitude":-122.383744,
     "iso:country":"US",
@@ -18,6 +18,7 @@
     "mz:is_current":1,
     "sfac:accession_id":"2016.22",
     "sfomuseum:boardingarea":"Secure connector",
+    "sfomuseum:building":"T1",
     "sfomuseum:category":"mosaic",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Like arrivals and departures, this artwork\u2019s two rectangular color fields are each the complement of the other. The energetic blue line that spans both fields suggests the traveler\u2019s journey. The term \u201cRiven\u201d in the title refers to Melchert\u2019s signature practice of breaking, and then reassembling his tiles to create a complex pattern of cracks and fissures. ",
@@ -54,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1523296714,
-    "wof:geomhash":"92a0219c2f2648c3482a6061317294b1",
+    "wof:geomhash":"c04e4c42cde472639ba18f97336ca4f9",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +86,7 @@
     ],
     "wof:id":1477873919,
     "wof:label":"Riven/River",
-    "wof:lastmodified":1568926964,
+    "wof:lastmodified":1571259873,
     "wof:name":"Riven/River",
     "wof:parent_id":1477855669,
     "wof:placetype":"venue",
@@ -98,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.38374441862106,
-    37.61586315165877,
-    -122.38374441862106,
-    37.61586315165877
+    -122.383744,
+    37.615863,
+    -122.383744,
+    37.615863
 ],
-  "geometry": {"coordinates":[-122.38374441862106,37.61586315165877],"type":"Point"}
+  "geometry": {"coordinates":[-122.38374399999999,37.615863],"type":"Point"}
 }

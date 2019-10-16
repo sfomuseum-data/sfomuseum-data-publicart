@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3279",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389964461,37.6119494742,-122.389964461,37.6119494742",
+    "geom:bbox":"-122.389964,37.611949,-122.389964,37.611949",
     "geom:latitude":37.611949,
     "geom:longitude":-122.389964,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Take Off",
     "sfomuseum:boardingarea":"A",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"mural",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"This 17-by-28-foot multi-panel artwork depicts a young boy wading among the reeds in a river, discovering and chasing a water bird into flight. The center panel is flanked by two smaller images of birds from the Song Dynasty (960-1279), one taking off and the other perched.",
@@ -73,7 +74,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387370,
-    "wof:geomhash":"24a5709af91c955c27994e5b124200f5",
+    "wof:geomhash":"f47c801e40f4269224dd3c8fccb184b1",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -104,7 +105,7 @@
     ],
     "wof:id":1477874011,
     "wof:label":"Liu, Hung Take Off 2006",
-    "wof:lastmodified":1568926988,
+    "wof:lastmodified":1571259871,
     "wof:name":"Take Off 2006",
     "wof:parent_id":1477855835,
     "wof:placetype":"venue",
@@ -120,10 +121,10 @@
     ]
 },
   "bbox": [
-    -122.38996446132658,
-    37.61194947423543,
-    -122.38996446132658,
-    37.61194947423543
+    -122.389964,
+    37.611949,
+    -122.389964,
+    37.611949
 ],
-  "geometry": {"coordinates":[-122.38996446132658,37.61194947423543],"type":"Point"}
+  "geometry": {"coordinates":[-122.38996400000001,37.611949],"type":"Point"}
 }

@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=4881",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.384385467,37.6177370546,-122.384385467,37.6177370546",
+    "geom:bbox":"-122.384385,37.617737,-122.384385,37.617737",
     "geom:latitude":37.617737,
     "geom:longitude":-122.384385,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"The Great Transparents",
     "sfomuseum:boardingarea":"D",
+    "sfomuseum:building":"T2",
     "sfomuseum:category":"painting",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Abstract painting in blue, yellow, and orange.",
@@ -70,7 +71,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387373,
-    "wof:geomhash":"bf5bf8af01896f54199c2595d688d2a2",
+    "wof:geomhash":"1261a596df6c521505648e38eb53a90e",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -97,7 +98,7 @@
     ],
     "wof:id":1477873997,
     "wof:label":"Mullican, Lee The Great Transparents",
-    "wof:lastmodified":1568926984,
+    "wof:lastmodified":1571259871,
     "wof:name":"The Great Transparents",
     "wof:parent_id":1477855607,
     "wof:placetype":"venue",
@@ -113,10 +114,10 @@
     ]
 },
   "bbox": [
-    -122.38438546657562,
-    37.61773705456675,
-    -122.38438546657562,
-    37.61773705456675
+    -122.384385,
+    37.617737,
+    -122.384385,
+    37.617737
 ],
-  "geometry": {"coordinates":[-122.38438546657562,37.61773705456675],"type":"Point"}
+  "geometry": {"coordinates":[-122.38438499999999,37.617737],"type":"Point"}
 }

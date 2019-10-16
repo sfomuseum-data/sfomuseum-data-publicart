@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3313",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.381418943,37.6178220377,-122.381418943,37.6178220377",
+    "geom:bbox":"-122.381419,37.617822,-122.381419,37.617822",
     "geom:latitude":37.617822,
     "geom:longitude":-122.381419,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Urns",
     "sfomuseum:boardingarea":"D",
+    "sfomuseum:building":"T2",
     "sfomuseum:category":"painting",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Stylized images of two urns.  Ramirez used long palette knife and brush strokes with heavy impasto and inclusions of straw-like plant matter.",
@@ -71,7 +72,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387378,
-    "wof:geomhash":"14b4a9d36927cc5c107c0a22bc017209",
+    "wof:geomhash":"5411d8b30e74fd4e60e58c6e96d02527",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -100,7 +101,7 @@
     ],
     "wof:id":1477874037,
     "wof:label":"Ramirez, Robert Urns",
-    "wof:lastmodified":1568926996,
+    "wof:lastmodified":1571259872,
     "wof:name":"Urns",
     "wof:parent_id":1477855609,
     "wof:placetype":"venue",
@@ -116,10 +117,10 @@
     ]
 },
   "bbox": [
-    -122.38141894340514,
-    37.61782203770618,
-    -122.38141894340514,
-    37.61782203770618
+    -122.381419,
+    37.617822,
+    -122.381419,
+    37.617822
 ],
-  "geometry": {"coordinates":[-122.38141894340514,37.61782203770618],"type":"Point"}
+  "geometry": {"coordinates":[-122.38141899999999,37.617822],"type":"Point"}
 }

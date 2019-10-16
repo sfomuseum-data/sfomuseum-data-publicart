@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=5267",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.38440156,37.6193049779,-122.38440156,37.6193049779",
+    "geom:bbox":"-122.384402,37.619305,-122.384402,37.619305",
     "geom:latitude":37.619305,
     "geom:longitude":-122.384402,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Angulos en Todas Direciones",
     "sfomuseum:boardingarea":"E",
+    "sfomuseum:building":"T3",
     "sfomuseum:category":"painting",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Diptych - colorful abstract shapes.",
@@ -78,7 +79,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387371,
-    "wof:geomhash":"48ab31dad821044179c83b4b3c232aea",
+    "wof:geomhash":"f9b48c6ba487b1db325dd9a79ae7581d",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -109,7 +110,7 @@
     ],
     "wof:id":1477874075,
     "wof:label":"\u00c1ngulos en Todas las Direcciones",
-    "wof:lastmodified":1568927007,
+    "wof:lastmodified":1571259871,
     "wof:name":"\u00c1ngulos en Todas las Direcciones",
     "wof:parent_id":1477855785,
     "wof:placetype":"venue",
@@ -125,10 +126,10 @@
     ]
 },
   "bbox": [
-    -122.3844015598297,
-    37.61930497785245,
-    -122.3844015598297,
-    37.61930497785245
+    -122.384402,
+    37.619305,
+    -122.384402,
+    37.619305
 ],
-  "geometry": {"coordinates":[-122.3844015598297,37.61930497785245],"type":"Point"}
+  "geometry": {"coordinates":[-122.38440199999999,37.619305],"type":"Point"}
 }

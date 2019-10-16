@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3291",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389830351,37.6170996779,-122.389830351,37.6170996779",
+    "geom:bbox":"-122.38983,37.6171,-122.38983,37.6171",
     "geom:latitude":37.6171,
     "geom:longitude":-122.38983,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Welcome",
     "sfomuseum:boardingarea":"Immigration A and G",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Arriving international passengers waiting to have their passports checked encounter rectangular columns with cast glass panels mounted on each side of 11 of these columns. The cast glass has a smooth face, but the back is cast into a serrated shape, with a matching serrated cast acrylic panel behind the glass. Vinyl letter text on the acrylic panels say \u201cWelcome\u201d in different languages, and due to an optical effect of the serrated back, the words seem to disappear as the viewer walks by.",
@@ -74,7 +75,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387367,
-    "wof:geomhash":"462d5e163cfa45454180b2dd4f0645b3",
+    "wof:geomhash":"98f11fb4931680e2390fd183759d32f5",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -105,7 +106,7 @@
     ],
     "wof:id":1477874041,
     "wof:label":"Hung, Su-Chen Welcome",
-    "wof:lastmodified":1568926997,
+    "wof:lastmodified":1571259872,
     "wof:name":"Welcome",
     "wof:parent_id":1477855885,
     "wof:placetype":"venue",
@@ -121,10 +122,10 @@
     ]
 },
   "bbox": [
-    -122.38983035087585,
-    37.61709967792511,
-    -122.38983035087585,
-    37.61709967792511
+    -122.38983,
+    37.6171,
+    -122.38983,
+    37.6171
 ],
-  "geometry": {"coordinates":[-122.38983035087585,37.61709967792511],"type":"Point"}
+  "geometry": {"coordinates":[-122.38983,37.6171],"type":"Point"}
 }

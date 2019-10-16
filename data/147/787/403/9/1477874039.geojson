@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3290",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.392169237,37.618183215,-122.392169237,37.618183215",
+    "geom:bbox":"-122.392169,37.618183,-122.392169,37.618183",
     "geom:latitude":37.618183,
     "geom:longitude":-122.392169,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Ceiling Flood",
     "sfomuseum:boardingarea":"G",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"light art",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Along the sterile corridor of Boarding Area G, 2-foot structural wide beams alternately lit on the bottom edge by red and blue neon cross the space and seem to disappear into the lowered central portion of the ceiling and reappear on the other side. These periodic bands of color create a progression down the corridor, which is reflected in the polished terrazzo floor.",
@@ -74,7 +75,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387386,
-    "wof:geomhash":"0d567cbcb057ae4022937e07893b05be",
+    "wof:geomhash":"1df731bad6959275c44d2cd2f98a8ab4",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -105,7 +106,7 @@
     ],
     "wof:id":1477874039,
     "wof:label":"Sonnier, Keith Ceiling Flood",
-    "wof:lastmodified":1568926996,
+    "wof:lastmodified":1571259872,
     "wof:name":"Ceiling Flood",
     "wof:parent_id":1477855885,
     "wof:placetype":"venue",
@@ -121,10 +122,10 @@
     ]
 },
   "bbox": [
-    -122.39216923713684,
-    37.61818321496498,
-    -122.39216923713684,
-    37.61818321496498
+    -122.392169,
+    37.618183,
+    -122.392169,
+    37.618183
 ],
-  "geometry": {"coordinates":[-122.39216923713684,37.61818321496498],"type":"Point"}
+  "geometry": {"coordinates":[-122.392169,37.618183],"type":"Point"}
 }

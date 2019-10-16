@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3284",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.390956879,37.6177073104,-122.390956879,37.6177073104",
+    "geom:bbox":"-122.390957,37.617707,-122.390957,37.617707",
     "geom:latitude":37.617707,
     "geom:longitude":-122.390957,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Fly, Flight, Fugit",
     "sfomuseum:boardingarea":"G",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"mosaic",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Piece is composed of 40 large panels depicting various objects, animals, and human actions that literally and metaphorically recall flight.",
@@ -73,7 +74,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387349,
-    "wof:geomhash":"3f922ab179e3e6b0033a5d0035ba695f",
+    "wof:geomhash":"182f405412a146ff7360c01772cda348",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -104,7 +105,7 @@
     ],
     "wof:id":1477873969,
     "wof:label":"Carnwath, Squeak Fly, Flight, Fugit",
-    "wof:lastmodified":1568926977,
+    "wof:lastmodified":1571259870,
     "wof:name":"Fly, Flight, Fugit",
     "wof:parent_id":1477855885,
     "wof:placetype":"venue",
@@ -120,10 +121,10 @@
     ]
 },
   "bbox": [
-    -122.39095687866211,
-    37.61770731044503,
-    -122.39095687866211,
-    37.61770731044503
+    -122.390957,
+    37.617707,
+    -122.390957,
+    37.617707
 ],
-  "geometry": {"coordinates":[-122.39095687866211,37.61770731044503],"type":"Point"}
+  "geometry": {"coordinates":[-122.390957,37.617707],"type":"Point"}
 }

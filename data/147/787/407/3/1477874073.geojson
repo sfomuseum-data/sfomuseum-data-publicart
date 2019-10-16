@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3248",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.387330532,37.6146648489,-122.387330532,37.6146648489",
+    "geom:bbox":"-122.387331,37.614665,-122.387331,37.614665",
     "geom:latitude":37.614665,
     "geom:longitude":-122.387331,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Bay Area Victorian, Bay Area Deco, Bay Area Funk",
     "sfomuseum:boardingarea":"A",
+    "sfomuseum:building":"T1",
     "sfomuseum:category":"mosaic",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"These three glass mosaic and ceramic tile murals depict different decorative styles in the Bay Area.  The left panel, \u201cBay Area Victorian,\u201d portrays the style and ornamentation of old houses in several San Francisco districts.  The right panel, \u201cBay Area Deco,\u201d refers to the architecture of downtown Oakland in its heyday, and the center panel \u201cBat Area Funk\u201d is a collection of Berkeley memorabilia from the 1960s.",
@@ -74,7 +75,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387369,
-    "wof:geomhash":"53126457520321abe86fc097dd1ab248",
+    "wof:geomhash":"d3f977a1afa805aa79700170883e553a",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -105,7 +106,7 @@
     ],
     "wof:id":1477874073,
     "wof:label":"Kozloff, Joyce Bay Area Victorian, Bay Area Deco, Bay Area Funk",
-    "wof:lastmodified":1568927007,
+    "wof:lastmodified":1571259872,
     "wof:name":"Bay Area Victorian, Bay Area Deco, Bay Area Funk",
     "wof:parent_id":1477855667,
     "wof:placetype":"venue",
@@ -121,10 +122,10 @@
     ]
 },
   "bbox": [
-    -122.38733053207397,
-    37.61466484885386,
-    -122.38733053207397,
-    37.61466484885386
+    -122.387331,
+    37.614665,
+    -122.387331,
+    37.614665
 ],
-  "geometry": {"coordinates":[-122.38733053207397,37.61466484885386],"type":"Point"}
+  "geometry": {"coordinates":[-122.387331,37.614665],"type":"Point"}
 }

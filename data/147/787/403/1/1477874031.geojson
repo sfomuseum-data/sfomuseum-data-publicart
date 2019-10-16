@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3334",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.388317585,37.6202397673,-122.388317585,37.6202397673",
+    "geom:bbox":"-122.388318,37.62024,-122.388318,37.62024",
     "geom:latitude":37.62024,
     "geom:longitude":-122.388318,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Billboard Series",
     "sfomuseum:boardingarea":"F",
+    "sfomuseum:building":"T3",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Dyed cast paper sections intertwined and knotted with lengths of colored electrical wires.  This artwork, suspended above the moving walkway, responds to the transitory nature of the airport through its different views and uses of light.",
@@ -74,7 +75,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387373,
-    "wof:geomhash":"de29804b673c2b59237e0b38bb70c284",
+    "wof:geomhash":"472c2cc173d23f6cb3dc8c729cca52a6",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -105,7 +106,7 @@
     ],
     "wof:id":1477874031,
     "wof:label":"O\u2019Banion, Nance Billboard Series",
-    "wof:lastmodified":1568926994,
+    "wof:lastmodified":1571259872,
     "wof:name":"Billboard Series",
     "wof:parent_id":1477855703,
     "wof:placetype":"venue",
@@ -121,10 +122,10 @@
     ]
 },
   "bbox": [
-    -122.38831758499144,
-    37.62023976732996,
-    -122.38831758499144,
-    37.62023976732996
+    -122.388318,
+    37.62024,
+    -122.388318,
+    37.62024
 ],
-  "geometry": {"coordinates":[-122.38831758499144,37.62023976732996],"type":"Point"}
+  "geometry": {"coordinates":[-122.388318,37.62024],"type":"Point"}
 }

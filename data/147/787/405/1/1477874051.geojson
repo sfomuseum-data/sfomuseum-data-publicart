@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3252",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.388719916,37.6135812605,-122.388719916,37.6135812605",
+    "geom:bbox":"-122.38872,37.613581,-122.38872,37.613581",
     "geom:latitude":37.613581,
     "geom:longitude":-122.38872,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"A Horse of Another Color",
     "sfomuseum:boardingarea":"A",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"painting",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"A flat, geometrical background is combined with representational imagery to create visual contradiction between the illusionistic spaces and the flat background surface.",
@@ -73,7 +74,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387367,
-    "wof:geomhash":"b02203936c6193b38c4754c06cdc7d07",
+    "wof:geomhash":"afa3155255a988bc01925a6d767cacbc",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -104,7 +105,7 @@
     ],
     "wof:id":1477874051,
     "wof:label":"Hudson, Robert Horse of Another Color",
-    "wof:lastmodified":1568927000,
+    "wof:lastmodified":1571259871,
     "wof:name":"Horse of Another Color",
     "wof:parent_id":1477855835,
     "wof:placetype":"venue",
@@ -120,10 +121,10 @@
     ]
 },
   "bbox": [
-    -122.38871991634367,
-    37.61358126054273,
-    -122.38871991634367,
-    37.61358126054273
+    -122.38872,
+    37.613581,
+    -122.38872,
+    37.613581
 ],
-  "geometry": {"coordinates":[-122.38871991634367,37.61358126054273],"type":"Point"}
+  "geometry": {"coordinates":[-122.38872000000001,37.613581],"type":"Point"}
 }

@@ -10,7 +10,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=21548",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.384111881,37.6157356736,-122.384111881,37.6157356736",
+    "geom:bbox":"-122.384112,37.615736,-122.384112,37.615736",
     "geom:latitude":37.615736,
     "geom:longitude":-122.384112,
     "iso:country":"US",
@@ -18,6 +18,7 @@
     "mz:is_current":1,
     "sfac:accession_id":"2016.20",
     "sfomuseum:boardingarea":"Non-secure connector",
+    "sfomuseum:building":"T1",
     "sfomuseum:category":"installation",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Voyage draws on the language of maps, plans, weather patterns and flight routes to depict an imaginary panoramic space in continuous flux. Britton\u2019s abstractions of physical locations give shape to psychological spaces and the emotional  characteristics that constitute place. ",
@@ -56,7 +57,7 @@
     ],
     "wof:country":"US",
     "wof:created":1523296714,
-    "wof:geomhash":"e76a27b54d6050d95acac8041fbe0047",
+    "wof:geomhash":"07838e54d73c00c20d8c711cbf880fcc",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -85,7 +86,7 @@
     ],
     "wof:id":1477873923,
     "wof:label":"Voyage",
-    "wof:lastmodified":1568926965,
+    "wof:lastmodified":1571259873,
     "wof:name":"Voyage",
     "wof:parent_id":1477855655,
     "wof:placetype":"venue",
@@ -98,10 +99,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.3841118812561,
-    37.61573567355487,
-    -122.3841118812561,
-    37.61573567355487
+    -122.384112,
+    37.615736,
+    -122.384112,
+    37.615736
 ],
-  "geometry": {"coordinates":[-122.3841118812561,37.61573567355487],"type":"Point"}
+  "geometry": {"coordinates":[-122.384112,37.615736],"type":"Point"}
 }

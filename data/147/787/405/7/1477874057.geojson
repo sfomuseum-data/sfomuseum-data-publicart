@@ -14,14 +14,14 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3251",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.390120029,37.6162540831,-122.390120029,37.6162540831",
+    "geom:bbox":"-122.39012,37.616254,-122.39012,37.616254",
     "geom:latitude":37.616254,
     "geom:longitude":-122.39012,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_retail":-1,
-    "sfac:accession_id":"1984.1",
+    "sfac:accession_id":"1984.112/0",
     "sfac:artist":"Tamayo, Rufino",
     "sfac:created_at":"01/01/1970 12:33:03 AM +0000",
     "sfac:credit_line":"Purchased by the San Francisco Art Commission for the San Francisco International Airport",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Conquest of Space, 1983",
     "sfomuseum:boardingarea":"G",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"32-foot tall steel sculpture consisting of triangular forms alternately painted blue and red.",
@@ -66,7 +67,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "sfac:accession_id":"1984.1",
+        "sfac:accession_id":"1984.112/0",
         "sfomuseum:object_id":109327
     },
     "wof:controlled":[
@@ -74,7 +75,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387388,
-    "wof:geomhash":"d69266a36af2b07413dc4ea6010eb618",
+    "wof:geomhash":"e6a46e8506f959749b899985a8c0c7f0",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -105,7 +106,7 @@
     ],
     "wof:id":1477874057,
     "wof:label":"Tamayo, Rufino Conquest of Space",
-    "wof:lastmodified":1568927002,
+    "wof:lastmodified":1571259872,
     "wof:name":"Conquest of Space",
     "wof:parent_id":1477855927,
     "wof:placetype":"venue",
@@ -121,10 +122,10 @@
     ]
 },
   "bbox": [
-    -122.39012002944945,
-    37.61625408314799,
-    -122.39012002944945,
-    37.61625408314799
+    -122.39012,
+    37.616254,
+    -122.39012,
+    37.616254
 ],
-  "geometry": {"coordinates":[-122.39012002944945,37.61625408314799],"type":"Point"}
+  "geometry": {"coordinates":[-122.39012,37.616254],"type":"Point"}
 }

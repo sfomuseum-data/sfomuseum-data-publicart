@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3312",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.381671071,37.6177880445,-122.381671071,37.6177880445",
+    "geom:bbox":"-122.381671,37.617788,-122.381671,37.617788",
     "geom:latitude":37.617788,
     "geom:longitude":-122.381671,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Butterfly Wall",
     "sfomuseum:boardingarea":"D",
+    "sfomuseum:building":"T2",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Interactive kinetic sculpture controlled by ten visitor operated hand-cranks. Housed in a 12\u2032 tall by 12\u2032 wide by 1\u2032 thick free-standing glass case, each fluttering butterfly rides on a loop of transparent belting strung floor to ceiling. When cranked, the 20 butterflies continuously descend their belts at a rate dictated by the air resistance of their spinning iridescent wings. Cranking faster than the descent rate of the butterflies causes them to rise towards the ceiling; cranking slower than this rate causes the butterflies to flutter back down or hover in one place.",
@@ -72,7 +73,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387387,
-    "wof:geomhash":"f0bc45acebfe0487f4d9356b51542888",
+    "wof:geomhash":"66e1b04152a6caff381287024d7b7ebd",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -101,7 +102,7 @@
     ],
     "wof:id":1477874053,
     "wof:label":"Sowers, Charles Butterfly Wall",
-    "wof:lastmodified":1568927001,
+    "wof:lastmodified":1571259873,
     "wof:name":"Butterfly Wall",
     "wof:parent_id":1477855609,
     "wof:placetype":"venue",
@@ -117,10 +118,10 @@
     ]
 },
   "bbox": [
-    -122.38167107105254,
-    37.61778804446207,
-    -122.38167107105254,
-    37.61778804446207
+    -122.381671,
+    37.617788,
+    -122.381671,
+    37.617788
 ],
-  "geometry": {"coordinates":[-122.38167107105254,37.61778804446207],"type":"Point"}
+  "geometry": {"coordinates":[-122.381671,37.617788],"type":"Point"}
 }

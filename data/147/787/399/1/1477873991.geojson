@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3287",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.392416,37.6181662184,-122.392416,37.6181662184",
+    "geom:bbox":"-122.392416,37.618166,-122.392416,37.618166",
     "geom:latitude":37.618166,
     "geom:longitude":-122.392416,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Baile!",
     "sfomuseum:boardingarea":"G",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"mural",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"An image of two Jarabe Tapatio dancers (known in English as the Mexican hat dance) are shown in motion from the waist down. The metal cutout was based on a paper cutout that was photographed, digitized, and cut with a high-pressure jet stream of water; a shadow is cast onto the painted blue steel sheet behind it.",
@@ -74,7 +75,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387360,
-    "wof:geomhash":"4fcfc2a3a8bf8b3361238458b04bef63",
+    "wof:geomhash":"b4d12e0f6f5e2602819eb58d86e1c0bf",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -105,7 +106,7 @@
     ],
     "wof:id":1477873991,
     "wof:label":"Baile!",
-    "wof:lastmodified":1568926983,
+    "wof:lastmodified":1571259871,
     "wof:name":"Baile!",
     "wof:parent_id":1477855885,
     "wof:placetype":"venue",
@@ -121,10 +122,10 @@
     ]
 },
   "bbox": [
-    -122.3924160003662,
-    37.61816621842744,
-    -122.3924160003662,
-    37.61816621842744
+    -122.392416,
+    37.618166,
+    -122.392416,
+    37.618166
 ],
-  "geometry": {"coordinates":[-122.3924160003662,37.61816621842744],"type":"Point"}
+  "geometry": {"coordinates":[-122.392416,37.618166],"type":"Point"}
 }

@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3281",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.390235364,37.6118156152,-122.390235364,37.6118156152",
+    "geom:bbox":"-122.390235,37.611816,-122.390235,37.611816",
     "geom:latitude":37.611816,
     "geom:longitude":-122.390235,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Love Letters",
     "sfomuseum:boardingarea":"A",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"mural",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"This 16-by-24-foot mural of glass panels is a reproduction of a pastel drawing depicting paper boats set adrift on a body of water with hand written excerpts from published poetry expressing emotions such as love, hope, longing, and nostalgia, all written in their original language.",
@@ -73,7 +74,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387350,
-    "wof:geomhash":"c5877cbf98085ba1b00e641ae4f98832",
+    "wof:geomhash":"64b0a0066663ab700c3d1ac9e95c2a82",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -104,7 +105,7 @@
     ],
     "wof:id":1477873955,
     "wof:label":"Chagoya, Enrique Love Letters",
-    "wof:lastmodified":1568926973,
+    "wof:lastmodified":1571259871,
     "wof:name":"Love Letters",
     "wof:parent_id":1477855835,
     "wof:placetype":"venue",
@@ -120,10 +121,10 @@
     ]
 },
   "bbox": [
-    -122.3902353644371,
-    37.61181561517584,
-    -122.3902353644371,
-    37.61181561517584
+    -122.390235,
+    37.611816,
+    -122.390235,
+    37.611816
 ],
-  "geometry": {"coordinates":[-122.3902353644371,37.61181561517584],"type":"Point"}
+  "geometry": {"coordinates":[-122.390235,37.611816],"type":"Point"}
 }

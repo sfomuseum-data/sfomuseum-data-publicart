@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3244",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389385104,37.6155104617,-122.389385104,37.6155104617",
+    "geom:bbox":"-122.389385,37.61551,-122.389385,37.61551",
     "geom:latitude":37.61551,
     "geom:longitude":-122.389385,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Sculptural Light Reflectors",
     "sfomuseum:boardingarea":"Main Hall",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"These four sculptures are created from translucent white silicone coated fiberglass material stretched over a metal frame and inserted within the truss structure of the skylights, 70 feet above the floor. The design of the four 180-foot-by-30-foot sculptures was inspired by the construction of the Wright brothers\u2019 first airplane, and also recalls dirigibles, or boats. The sculptures are functional in that they diffuse direct sunlight from the skylights, reflect light up onto the opaque surface of the roof, and project a dappled play of light into the space.",
@@ -75,7 +76,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387350,
-    "wof:geomhash":"d7fa96f7996f81492439aa258081c017",
+    "wof:geomhash":"b6f137f95c212e84d626dad6e805962a",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -106,7 +107,7 @@
     ],
     "wof:id":1477873943,
     "wof:label":"Carpenter, James Four Sculptural Light Reflectors",
-    "wof:lastmodified":1568926970,
+    "wof:lastmodified":1571259871,
     "wof:name":"Four Sculptural Light Reflectors",
     "wof:parent_id":1477855927,
     "wof:placetype":"venue",
@@ -122,10 +123,10 @@
     ]
 },
   "bbox": [
-    -122.38938510417938,
-    37.61551046170388,
-    -122.38938510417938,
-    37.61551046170388
+    -122.389385,
+    37.61551,
+    -122.389385,
+    37.61551
 ],
-  "geometry": {"coordinates":[-122.38938510417938,37.61551046170388],"type":"Point"}
+  "geometry": {"coordinates":[-122.389385,37.61551],"type":"Point"}
 }

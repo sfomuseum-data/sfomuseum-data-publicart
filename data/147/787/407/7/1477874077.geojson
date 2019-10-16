@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=4939",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389900088,37.6121173289,-122.389900088,37.6121173289",
+    "geom:bbox":"-122.3899,37.612117,-122.3899,37.612117",
     "geom:latitude":37.612117,
     "geom:longitude":-122.3899,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"You Were in Heaven",
     "sfomuseum:boardingarea":"A",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"A ceiling dome, installed at one end of the corridor and lit through blue gels, is inspired by early creation myths that describe the sky as originating from ice crystals. On the floor below the dome are bronze and terrazzo medallion. As passengers pass through the dome and walk along the corridor wall, they encounter five 60-foot long curved niches. In these niches, groups of cast hydrocal tiles with forms derived from the mathematical theories of English mathematician Arthur Penrose, are fit together to create shapes that resemble clouds. The artist creates these complex forms using only 2 unique shapes of tiles.",
@@ -74,7 +75,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387377,
-    "wof:geomhash":"0c04b89315c8abc6e8710824dac53e5b",
+    "wof:geomhash":"8c6cdd9f9c8ac621a891e388446d9902",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -105,7 +106,7 @@
     ],
     "wof:id":1477874077,
     "wof:label":"Preston, Ann You Were in Heaven",
-    "wof:lastmodified":1568927008,
+    "wof:lastmodified":1571259872,
     "wof:name":"You Were in Heaven",
     "wof:parent_id":1477855835,
     "wof:placetype":"venue",
@@ -121,10 +122,10 @@
     ]
 },
   "bbox": [
-    -122.38990008831024,
-    37.61211732890617,
-    -122.38990008831024,
-    37.61211732890617
+    -122.3899,
+    37.612117,
+    -122.3899,
+    37.612117
 ],
-  "geometry": {"coordinates":[-122.38990008831024,37.61211732890617],"type":"Point"}
+  "geometry": {"coordinates":[-122.3899,37.612117],"type":"Point"}
 }

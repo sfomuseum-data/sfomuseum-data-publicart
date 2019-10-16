@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3310",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.381413579,37.6170656844,-122.381413579,37.6170656844",
+    "geom:bbox":"-122.381414,37.617066,-122.381414,37.617066",
     "geom:latitude":37.617066,
     "geom:longitude":-122.381414,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Homage to Zane Grey",
     "sfomuseum:boardingarea":"D",
+    "sfomuseum:building":"T2",
     "sfomuseum:category":"painting",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Colorful painting depicting fanciful animals and people.  The title of this varnished polymer on canvas refers to Zane Grey (1872\u20131939) the author of many popular novels about the Old West.",
@@ -71,7 +72,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387353,
-    "wof:geomhash":"17f1196be1b9b009042795aa2ec27e66",
+    "wof:geomhash":"c23f917d27d42abf4c774a191fc23da2",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -100,7 +101,7 @@
     ],
     "wof:id":1477873957,
     "wof:label":"deForest, Roy Homage to Zane Grey",
-    "wof:lastmodified":1568926974,
+    "wof:lastmodified":1571259871,
     "wof:name":"Homage to Zane Grey",
     "wof:parent_id":1477855609,
     "wof:placetype":"venue",
@@ -116,10 +117,10 @@
     ]
 },
   "bbox": [
-    -122.38141357898712,
-    37.61706568435074,
-    -122.38141357898712,
-    37.61706568435074
+    -122.381414,
+    37.617066,
+    -122.381414,
+    37.617066
 ],
-  "geometry": {"coordinates":[-122.38141357898712,37.61706568435074],"type":"Point"}
+  "geometry": {"coordinates":[-122.38141400000001,37.617066],"type":"Point"}
 }

@@ -10,7 +10,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=21546",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.385002375,37.6182427028,-122.385002375,37.6182427028",
+    "geom:bbox":"-122.385002,37.618243,-122.385002,37.618243",
     "geom:latitude":37.618243,
     "geom:longitude":-122.385002,
     "iso:country":"US",
@@ -18,6 +18,7 @@
     "mz:is_current":1,
     "sfac:accession_id":"T2014.19",
     "sfomuseum:boardingarea":"E",
+    "sfomuseum:building":"T3",
     "sfomuseum:category":"mosaic",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Untitled (Large Vatiation) suggests movement and transformation through color, geometry, repetition, scale and spatial illusion. Ellingson\u2019s practice is a synergy between digital media and the hand-made object. Typically, she uses graphics software to create multilayered compositions of great complexity that are translated into physical form using traditional painting media. Here she has realized her virtual design as a mosaic mural of commanding physical presence.",
@@ -57,7 +58,7 @@
     ],
     "wof:country":"US",
     "wof:created":1523296717,
-    "wof:geomhash":"d81874dc110fcf2bf97428a0e64b013b",
+    "wof:geomhash":"e83d79bc504e36dcf61c43071bfdb9f3",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -88,7 +89,7 @@
     ],
     "wof:id":1477873907,
     "wof:label":"Untitled (Large Variation)",
-    "wof:lastmodified":1568926961,
+    "wof:lastmodified":1571259873,
     "wof:name":"Untitled (Large Variation)",
     "wof:parent_id":1477855785,
     "wof:placetype":"venue",
@@ -101,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.38500237464903,
-    37.61824270281581,
-    -122.38500237464903,
-    37.61824270281581
+    -122.385002,
+    37.618243,
+    -122.385002,
+    37.618243
 ],
-  "geometry": {"coordinates":[-122.38500237464903,37.61824270281581],"type":"Point"}
+  "geometry": {"coordinates":[-122.385002,37.618243],"type":"Point"}
 }

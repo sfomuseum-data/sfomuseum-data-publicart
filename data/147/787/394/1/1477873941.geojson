@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3316",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.381869555,37.6175543405,-122.381869555,37.6175543405",
+    "geom:bbox":"-122.38187,37.617554,-122.38187,37.617554",
     "geom:latitude":37.617554,
     "geom:longitude":-122.38187,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Untitled",
     "sfomuseum:boardingarea":"D",
+    "sfomuseum:building":"T2",
     "sfomuseum:category":"painting",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Laddie John Dill\u2019s paintings of this period were closely identified with 1970s Process Art, a movement that emphasized leaving the means of construction evident on the finished creation. Here Dill trowels the cement and polymer in expressionistic gestures to create an aggressively tactile surface. The very physical nature of this painting may remind us of rough hewn concrete structures, but it is also strongly pictorial. For instance, it may suggest to you an eroded, but beautiful, desert landscape.",
@@ -73,7 +74,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387356,
-    "wof:geomhash":"7b9bdd68aedfab8c0b17fea09f2825f8",
+    "wof:geomhash":"d4bc9b9bfac73359e131e7965b2e71d5",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -102,7 +103,7 @@
     ],
     "wof:id":1477873941,
     "wof:label":"Dill, Laddie John Untitled",
-    "wof:lastmodified":1568926970,
+    "wof:lastmodified":1571259872,
     "wof:name":"Untitled",
     "wof:parent_id":1477855609,
     "wof:placetype":"venue",
@@ -118,10 +119,10 @@
     ]
 },
   "bbox": [
-    -122.38186955451964,
-    37.61755434048812,
-    -122.38186955451964,
-    37.61755434048812
+    -122.38187,
+    37.617554,
+    -122.38187,
+    37.617554
 ],
-  "geometry": {"coordinates":[-122.38186955451964,37.61755434048812],"type":"Point"}
+  "geometry": {"coordinates":[-122.38187000000001,37.617554],"type":"Point"}
 }

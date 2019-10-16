@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3336",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389647961,37.6207836394,-122.389647961,37.6207836394",
+    "geom:bbox":"-122.389648,37.620784,-122.389648,37.620784",
     "geom:latitude":37.620784,
     "geom:longitude":-122.389648,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Void",
     "sfomuseum:boardingarea":"F",
+    "sfomuseum:building":"T3",
     "sfomuseum:category":"painting",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Supersized painting comprised of under-drawing that is then colored in by area.  Includes paper element attached with acrylic medium.  This work was originally created and installed as an outdoor billboard prior to being purchased by the Art Commission for the Airport.",
@@ -73,7 +74,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387392,
-    "wof:geomhash":"be7c45e98a56eb0449d954f1fb972df7",
+    "wof:geomhash":"b78f182fb1f7b032d30b85a109c98f95",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -104,7 +105,7 @@
     ],
     "wof:id":1477874071,
     "wof:label":"Wiley, William Void",
-    "wof:lastmodified":1568927006,
+    "wof:lastmodified":1571259872,
     "wof:name":"Void",
     "wof:parent_id":1477855703,
     "wof:placetype":"venue",
@@ -120,10 +121,10 @@
     ]
 },
   "bbox": [
-    -122.38964796066283,
-    37.62078363943563,
-    -122.38964796066283,
-    37.62078363943563
+    -122.389648,
+    37.620784,
+    -122.389648,
+    37.620784
 ],
-  "geometry": {"coordinates":[-122.38964796066283,37.62078363943563],"type":"Point"}
+  "geometry": {"coordinates":[-122.38964799999999,37.620784],"type":"Point"}
 }

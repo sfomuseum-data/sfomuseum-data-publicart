@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3257",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389411926,37.6130628323,-122.389411926,37.6130628323",
+    "geom:bbox":"-122.389412,37.613063,-122.389412,37.613063",
     "geom:latitude":37.613063,
     "geom:longitude":-122.389412,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Salt Peanuts",
     "sfomuseum:boardingarea":"A",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"This assemblage is created from 130 real saxophones. Above and below the saxophones are the opening bars of jazz great Dizzy Gillespie\u2019s famous composition, \u201cSalt Peanuts.\u201d The artwork is not only a homage to Gillespie, it is also an acknowledgment of the importance of jazz in San Francisco\u2019s cultural identity.",
@@ -74,7 +75,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387365,
-    "wof:geomhash":"b45a1c697e28f996fe058a00e9731f8a",
+    "wof:geomhash":"6f8dd6f6f354bcb88823529ef60fcccf",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -105,7 +106,7 @@
     ],
     "wof:id":1477874035,
     "wof:label":"Howard, Mildred Salty Peanuts",
-    "wof:lastmodified":1568926995,
+    "wof:lastmodified":1571259871,
     "wof:name":"Salty Peanuts",
     "wof:parent_id":1477855835,
     "wof:placetype":"venue",
@@ -121,10 +122,10 @@
     ]
 },
   "bbox": [
-    -122.38941192626953,
-    37.61306283231549,
-    -122.38941192626953,
-    37.61306283231549
+    -122.389412,
+    37.613063,
+    -122.389412,
+    37.613063
 ],
-  "geometry": {"coordinates":[-122.38941192626953,37.61306283231549],"type":"Point"}
+  "geometry": {"coordinates":[-122.38941199999999,37.613063],"type":"Point"}
 }

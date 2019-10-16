@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3258",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.38910079,37.6129778437,-122.38910079,37.6129778437",
+    "geom:bbox":"-122.389101,37.612978,-122.389101,37.612978",
     "geom:latitude":37.612978,
     "geom:longitude":-122.389101,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Namoo House",
     "sfomuseum:boardingarea":"A",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"The artwork, made of powder coated aluminum and stainless steel, imagines the view looking down from the air onto SFO, using a graphic background that is, in fact, a stylized aerial view of the airport. On top of this flattened and compressed landscape are flowers and insects.",
@@ -74,7 +75,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387365,
-    "wof:geomhash":"bf411f93c6ea351bff99f1acebebd8de",
+    "wof:geomhash":"efd612d259894dc610c129a594d32ecd",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -105,7 +106,7 @@
     ],
     "wof:id":1477874033,
     "wof:label":"Hsu, Joyce Namoo House",
-    "wof:lastmodified":1568926994,
+    "wof:lastmodified":1571259871,
     "wof:name":"Namoo House",
     "wof:parent_id":1477855835,
     "wof:placetype":"venue",
@@ -121,10 +122,10 @@
     ]
 },
   "bbox": [
-    -122.3891007900238,
-    37.6129778437367,
-    -122.3891007900238,
-    37.6129778437367
+    -122.389101,
+    37.612978,
+    -122.389101,
+    37.612978
 ],
-  "geometry": {"coordinates":[-122.3891007900238,37.6129778437367],"type":"Point"}
+  "geometry": {"coordinates":[-122.389101,37.612978],"type":"Point"}
 }

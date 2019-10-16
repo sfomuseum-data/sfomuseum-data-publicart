@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3335",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389025688,37.6205456959,-122.389025688,37.6205456959",
+    "geom:bbox":"-122.389026,37.620546,-122.389026,37.620546",
     "geom:latitude":37.620546,
     "geom:longitude":-122.389026,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Untitled",
     "sfomuseum:boardingarea":"F",
+    "sfomuseum:building":"T3",
     "sfomuseum:category":"painting",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"This work synthesizes the artist\u2019s mode of abstract expressionism with an Oriental influence as seen in the vibrant, gestural brushwork.",
@@ -74,7 +75,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387358,
-    "wof:geomhash":"901e5b26e560ebbc207035809a18fed4",
+    "wof:geomhash":"6b9bd39181cb7929217b6f7a14ed0233",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -105,7 +106,7 @@
     ],
     "wof:id":1477873973,
     "wof:label":"Francis, Sam Untitled",
-    "wof:lastmodified":1568926978,
+    "wof:lastmodified":1571259872,
     "wof:name":"Untitled",
     "wof:parent_id":1477855703,
     "wof:placetype":"venue",
@@ -121,10 +122,10 @@
     ]
 },
   "bbox": [
-    -122.38902568817139,
-    37.62054569587897,
-    -122.38902568817139,
-    37.62054569587897
+    -122.389026,
+    37.620546,
+    -122.389026,
+    37.620546
 ],
-  "geometry": {"coordinates":[-122.38902568817139,37.62054569587897],"type":"Point"}
+  "geometry": {"coordinates":[-122.389026,37.620546],"type":"Point"}
 }

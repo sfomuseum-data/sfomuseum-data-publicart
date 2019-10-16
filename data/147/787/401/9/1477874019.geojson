@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3319",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.384476662,37.6176010813,-122.384476662,37.6176010813",
+    "geom:bbox":"-122.384477,37.617601,-122.384477,37.617601",
     "geom:latitude":37.617601,
     "geom:longitude":-122.384477,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"17th December, 1903",
     "sfomuseum:boardingarea":"D",
+    "sfomuseum:building":"T2",
     "sfomuseum:category":"painting",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Black, gray, and white painting of first aircraft flight at Kitty Hawke, December 17, 1903.",
@@ -71,7 +72,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387363,
-    "wof:geomhash":"6d653093640aa93a6a167f8ac6cd03e8",
+    "wof:geomhash":"0c39b7c470cda86fb149158b51f92eea",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -100,7 +101,7 @@
     ],
     "wof:id":1477874019,
     "wof:label":"Hedrick, Wally 17 December 1903",
-    "wof:lastmodified":1568926991,
+    "wof:lastmodified":1571259872,
     "wof:name":"17 December 1903",
     "wof:parent_id":1477855655,
     "wof:placetype":"venue",
@@ -116,10 +117,10 @@
     ]
 },
   "bbox": [
-    -122.38447666168213,
-    37.61760108134168,
-    -122.38447666168213,
-    37.61760108134168
+    -122.384477,
+    37.617601,
+    -122.384477,
+    37.617601
 ],
-  "geometry": {"coordinates":[-122.38447666168213,37.61760108134168],"type":"Point"}
+  "geometry": {"coordinates":[-122.384477,37.617601],"type":"Point"}
 }

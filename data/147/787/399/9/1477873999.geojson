@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3318",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.383645177,37.6172399013,-122.383645177,37.6172399013",
+    "geom:bbox":"-122.383645,37.61724,-122.383645,37.61724",
     "geom:latitude":37.61724,
     "geom:longitude":-122.383645,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Welcome North, Welcome South, Welcome East, Welcome West",
     "sfomuseum:boardingarea":"D",
+    "sfomuseum:building":"T2",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"A series of exuberant, waving figures and depictions of San Francisco landmarks highlight the wall piece, designed to greet visitors from foreign countries.",
@@ -72,7 +73,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387386,
-    "wof:geomhash":"6bfae964c9512a7cfe5fb58cacdc891d",
+    "wof:geomhash":"88249e952f3fc788ae9bdf7f2d383939",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -101,7 +102,7 @@
     ],
     "wof:id":1477873999,
     "wof:label":"Snyder, Dan Welcome North, Welcome South, Welcome East, Welcome West",
-    "wof:lastmodified":1568926985,
+    "wof:lastmodified":1571259872,
     "wof:name":"Welcome North, Welcome South, Welcome East, Welcome West",
     "wof:parent_id":1477855655,
     "wof:placetype":"venue",
@@ -117,10 +118,10 @@
     ]
 },
   "bbox": [
-    -122.3836451768875,
-    37.61723990125505,
-    -122.3836451768875,
-    37.61723990125505
+    -122.383645,
+    37.61724,
+    -122.383645,
+    37.61724
 ],
-  "geometry": {"coordinates":[-122.3836451768875,37.61723990125505],"type":"Point"}
+  "geometry": {"coordinates":[-122.383645,37.61724],"type":"Point"}
 }

@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3322",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.384058237,37.6158801487,-122.384058237,37.6158801487",
+    "geom:bbox":"-122.384058,37.61588,-122.384058,37.61588",
     "geom:latitude":37.61588,
     "geom:longitude":-122.384058,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Above Bolinas",
     "sfomuseum:boardingarea":"D",
+    "sfomuseum:building":"T2",
     "sfomuseum:category":"painting",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"This Marin County seascape evokes a dreamlike calm in the meeting of softly rolling waves and hills.",
@@ -71,7 +72,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387356,
-    "wof:geomhash":"a89d08c01ed1359c2a93298f65631e60",
+    "wof:geomhash":"1e535dcf5731190d69da9c826d8c9d7d",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -100,7 +101,7 @@
     ],
     "wof:id":1477873977,
     "wof:label":"Dixon, Willard Above Bolinas",
-    "wof:lastmodified":1568926979,
+    "wof:lastmodified":1571259872,
     "wof:name":"Above Bolinas",
     "wof:parent_id":1477855655,
     "wof:placetype":"venue",
@@ -116,10 +117,10 @@
     ]
 },
   "bbox": [
-    -122.3840582370758,
-    37.61588014872278,
-    -122.3840582370758,
-    37.61588014872278
+    -122.384058,
+    37.61588,
+    -122.384058,
+    37.61588
 ],
-  "geometry": {"coordinates":[-122.38405823707581,37.61588014872278],"type":"Point"}
+  "geometry": {"coordinates":[-122.384058,37.61588],"type":"Point"}
 }

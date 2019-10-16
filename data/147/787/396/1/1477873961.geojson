@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3339",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.393059731,37.6186081271,-122.393059731,37.6186081271",
+    "geom:bbox":"-122.39306,37.618608,-122.39306,37.618608",
     "geom:latitude":37.618608,
     "geom:longitude":-122.39306,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Bird Technology",
     "sfomuseum:boardingarea":"G",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"mosaic",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"This hand-glazed tile work depicts a graceful silhouette of a bird in flight against a blue background and a geometric design in multi-colored squares to the right. The work refers to the importance of nature, as represented by the bird, and the importance of science and technology, as symbolized by the geometric patterns, in making human flight possible.",
@@ -73,7 +74,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387360,
-    "wof:geomhash":"fa66c4d1843911cd28702c033a1f5697",
+    "wof:geomhash":"63f867d9b3e5f01ee5ef9e4da727f5e5",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -104,7 +105,7 @@
     ],
     "wof:id":1477873961,
     "wof:label":"Bird Technology",
-    "wof:lastmodified":1568926975,
+    "wof:lastmodified":1571259871,
     "wof:name":"Bird Technology",
     "wof:parent_id":1477855885,
     "wof:placetype":"venue",
@@ -120,10 +121,10 @@
     ]
 },
   "bbox": [
-    -122.39305973052977,
-    37.61860812714089,
-    -122.39305973052977,
-    37.61860812714089
+    -122.39306,
+    37.618608,
+    -122.39306,
+    37.618608
 ],
-  "geometry": {"coordinates":[-122.39305973052977,37.61860812714089],"type":"Point"}
+  "geometry": {"coordinates":[-122.39306000000001,37.618608],"type":"Point"}
 }

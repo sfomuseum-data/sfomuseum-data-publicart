@@ -1,0 +1,86 @@
+{
+  "id": 1495165647,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower":"2019-01-01",
+    "date:inception_upper":"2019-12-31",
+    "edtf:cessation":"open",
+    "edtf:inception":2019,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-122.393994,37.612864,-122.393994,37.612864",
+    "geom:latitude":37.612864,
+    "geom:longitude":-122.393994,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_approximate":1,
+    "mz:is_current":1,
+    "sfac:accession_id":"T2018.5179.51",
+    "sfomuseum:building":"Hotel",
+    "sfomuseum:collection":"Arts Commission",
+    "sfomuseum:is_sfo":1,
+    "sfomuseum:map_id":157,
+    "sfomuseum:object_id":201590,
+    "sfomuseum:on_display":1,
+    "sfomuseum:placetype":"publicart",
+    "sfomuseum:post_security":0,
+    "wof:belongsto":[
+        102527513,
+        85688637,
+        102191575,
+        85633793,
+        85922583,
+        102087579,
+        1477856005,
+        554784711,
+        102085387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sfac:accession_id":"T2018.5179.51",
+        "sfomuseum:object_id":201590
+    },
+    "wof:country":"US",
+    "wof:created":1571259874,
+    "wof:geomhash":"db33f29f70781bd4540161de2b423c0d",
+    "wof:hierarchy":[
+        {
+            "building_id":1477856005,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087579,
+            "locality_id":85922583,
+            "postalcode_id":554784711,
+            "region_id":85688637,
+            "venue_id":1495165647
+        },
+        {
+            "building_id":1477856005,
+            "campus_id":102527513,
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102085387,
+            "region_id":85688637,
+            "venue_id":1495165647
+        }
+    ],
+    "wof:id":1495165647,
+    "wof:label":"Golden Gate Bridge, 3.4.01, 7:30 pm",
+    "wof:lastmodified":1571259874,
+    "wof:name":"Golden Gate Bridge, 3.4.01, 7:30 pm",
+    "wof:parent_id":1477856005,
+    "wof:placetype":"venue",
+    "wof:repo":"sfomuseum-data-publicart",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -122.393994,
+    37.612864,
+    -122.393994,
+    37.612864
+],
+  "geometry": {"coordinates":[-122.39399400000001,37.612864],"type":"Point"}
+}

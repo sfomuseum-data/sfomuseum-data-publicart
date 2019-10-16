@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=21817",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.388896942,37.6156591866,-122.388896942,37.6156591866",
+    "geom:bbox":"-122.388897,37.615659,-122.388897,37.615659",
     "geom:latitude":37.615659,
     "geom:longitude":-122.388897,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Light Beams for the Sky of Transfer Cooridor",
     "sfomuseum:boardingarea":"Transfer Corridor",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Diagonal acrylic structures in connector corridor, with telephone receptacle.",
@@ -75,7 +76,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387337,
-    "wof:geomhash":"330a0a1023fe2daa2da4d3439f94e5ca",
+    "wof:geomhash":"2e33e9a61de1775310c9db0b1a94c101",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -106,7 +107,7 @@
     ],
     "wof:id":1477873963,
     "wof:label":"Acconci, Vito Light Beams for the Sky of A Transfer Corridor",
-    "wof:lastmodified":1568926975,
+    "wof:lastmodified":1571259871,
     "wof:name":"Light Beams for the Sky of A Transfer Corridor",
     "wof:parent_id":1477855927,
     "wof:placetype":"venue",
@@ -122,10 +123,10 @@
     ]
 },
   "bbox": [
-    -122.38889694213867,
-    37.61565918658764,
-    -122.38889694213867,
-    37.61565918658764
+    -122.388897,
+    37.615659,
+    -122.388897,
+    37.615659
 ],
-  "geometry": {"coordinates":[-122.38889694213867,37.61565918658764],"type":"Point"}
+  "geometry": {"coordinates":[-122.388897,37.615659],"type":"Point"}
 }

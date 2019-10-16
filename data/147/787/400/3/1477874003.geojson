@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3305",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.38389194,37.6159842557,-122.38389194,37.6159842557",
+    "geom:bbox":"-122.383892,37.615984,-122.383892,37.615984",
     "geom:latitude":37.615984,
     "geom:longitude":-122.383892,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Greeting a Totem",
     "sfomuseum:boardingarea":"D",
+    "sfomuseum:building":"T2",
     "sfomuseum:category":"painting",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Abstract dark shapes reminiscent of traditional calligraphic brush work against light blue/gray background.",
@@ -71,7 +72,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387368,
-    "wof:geomhash":"2d09aca1bca06b01070d1b27901851b0",
+    "wof:geomhash":"af3080dc119f7bf85d0f59b4e89d1504",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -100,7 +101,7 @@
     ],
     "wof:id":1477874003,
     "wof:label":"Katano, Marc Greeting A Totem",
-    "wof:lastmodified":1568926986,
+    "wof:lastmodified":1571259872,
     "wof:name":"Greeting A Totem",
     "wof:parent_id":1477855655,
     "wof:placetype":"venue",
@@ -116,10 +117,10 @@
     ]
 },
   "bbox": [
-    -122.38389194011688,
-    37.61598425565507,
-    -122.38389194011688,
-    37.61598425565507
+    -122.383892,
+    37.615984,
+    -122.383892,
+    37.615984
 ],
-  "geometry": {"coordinates":[-122.38389194011688,37.61598425565507],"type":"Point"}
+  "geometry": {"coordinates":[-122.383892,37.615984],"type":"Point"}
 }

@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3256",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.391396761,37.6177328054,-122.391396761,37.6177328054",
+    "geom:bbox":"-122.391397,37.617733,-122.391397,37.617733",
     "geom:latitude":37.617733,
     "geom:longitude":-122.391397,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Shining Paths,San Francisco Sister Cities",
     "sfomuseum:boardingarea":"A\u2013G",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"light art",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Twenty light projections depict San Francisco's sister city.  Images are of the aeronautical map used by pilots.  The city's official flower is over-layed above map image.",
@@ -74,7 +75,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387354,
-    "wof:geomhash":"17830b5eac120a903a71f66865a6cb67",
+    "wof:geomhash":"aa3371d9d34e3054d1f3a1c0fda72085",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -105,7 +106,7 @@
     ],
     "wof:id":1477873959,
     "wof:label":"deSoto, Lewis Shining Paths: San Francisco\u2019s Sister Cities",
-    "wof:lastmodified":1568926974,
+    "wof:lastmodified":1571259872,
     "wof:name":"Shining Paths: San Francisco\u2019s Sister Cities",
     "wof:parent_id":1477855885,
     "wof:placetype":"venue",
@@ -121,10 +122,10 @@
     ]
 },
   "bbox": [
-    -122.39139676094055,
-    37.61773280540724,
-    -122.39139676094055,
-    37.61773280540724
+    -122.391397,
+    37.617733,
+    -122.391397,
+    37.617733
 ],
-  "geometry": {"coordinates":[-122.39139676094055,37.61773280540724],"type":"Point"}
+  "geometry": {"coordinates":[-122.391397,37.617733],"type":"Point"}
 }

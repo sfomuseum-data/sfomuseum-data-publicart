@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3286",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.391965389,37.6179877545,-122.391965389,37.6179877545",
+    "geom:bbox":"-122.391965,37.617988,-122.391965,37.617988",
     "geom:latitude":37.617988,
     "geom:longitude":-122.391965,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Blue Deer",
     "sfomuseum:boardingarea":"G",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"painting",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Blue Deer is a large-scale painting that depicts a woman cajoling a small deer out from underneath two trees. The imagery was derived from a children\u2019s book written and illustrated by Rojas called Blue Deer and Red Fox. With its use of vivid geometric shapes and the block patterns of traditional quilts, Blue Deer reflects Rojas\u2019 deep interest in American folk art, quilting and storytelling.",
@@ -73,7 +74,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387380,
-    "wof:geomhash":"f59bfe7ac8a3ab6bdc3c348c96b62548",
+    "wof:geomhash":"62f404249a176a100b2a68e8381d3d01",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -104,7 +105,7 @@
     ],
     "wof:id":1477874005,
     "wof:label":"Rojas, Claire Blue Deer",
-    "wof:lastmodified":1568926987,
+    "wof:lastmodified":1571259873,
     "wof:name":"Blue Deer",
     "wof:parent_id":1477855885,
     "wof:placetype":"venue",
@@ -120,10 +121,10 @@
     ]
 },
   "bbox": [
-    -122.39196538925171,
-    37.61798775454864,
-    -122.39196538925171,
-    37.61798775454864
+    -122.391965,
+    37.617988,
+    -122.391965,
+    37.617988
 ],
-  "geometry": {"coordinates":[-122.39196538925171,37.61798775454864],"type":"Point"}
+  "geometry": {"coordinates":[-122.391965,37.617988],"type":"Point"}
 }

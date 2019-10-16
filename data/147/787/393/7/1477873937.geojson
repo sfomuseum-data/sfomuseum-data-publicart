@@ -10,7 +10,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=21550",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.386633158,37.6183616784,-122.386633158,37.6183616784",
+    "geom:bbox":"-122.386633,37.618362,-122.386633,37.618362",
     "geom:latitude":37.618362,
     "geom:longitude":-122.386633,
     "iso:country":"US",
@@ -18,6 +18,7 @@
     "mz:is_current":1,
     "sfac:accession_id":"T2015.456.a-l",
     "sfomuseum:boardingarea":"E",
+    "sfomuseum:building":"T3",
     "sfomuseum:category":"mosaic",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Based on a 2007 etching with Paul Bott Press. Fabricated by Magnolia Editions. For four generations, women who live in the isolated, African-American hamlet of Gee\u2019s Bend (Boykin), Alabama, have been creating bold dynamic quilts. Their quilting tradition was handed down by female slaves to their descendants, who pieced together strips of cloth to make bedcovers to keep themselves and their children warm. The Gee\u2019s Bend Quilters developed a distinctive style, noted for its lively improvisations and geometric simplicity. Louisiana Bendolph, one of the younger generation of quilt makers, is known for her stunning abstractions. This artwork was made from a design that was originally a quilt, then made into an etching, and here is translated into ceramic tile; it represents an innovative approach to translating this quintessentially American art form into other contemporary media.",
@@ -58,7 +59,7 @@
     ],
     "wof:country":"US",
     "wof:created":1523296715,
-    "wof:geomhash":"34ae3a12325def2e10fe2bad81a5a37c",
+    "wof:geomhash":"44fe429377ffef3b222cd2df4e489e03",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -89,7 +90,7 @@
     ],
     "wof:id":1477873937,
     "wof:label":"New Generation",
-    "wof:lastmodified":1568926969,
+    "wof:lastmodified":1571259873,
     "wof:name":"New Generation",
     "wof:parent_id":1477855829,
     "wof:placetype":"venue",
@@ -102,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -122.3866331577301,
-    37.61836167837464,
-    -122.3866331577301,
-    37.61836167837464
+    -122.386633,
+    37.618362,
+    -122.386633,
+    37.618362
 ],
-  "geometry": {"coordinates":[-122.3866331577301,37.61836167837464],"type":"Point"}
+  "geometry": {"coordinates":[-122.386633,37.618362],"type":"Point"}
 }

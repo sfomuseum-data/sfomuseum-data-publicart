@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3280",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.389972508,37.6117242509,-122.389972508,37.6117242509",
+    "geom:bbox":"-122.389973,37.611724,-122.389973,37.611724",
     "geom:latitude":37.611724,
     "geom:longitude":-122.389973,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Waiting",
     "sfomuseum:boardingarea":"A",
+    "sfomuseum:building":"IT",
     "sfomuseum:category":"mosaic",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"This 25-foot-by-32-foot image is a photographic close-up of four central figures involved in the familiar yet deeply symbolic drama of waiting in an airport for the return of loved ones. The photograph, taken by the artists, was translated into a digital image with each pixel represented by a 1-inch mosaic tile.",
@@ -73,7 +74,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387371,
-    "wof:geomhash":"f6b452b7a55d05333e9d0ab9942187c9",
+    "wof:geomhash":"e0fd97c6449756eeb15a25261ef603bf",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -104,7 +105,7 @@
     ],
     "wof:id":1477873993,
     "wof:label":"Sultan, Larry and Mike Mandel Waiting",
-    "wof:lastmodified":1568926983,
+    "wof:lastmodified":1571259871,
     "wof:name":"Waiting",
     "wof:parent_id":1477855835,
     "wof:placetype":"venue",
@@ -120,10 +121,10 @@
     ]
 },
   "bbox": [
-    -122.38997250795366,
-    37.61172425091747,
-    -122.38997250795366,
-    37.61172425091747
+    -122.389973,
+    37.611724,
+    -122.389973,
+    37.611724
 ],
-  "geometry": {"coordinates":[-122.38997250795366,37.61172425091747],"type":"Point"}
+  "geometry": {"coordinates":[-122.389973,37.611724],"type":"Point"}
 }

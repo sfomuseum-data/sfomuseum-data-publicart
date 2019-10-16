@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=4882",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.383908033,37.6175288455,-122.383908033,37.6175288455",
+    "geom:bbox":"-122.383908,37.617529,-122.383908,37.617529",
     "geom:latitude":37.617529,
     "geom:longitude":-122.383908,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"Metamorphosis",
     "sfomuseum:boardingarea":"D",
+    "sfomuseum:building":"T2",
     "sfomuseum:category":"painting",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Abstract expressionist composition with cotton exposed as part of the design element.  ",
@@ -71,7 +72,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387385,
-    "wof:geomhash":"d7d3e5a014a95402191e16cdec47095f",
+    "wof:geomhash":"bb9026af475db427d0b4c5a093325313",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -100,7 +101,7 @@
     ],
     "wof:id":1477874069,
     "wof:label":"Smith, Hassel Metamorphosis",
-    "wof:lastmodified":1568927005,
+    "wof:lastmodified":1571259871,
     "wof:name":"Metamorphosis",
     "wof:parent_id":1477855655,
     "wof:placetype":"venue",
@@ -116,10 +117,10 @@
     ]
 },
   "bbox": [
-    -122.38390803337097,
-    37.61752884546471,
-    -122.38390803337097,
-    37.61752884546471
+    -122.383908,
+    37.617529,
+    -122.383908,
+    37.617529
 ],
-  "geometry": {"coordinates":[-122.38390803337097,37.61752884546471],"type":"Point"}
+  "geometry": {"coordinates":[-122.38390800000001,37.617529],"type":"Point"}
 }

@@ -14,7 +14,7 @@
     "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3331",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-122.384755611,37.6181704676,-122.384755611,37.6181704676",
+    "geom:bbox":"-122.384756,37.61817,-122.384756,37.61817",
     "geom:latitude":37.61817,
     "geom:longitude":-122.384756,
     "iso:country":"US",
@@ -34,6 +34,7 @@
     "sfac:source":"San Francisco Arts Commission",
     "sfac:title":"The Hesperides",
     "sfomuseum:boardingarea":"E ",
+    "sfomuseum:building":"T3",
     "sfomuseum:category":"sculpture",
     "sfomuseum:collection":"Arts Commission",
     "sfomuseum:description":"Welded aluminum sculpture, with brushed surface texture of overlapping scales.  The two elements twist and turn at various angles, each ending in a long, sinewy finger.",
@@ -74,7 +75,7 @@
     ],
     "wof:country":"US",
     "wof:created":1462387340,
-    "wof:geomhash":"5ab588028bea758568079087c18f5bb9",
+    "wof:geomhash":"24aa52889348bb1270f533ba9dc03f9d",
     "wof:hierarchy":[
         {
             "building_id":1477855605,
@@ -105,7 +106,7 @@
     ],
     "wof:id":1477873951,
     "wof:label":"Beasley, Bruce The Hesperides",
-    "wof:lastmodified":1568926973,
+    "wof:lastmodified":1571259871,
     "wof:name":"The Hesperides",
     "wof:parent_id":1477855699,
     "wof:placetype":"venue",
@@ -121,10 +122,10 @@
     ]
 },
   "bbox": [
-    -122.38475561141968,
-    37.61817046756219,
-    -122.38475561141968,
-    37.61817046756219
+    -122.384756,
+    37.61817,
+    -122.384756,
+    37.61817
 ],
-  "geometry": {"coordinates":[-122.38475561141968,37.61817046756219],"type":"Point"}
+  "geometry": {"coordinates":[-122.384756,37.61817],"type":"Point"}
 }
