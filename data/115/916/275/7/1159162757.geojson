@@ -2,94 +2,96 @@
   "id": 1159162757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2019-07-23",
-    "edtf:inception":"uuuu",
-    "flysfo:node":3303,
-    "flysfo:url":"https://www.flysfo.com/museum/public-art-collection?nid=3303",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-122.384009957,37.6165132866,-122.383720279,37.617371626",
-    "geom:latitude":37.616942,
-    "geom:longitude":-122.383865,
-    "iso:country":"US",
-    "mz:hierarchy_label":1,
-    "mz:is_current":0,
-    "mz:is_currrent":1,
-    "sfac:accession_id":"2011.5",
-    "sfomuseum:boardingarea":"D",
-    "sfomuseum:category":"sculpture",
-    "sfomuseum:collection":"Arts Commission",
-    "sfomuseum:description":"Topograph consists of two suspended forms that reflect the artist\u2019s ongoing interest in the merging of natural and built environments and her investigations into forms that operate at once as landscape and architecture. Suggesting a topography map, the sculptures are comprised of stacked, shaped planes made from powder-coated steel tubing and greenhouse shade cloth.",
-    "sfomuseum:is_sfo":1,
-    "sfomuseum:level":"2",
-    "sfomuseum:map_id":118,
-    "sfomuseum:medium":"Powder coated steel tubing and greenhouse shade cloth\r",
-    "sfomuseum:object_id":113728,
-    "sfomuseum:on_display":1,
-    "sfomuseum:placetype":"publicart",
-    "sfomuseum:post_security":0,
-    "sfomuseum:subcategory":"ceiling sculpture",
-    "sfomuseum:terminal":"2",
-    "sfomuseum:type":"sculpture",
-    "src:geom":"sfomuseum",
-    "wof:belongsto":[
-        1159157327,
-        102527513,
-        102191575,
-        85633793,
-        85922583,
-        102087579,
-        1159157271,
-        1159157325,
-        85688637
+    "date:cessation_lower": "2019-07-23",
+    "date:cessation_upper": "2019-07-23",
+    "edtf:cessation": "2019-07-23",
+    "edtf:inception": "",
+    "flysfo:node": 3303,
+    "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3303",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.384010,37.616513,-122.383720,37.617372",
+    "geom:latitude": 37.616942456274835,
+    "geom:longitude": -122.38386511802673,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "mz:is_currrent": 1,
+    "sfac:accession_id": "2011.5",
+    "sfomuseum:boardingarea": "D",
+    "sfomuseum:category": "sculpture",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:description": "Topograph consists of two suspended forms that reflect the artist’s ongoing interest in the merging of natural and built environments and her investigations into forms that operate at once as landscape and architecture. Suggesting a topography map, the sculptures are comprised of stacked, shaped planes made from powder-coated steel tubing and greenhouse shade cloth.",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "2",
+    "sfomuseum:map_id": 118,
+    "sfomuseum:medium": "Powder coated steel tubing and greenhouse shade cloth\r",
+    "sfomuseum:object_id": 113728,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:subcategory": "ceiling sculpture",
+    "sfomuseum:terminal": "2",
+    "sfomuseum:type": "sculpture",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      1159157327, 
+      102527513, 
+      102191575, 
+      85633793, 
+      85922583, 
+      102087579, 
+      1159157271, 
+      1159157325, 
+      85688637
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "sfac:accession_id":"2011.5",
-        "sfomuseum:object_id":113728
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sfac:accession_id": "2011.5",
+      "sfomuseum:object_id": 113728
     },
-    "wof:controlled":[
-        "wof:hierarchy"
+    "wof:controlled": [
+      "wof:hierarchy"
     ],
-    "wof:country":"US",
-    "wof:created":1523296711,
-    "wof:geomhash":"4b334a4c4e5dafa051f52279dd651b95",
-    "wof:hierarchy":[
-        {
-            "building_id":1159157271,
-            "campus_id":102527513,
-            "concourse_id":1159157327,
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102087579,
-            "locality_id":85922583,
-            "neighbourhood_id":-1,
-            "region_id":85688637,
-            "venue_id":1159162757,
-            "wing_id":1159157325
-        }
+    "wof:country": "US",
+    "wof:created": 1523296711,
+    "wof:geomhash": "4b334a4c4e5dafa051f52279dd651b95",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": 1159157327,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 1159162757,
+        "wing_id": 1159157325
+      }
     ],
-    "wof:id":1159162757,
-    "wof:label":"Buster, Kendall Topograph I and II",
-    "wof:lastmodified":1568926962,
-    "wof:name":"Topograph I and II",
-    "wof:parent_id":1159157327,
-    "wof:placetype":"venue",
-    "wof:placetype_alt":"publicart",
-    "wof:repo":"sfomuseum-data-publicart",
-    "wof:superseded_by":[
-        1477873911
+    "wof:id": 1159162757,
+    "wof:label": "Buster, Kendall Topograph I and II",
+    "wof:lastmodified": 1612389359,
+    "wof:name": "Topograph I and II",
+    "wof:parent_id": 1159157327,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "publicart",
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [
+      1477873911
     ],
-    "wof:supersedes":[
-        772974583
+    "wof:supersedes": [
+      772974583
     ],
-    "wof:tags":[]
-},
+    "wof:tags": []
+  },
   "bbox": [
-    -122.38400995731355,
-    37.61651328658917,
-    -122.38372027873991,
+    -122.38400995731355, 
+    37.61651328658917, 
+    -122.38372027873991, 
     37.6173716259605
-],
+  ],
   "geometry": {"coordinates":[[-122.38400995731355,37.6173716259605],[-122.38372027873991,37.61651328658917]],"type":"MultiPoint"}
 }
