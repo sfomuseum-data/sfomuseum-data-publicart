@@ -2,21 +2,24 @@
   "id": 1175727125,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "2019-07-01",
+    "date:inception_upper": "2019-07-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2019-07",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.386166,37.616356,-122.386166,37.616356",
-    "geom:latitude": 37.616356,
-    "geom:longitude": -122.386166,
+    "geom:bbox": "-122.393994,37.612864,-122.393994,37.612864",
+    "geom:latitude": 37.612864,
+    "geom:longitude": -122.393994,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfac:accession_id": "1979.61",
+    "sfo:level": 2,
     "sfomuseum:building": "Hotel",
     "sfomuseum:category": "print",
     "sfomuseum:collection": "Arts Commission",
-    "sfomuseum:is_current": -2,
+    "sfomuseum:is_current": 1,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:map_id": 200,
     "sfomuseum:medium": "Paper, ink",
@@ -44,7 +47,7 @@
     },
     "wof:country": "US",
     "wof:created": 1612389359,
-    "wof:geomhash": "b6e33f47475d56bc8da457bc31afadc8",
+    "wof:geomhash": "db33f29f70781bd4540161de2b423c0d",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -69,7 +72,7 @@
     ],
     "wof:id": 1175727125,
     "wof:label": "Untitled/ print no. 79.60-1/9",
-    "wof:lastmodified": 1612389359,
+    "wof:lastmodified": 1612482038,
     "wof:name": "Untitled/ print no. 79.60-1/9",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -80,10 +83,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386166, 
-    37.616356, 
-    -122.386166, 
-    37.616356
+    -122.393994, 
+    37.612864, 
+    -122.393994, 
+    37.612864
   ],
-  "geometry": {"coordinates":[-122.386166,37.616356],"type":"Point"}
+  "geometry": {"coordinates":[-122.393994,37.612864],"type":"Point"}
 }
