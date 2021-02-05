@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3330",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384466,37.618523,-122.384466,37.618523",
-    "geom:latitude": 37.61852314489997,
-    "geom:longitude": -122.38446593284607,
+    "geom:bbox": "-122.384519,37.618519,-122.384519,37.618519",
+    "geom:latitude": 37.61851931963306,
+    "geom:longitude": -122.38451926577618,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
@@ -69,7 +69,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387340,
-    "wof:geomhash": "92c108e058d94a89c2b73f39113addee",
+    "wof:geomhash": "e0235e4b8ef72d25d85bccf688425083",
     "wof:hierarchy": [
       {
         "building_id": 1159157271,
@@ -87,7 +87,7 @@
     ],
     "wof:id": 772974445,
     "wof:label": "Bechtle, Robert San Francisco Nova",
-    "wof:lastmodified": 1612389359,
+    "wof:lastmodified": 1612487297,
     "wof:name": "San Francisco Nova",
     "wof:parent_id": 1159396267,
     "wof:placetype": "venue",
@@ -103,10 +103,10 @@
     ]
   },
   "bbox": [
-    -122.38446593284607, 
-    37.61852314489997, 
-    -122.38446593284607, 
-    37.61852314489997
+    -122.38451926577618, 
+    37.61851931963306, 
+    -122.38451926577618, 
+    37.61851931963306
   ],
-  "geometry": {"coordinates":[-122.38446593284607,37.61852314489997],"type":"Point"}
+  "geometry": {"coordinates":[-122.38451926577618,37.61851931963306],"type":"Point"}
 }
