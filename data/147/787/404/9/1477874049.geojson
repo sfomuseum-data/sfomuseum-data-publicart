@@ -6,9 +6,11 @@
     "addr:housenumber": "",
     "addr:postcode": "",
     "addr:street": "",
+    "date:cessation_lower": "2020-05-01",
+    "date:cessation_upper": "2020-05-31",
     "date:inception_lower": "2019-07-23",
     "date:inception_upper": "2019-07-23",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2020-~05",
     "edtf:inception": "2019-07-23",
     "flysfo:node": 3320,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3320",
@@ -45,6 +47,7 @@
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 0,
+    "sfomuseum:subcategory": "",
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
@@ -98,13 +101,15 @@
     ],
     "wof:id": 1477874049,
     "wof:label": "Martin, Vance Untitled",
-    "wof:lastmodified": 1612389359,
+    "wof:lastmodified": 1612918679,
     "wof:name": "Untitled",
     "wof:parent_id": 1477855607,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1729793065
+    ],
     "wof:supersedes": [
       772975335
     ],

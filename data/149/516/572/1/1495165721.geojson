@@ -2,10 +2,13 @@
   "id": 1495165721,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2020-05-01",
+    "date:cessation_upper": "2020-05-31",
     "date:inception_lower": "2019-01-01",
     "date:inception_upper": "2019-12-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2020-~05",
     "edtf:inception": 2019,
+    "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.385158,37.612317,-122.385158,37.612317",
@@ -28,6 +31,7 @@
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
     "src:geom": "unknown",
     "wof:belongsto": [
       1477855605, 
@@ -77,12 +81,15 @@
       }
     ],
     "wof:id": 1495165721,
-    "wof:lastmodified": 1612389359,
+    "wof:label": "",
+    "wof:lastmodified": 1612918706,
     "wof:name": "",
     "wof:parent_id": 1477855659,
     "wof:placetype": "venue",
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1729793137
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },

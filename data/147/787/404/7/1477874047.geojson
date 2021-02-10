@@ -7,9 +7,11 @@
     "addr:postcode": "",
     "addr:street": "",
     "addr:website": "http://www.flysfo.com/museum/public-art-collection?nid=3329",
+    "date:cessation_lower": "2020-05-01",
+    "date:cessation_upper": "2020-05-31",
     "date:inception_lower": "2019-07-23",
     "date:inception_upper": "2019-07-23",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2020-~05",
     "edtf:inception": "2019-07-23",
     "flysfo:node": 3329,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3329",
@@ -47,6 +49,7 @@
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
@@ -105,13 +108,15 @@
     ],
     "wof:id": 1477874047,
     "wof:label": "Thiebaud, Wayne 18th Street Downgrade",
-    "wof:lastmodified": 1612389359,
+    "wof:lastmodified": 1612918751,
     "wof:name": "18th Street Downgrade",
     "wof:parent_id": 1477855785,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1729793265
+    ],
     "wof:supersedes": [
       772975769
     ],
