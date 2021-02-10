@@ -8,13 +8,14 @@
     "edtf:inception": 2019,
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393994,37.612864,-122.393994,37.612864",
-    "geom:latitude": 37.612864,
-    "geom:longitude": -122.393994,
+    "geom:bbox": "-122.393808,37.613161,-122.393808,37.613161",
+    "geom:latitude": 37.61316111158514,
+    "geom:longitude": -122.39380833819047,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
+    "sfo:level": 2,
     "sfomuseum:building": "Hotel",
     "sfomuseum:collection": "Arts Commission",
     "sfomuseum:is_sfo": 1,
@@ -42,7 +43,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259877,
-    "wof:geomhash": "db33f29f70781bd4540161de2b423c0d",
+    "wof:geomhash": "2c6e5da0bc3fa6ed2bd2c434a8da675d",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -67,7 +68,7 @@
     ],
     "wof:id": 1495165667,
     "wof:label": "Cultural Fabric (Bay Area)",
-    "wof:lastmodified": 1612389359,
+    "wof:lastmodified": 1612989296,
     "wof:name": "Cultural Fabric (Bay Area)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -77,10 +78,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.393994, 
-    37.612864, 
-    -122.393994, 
-    37.612864
+    -122.39380833819047, 
+    37.61316111158514, 
+    -122.39380833819047, 
+    37.61316111158514
   ],
-  "geometry": {"coordinates":[-122.393994,37.612864],"type":"Point"}
+  "geometry": {"coordinates":[-122.39380833819047,37.61316111158514],"type":"Point"}
 }
