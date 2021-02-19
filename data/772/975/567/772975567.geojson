@@ -16,7 +16,6 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
-    "mz:is_currrent": 1,
     "mz:is_retail": -1,
     "sfac:accession_id": "1979.35",
     "sfac:artist": "Renfrow, Gregg",
@@ -77,7 +76,7 @@
       }
     ],
     "wof:id": 772975567,
-    "wof:lastmodified": 1613695772,
+    "wof:lastmodified": 1613695982,
     "wof:name": "Untitled",
     "wof:parent_id": 1159160869,
     "wof:placetype": "venue",
