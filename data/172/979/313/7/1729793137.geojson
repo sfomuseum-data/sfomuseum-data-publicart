@@ -16,6 +16,7 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfac:accession_id": "T2018.931",
+    "sfo:level": -1,
     "sfomuseum:boardingarea": "B",
     "sfomuseum:building": "T1",
     "sfomuseum:category": "mosaic",
@@ -77,7 +78,7 @@
       }
     ],
     "wof:id": 1729793137,
-    "wof:lastmodified": 1612918706,
+    "wof:lastmodified": 1613695772,
     "wof:name": "",
     "wof:parent_id": 1729792437,
     "wof:placetype": "venue",

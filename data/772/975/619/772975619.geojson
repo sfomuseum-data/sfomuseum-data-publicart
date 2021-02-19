@@ -30,6 +30,7 @@
     "sfac:revision": "2-a2e8e2cbdfab10d29d2373fec7b81035",
     "sfac:source": "San Francisco Arts Commission",
     "sfac:title": "Light Lines",
+    "sfo:level": -1,
     "sfomuseum:description": "Twelve acrylic horizontal prisms, suspended beneath the ceiling skylight at selected locations, throwing rainbow patterns on the floor and walls.",
     "sfomuseum:is_current": -2,
     "sfomuseum:is_sfo": 1,
@@ -76,7 +77,7 @@
       }
     ],
     "wof:id": 772975619,
-    "wof:lastmodified": 1612389359,
+    "wof:lastmodified": 1613695772,
     "wof:name": "Light Lines",
     "wof:parent_id": 1159160869,
     "wof:placetype": "venue",

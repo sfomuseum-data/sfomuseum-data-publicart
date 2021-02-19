@@ -29,6 +29,7 @@
     "sfac:revision": "2-e0d3dbb3d2095249d52012234ad2a63b",
     "sfac:source": "San Francisco Arts Commission",
     "sfac:title": "Untitled",
+    "sfo:level": -1,
     "sfomuseum:description": "Abstract painting characterized by the use of strong color and form.",
     "sfomuseum:is_current": -2,
     "sfomuseum:is_sfo": 1,
@@ -76,7 +77,7 @@
       }
     ],
     "wof:id": 772974673,
-    "wof:lastmodified": 1613695248,
+    "wof:lastmodified": 1613695772,
     "wof:name": "Untitled",
     "wof:parent_id": 1159160869,
     "wof:placetype": "venue",

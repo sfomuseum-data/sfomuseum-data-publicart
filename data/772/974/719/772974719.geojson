@@ -29,6 +29,7 @@
     "sfac:revision": "2-c73f7706c852c765631e3f57c3d7d7fd",
     "sfac:source": "San Francisco Arts Commission",
     "sfac:title": "Wide Wave",
+    "sfo:level": -1,
     "sfomuseum:is_current": -2,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:map_id": 23,
@@ -74,7 +75,7 @@
       }
     ],
     "wof:id": 772974719,
-    "wof:lastmodified": 1613695248,
+    "wof:lastmodified": 1613695772,
     "wof:name": "Wide Wave",
     "wof:parent_id": 1159160869,
     "wof:placetype": "venue",

@@ -29,6 +29,7 @@
     "sfac:revision": "2-b0ce3356529ca5b35dec311b6689693e",
     "sfac:source": "San Francisco Arts Commission",
     "sfac:title": "Night Passage",
+    "sfo:level": -1,
     "sfomuseum:description": "Black and white abstract painting made to resemble desert landscape.  ",
     "sfomuseum:is_current": -2,
     "sfomuseum:is_sfo": 1,
@@ -75,7 +76,7 @@
       }
     ],
     "wof:id": 772975271,
-    "wof:lastmodified": 1613695248,
+    "wof:lastmodified": 1613695772,
     "wof:name": "Night Passage",
     "wof:parent_id": 1159160869,
     "wof:placetype": "venue",
