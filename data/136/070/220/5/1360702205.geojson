@@ -14,9 +14,9 @@
     "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.373882,37.619369,-122.373882,37.619369",
-    "geom:latitude": 37.61936871387201,
-    "geom:longitude": -122.3738819360733,
+    "geom:bbox": "-122.383815,37.617229,-122.383815,37.617229",
+    "geom:latitude": 37.61722895807935,
+    "geom:longitude": -122.38381465371246,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": -2,
@@ -64,7 +64,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387377,
-    "wof:geomhash": "d738f15869ffbc2c035f95d1cb424bf8",
+    "wof:geomhash": "01ecfc6ea3714f2ee855834a14c7f8d0",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -77,7 +77,7 @@
       }
     ],
     "wof:id": 1360702205,
-    "wof:lastmodified": 1614035695,
+    "wof:lastmodified": 1614038172,
     "wof:name": "Cilindro Costruito",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -93,10 +93,10 @@
     ]
   },
   "bbox": [
-    -122.3738819360733, 
-    37.61936871387201, 
-    -122.3738819360733, 
-    37.61936871387201
+    -122.38381465371246, 
+    37.61722895807935, 
+    -122.38381465371246, 
+    37.61722895807935
   ],
-  "geometry": {"coordinates":[-122.3738819360733,37.61936871387201],"type":"Point"}
+  "geometry": {"coordinates":[-122.38381465371246,37.61722895807935],"type":"Point"}
 }

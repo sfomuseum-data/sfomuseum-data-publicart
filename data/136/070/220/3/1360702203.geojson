@@ -14,9 +14,9 @@
     "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.373882,37.619369,-122.373882,37.619369",
-    "geom:latitude": 37.61936871387201,
-    "geom:longitude": -122.3738819360733,
+    "geom:bbox": "-122.383521,37.617668,-122.383521,37.617668",
+    "geom:latitude": 37.61766823362873,
+    "geom:longitude": -122.3835209852453,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": -2,
@@ -68,7 +68,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387337,
-    "wof:geomhash": "d738f15869ffbc2c035f95d1cb424bf8",
+    "wof:geomhash": "a9e6d5d3d591cc540dfd3e48c05acab7",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1360702203,
     "wof:label": "Adams, Mark Garden Outside the Gate",
-    "wof:lastmodified": 1614035695,
+    "wof:lastmodified": 1614038172,
     "wof:name": "Garden Outside the Gate",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -98,10 +98,10 @@
     ]
   },
   "bbox": [
-    -122.3738819360733, 
-    37.61936871387201, 
-    -122.3738819360733, 
-    37.61936871387201
+    -122.3835209852453, 
+    37.61766823362873, 
+    -122.3835209852453, 
+    37.61766823362873
   ],
-  "geometry": {"coordinates":[-122.3738819360733,37.61936871387201],"type":"Point"}
+  "geometry": {"coordinates":[-122.3835209852453,37.61766823362873],"type":"Point"}
 }
