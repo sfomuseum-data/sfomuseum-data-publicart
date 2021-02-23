@@ -6,14 +6,12 @@
     "addr:housenumber": "",
     "addr:postcode": "",
     "addr:street": "",
-    "date:cessation_lower": "2020-05-01",
-    "date:cessation_upper": "2020-05-31",
-    "date:inception_lower": "2018-12-04",
-    "date:inception_upper": "2018-12-04",
-    "edtf:cessation": "2020-~05",
-    "edtf:inception": "2018-12-04",
+    "date:inception_lower": "2020-05-01",
+    "date:inception_upper": "2020-05-31",
+    "edtf:cessation": "..",
+    "edtf:inception": "2020-~05",
     "flysfo:node": "",
-    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/garden-outside-gate",
+    "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.383521,37.617668,-122.383521,37.617668",
@@ -37,16 +35,15 @@
     "sfac:title": "Garden Outside the Gate (The Garden Tapestries)",
     "sfo:level": 2,
     "sfomuseum:boardingarea": "D",
-    "sfomuseum:building": "T2",
     "sfomuseum:category": "textile",
     "sfomuseum:collection": "Arts Commission",
     "sfomuseum:description": "Flat-weave wool tapestry with scene of large, colorful flower heads.  Picket fence visible on left side.  Woven in the traditional Aubusson style.",
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "",
-    "sfomuseum:map_id": 62,
+    "sfomuseum:map_id": -1,
     "sfomuseum:medium": "Flat-weave wool tapestry",
     "sfomuseum:object_id": 109358,
-    "sfomuseum:on_display": 1,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "tapestry",
@@ -59,7 +56,12 @@
       85633793, 
       85922583, 
       102087579, 
-      85688637
+      85688637, 
+      1729792387, 
+      1729792433, 
+      554784711, 
+      1729792389, 
+      102085387
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -74,28 +76,41 @@
     "wof:geomhash": "a9e6d5d3d591cc540dfd3e48c05acab7",
     "wof:hierarchy": [
       {
+        "building_id": 1729792387,
         "campus_id": 102527513,
+        "concourse_id": 1729792433,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
         "locality_id": 85922583,
+        "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1360702203
+        "venue_id": 1729829267,
+        "wing_id": 1729792389
+      }, 
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792433,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1729829267,
+        "wing_id": 1729792389
       }
     ],
-    "wof:id": 1360702203,
+    "wof:id": 1729829267,
     "wof:label": "Adams, Mark Garden Outside the Gate",
     "wof:lastmodified": 1614046294,
     "wof:name": "Garden Outside the Gate",
-    "wof:parent_id": 1729828959,
+    "wof:parent_id": 1729792433,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [
-      1729829267
-    ],
+    "wof:superseded_by": [],
     "wof:supersedes": [
-      772974353
+      1360702203
     ],
     "wof:tags": [
       "artwork", 

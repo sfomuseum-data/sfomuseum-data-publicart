@@ -1,0 +1,76 @@
+{
+  "id": 1729829271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.385859,37.611397,-122.385859,37.611397",
+    "geom:latitude": 37.611397254737994,
+    "geom:longitude": -122.38585859681446,
+    "mz:is_current": 1,
+    "sfac:accession_id": "T2018.46 a-p",
+    "sfo:level": "2",
+    "sfomuseum:boardingarea": "B",
+    "sfomuseum:building": "T1",
+    "sfomuseum:category": "print",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:map_id": 181,
+    "sfomuseum:medium": "Digital prints on archival rag paper",
+    "sfomuseum:object_id": 203156,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "digital print",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      102087579, 
+      85922583, 
+      554784711, 
+      85688637, 
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1614046298,
+    "wof:geomhash": "8ae2e4e374769aa1838a94d227a0015b",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1729829271
+      }, 
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1729829271
+      }
+    ],
+    "wof:id": 1729829271,
+    "wof:label": "Advice from My 80-Year-Old-Self",
+    "wof:lastmodified": 1614105908,
+    "wof:name": "Advice from My 80-Year-Old-Self",
+    "wof:parent_id": 1729828959,
+    "wof:placetype": "venue",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38585859681446, 
+    37.611397254737994, 
+    -122.38585859681446, 
+    37.611397254737994
+  ],
+  "geometry": {"coordinates":[-122.38585859681446,37.611397254737994],"type":"Point"}
+}

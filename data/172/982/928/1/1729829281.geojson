@@ -1,0 +1,76 @@
+{
+  "id": 1729829281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.387042,37.614619,-122.387042,37.614619",
+    "geom:latitude": 37.61461880266043,
+    "geom:longitude": -122.38704165113626,
+    "mz:is_current": 1,
+    "sfac:accession_id": "T2018.29",
+    "sfo:level": "1",
+    "sfomuseum:boardingarea": "B",
+    "sfomuseum:building": "T1",
+    "sfomuseum:category": "sculpture",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:map_id": 191,
+    "sfomuseum:medium": "Bird Plane House: aluminum, paint\rIntersection: concrete, terazzo\rShell: steel, concrete, paint",
+    "sfomuseum:object_id": 203427,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:subcategory": "",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      85633793, 
+      102087579, 
+      85922583, 
+      554784711, 
+      85688637, 
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1614046301,
+    "wof:geomhash": "9aecb666fabb7ad46bcfdc6992602a9d",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1729829281
+      }, 
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1729829281
+      }
+    ],
+    "wof:id": 1729829281,
+    "wof:label": "Bird Plane House; Intersection; Shell",
+    "wof:lastmodified": 1614105908,
+    "wof:name": "Bird Plane House; Intersection; Shell",
+    "wof:parent_id": 1729828959,
+    "wof:placetype": "venue",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38704165113626, 
+    37.61461880266043, 
+    -122.38704165113626, 
+    37.61461880266043
+  ],
+  "geometry": {"coordinates":[-122.38704165113626,37.61461880266043],"type":"Point"}
+}
