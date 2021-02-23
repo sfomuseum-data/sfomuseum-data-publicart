@@ -35,7 +35,7 @@
     "sfomuseum:map_id": 24,
     "sfomuseum:medium": "Color lithograph",
     "sfomuseum:object_id": 109401,
-    "sfomuseum:on_display": -2,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "",
@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 772974717,
-    "wof:lastmodified": 1614035695,
+    "wof:lastmodified": 1614116008,
     "wof:name": "Twin Wave",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

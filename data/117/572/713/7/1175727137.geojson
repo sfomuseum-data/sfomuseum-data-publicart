@@ -18,7 +18,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:map_id": -1,
     "sfomuseum:object_id": 109388,
-    "sfomuseum:on_display": -2,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
@@ -50,7 +50,7 @@
       }
     ],
     "wof:id": 1175727137,
-    "wof:lastmodified": 1614035695,
+    "wof:lastmodified": 1614116008,
     "wof:name": "Bird Technology proposal drawing",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

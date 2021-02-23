@@ -34,7 +34,7 @@
     "sfomuseum:map_id": 78,
     "sfomuseum:medium": "Found metal collage on wood with steel brads",
     "sfomuseum:object_id": 109329,
-    "sfomuseum:on_display": -2,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "",
@@ -70,7 +70,7 @@
       }
     ],
     "wof:id": 772974457,
-    "wof:lastmodified": 1614035695,
+    "wof:lastmodified": 1614116008,
     "wof:name": "Dancing on the Brink of the World",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

@@ -35,7 +35,7 @@
     "sfomuseum:map_id": 71,
     "sfomuseum:medium": "Acrylic and polymer on canvas",
     "sfomuseum:object_id": 109342,
-    "sfomuseum:on_display": -2,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "",
@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 772975279,
-    "wof:lastmodified": 1614035695,
+    "wof:lastmodified": 1614116008,
     "wof:name": "The Smile of Reason",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

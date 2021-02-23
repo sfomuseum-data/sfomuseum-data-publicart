@@ -36,7 +36,7 @@
     "sfomuseum:map_id": 42,
     "sfomuseum:medium": "Acrylic on canvas",
     "sfomuseum:object_id": 109310,
-    "sfomuseum:on_display": -2,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 0,
     "sfomuseum:type": "",
@@ -73,7 +73,7 @@
       }
     ],
     "wof:id": 772975811,
-    "wof:lastmodified": 1614035695,
+    "wof:lastmodified": 1614116008,
     "wof:name": "Untitled",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
