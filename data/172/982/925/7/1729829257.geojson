@@ -37,7 +37,7 @@
     "sfomuseum:description": "Polished cylindrical bronze column with vertical fissures exposing \\dendritic\\\" internal skeleton structure.\"",
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "",
-    "sfomuseum:map_id": -1,
+    "sfomuseum:map_id": 45,
     "sfomuseum:medium": "Cast bronze with lacquer",
     "sfomuseum:object_id": 109362,
     "sfomuseum:on_display": 0,
@@ -97,7 +97,7 @@
       }
     ],
     "wof:id": 1729829257,
-    "wof:lastmodified": 1614046284,
+    "wof:lastmodified": 1615314525,
     "wof:name": "Cilindro Costruito",
     "wof:parent_id": 1729792685,
     "wof:placetype": "venue",

@@ -16,7 +16,7 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfac:accession_id": "T2018.69",
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:building": "T1",
     "sfomuseum:category": "painting",
     "sfomuseum:collection": "Arts Commission",
@@ -27,7 +27,7 @@
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513, 
       85688637, 
