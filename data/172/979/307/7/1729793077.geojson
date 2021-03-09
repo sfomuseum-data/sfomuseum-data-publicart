@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3331",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384756,37.618170,-122.384756,37.618170",
-    "geom:latitude": 37.61817,
-    "geom:longitude": -122.384756,
+    "geom:bbox": "-122.385117,37.617951,-122.385117,37.617951",
+    "geom:latitude": 37.61795086253532,
+    "geom:longitude": -122.38511707606703,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -74,7 +74,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387340,
-    "wof:geomhash": "24aa52889348bb1270f533ba9dc03f9d",
+    "wof:geomhash": "900bf3ee8f6be7fb46b58a5d0c55e35b",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -103,7 +103,7 @@
     ],
     "wof:id": 1729793077,
     "wof:label": "Beasley, Bruce The Hesperides",
-    "wof:lastmodified": 1613695772,
+    "wof:lastmodified": 1615316222,
     "wof:name": "The Hesperides",
     "wof:parent_id": 1729792551,
     "wof:placetype": "venue",
@@ -119,10 +119,10 @@
     ]
   },
   "bbox": [
-    -122.384756, 
-    37.61817, 
-    -122.384756, 
-    37.61817
+    -122.38511707606703, 
+    37.61795086253532, 
+    -122.38511707606703, 
+    37.61795086253532
   ],
-  "geometry": {"coordinates":[-122.384756,37.61817],"type":"Point"}
+  "geometry": {"coordinates":[-122.38511707606703,37.61795086253532],"type":"Point"}
 }

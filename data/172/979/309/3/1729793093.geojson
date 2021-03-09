@@ -10,9 +10,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21550",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.386633,37.618362,-122.386633,37.618362",
-    "geom:latitude": 37.618362,
-    "geom:longitude": -122.386633,
+    "geom:bbox": "-122.386310,37.618600,-122.386310,37.618600",
+    "geom:latitude": 37.61859967398861,
+    "geom:longitude": -122.38630960979458,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -57,7 +57,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1523296715,
-    "wof:geomhash": "44fe429377ffef3b222cd2df4e489e03",
+    "wof:geomhash": "f5ed55a331f3a8842d04a09fff0be1ea",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -86,7 +86,7 @@
     ],
     "wof:id": 1729793093,
     "wof:label": "New Generation",
-    "wof:lastmodified": 1613695772,
+    "wof:lastmodified": 1615316222,
     "wof:name": "New Generation",
     "wof:parent_id": 1729792577,
     "wof:placetype": "venue",
@@ -99,10 +99,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386633, 
-    37.618362, 
-    -122.386633, 
-    37.618362
+    -122.38630960979458, 
+    37.61859967398861, 
+    -122.38630960979458, 
+    37.61859967398861
   ],
-  "geometry": {"coordinates":[-122.386633,37.618362],"type":"Point"}
+  "geometry": {"coordinates":[-122.38630960979458,37.61859967398861],"type":"Point"}
 }

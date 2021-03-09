@@ -10,9 +10,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21552",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.386569,37.618030,-122.386569,37.618030",
-    "geom:latitude": 37.61803,
-    "geom:longitude": -122.386569,
+    "geom:bbox": "-122.385871,37.618563,-122.385871,37.618563",
+    "geom:latitude": 37.61856312123068,
+    "geom:longitude": -122.38587097669938,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -57,7 +57,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1523296716,
-    "wof:geomhash": "50f72a458b4701486efd835cf6fdf05a",
+    "wof:geomhash": "4c7fabb6dc18ebf0f5a62c0e8f7c2e8d",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -86,7 +86,7 @@
     ],
     "wof:id": 1729793281,
     "wof:label": "Everywhere All At Once",
-    "wof:lastmodified": 1613695773,
+    "wof:lastmodified": 1615316222,
     "wof:name": "Everywhere All At Once",
     "wof:parent_id": 1729792699,
     "wof:placetype": "venue",
@@ -99,10 +99,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386569, 
-    37.61803, 
-    -122.386569, 
-    37.61803
+    -122.38587097669938, 
+    37.61856312123068, 
+    -122.38587097669938, 
+    37.61856312123068
   ],
-  "geometry": {"coordinates":[-122.386569,37.61803],"type":"Point"}
+  "geometry": {"coordinates":[-122.38587097669938,37.61856312123068],"type":"Point"}
 }
