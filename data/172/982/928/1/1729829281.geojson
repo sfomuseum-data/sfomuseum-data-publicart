@@ -23,7 +23,7 @@
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513, 
       102191575, 
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1729829281,
     "wof:label": "Bird Plane House; Intersection; Shell",
-    "wof:lastmodified": 1614110161,
+    "wof:lastmodified": 1615314970,
     "wof:name": "Bird Plane House; Intersection; Shell",
     "wof:parent_id": 1729792695,
     "wof:placetype": "venue",

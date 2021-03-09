@@ -25,7 +25,7 @@
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513, 
       85688637, 
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1495165729,
     "wof:label": "So Much More Than This",
-    "wof:lastmodified": 1613695772,
+    "wof:lastmodified": 1615314970,
     "wof:name": "So Much More Than This",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

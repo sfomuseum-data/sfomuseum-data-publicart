@@ -32,7 +32,7 @@
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "wall piece",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1477855659, 
       102527513, 
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1495165717,
     "wof:label": "Untitled",
-    "wof:lastmodified": 1613693226,
+    "wof:lastmodified": 1615314970,
     "wof:name": "Untitled",
     "wof:parent_id": 1477855659,
     "wof:placetype": "venue",

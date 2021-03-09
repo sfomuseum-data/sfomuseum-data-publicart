@@ -28,7 +28,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "sculpture",
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1159157337, 
       102527513, 
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1376960413,
     "wof:label": "Timekeeper, Light and Turn",
-    "wof:lastmodified": 1612389359,
+    "wof:lastmodified": 1615314970,
     "wof:name": "Timekeeper, Light and Turn",
     "wof:parent_id": 1376884709,
     "wof:placetype": "venue",

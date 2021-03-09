@@ -26,7 +26,7 @@
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 0,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513, 
       85688637, 
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1495165643,
     "wof:label": "No Other Land Their Glory Know (4/10)",
-    "wof:lastmodified": 1614116008,
+    "wof:lastmodified": 1615314970,
     "wof:name": "No Other Land Their Glory Know (4/10)",
     "wof:parent_id": 1477855979,
     "wof:placetype": "venue",

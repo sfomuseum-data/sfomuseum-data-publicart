@@ -28,7 +28,7 @@
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513, 
       85688637, 
@@ -78,7 +78,7 @@
     ],
     "wof:id": 1729793247,
     "wof:label": "The Author and Her Story",
-    "wof:lastmodified": 1613695773,
+    "wof:lastmodified": 1615314970,
     "wof:name": "The Author and Her Story",
     "wof:parent_id": 1729792437,
     "wof:placetype": "venue",

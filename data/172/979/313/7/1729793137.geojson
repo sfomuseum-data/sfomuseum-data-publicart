@@ -29,7 +29,7 @@
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 1,
-    "src:geom": "unknown",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513, 
       102191575, 
@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1729793137,
-    "wof:lastmodified": 1613695772,
+    "wof:lastmodified": 1615314970,
     "wof:name": "",
     "wof:parent_id": 1729792437,
     "wof:placetype": "venue",
