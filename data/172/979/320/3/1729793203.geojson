@@ -8,9 +8,9 @@
     "edtf:inception": "2020-~05",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.385158,37.612317,-122.385158,37.612317",
-    "geom:latitude": 37.612317,
-    "geom:longitude": -122.385158,
+    "geom:bbox": "-122.384462,37.612713,-122.384462,37.612713",
+    "geom:latitude": 37.61271254640581,
+    "geom:longitude": -122.3844617405055,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -49,7 +49,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259886,
-    "wof:geomhash": "290acbaeb144e8f266dcfa44932c3be3",
+    "wof:geomhash": "6cc0dc5064985138b89a3e65ab35b124",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -78,7 +78,7 @@
     ],
     "wof:id": 1729793203,
     "wof:label": "Untitled",
-    "wof:lastmodified": 1615314970,
+    "wof:lastmodified": 1615326066,
     "wof:name": "Untitled",
     "wof:parent_id": 1729792437,
     "wof:placetype": "venue",
@@ -90,10 +90,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.385158, 
-    37.612317, 
-    -122.385158, 
-    37.612317
+    -122.3844617405055, 
+    37.61271254640581, 
+    -122.3844617405055, 
+    37.61271254640581
   ],
-  "geometry": {"coordinates":[-122.385158,37.612317],"type":"Point"}
+  "geometry": {"coordinates":[-122.3844617405055,37.61271254640581],"type":"Point"}
 }

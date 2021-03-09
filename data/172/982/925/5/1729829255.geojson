@@ -8,9 +8,9 @@
     "edtf:inception": "2020-~05",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.385218,37.614553,-122.385218,37.614553",
-    "geom:latitude": 37.61455296497229,
-    "geom:longitude": -122.38521833632944,
+    "geom:bbox": "-122.384863,37.614758,-122.384863,37.614758",
+    "geom:latitude": 37.61475763458209,
+    "geom:longitude": -122.38486289241699,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -49,7 +49,7 @@
     },
     "wof:country": "US",
     "wof:created": 1612389359,
-    "wof:geomhash": "dd6b3e03dc44542217b4d1a7ce7997e0",
+    "wof:geomhash": "c320f8e1555c3239f6238cd1964805c3",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -78,7 +78,7 @@
     ],
     "wof:id": 1729829255,
     "wof:label": "When Pink Elephants Fly",
-    "wof:lastmodified": 1614116482,
+    "wof:lastmodified": 1615326066,
     "wof:name": "When Pink Elephants Fly",
     "wof:parent_id": 1729792695,
     "wof:placetype": "venue",
@@ -91,10 +91,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38521833632944, 
-    37.61455296497229, 
-    -122.38521833632944, 
-    37.61455296497229
+    -122.38486289241699, 
+    37.61475763458209, 
+    -122.38486289241699, 
+    37.61475763458209
   ],
-  "geometry": {"coordinates":[-122.38521833632944,37.61455296497229],"type":"Point"}
+  "geometry": {"coordinates":[-122.38486289241699,37.61475763458209],"type":"Point"}
 }
