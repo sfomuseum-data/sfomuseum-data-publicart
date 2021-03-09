@@ -27,7 +27,7 @@
     "sfomuseum:object_id": 202709,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "src:geom": "unknown",
     "wof:belongsto": [
       102527513, 
@@ -78,7 +78,7 @@
     ],
     "wof:id": 1729793087,
     "wof:label": "Turn",
-    "wof:lastmodified": 1613695772,
+    "wof:lastmodified": 1615255306,
     "wof:name": "Turn",
     "wof:parent_id": 1729792643,
     "wof:placetype": "venue",
