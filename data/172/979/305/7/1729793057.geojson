@@ -16,7 +16,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "G",
     "sfomuseum:building": "IT",
     "sfomuseum:category": "mural",
@@ -33,16 +33,16 @@
     "sfomuseum:terminal": "IT",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792643, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792643,
       1729792579
     ],
     "wof:breaches": [],
@@ -65,7 +65,7 @@
         "region_id": 85688637,
         "venue_id": 1729793057,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -80,7 +80,7 @@
     ],
     "wof:id": 1729793057,
     "wof:label": "No Other Lands Their Glory Know",
-    "wof:lastmodified": 1613695772,
+    "wof:lastmodified": 1617238512,
     "wof:name": "No Other Lands Their Glory Know",
     "wof:parent_id": 1729792643,
     "wof:placetype": "venue",
@@ -93,9 +93,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39133830044813, 
-    37.6179322504229, 
-    -122.39133830044813, 
+    -122.39133830044813,
+    37.6179322504229,
+    -122.39133830044813,
     37.6179322504229
   ],
   "geometry": {"coordinates":[-122.39133830044813,37.6179322504229],"type":"Point"}

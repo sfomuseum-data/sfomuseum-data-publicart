@@ -16,7 +16,7 @@
     "mz:is_approximate": 1,
     "mz:is_current": 1,
     "sfac:accession_id": "2019.1",
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:building": "CAC",
     "sfomuseum:collection": "Arts Commission",
     "sfomuseum:is_sfo": 1,
@@ -28,14 +28,14 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1477855979, 
-      554784711, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1477855979,
+      554784711,
       102085387
     ],
     "wof:breaches": [],
@@ -57,7 +57,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1495165643
-      }, 
+      },
       {
         "building_id": 1477855979,
         "campus_id": 102527513,
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1495165643,
     "wof:label": "No Other Land Their Glory Know (4/10)",
-    "wof:lastmodified": 1615314970,
+    "wof:lastmodified": 1617238512,
     "wof:name": "No Other Land Their Glory Know (4/10)",
     "wof:parent_id": 1477855979,
     "wof:placetype": "venue",
@@ -80,9 +80,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.398274, 
-    37.622993, 
-    -122.398274, 
+    -122.398274,
+    37.622993,
+    -122.398274,
     37.622993
   ],
   "geometry": {"coordinates":[-122.398274,37.622993],"type":"Point"}

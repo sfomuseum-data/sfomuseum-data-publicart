@@ -33,7 +33,7 @@
     "sfac:revision": "2-5e367ceff399fbfd9022724afe97b955",
     "sfac:source": "San Francisco Arts Commission",
     "sfac:title": "Pohina",
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "C",
     "sfomuseum:category": "sculpture",
     "sfomuseum:collection": "Arts Commission",
@@ -50,16 +50,16 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792459, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792459,
       1729792435
     ],
     "wof:breaches": [],
@@ -86,7 +86,7 @@
         "region_id": 85688637,
         "venue_id": 1729829261,
         "wing_id": 1729792435
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -101,7 +101,7 @@
     ],
     "wof:id": 1729829261,
     "wof:label": "Butterfield, Deborah Pohina",
-    "wof:lastmodified": 1614046286,
+    "wof:lastmodified": 1617238512,
     "wof:name": "Pohina",
     "wof:parent_id": 1729792459,
     "wof:placetype": "venue",
@@ -112,14 +112,14 @@
       1477873967
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.3833930492401, 
-    37.61517901660707, 
-    -122.3833930492401, 
+    -122.3833930492401,
+    37.61517901660707,
+    -122.3833930492401,
     37.61517901660707
   ],
   "geometry": {"coordinates":[-122.3833930492401,37.61517901660707],"type":"Point"}
