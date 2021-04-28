@@ -30,16 +30,16 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792643, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792643,
       1729792579
     ],
     "wof:breaches": [],
@@ -63,7 +63,7 @@
         "region_id": 85688637,
         "venue_id": 1729793087,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -78,10 +78,11 @@
     ],
     "wof:id": 1729793087,
     "wof:label": "Turn",
-    "wof:lastmodified": 1615314970,
+    "wof:lastmodified": 1619636063,
     "wof:name": "Turn",
     "wof:parent_id": 1729792643,
     "wof:placetype": "venue",
+    "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [
@@ -90,9 +91,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.393323, 
-    37.618652, 
-    -122.393323, 
+    -122.393323,
+    37.618652,
+    -122.393323,
     37.618652
   ],
   "geometry": {"coordinates":[-122.393323,37.618652],"type":"Point"}

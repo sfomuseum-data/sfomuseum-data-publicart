@@ -30,16 +30,16 @@
     "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792437, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792437,
       1729792435
     ],
     "wof:breaches": [],
@@ -63,7 +63,7 @@
         "region_id": 85688637,
         "venue_id": 1729793105,
         "wing_id": 1729792435
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -78,10 +78,11 @@
     ],
     "wof:id": 1729793105,
     "wof:label": "Untitled",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1619636063,
     "wof:name": "Untitled",
     "wof:parent_id": 1729792437,
     "wof:placetype": "venue",
+    "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [
@@ -90,9 +91,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38502807261585, 
-    37.61235072311309, 
-    -122.38502807261585, 
+    -122.38502807261585,
+    37.61235072311309,
+    -122.38502807261585,
     37.61235072311309
   ],
   "geometry": {"coordinates":[-122.38502807261585,37.61235072311309],"type":"Point"}

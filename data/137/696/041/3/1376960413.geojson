@@ -30,15 +30,15 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159157337, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1376884709, 
-      85922583, 
-      102087579, 
-      1159157271, 
-      1159157333, 
+      1159157337,
+      102527513,
+      102191575,
+      85633793,
+      1376884709,
+      85922583,
+      102087579,
+      1159157271,
+      1159157333,
       85688637
     ],
     "wof:breaches": [],
@@ -66,10 +66,11 @@
     ],
     "wof:id": 1376960413,
     "wof:label": "Timekeeper, Light and Turn",
-    "wof:lastmodified": 1615314970,
+    "wof:lastmodified": 1619636063,
     "wof:name": "Timekeeper, Light and Turn",
     "wof:parent_id": 1376884709,
     "wof:placetype": "venue",
+    "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1477873905
@@ -78,9 +79,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.393323, 
-    37.618652, 
-    -122.393323, 
+    -122.393323,
+    37.618652,
+    -122.393323,
     37.618652
   ],
   "geometry": {"coordinates":[-122.393323,37.618652],"type":"Point"}

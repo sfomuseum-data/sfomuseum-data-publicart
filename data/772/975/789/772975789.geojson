@@ -36,9 +36,9 @@
     "sfomuseum:placetype": "publicart",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      85633793, 
+      102527513,
+      85688637,
+      85633793,
       102087579
     ],
     "wof:breaches": [],
@@ -62,22 +62,23 @@
       }
     ],
     "wof:id": 772975789,
-    "wof:lastmodified": 1613696016,
+    "wof:lastmodified": 1619636063,
     "wof:name": "The Red Horizon",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
+    "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.389979, 
-    37.615223, 
-    -122.389979, 
+    -122.389979,
+    37.615223,
+    -122.389979,
     37.615223
   ],
   "geometry": {"coordinates":[-122.389979,37.615223],"type":"Point"}

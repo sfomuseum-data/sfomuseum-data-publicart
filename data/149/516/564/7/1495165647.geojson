@@ -27,14 +27,14 @@
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1477856005, 
-      554784711, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1477856005,
+      554784711,
       102085387
     ],
     "wof:breaches": [],
@@ -56,7 +56,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1495165647
-      }, 
+      },
       {
         "building_id": 1477856005,
         "campus_id": 102527513,
@@ -69,19 +69,20 @@
     ],
     "wof:id": 1495165647,
     "wof:label": "Golden Gate Bridge, 3.4.01, 7:30 pm",
-    "wof:lastmodified": 1615314970,
+    "wof:lastmodified": 1619636063,
     "wof:name": "Golden Gate Bridge, 3.4.01, 7:30 pm",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
+    "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": []
   },
   "bbox": [
-    -122.39406478586704, 
-    37.61296798432254, 
-    -122.39406478586704, 
+    -122.39406478586704,
+    37.61296798432254,
+    -122.39406478586704,
     37.61296798432254
   ],
   "geometry": {"coordinates":[-122.39406478586704,37.61296798432254],"type":"Point"}
