@@ -68,11 +68,12 @@
     ],
     "wof:id": 1729829271,
     "wof:label": "Advice from My 80-Year-Old-Self",
-    "wof:lastmodified": 1619636063,
+    "wof:lastmodified": 1620760892,
     "wof:name": "Advice from My 80-Year-Old-Self",
     "wof:parent_id": 1729792437,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
+    "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
