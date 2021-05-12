@@ -61,8 +61,8 @@
       554784711,
       102085387,
       1729792387,
-      1729792693,
-      1729792579
+      1729792579,
+      1729792693
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -103,7 +103,7 @@
     ],
     "wof:id": 1729793123,
     "wof:label": "DeSoto, Lewis On The Air",
-    "wof:lastmodified": 1620776300,
+    "wof:lastmodified": 1620853262,
     "wof:name": "On The Air",
     "wof:parent_id": 1729792693,
     "wof:placetype": "venue",
