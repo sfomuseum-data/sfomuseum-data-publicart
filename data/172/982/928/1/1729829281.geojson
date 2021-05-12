@@ -5,10 +5,10 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 0,
-    "geom:bbox": "-122.387042,37.614619,-122.387042,37.614619",
-    "geom:latitude": 37.61461880266043,
-    "geom:longitude": -122.38704165113626,
+    "geom:area": 3.792367188206016e-11,
+    "geom:bbox": "-122.387045,37.614616,-122.387038,37.614622",
+    "geom:latitude": 37.61461880249999,
+    "geom:longitude": -122.387041651,
     "mz:is_current": 1,
     "sfac:accession_id": "T2018.29",
     "sfo:level": 1,
@@ -34,17 +34,17 @@
       85688637,
       102085387,
       1729792387,
-      1729792695,
-      1729792435
+      1729792435,
+      1729792483
     ],
     "wof:country": "XX",
     "wof:created": 1614046301,
-    "wof:geomhash": "9aecb666fabb7ad46bcfdc6992602a9d",
+    "wof:geomhash": "be8bfaaf1356bb29b7bef9907c2b21b9",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1729792695,
+        "concourse_id": 1729792483,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -57,7 +57,7 @@
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
-        "concourse_id": 1729792695,
+        "concourse_id": 1729792483,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
@@ -68,9 +68,9 @@
     ],
     "wof:id": 1729829281,
     "wof:label": "Bird Plane House; Intersection; Shell",
-    "wof:lastmodified": 1620760892,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Bird Plane House; Intersection; Shell",
-    "wof:parent_id": 1729792695,
+    "wof:parent_id": 1729792483,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
@@ -78,10 +78,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38704165113626,
-    37.61461880266043,
-    -122.38704165113626,
-    37.61461880266043
+    -122.38704510299999,
+    37.61461605599999,
+    -122.38703819900002,
+    37.61462154899999
   ],
-  "geometry": {"coordinates":[-122.38704165113626,37.61461880266043],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38703819900002,37.61462154899999],[-122.38704510299999,37.61462154899999],[-122.38704510299999,37.61461605599999],[-122.38703819900002,37.61461605599999],[-122.38703819900002,37.61462154899999]]],"type":"Polygon"}
 }

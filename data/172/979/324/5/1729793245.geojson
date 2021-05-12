@@ -6,11 +6,11 @@
     "date:inception_upper": "2020-05-31",
     "edtf:cessation": "..",
     "edtf:inception": "2020-~05",
-    "geom:area": 0,
+    "geom:area": 3.791676795509834e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.385256,37.612193,-122.385256,37.612193",
-    "geom:latitude": 37.61219340863799,
-    "geom:longitude": -122.38525617860473,
+    "geom:bbox": "-122.385161,37.612314,-122.385155,37.612320",
+    "geom:latitude": 37.61231700000002,
+    "geom:longitude": -122.38515799999999,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -49,7 +49,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259881,
-    "wof:geomhash": "8089ea843facb05ee5ff175a82ebc186",
+    "wof:geomhash": "ac1b0f0d2f1066466a1a0075fdda2b1a",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -78,7 +78,7 @@
     ],
     "wof:id": 1729793245,
     "wof:label": "Untitled (R3BM405)",
-    "wof:lastmodified": 1619636063,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Untitled (R3BM405)",
     "wof:parent_id": 1729792437,
     "wof:placetype": "venue",
@@ -91,10 +91,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38525617860473,
-    37.61219340863799,
-    -122.38525617860473,
-    37.61219340863799
+    -122.38516145199998,
+    37.61231425400001,
+    -122.385154548,
+    37.612319746000026
   ],
-  "geometry": {"coordinates":[-122.38525617860473,37.61219340863799],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.385154548,37.612319746000026],[-122.38516145199998,37.612319746000026],[-122.38516145199998,37.61231425400001],[-122.385154548,37.61231425400001],[-122.385154548,37.612319746000026]]],"type":"Polygon"}
 }

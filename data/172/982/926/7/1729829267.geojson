@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": "",
     "flysfo:url": "",
-    "geom:area": 0,
+    "geom:area": 3.792916513621368e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383521,37.617668,-122.383521,37.617668",
-    "geom:latitude": 37.61766823362873,
-    "geom:longitude": -122.3835209852453,
+    "geom:bbox": "-122.383524,37.617665,-122.383518,37.617671",
+    "geom:latitude": 37.61766823350001,
+    "geom:longitude": -122.38352098549998,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -51,16 +51,16 @@
     "sfomuseum:type": "textile",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      85688637, 
-      1729792387, 
-      1729792433, 
-      554784711, 
-      1729792389, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      85688637,
+      1729792387,
+      1729792433,
+      554784711,
+      1729792389,
       102085387
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387337,
-    "wof:geomhash": "a9e6d5d3d591cc540dfd3e48c05acab7",
+    "wof:geomhash": "0ffaa659907fadaac0a2a23ab04ff3ed",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -87,7 +87,7 @@
         "region_id": 85688637,
         "venue_id": 1729829267,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -102,7 +102,7 @@
     ],
     "wof:id": 1729829267,
     "wof:label": "Adams, Mark Garden Outside the Gate",
-    "wof:lastmodified": 1615253525,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Garden Outside the Gate",
     "wof:parent_id": 1729792433,
     "wof:placetype": "venue",
@@ -113,15 +113,15 @@
       1360702203
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.3835209852453, 
-    37.61766823362873, 
-    -122.3835209852453, 
-    37.61766823362873
+    -122.383524438,
+    37.61766548700001,
+    -122.38351753299997,
+    37.617670980000014
   ],
-  "geometry": {"coordinates":[-122.3835209852453,37.61766823362873],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38351753299997,37.617670980000014],[-122.383524438,37.617670980000014],[-122.383524438,37.61766548700001],[-122.38351753299997,37.61766548700001],[-122.38351753299997,37.617670980000014]]],"type":"Polygon"}
 }

@@ -6,11 +6,11 @@
     "date:inception_upper": "2019-12-31",
     "edtf:cessation": "..",
     "edtf:inception": 2019,
-    "geom:area": 0,
+    "geom:area": 3.792367188206016e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393808,37.613161,-122.393808,37.613161",
-    "geom:latitude": 37.61316111158514,
-    "geom:longitude": -122.39380833819047,
+    "geom:bbox": "-122.393812,37.613158,-122.393805,37.613164",
+    "geom:latitude": 37.613161111500006,
+    "geom:longitude": -122.39380833799999,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -43,7 +43,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259877,
-    "wof:geomhash": "2c6e5da0bc3fa6ed2bd2c434a8da675d",
+    "wof:geomhash": "f245e1e666bb89c3c5316779338ac483",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1495165667,
     "wof:label": "Cultural Fabric (Bay Area)",
-    "wof:lastmodified": 1619636063,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Cultural Fabric (Bay Area)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39380833819047,
-    37.61316111158514,
-    -122.39380833819047,
-    37.61316111158514
+    -122.39381178999997,
+    37.613158365000004,
+    -122.393804886,
+    37.61316385800001
   ],
-  "geometry": {"coordinates":[-122.39380833819047,37.61316111158514],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.393804886,37.61316385800001],[-122.39381178999997,37.61316385800001],[-122.39381178999997,37.613158365000004],[-122.393804886,37.613158365000004],[-122.393804886,37.61316385800001]]],"type":"Polygon"}
 }

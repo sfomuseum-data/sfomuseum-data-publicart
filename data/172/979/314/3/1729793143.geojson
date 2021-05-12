@@ -12,10 +12,10 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 4883,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=4883",
-    "geom:area": 0,
+    "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384241,37.617775,-122.384241,37.617775",
-    "geom:latitude": 37.617775,
+    "geom:bbox": "-122.384244,37.617772,-122.384238,37.617778",
+    "geom:latitude": 37.617774999999995,
     "geom:longitude": -122.384241,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
@@ -50,16 +50,16 @@
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792433, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792433,
       1729792389
     ],
     "wof:breaches": [],
@@ -72,7 +72,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387388,
-    "wof:geomhash": "74ed97d4b2384c6614480bde2d901f80",
+    "wof:geomhash": "22afdc497387cf4cd302721cd2eda1c1",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -86,7 +86,7 @@
         "region_id": 85688637,
         "venue_id": 1729793143,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -101,7 +101,7 @@
     ],
     "wof:id": 1729793143,
     "wof:label": "Tchakalian, Sam Hitwood",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Hitwood",
     "wof:parent_id": 1729792433,
     "wof:placetype": "venue",
@@ -112,15 +112,15 @@
       1477874055
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.384241, 
-    37.617775, 
-    -122.384241, 
-    37.617775
+    -122.38424445200002,
+    37.61777225399999,
+    -122.38423754799999,
+    37.617777746
   ],
-  "geometry": {"coordinates":[-122.384241,37.617775],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38423754799999,37.617777746],[-122.38424445200002,37.617777746],[-122.38424445200002,37.61777225399999],[-122.38423754799999,37.61777225399999],[-122.38423754799999,37.617777746]]],"type":"Polygon"}
 }

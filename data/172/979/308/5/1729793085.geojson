@@ -8,11 +8,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3315,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3315",
-    "geom:area": 0,
+    "geom:area": 3.791676795509834e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.381119,37.617125,-122.381119,37.617125",
-    "geom:latitude": 37.617125,
-    "geom:longitude": -122.381119,
+    "geom:bbox": "-122.381122,37.617122,-122.381116,37.617128",
+    "geom:latitude": 37.61712499999999,
+    "geom:longitude": -122.38111900000001,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -36,16 +36,16 @@
     "sfomuseum:type": "mural",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792391, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792391,
       1729792389
     ],
     "wof:breaches": [],
@@ -58,7 +58,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1523296712,
-    "wof:geomhash": "4e9ab59e4c9a0013fd934091c5568e7a",
+    "wof:geomhash": "2534d628e266bc094cdf62d22fe962cd",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -72,7 +72,7 @@
         "region_id": 85688637,
         "venue_id": 1729793085,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -87,7 +87,7 @@
     ],
     "wof:id": 1729793085,
     "wof:label": "Kitundu, Walter Bay Area Bird Encounters",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Bay Area Bird Encounters",
     "wof:parent_id": 1729792391,
     "wof:placetype": "venue",
@@ -100,10 +100,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.381119, 
-    37.617125, 
-    -122.381119, 
-    37.617125
+    -122.381122452,
+    37.61712225399998,
+    -122.38111554800003,
+    37.617127745999994
   ],
-  "geometry": {"coordinates":[-122.381119,37.617125],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38111554800003,37.617127745999994],[-122.381122452,37.617127745999994],[-122.381122452,37.61712225399998],[-122.38111554800003,37.61712225399998],[-122.38111554800003,37.617127745999994]]],"type":"Polygon"}
 }

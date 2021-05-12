@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3292,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3292",
-    "geom:area": 0,
+    "geom:area": 3.791676795509834e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.382996,37.616509,-122.382996,37.616509",
-    "geom:latitude": 37.616509,
-    "geom:longitude": -122.382996,
+    "geom:bbox": "-122.382999,37.616506,-122.382993,37.616512",
+    "geom:latitude": 37.61650900000001,
+    "geom:longitude": -122.38299599999999,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,16 +52,16 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792433, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792433,
       1729792389
     ],
     "wof:brand_id": 1125159427,
@@ -75,7 +75,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387357,
-    "wof:geomhash": "9ddcc541a4f7b1502f5b750182498e2d",
+    "wof:geomhash": "67721b0879624de4a5ed250ee4428278",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -89,7 +89,7 @@
         "region_id": 85688637,
         "venue_id": 1729793081,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -104,7 +104,7 @@
     ],
     "wof:id": 1729793081,
     "wof:label": "Eversley, Fred Untitled",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Untitled",
     "wof:parent_id": 1729792433,
     "wof:placetype": "venue",
@@ -115,15 +115,15 @@
       1477873981
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.382996, 
-    37.616509, 
-    -122.382996, 
-    37.616509
+    -122.38299945199998,
+    37.616506254,
+    -122.382992548,
+    37.616511746000015
   ],
-  "geometry": {"coordinates":[-122.382996,37.616509],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.382992548,37.616511746000015],[-122.38299945199998,37.616511746000015],[-122.38299945199998,37.616506254],[-122.382992548,37.616506254],[-122.382992548,37.616511746000015]]],"type":"Polygon"}
 }

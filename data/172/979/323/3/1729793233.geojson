@@ -8,11 +8,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3283,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3283",
-    "geom:area": 0,
+    "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389042,37.613628,-122.389042,37.613628",
-    "geom:latitude": 37.613628,
-    "geom:longitude": -122.389042,
+    "geom:bbox": "-122.389045,37.613625,-122.389039,37.613631",
+    "geom:latitude": 37.613628000000006,
+    "geom:longitude": -122.38904199999999,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -35,16 +35,16 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792581, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792581,
       1729792579
     ],
     "wof:breaches": [],
@@ -57,7 +57,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1523296723,
-    "wof:geomhash": "da66cf531ec8caad33befc48631d4fb3",
+    "wof:geomhash": "2f042666a77f4949e7bb4f9f29856cf3",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -71,7 +71,7 @@
         "region_id": 85688637,
         "venue_id": 1729793233,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -86,7 +86,7 @@
     ],
     "wof:id": 1729793233,
     "wof:label": "Mayhew, Richard Seneca",
-    "wof:lastmodified": 1615314656,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Seneca",
     "wof:parent_id": 1729792581,
     "wof:placetype": "venue",
@@ -99,10 +99,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389042, 
-    37.613628, 
-    -122.389042, 
-    37.613628
+    -122.389045452,
+    37.613625254,
+    -122.38903854799997,
+    37.61363074600001
   ],
-  "geometry": {"coordinates":[-122.389042,37.613628],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38903854799997,37.61363074600001],[-122.389045452,37.61363074600001],[-122.389045452,37.613625254],[-122.38903854799997,37.613625254],[-122.38903854799997,37.61363074600001]]],"type":"Polygon"}
 }

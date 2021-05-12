@@ -12,9 +12,9 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3311,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3311",
-    "geom:area": 0,
+    "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.381226,37.617006,-122.381226,37.617006",
+    "geom:bbox": "-122.381229,37.617003,-122.381223,37.617009",
     "geom:latitude": 37.617006,
     "geom:longitude": -122.381226,
     "iso:country": "US",
@@ -51,16 +51,16 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792391, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792391,
       1729792389
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387348,
-    "wof:geomhash": "65f2bbe697382730736049eac2d0fd4d",
+    "wof:geomhash": "fea2e2a2e3bd95dff445d4e90953c3df",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -87,7 +87,7 @@
         "region_id": 85688637,
         "venue_id": 1729793139,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -102,7 +102,7 @@
     ],
     "wof:id": 1729793139,
     "wof:label": "Brown, Joan The Journey #2",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "The Journey #2",
     "wof:parent_id": 1729792391,
     "wof:placetype": "venue",
@@ -113,15 +113,15 @@
       1477873987
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.381226, 
-    37.617006, 
-    -122.381226, 
-    37.617006
+    -122.38122945200001,
+    37.617003254,
+    -122.38122254799998,
+    37.61700874600001
   ],
-  "geometry": {"coordinates":[-122.381226,37.617006],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38122254799998,37.61700874600001],[-122.38122945200001,37.61700874600001],[-122.38122945200001,37.617003254],[-122.38122254799998,37.617003254],[-122.38122254799998,37.61700874600001]]],"type":"Polygon"}
 }

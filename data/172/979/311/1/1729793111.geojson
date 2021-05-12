@@ -12,10 +12,10 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3343,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3343",
-    "geom:area": 0,
+    "geom:area": 3.791676795509834e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.382765,37.617185,-122.382765,37.617185",
-    "geom:latitude": 37.617185,
+    "geom:bbox": "-122.382768,37.617182,-122.382762,37.617188",
+    "geom:latitude": 37.617185000000006,
     "geom:longitude": -122.382765,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
@@ -52,16 +52,16 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792391, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792391,
       1729792389
     ],
     "wof:breaches": [],
@@ -79,7 +79,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387357,
-    "wof:geomhash": "a250254526a1d96d41c71ba3eb9d34d5",
+    "wof:geomhash": "8c31a8354f1812c863702bdea92d4bfc",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -93,7 +93,7 @@
         "region_id": 85688637,
         "venue_id": 1729793111,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -108,7 +108,7 @@
     ],
     "wof:id": 1729793111,
     "wof:label": "Echelman, Janet Every Beating Second ",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Every Beating Second ",
     "wof:parent_id": 1729792391,
     "wof:placetype": "venue",
@@ -119,15 +119,15 @@
       1477873947
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.382765, 
-    37.617185, 
-    -122.382765, 
-    37.617185
+    -122.382768452,
+    37.617182254,
+    -122.38276154800002,
+    37.61718774600001
   ],
-  "geometry": {"coordinates":[-122.382765,37.617185],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38276154800002,37.61718774600001],[-122.382768452,37.61718774600001],[-122.382768452,37.617182254],[-122.38276154800002,37.617182254],[-122.38276154800002,37.61718774600001]]],"type":"Polygon"}
 }

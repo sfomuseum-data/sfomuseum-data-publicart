@@ -12,10 +12,10 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3334,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3334",
-    "geom:area": 0,
+    "geom:area": 3.792775175858929e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.388318,37.620240,-122.388318,37.620240",
-    "geom:latitude": 37.62024,
+    "geom:bbox": "-122.388321,37.620237,-122.388315,37.620243",
+    "geom:latitude": 37.620239999999995,
     "geom:longitude": -122.388318,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
@@ -52,16 +52,16 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792489, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792489,
       1729792487
     ],
     "wof:breaches": [],
@@ -74,7 +74,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387373,
-    "wof:geomhash": "472c2cc173d23f6cb3dc8c729cca52a6",
+    "wof:geomhash": "790a1cfe96d6b408c5f59dfff2837dbe",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -88,7 +88,7 @@
         "region_id": 85688637,
         "venue_id": 1729793177,
         "wing_id": 1729792487
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -103,7 +103,7 @@
     ],
     "wof:id": 1729793177,
     "wof:label": "O’Banion, Nance Billboard Series",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Billboard Series",
     "wof:parent_id": 1729792489,
     "wof:placetype": "venue",
@@ -114,15 +114,15 @@
       1477874031
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.388318, 
-    37.62024, 
-    -122.388318, 
-    37.62024
+    -122.388321453,
+    37.62023725400002,
+    -122.388314547,
+    37.620242745999974
   ],
-  "geometry": {"coordinates":[-122.388318,37.62024],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.388314547,37.620242745999974],[-122.388321453,37.620242745999974],[-122.388321453,37.62023725400002],[-122.388314547,37.62023725400002],[-122.388314547,37.620242745999974]]],"type":"Polygon"}
 }

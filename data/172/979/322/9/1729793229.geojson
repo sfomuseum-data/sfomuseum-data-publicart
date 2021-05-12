@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3288,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3288",
-    "geom:area": 0,
+    "geom:area": 3.791676756265138e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.392475,37.618349,-122.392475,37.618349",
-    "geom:latitude": 37.618349,
-    "geom:longitude": -122.392475,
+    "geom:bbox": "-122.392478,37.618346,-122.392472,37.618352",
+    "geom:latitude": 37.618348999999995,
+    "geom:longitude": -122.39247499999999,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -51,16 +51,16 @@
     "sfomuseum:type": "mosaic",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792643, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792643,
       1729792579
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387379,
-    "wof:geomhash": "9bc4b6906e5b779ac4ee5601db040bde",
+    "wof:geomhash": "e1a764431f3c897caf82fcc608c93483",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -87,7 +87,7 @@
         "region_id": 85688637,
         "venue_id": 1729793229,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -102,7 +102,7 @@
     ],
     "wof:id": 1729793229,
     "wof:label": "Rigo 99 Thinking of Balmy Alley",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Thinking of Balmy Alley",
     "wof:parent_id": 1729792643,
     "wof:placetype": "venue",
@@ -113,15 +113,15 @@
       1477874081
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.392475, 
-    37.618349, 
-    -122.392475, 
-    37.618349
+    -122.39247845199998,
+    37.618346254000016,
+    -122.392471548,
+    37.61835174599997
   ],
-  "geometry": {"coordinates":[-122.392475,37.618349],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.392471548,37.61835174599997],[-122.39247845199998,37.61835174599997],[-122.39247845199998,37.618346254000016],[-122.392471548,37.618346254000016],[-122.392471548,37.61835174599997]]],"type":"Polygon"}
 }

@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3279,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3279",
-    "geom:area": 0,
+    "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389964,37.611949,-122.389964,37.611949",
-    "geom:latitude": 37.611949,
-    "geom:longitude": -122.389964,
+    "geom:bbox": "-122.389967,37.611946,-122.389961,37.611952",
+    "geom:latitude": 37.61194899999998,
+    "geom:longitude": -122.38996399999999,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -51,16 +51,16 @@
     "sfomuseum:type": "mural",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792581, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792581,
       1729792579
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387370,
-    "wof:geomhash": "f47c801e40f4269224dd3c8fccb184b1",
+    "wof:geomhash": "8548263c53199a5dae291137c62bea4e",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -87,7 +87,7 @@
         "region_id": 85688637,
         "venue_id": 1729793127,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -102,7 +102,7 @@
     ],
     "wof:id": 1729793127,
     "wof:label": "Liu, Hung Take Off 2006",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Take Off 2006",
     "wof:parent_id": 1729792581,
     "wof:placetype": "venue",
@@ -113,15 +113,15 @@
       1477874011
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.389964, 
-    37.611949, 
-    -122.389964, 
-    37.611949
+    -122.38996745200001,
+    37.611946253999974,
+    -122.38996054799998,
+    37.61195174599999
   ],
-  "geometry": {"coordinates":[-122.389964,37.611949],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38996054799998,37.61195174599999],[-122.38996745200001,37.61195174599999],[-122.38996745200001,37.611946253999974],[-122.38996054799998,37.611946253999974],[-122.38996054799998,37.61195174599999]]],"type":"Polygon"}
 }

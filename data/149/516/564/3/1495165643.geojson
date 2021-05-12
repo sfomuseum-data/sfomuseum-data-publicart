@@ -6,11 +6,11 @@
     "date:inception_upper": "2019-12-31",
     "edtf:cessation": "..",
     "edtf:inception": 2019,
-    "geom:area": 0,
+    "geom:area": 3.7927752151149944e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.398274,37.622993,-122.398274,37.622993",
-    "geom:latitude": 37.622993,
-    "geom:longitude": -122.398274,
+    "geom:bbox": "-122.398277,37.622990,-122.398271,37.622996",
+    "geom:latitude": 37.62299300000001,
+    "geom:longitude": -122.39827399999999,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -45,7 +45,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259873,
-    "wof:geomhash": "0c439559f3f493276a3b945fbf88fe8b",
+    "wof:geomhash": "e273dac5af9aab86b5b0a357182c67a1",
     "wof:hierarchy": [
       {
         "building_id": 1477855979,
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1495165643,
     "wof:label": "No Other Land Their Glory Know (4/10)",
-    "wof:lastmodified": 1619636063,
+    "wof:lastmodified": 1620776300,
     "wof:name": "No Other Land Their Glory Know (4/10)",
     "wof:parent_id": 1477855979,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.398274,
-    37.622993,
-    -122.398274,
-    37.622993
+    -122.39827745299999,
+    37.622990254,
+    -122.39827054699998,
+    37.622995746000015
   ],
-  "geometry": {"coordinates":[-122.398274,37.622993],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.39827054699998,37.622995746000015],[-122.39827745299999,37.622995746000015],[-122.39827745299999,37.622990254],[-122.39827054699998,37.622990254],[-122.39827054699998,37.622995746000015]]],"type":"Polygon"}
 }

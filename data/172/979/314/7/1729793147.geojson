@@ -12,9 +12,9 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3305,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3305",
-    "geom:area": 0,
+    "geom:area": 3.791676756265138e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383892,37.615984,-122.383892,37.615984",
+    "geom:bbox": "-122.383895,37.615981,-122.383889,37.615987",
     "geom:latitude": 37.615984,
     "geom:longitude": -122.383892,
     "iso:country": "US",
@@ -51,16 +51,16 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792433, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792433,
       1729792389
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387368,
-    "wof:geomhash": "af3080dc119f7bf85d0f59b4e89d1504",
+    "wof:geomhash": "5c05d755f492e43cfd56a650204f66b8",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -87,7 +87,7 @@
         "region_id": 85688637,
         "venue_id": 1729793147,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -102,7 +102,7 @@
     ],
     "wof:id": 1729793147,
     "wof:label": "Katano, Marc Greeting A Totem",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Greeting A Totem",
     "wof:parent_id": 1729792433,
     "wof:placetype": "venue",
@@ -113,15 +113,15 @@
       1477874003
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.383892, 
-    37.615984, 
-    -122.383892, 
-    37.615984
+    -122.38389545199999,
+    37.61598125400002,
+    -122.38388854800002,
+    37.615986745999976
   ],
-  "geometry": {"coordinates":[-122.383892,37.615984],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38388854800002,37.615986745999976],[-122.38389545199999,37.615986745999976],[-122.38389545199999,37.61598125400002],[-122.38388854800002,37.61598125400002],[-122.38388854800002,37.615986745999976]]],"type":"Polygon"}
 }

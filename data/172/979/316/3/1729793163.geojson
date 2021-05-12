@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3337,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3337",
-    "geom:area": 0,
+    "geom:area": 4.5751406260424813e-10,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.387856,37.617495,-122.387856,37.617495",
-    "geom:latitude": 37.617495,
-    "geom:longitude": -122.387856,
+    "geom:bbox": "-122.387714,37.617435,-122.387659,37.617503",
+    "geom:latitude": 37.61746785402991,
+    "geom:longitude": -122.38768688392351,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,16 +52,16 @@
     "sfomuseum:type": "print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792699, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792699,
       1729792487
     ],
     "wof:breaches": [],
@@ -74,7 +74,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387337,
-    "wof:geomhash": "305e27dddc307c1cdbedeaacf4681e69",
+    "wof:geomhash": "7b611fbe8b1d83ea9e644d06057b8533",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -88,7 +88,7 @@
         "region_id": 85688637,
         "venue_id": 1729793163,
         "wing_id": 1729792487
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -103,7 +103,7 @@
     ],
     "wof:id": 1729793163,
     "wof:label": "Acconci, Vito Two Wings for Wall and Person",
-    "wof:lastmodified": 1613695772,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Two Wings for Wall and Person",
     "wof:parent_id": 1729792699,
     "wof:placetype": "venue",
@@ -114,15 +114,15 @@
       1477873983
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.387856, 
-    37.617495, 
-    -122.387856, 
-    37.617495
+    -122.387714233,
+    37.61743474000002,
+    -122.38765900599998,
+    37.61750311399999
   ],
-  "geometry": {"coordinates":[-122.387856,37.617495],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.387713367,37.61743801799997],[-122.387714233,37.61743709000001],[-122.38770832799997,37.61743474000002],[-122.38765900599998,37.61750026300001],[-122.38766319400003,37.61750311399999],[-122.387713367,37.61743801799997]]],"type":"Polygon"}
 }

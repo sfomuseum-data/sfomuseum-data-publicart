@@ -5,10 +5,10 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/color-horizons",
-    "geom:area": 0,
-    "geom:bbox": "-122.386714,37.614528,-122.386714,37.614528",
-    "geom:latitude": 37.61452779848183,
-    "geom:longitude": -122.3867140360933,
+    "geom:area": 3.792367188206016e-11,
+    "geom:bbox": "-122.386717,37.614525,-122.386711,37.614531",
+    "geom:latitude": 37.61452779849998,
+    "geom:longitude": -122.386714036,
     "mz:is_current": 1,
     "sfac:accession_id": "T2019.14",
     "sfo:level": 2,
@@ -39,7 +39,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614046297,
-    "wof:geomhash": "9cb4b98a66c05c31c8d3262f1c1e6820",
+    "wof:geomhash": "6d86660cb9a2bac2a334deb4d695856e",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1729829269,
     "wof:label": "The Color of Horizons",
-    "wof:lastmodified": 1620760892,
+    "wof:lastmodified": 1620776300,
     "wof:name": "The Color of Horizons",
     "wof:parent_id": 1729792483,
     "wof:placetype": "venue",
@@ -78,10 +78,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.3867140360933,
-    37.61452779848183,
-    -122.3867140360933,
-    37.61452779848183
+    -122.38671748799999,
+    37.614525051999976,
+    -122.38671058400001,
+    37.61453054499998
   ],
-  "geometry": {"coordinates":[-122.3867140360933,37.61452779848183],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38671058400001,37.61453054499998],[-122.38671748799999,37.61453054499998],[-122.38671748799999,37.614525051999976],[-122.38671058400001,37.614525051999976],[-122.38671058400001,37.61453054499998]]],"type":"Polygon"}
 }

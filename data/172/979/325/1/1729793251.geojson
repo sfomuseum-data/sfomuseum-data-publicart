@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3247,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3247",
-    "geom:area": 0,
+    "geom:area": 3.791676756265138e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389112,37.615489,-122.389112,37.615489",
+    "geom:bbox": "-122.389115,37.615486,-122.389109,37.615492",
     "geom:latitude": 37.615489,
-    "geom:longitude": -122.389112,
+    "geom:longitude": -122.38911200000001,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,16 +52,16 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792679, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792679,
       1729792579
     ],
     "wof:brand_id": 1125155369,
@@ -75,7 +75,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387368,
-    "wof:geomhash": "16a9339964efa3cfb6aebe298b496ab0",
+    "wof:geomhash": "f26331e0bf6da24d1e224a232bad87e4",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -89,7 +89,7 @@
         "region_id": 85688637,
         "venue_id": 1729793251,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -104,7 +104,7 @@
     ],
     "wof:id": 1729793251,
     "wof:label": "Kang, Ik-Joong Gateway",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Gateway",
     "wof:parent_id": 1729792679,
     "wof:placetype": "venue",
@@ -115,15 +115,15 @@
       1477874063
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.389112, 
-    37.615489, 
-    -122.389112, 
-    37.615489
+    -122.389115452,
+    37.61548625400002,
+    -122.38910854800002,
+    37.615491745999975
   ],
-  "geometry": {"coordinates":[-122.389112,37.615489],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38910854800002,37.615491745999975],[-122.389115452,37.615491745999975],[-122.389115452,37.61548625400002],[-122.38910854800002,37.61548625400002],[-122.38910854800002,37.615491745999975]]],"type":"Polygon"}
 }

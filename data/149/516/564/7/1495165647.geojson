@@ -6,11 +6,11 @@
     "date:inception_upper": "2019-12-31",
     "edtf:cessation": "..",
     "edtf:inception": 2019,
-    "geom:area": 0,
+    "geom:area": 3.792367188206016e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.394065,37.612968,-122.394065,37.612968",
-    "geom:latitude": 37.61296798432254,
-    "geom:longitude": -122.39406478586704,
+    "geom:bbox": "-122.394068,37.612965,-122.394061,37.612971",
+    "geom:latitude": 37.61296798450002,
+    "geom:longitude": -122.394064786,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -44,7 +44,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259874,
-    "wof:geomhash": "87ca3ca0fe52307ed6bd21f1506f898b",
+    "wof:geomhash": "aef96f7e6c75de65afa2edd8ec32d2d1",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1495165647,
     "wof:label": "Golden Gate Bridge, 3.4.01, 7:30 pm",
-    "wof:lastmodified": 1619636063,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Golden Gate Bridge, 3.4.01, 7:30 pm",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -80,10 +80,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39406478586704,
-    37.61296798432254,
-    -122.39406478586704,
-    37.61296798432254
+    -122.39406823799999,
+    37.612965238000015,
+    -122.39406133400001,
+    37.61297073100002
   ],
-  "geometry": {"coordinates":[-122.39406478586704,37.61296798432254],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.39406133400001,37.61297073100002],[-122.39406823799999,37.61297073100002],[-122.39406823799999,37.612965238000015],[-122.39406133400001,37.612965238000015],[-122.39406133400001,37.61297073100002]]],"type":"Polygon"}
 }

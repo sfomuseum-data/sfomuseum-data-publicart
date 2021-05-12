@@ -5,10 +5,10 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 0,
-    "geom:bbox": "-122.385859,37.611397,-122.385859,37.611397",
-    "geom:latitude": 37.611397254737994,
-    "geom:longitude": -122.38585859681446,
+    "geom:area": 3.79167682672824e-11,
+    "geom:bbox": "-122.385862,37.611395,-122.385855,37.611400",
+    "geom:latitude": 37.611397254999986,
+    "geom:longitude": -122.38585859700001,
     "mz:is_current": 1,
     "sfac:accession_id": "T2018.46 a-p",
     "sfo:level": 2,
@@ -39,7 +39,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614046298,
-    "wof:geomhash": "8ae2e4e374769aa1838a94d227a0015b",
+    "wof:geomhash": "d5283b45b89974660327a1372519cbd1",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1729829271,
     "wof:label": "Advice from My 80-Year-Old-Self",
-    "wof:lastmodified": 1620760892,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Advice from My 80-Year-Old-Self",
     "wof:parent_id": 1729792437,
     "wof:placetype": "venue",
@@ -78,10 +78,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38585859681446,
-    37.611397254737994,
-    -122.38585859681446,
-    37.611397254737994
+    -122.38586204900002,
+    37.61139450899998,
+    -122.385855145,
+    37.61140000099999
   ],
-  "geometry": {"coordinates":[-122.38585859681446,37.611397254737994],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.385855145,37.61140000099999],[-122.38586204900002,37.61140000099999],[-122.38586204900002,37.61139450899998],[-122.385855145,37.61139450899998],[-122.385855145,37.61140000099999]]],"type":"Polygon"}
 }

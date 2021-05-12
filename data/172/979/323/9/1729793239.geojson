@@ -12,9 +12,9 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3286,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3286",
-    "geom:area": 0,
+    "geom:area": 3.791676787483543e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.391965,37.617988,-122.391965,37.617988",
+    "geom:bbox": "-122.391968,37.617985,-122.391962,37.617991",
     "geom:latitude": 37.617988,
     "geom:longitude": -122.391965,
     "iso:country": "US",
@@ -51,16 +51,16 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792643, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792643,
       1729792579
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387380,
-    "wof:geomhash": "62f404249a176a100b2a68e8381d3d01",
+    "wof:geomhash": "ac8e8eb4542fdeb6fa28b2cc13ad795f",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -87,7 +87,7 @@
         "region_id": 85688637,
         "venue_id": 1729793239,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -102,7 +102,7 @@
     ],
     "wof:id": 1729793239,
     "wof:label": "Rojas, Claire Blue Deer",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Blue Deer",
     "wof:parent_id": 1729792643,
     "wof:placetype": "venue",
@@ -113,15 +113,15 @@
       1477874005
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.391965, 
-    37.617988, 
-    -122.391965, 
-    37.617988
+    -122.39196845200001,
+    37.61798525400002,
+    -122.39196154799998,
+    37.617990745999975
   ],
-  "geometry": {"coordinates":[-122.391965,37.617988],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.39196154799998,37.617990745999975],[-122.39196845200001,37.617990745999975],[-122.39196845200001,37.61798525400002],[-122.39196154799998,37.61798525400002],[-122.39196154799998,37.617990745999975]]],"type":"Polygon"}
 }

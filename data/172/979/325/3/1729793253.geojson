@@ -12,10 +12,10 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3335,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3335",
-    "geom:area": 0,
+    "geom:area": 3.792775183896589e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389026,37.620546,-122.389026,37.620546",
-    "geom:latitude": 37.620546,
+    "geom:bbox": "-122.389029,37.620543,-122.389023,37.620549",
+    "geom:latitude": 37.62054599999999,
     "geom:longitude": -122.389026,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
@@ -51,16 +51,16 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792489, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792489,
       1729792487
     ],
     "wof:brand_id": 1125159427,
@@ -74,7 +74,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387358,
-    "wof:geomhash": "6b9bd39181cb7929217b6f7a14ed0233",
+    "wof:geomhash": "842387f2a46aad84a1cc64eea4c48a95",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -88,7 +88,7 @@
         "region_id": 85688637,
         "venue_id": 1729793253,
         "wing_id": 1729792487
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -103,7 +103,7 @@
     ],
     "wof:id": 1729793253,
     "wof:label": "Francis, Sam Untitled",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Untitled",
     "wof:parent_id": 1729792489,
     "wof:placetype": "venue",
@@ -114,15 +114,15 @@
       1477873973
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.389026, 
-    37.620546, 
-    -122.389026, 
-    37.620546
+    -122.38902945299998,
+    37.62054325399998,
+    -122.38902254700002,
+    37.620548746
   ],
-  "geometry": {"coordinates":[-122.389026,37.620546],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38902254700002,37.620548746],[-122.38902945299998,37.620548746],[-122.38902945299998,37.62054325399998],[-122.38902254700002,37.62054325399998],[-122.38902254700002,37.620548746]]],"type":"Polygon"}
 }

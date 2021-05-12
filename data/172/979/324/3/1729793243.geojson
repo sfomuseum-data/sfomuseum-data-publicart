@@ -12,10 +12,10 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3319,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3319",
-    "geom:area": 0,
+    "geom:area": 3.791676795509834e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384477,37.617601,-122.384477,37.617601",
-    "geom:latitude": 37.617601,
+    "geom:bbox": "-122.384480,37.617598,-122.384474,37.617604",
+    "geom:latitude": 37.61760099999998,
     "geom:longitude": -122.384477,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
@@ -51,16 +51,16 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792433, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792433,
       1729792389
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387363,
-    "wof:geomhash": "0c39b7c470cda86fb149158b51f92eea",
+    "wof:geomhash": "763c8b569ecceb8b2686325f6c26e11e",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -87,7 +87,7 @@
         "region_id": 85688637,
         "venue_id": 1729793243,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -102,7 +102,7 @@
     ],
     "wof:id": 1729793243,
     "wof:label": "Hedrick, Wally 17 December 1903",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "17 December 1903",
     "wof:parent_id": 1729792433,
     "wof:placetype": "venue",
@@ -113,15 +113,15 @@
       1477874019
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.384477, 
-    37.617601, 
-    -122.384477, 
-    37.617601
+    -122.38448045199999,
+    37.61759825399997,
+    -122.38447354800002,
+    37.617603745999986
   ],
-  "geometry": {"coordinates":[-122.384477,37.617601],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38447354800002,37.617603745999986],[-122.38448045199999,37.617603745999986],[-122.38448045199999,37.61759825399997],[-122.38447354800002,37.61759825399997],[-122.38447354800002,37.617603745999986]]],"type":"Polygon"}
 }

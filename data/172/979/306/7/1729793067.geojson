@@ -12,10 +12,10 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3310,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3310",
-    "geom:area": 0,
+    "geom:area": 3.791676756265138e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.381414,37.617066,-122.381414,37.617066",
-    "geom:latitude": 37.617066,
+    "geom:bbox": "-122.381417,37.617063,-122.381411,37.617069",
+    "geom:latitude": 37.617065999999994,
     "geom:longitude": -122.381414,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
@@ -51,16 +51,16 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792391, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792391,
       1729792389
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387353,
-    "wof:geomhash": "c23f917d27d42abf4c774a191fc23da2",
+    "wof:geomhash": "ae88292b4dfb3a4cd91c430f8569e091",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -87,7 +87,7 @@
         "region_id": 85688637,
         "venue_id": 1729793067,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -102,7 +102,7 @@
     ],
     "wof:id": 1729793067,
     "wof:label": "deForest, Roy Homage to Zane Grey",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Homage to Zane Grey",
     "wof:parent_id": 1729792391,
     "wof:placetype": "venue",
@@ -113,15 +113,15 @@
       1477873957
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.381414, 
-    37.617066, 
-    -122.381414, 
-    37.617066
+    -122.381417452,
+    37.617063254000016,
+    -122.38141054800002,
+    37.61706874599997
   ],
-  "geometry": {"coordinates":[-122.381414,37.617066],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38141054800002,37.61706874599997],[-122.381417452,37.61706874599997],[-122.381417452,37.617063254000016],[-122.38141054800002,37.617063254000016],[-122.38141054800002,37.61706874599997]]],"type":"Polygon"}
 }

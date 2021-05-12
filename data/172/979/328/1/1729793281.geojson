@@ -8,11 +8,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 21552,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21552",
-    "geom:area": 0,
+    "geom:area": 3.791676756265138e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.385871,37.618563,-122.385871,37.618563",
-    "geom:latitude": 37.61856312123068,
-    "geom:longitude": -122.38587097669938,
+    "geom:bbox": "-122.386572,37.618027,-122.386566,37.618033",
+    "geom:latitude": 37.618030000000005,
+    "geom:longitude": -122.38656900000001,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -35,16 +35,16 @@
     "sfomuseum:type": "print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792699, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792699,
       1729792487
     ],
     "wof:breaches": [],
@@ -57,7 +57,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1523296716,
-    "wof:geomhash": "4c7fabb6dc18ebf0f5a62c0e8f7c2e8d",
+    "wof:geomhash": "c6b384fe602cbc7ad310aed1aebeb0d6",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -71,7 +71,7 @@
         "region_id": 85688637,
         "venue_id": 1729793281,
         "wing_id": 1729792487
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -86,7 +86,7 @@
     ],
     "wof:id": 1729793281,
     "wof:label": "Everywhere All At Once",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Everywhere All At Once",
     "wof:parent_id": 1729792699,
     "wof:placetype": "venue",
@@ -99,10 +99,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38587097669938, 
-    37.61856312123068, 
-    -122.38587097669938, 
-    37.61856312123068
+    -122.386572452,
+    37.618027254000026,
+    -122.38656554800002,
+    37.61803274599998
   ],
-  "geometry": {"coordinates":[-122.38587097669938,37.61856312123068],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38656554800002,37.61803274599998],[-122.386572452,37.61803274599998],[-122.386572452,37.618027254000026],[-122.38656554800002,37.618027254000026],[-122.38656554800002,37.61803274599998]]],"type":"Polygon"}
 }

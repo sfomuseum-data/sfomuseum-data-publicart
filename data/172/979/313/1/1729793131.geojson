@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 4882,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=4882",
-    "geom:area": 0,
+    "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383908,37.617529,-122.383908,37.617529",
-    "geom:latitude": 37.617529,
-    "geom:longitude": -122.383908,
+    "geom:bbox": "-122.383911,37.617526,-122.383905,37.617532",
+    "geom:latitude": 37.61752899999999,
+    "geom:longitude": -122.38390799999999,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -51,16 +51,16 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792433, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792433,
       1729792389
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387385,
-    "wof:geomhash": "bb9026af475db427d0b4c5a093325313",
+    "wof:geomhash": "3bb399509ccef5f5b5b1a3234f521901",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -87,7 +87,7 @@
         "region_id": 85688637,
         "venue_id": 1729793131,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -102,7 +102,7 @@
     ],
     "wof:id": 1729793131,
     "wof:label": "Smith, Hassel Metamorphosis",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Metamorphosis",
     "wof:parent_id": 1729792433,
     "wof:placetype": "venue",
@@ -113,15 +113,15 @@
       1477874069
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.383908, 
-    37.617529, 
-    -122.383908, 
-    37.617529
+    -122.383911452,
+    37.61752625399998,
+    -122.38390454799998,
+    37.617531746
   ],
-  "geometry": {"coordinates":[-122.383908,37.617529],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38390454799998,37.617531746],[-122.383911452,37.617531746],[-122.383911452,37.61752625399998],[-122.38390454799998,37.61752625399998],[-122.38390454799998,37.617531746]]],"type":"Polygon"}
 }

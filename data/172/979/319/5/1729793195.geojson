@@ -12,10 +12,10 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3252,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3252",
-    "geom:area": 0,
+    "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.388720,37.613581,-122.388720,37.613581",
-    "geom:latitude": 37.613581,
+    "geom:bbox": "-122.388723,37.613578,-122.388717,37.613584",
+    "geom:latitude": 37.61358100000001,
     "geom:longitude": -122.38872,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
@@ -51,16 +51,16 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792581, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792581,
       1729792579
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387367,
-    "wof:geomhash": "afa3155255a988bc01925a6d767cacbc",
+    "wof:geomhash": "5bb5ca32bf780e25f1c1efd86884db58",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -87,7 +87,7 @@
         "region_id": 85688637,
         "venue_id": 1729793195,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -102,7 +102,7 @@
     ],
     "wof:id": 1729793195,
     "wof:label": "Hudson, Robert Horse of Another Color",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Horse of Another Color",
     "wof:parent_id": 1729792581,
     "wof:placetype": "venue",
@@ -113,15 +113,15 @@
       1477874051
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.38872, 
-    37.613581, 
-    -122.38872, 
-    37.613581
+    -122.38872345200002,
+    37.613578254000004,
+    -122.38871654799999,
+    37.61358374600002
   ],
-  "geometry": {"coordinates":[-122.38872,37.613581],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38871654799999,37.61358374600002],[-122.38872345200002,37.61358374600002],[-122.38872345200002,37.613578254000004],[-122.38871654799999,37.613578254000004],[-122.38871654799999,37.61358374600002]]],"type":"Polygon"}
 }

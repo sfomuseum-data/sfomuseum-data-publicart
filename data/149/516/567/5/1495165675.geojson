@@ -6,11 +6,11 @@
     "date:inception_upper": "2019-12-31",
     "edtf:cessation": "..",
     "edtf:inception": "2019",
-    "geom:area": 0,
+    "geom:area": 3.792367188206016e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.394043,37.612385,-122.394043,37.612385",
-    "geom:latitude": 37.61238543651403,
-    "geom:longitude": -122.39404262372216,
+    "geom:bbox": "-122.394046,37.612383,-122.394039,37.612388",
+    "geom:latitude": 37.612385436500006,
+    "geom:longitude": -122.39404262400001,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -35,7 +35,6 @@
       85633793,
       85922583,
       102087579,
-      1477856005,
       554784711,
       102085387
     ],
@@ -46,10 +45,9 @@
     },
     "wof:country": "US",
     "wof:created": 1571259878,
-    "wof:geomhash": "1065062772299a3e44ae3acab5d6ae11",
+    "wof:geomhash": "a7d77acc0b3857b3749383552118903b",
     "wof:hierarchy": [
       {
-        "building_id": 1477856005,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -60,7 +58,6 @@
         "venue_id": 1495165675
       },
       {
-        "building_id": 1477856005,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -71,9 +68,9 @@
     ],
     "wof:id": 1495165675,
     "wof:label": "Ether",
-    "wof:lastmodified": 1619636063,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Ether",
-    "wof:parent_id": 1477856005,
+    "wof:parent_id": 102527513,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
@@ -82,10 +79,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39404262372216,
-    37.61238543651403,
-    -122.39404262372216,
-    37.61238543651403
+    -122.394046076,
+    37.612382690000004,
+    -122.39403917200002,
+    37.61238818300001
   ],
-  "geometry": {"coordinates":[-122.39404262372216,37.61238543651403],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.39403917200002,37.61238818300001],[-122.394046076,37.61238818300001],[-122.394046076,37.612382690000004],[-122.39403917200002,37.612382690000004],[-122.39403917200002,37.61238818300001]]],"type":"Polygon"}
 }

@@ -12,10 +12,10 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3321,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3321",
-    "geom:area": 0,
+    "geom:area": 3.791676795509834e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383962,37.615906,-122.383962,37.615906",
-    "geom:latitude": 37.615906,
+    "geom:bbox": "-122.383965,37.615903,-122.383959,37.615909",
+    "geom:latitude": 37.615905999999995,
     "geom:longitude": -122.383962,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
@@ -50,16 +50,16 @@
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792433, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792433,
       1729792389
     ],
     "wof:breaches": [],
@@ -72,7 +72,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387356,
-    "wof:geomhash": "6df00b9fb06eb12f78fa7c9a57c395af",
+    "wof:geomhash": "a3ce944ea3e319917bc893aff4381119",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -86,7 +86,7 @@
         "region_id": 85688637,
         "venue_id": 1729793267,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -101,7 +101,7 @@
     ],
     "wof:id": 1729793267,
     "wof:label": "Dixon, Willard Death Valley II",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Death Valley II",
     "wof:parent_id": 1729792433,
     "wof:placetype": "venue",
@@ -112,15 +112,15 @@
       1477873979
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.383962, 
-    37.615906, 
-    -122.383962, 
-    37.615906
+    -122.38396545199998,
+    37.61590325399999,
+    -122.38395854800001,
+    37.615908746
   ],
-  "geometry": {"coordinates":[-122.383962,37.615906],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38395854800001,37.615908746],[-122.38396545199998,37.615908746],[-122.38396545199998,37.61590325399999],[-122.38395854800001,37.61590325399999],[-122.38395854800001,37.615908746]]],"type":"Polygon"}
 }

@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3289,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3289",
-    "geom:area": 0,
+    "geom:area": 3.791676795509834e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393119,37.618430,-122.393119,37.618430",
-    "geom:latitude": 37.61843,
-    "geom:longitude": -122.393119,
+    "geom:bbox": "-122.393122,37.618427,-122.393116,37.618433",
+    "geom:latitude": 37.61842999999999,
+    "geom:longitude": -122.39311900000001,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,16 +52,16 @@
     "sfomuseum:type": "mural",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792643, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792643,
       1729792579
     ],
     "wof:breaches": [],
@@ -74,7 +74,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387338,
-    "wof:geomhash": "fdfb63f489167c37a00981cb1a95b42c",
+    "wof:geomhash": "6aed8e865de181b4e181d2a01a62b2e7",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -88,7 +88,7 @@
         "region_id": 85688637,
         "venue_id": 1729793201,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -103,7 +103,7 @@
     ],
     "wof:id": 1729793201,
     "wof:label": "Montoya, Emmanual C. and Juana Alicia Sanctuary/Santuario",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Sanctuary/Santuario",
     "wof:parent_id": 1729792643,
     "wof:placetype": "venue",
@@ -114,15 +114,15 @@
       1477873985
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.393119, 
-    37.61843, 
-    -122.393119, 
-    37.61843
+    -122.393122452,
+    37.61842725399998,
+    -122.39311554800003,
+    37.618432745999996
   ],
-  "geometry": {"coordinates":[-122.393119,37.61843],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.39311554800003,37.618432745999996],[-122.393122452,37.618432745999996],[-122.393122452,37.61842725399998],[-122.39311554800003,37.61842725399998],[-122.39311554800003,37.618432745999996]]],"type":"Polygon"}
 }

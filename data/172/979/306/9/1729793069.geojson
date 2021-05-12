@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3306,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3306",
-    "geom:area": 0,
+    "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383879,37.616067,-122.383879,37.616067",
-    "geom:latitude": 37.616067,
-    "geom:longitude": -122.383879,
+    "geom:bbox": "-122.383882,37.616064,-122.383876,37.616070",
+    "geom:latitude": 37.61606699999999,
+    "geom:longitude": -122.38387900000001,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -51,16 +51,16 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792433, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792433,
       1729792389
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387370,
-    "wof:geomhash": "60a7a468ed62a4efb499b322535dc075",
+    "wof:geomhash": "c6e0efe926fe727fd2b89cead438f224",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -87,7 +87,7 @@
         "region_id": 85688637,
         "venue_id": 1729793069,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -102,7 +102,7 @@
     ],
     "wof:id": 1729793069,
     "wof:label": "Kunishima, Seiji Stacking Stones",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Stacking Stones",
     "wof:parent_id": 1729792433,
     "wof:placetype": "venue",
@@ -113,15 +113,15 @@
       1477874021
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.383879, 
-    37.616067, 
-    -122.383879, 
-    37.616067
+    -122.38388245200002,
+    37.61606425399998,
+    -122.38387554799999,
+    37.616069745999994
   ],
-  "geometry": {"coordinates":[-122.383879,37.616067],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38387554799999,37.616069745999994],[-122.38388245200002,37.616069745999994],[-122.38388245200002,37.61606425399998],[-122.38387554799999,37.61606425399998],[-122.38387554799999,37.616069745999994]]],"type":"Polygon"}
 }

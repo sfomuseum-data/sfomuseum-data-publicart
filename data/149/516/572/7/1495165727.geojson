@@ -6,11 +6,11 @@
     "date:inception_upper": "2019-12-31",
     "edtf:cessation": "..",
     "edtf:inception": 2019,
-    "geom:area": 0,
+    "geom:area": 3.792367188206016e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393770,37.613161,-122.393770,37.613161",
-    "geom:latitude": 37.61316111158514,
-    "geom:longitude": -122.39377034594209,
+    "geom:bbox": "-122.393774,37.613158,-122.393767,37.613164",
+    "geom:latitude": 37.613161111500006,
+    "geom:longitude": -122.393770346,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -44,7 +44,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259887,
-    "wof:geomhash": "e255676ecbd94726f286ffe19838d504",
+    "wof:geomhash": "5f8caabfe4c23fb917933895522fb5c5",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1495165727,
     "wof:label": "Underground. “Stuck in Between”",
-    "wof:lastmodified": 1619636063,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Underground. “Stuck in Between”",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -80,10 +80,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39377034594209,
-    37.61316111158514,
-    -122.39377034594209,
-    37.61316111158514
+    -122.39377379799998,
+    37.613158365000004,
+    -122.39376689400001,
+    37.61316385800001
   ],
-  "geometry": {"coordinates":[-122.39377034594209,37.61316111158514],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.39376689400001,37.61316385800001],[-122.39377379799998,37.61316385800001],[-122.39377379799998,37.613158365000004],[-122.39376689400001,37.613158365000004],[-122.39376689400001,37.61316385800001]]],"type":"Polygon"}
 }

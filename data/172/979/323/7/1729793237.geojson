@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3256,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3256",
-    "geom:area": 0,
+    "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.391397,37.617733,-122.391397,37.617733",
-    "geom:latitude": 37.617733,
-    "geom:longitude": -122.391397,
+    "geom:bbox": "-122.391400,37.617730,-122.391394,37.617736",
+    "geom:latitude": 37.61773299999999,
+    "geom:longitude": -122.39139700000001,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,16 +52,16 @@
     "sfomuseum:type": "light art",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792643, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792643,
       1729792579
     ],
     "wof:breaches": [],
@@ -74,7 +74,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387354,
-    "wof:geomhash": "aa3371d9d34e3054d1f3a1c0fda72085",
+    "wof:geomhash": "ac17e66b960ae6528b03a114a553bdcd",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -88,7 +88,7 @@
         "region_id": 85688637,
         "venue_id": 1729793237,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -103,7 +103,7 @@
     ],
     "wof:id": 1729793237,
     "wof:label": "deSoto, Lewis Shining Paths: San Francisco’s Sister Cities",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Shining Paths: San Francisco’s Sister Cities",
     "wof:parent_id": 1729792643,
     "wof:placetype": "venue",
@@ -114,15 +114,15 @@
       1477873959
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.391397, 
-    37.617733, 
-    -122.391397, 
-    37.617733
+    -122.39140045200003,
+    37.61773025399998,
+    -122.391393548,
+    37.617735745999994
   ],
-  "geometry": {"coordinates":[-122.391397,37.617733],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.391393548,37.617735745999994],[-122.39140045200003,37.617735745999994],[-122.39140045200003,37.61773025399998],[-122.391393548,37.61773025399998],[-122.391393548,37.617735745999994]]],"type":"Polygon"}
 }

@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3304,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3304",
-    "geom:area": 0,
+    "geom:area": 3.791676756265138e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383484,37.616365,-122.383484,37.616365",
+    "geom:bbox": "-122.383487,37.616362,-122.383481,37.616368",
     "geom:latitude": 37.616365,
-    "geom:longitude": -122.383484,
+    "geom:longitude": -122.38348400000001,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -51,16 +51,16 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792433, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792433,
       1729792389
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387368,
-    "wof:geomhash": "5f9461e97e353c01a37296417ec0333e",
+    "wof:geomhash": "1a372db520aff4b7fea33253d4af256b",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -87,7 +87,7 @@
         "region_id": 85688637,
         "venue_id": 1729793161,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -102,7 +102,7 @@
     ],
     "wof:id": 1729793161,
     "wof:label": "Katano, Marc Torso",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Torso",
     "wof:parent_id": 1729792433,
     "wof:placetype": "venue",
@@ -113,15 +113,15 @@
       1477874001
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.383484, 
-    37.616365, 
-    -122.383484, 
-    37.616365
+    -122.383487452,
+    37.61636225400002,
+    -122.38348054800002,
+    37.61636774599998
   ],
-  "geometry": {"coordinates":[-122.383484,37.616365],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38348054800002,37.61636774599998],[-122.383487452,37.61636774599998],[-122.383487452,37.61636225400002],[-122.38348054800002,37.61636225400002],[-122.38348054800002,37.61636774599998]]],"type":"Polygon"}
 }

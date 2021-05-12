@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3291,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3291",
-    "geom:area": 0,
+    "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389830,37.617100,-122.389830,37.617100",
-    "geom:latitude": 37.6171,
-    "geom:longitude": -122.38983,
+    "geom:bbox": "-122.389833,37.617097,-122.389827,37.617103",
+    "geom:latitude": 37.61709999999999,
+    "geom:longitude": -122.38982999999999,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,16 +52,16 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792643, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792643,
       1729792579
     ],
     "wof:breaches": [],
@@ -74,7 +74,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387367,
-    "wof:geomhash": "98f11fb4931680e2390fd183759d32f5",
+    "wof:geomhash": "539d9210c314bbd18d62de8020bc7853",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -88,7 +88,7 @@
         "region_id": 85688637,
         "venue_id": 1729793193,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -103,7 +103,7 @@
     ],
     "wof:id": 1729793193,
     "wof:label": "Hung, Su-Chen Welcome",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Welcome",
     "wof:parent_id": 1729792643,
     "wof:placetype": "venue",
@@ -114,15 +114,15 @@
       1477874041
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.38983, 
-    37.6171, 
-    -122.38983, 
-    37.6171
+    -122.389833452,
+    37.61709725399999,
+    -122.38982654799997,
+    37.617102746
   ],
-  "geometry": {"coordinates":[-122.38983,37.6171],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38982654799997,37.617102746],[-122.389833452,37.617102746],[-122.389833452,37.61709725399999],[-122.38982654799997,37.61709725399999],[-122.38982654799997,37.617102746]]],"type":"Polygon"}
 }

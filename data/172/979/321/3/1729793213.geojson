@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3314,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3314",
-    "geom:area": 0,
+    "geom:area": 3.791676787483543e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.381859,37.617673,-122.381859,37.617673",
-    "geom:latitude": 37.617673,
-    "geom:longitude": -122.381859,
+    "geom:bbox": "-122.381862,37.617670,-122.381856,37.617676",
+    "geom:latitude": 37.617672999999996,
+    "geom:longitude": -122.38185899999999,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -51,16 +51,16 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792391, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792391,
       1729792389
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387364,
-    "wof:geomhash": "bddfa20de226cb13d890bc8da3c47989",
+    "wof:geomhash": "933d094a41b8e6676b09679e16d6b289",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -87,7 +87,7 @@
         "region_id": 85688637,
         "venue_id": 1729793213,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -102,7 +102,7 @@
     ],
     "wof:id": 1729793213,
     "wof:label": "Hoefer, Wade The Peasant's Parade",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "The Peasant's Parade",
     "wof:parent_id": 1729792391,
     "wof:placetype": "venue",
@@ -113,15 +113,15 @@
       1477874009
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.381859, 
-    37.617673, 
-    -122.381859, 
-    37.617673
+    -122.38186245200001,
+    37.61767025400002,
+    -122.38185554799998,
+    37.617675745999975
   ],
-  "geometry": {"coordinates":[-122.381859,37.617673],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38185554799998,37.617675745999975],[-122.38186245200001,37.617675745999975],[-122.38186245200001,37.61767025400002],[-122.38185554799998,37.61767025400002],[-122.38185554799998,37.617675745999975]]],"type":"Polygon"}
 }

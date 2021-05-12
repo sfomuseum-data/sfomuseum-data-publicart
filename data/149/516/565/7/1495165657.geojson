@@ -6,11 +6,11 @@
     "date:inception_upper": "2019-12-31",
     "edtf:cessation": "..",
     "edtf:inception": 2019,
-    "geom:area": 0,
+    "geom:area": 3.792367188206016e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393786,37.613136,-122.393786,37.613136",
-    "geom:latitude": 37.61313578341955,
-    "geom:longitude": -122.39378617604558,
+    "geom:bbox": "-122.393790,37.613133,-122.393783,37.613139",
+    "geom:latitude": 37.61313578350001,
+    "geom:longitude": -122.39378617599999,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -46,7 +46,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259876,
-    "wof:geomhash": "efaa400f5bd9a1b7c0b32e7ccd5e5488",
+    "wof:geomhash": "b23f2482dc405fd6908195e60aded5d3",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1495165657,
     "wof:label": "November Evening Cloud 4.6",
-    "wof:lastmodified": 1619636063,
+    "wof:lastmodified": 1620776300,
     "wof:name": "November Evening Cloud 4.6",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -82,10 +82,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39378617604558,
-    37.61313578341955,
-    -122.39378617604558,
-    37.61313578341955
+    -122.39378962799998,
+    37.61313303700001,
+    -122.393782724,
+    37.613138530000015
   ],
-  "geometry": {"coordinates":[-122.39378617604558,37.61313578341955],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.393782724,37.613138530000015],[-122.39378962799998,37.613138530000015],[-122.39378962799998,37.61313303700001],[-122.393782724,37.61313303700001],[-122.393782724,37.613138530000015]]],"type":"Polygon"}
 }

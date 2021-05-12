@@ -12,9 +12,9 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3295,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3295",
-    "geom:area": 0,
+    "geom:area": 3.791676787483543e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384289,37.615464,-122.384289,37.615464",
+    "geom:bbox": "-122.384292,37.615461,-122.384286,37.615467",
     "geom:latitude": 37.615464,
     "geom:longitude": -122.384289,
     "iso:country": "US",
@@ -52,16 +52,16 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792483, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792483,
       1729792435
     ],
     "wof:breaches": [],
@@ -74,7 +74,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387369,
-    "wof:geomhash": "81349cbbe596cd922c67825d42681e4f",
+    "wof:geomhash": "da7370b2722f084202eb8f0ef9705f7c",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -88,7 +88,7 @@
         "region_id": 85688637,
         "venue_id": 1729793129,
         "wing_id": 1729792435
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -103,7 +103,7 @@
     ],
     "wof:id": 1729793129,
     "wof:label": "Flight Patterns",
-    "wof:lastmodified": 1613695772,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Flight Patterns",
     "wof:parent_id": 1729792483,
     "wof:placetype": "venue",
@@ -114,15 +114,15 @@
       1477874067
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.384289, 
-    37.615464, 
-    -122.384289, 
-    37.615464
+    -122.38429245200001,
+    37.615461254000024,
+    -122.38428554799998,
+    37.61546674599998
   ],
-  "geometry": {"coordinates":[-122.384289,37.615464],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38428554799998,37.61546674599998],[-122.38429245200001,37.61546674599998],[-122.38429245200001,37.615461254000024],[-122.38428554799998,37.615461254000024],[-122.38428554799998,37.61546674599998]]],"type":"Polygon"}
 }

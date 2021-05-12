@@ -8,10 +8,10 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 21551,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21551",
-    "geom:area": 0,
+    "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383790,37.615831,-122.383790,37.615831",
-    "geom:latitude": 37.615831,
+    "geom:bbox": "-122.383793,37.615828,-122.383787,37.615834",
+    "geom:latitude": 37.615831000000014,
     "geom:longitude": -122.38379,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
@@ -36,16 +36,16 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792433, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792433,
       1729792389
     ],
     "wof:breaches": [],
@@ -55,7 +55,7 @@
     },
     "wof:country": "US",
     "wof:created": 1523296714,
-    "wof:geomhash": "71c9c07c5e694aefb307d7bc43a70623",
+    "wof:geomhash": "c12f3a650d718e0f56bc13e2f297978e",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -69,7 +69,7 @@
         "region_id": 85688637,
         "venue_id": 1729793227,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -84,7 +84,7 @@
     ],
     "wof:id": 1729793227,
     "wof:label": "High Heels for Going to Heaven ",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "High Heels for Going to Heaven ",
     "wof:parent_id": 1729792433,
     "wof:placetype": "venue",
@@ -97,10 +97,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38379, 
-    37.615831, 
-    -122.38379, 
-    37.615831
+    -122.38379345200002,
+    37.61582825400001,
+    -122.38378654799999,
+    37.61583374600002
   ],
-  "geometry": {"coordinates":[-122.38379,37.615831],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38378654799999,37.61583374600002],[-122.38379345200002,37.61583374600002],[-122.38379345200002,37.61582825400001],[-122.38378654799999,37.61582825400001],[-122.38378654799999,37.61583374600002]]],"type":"Polygon"}
 }

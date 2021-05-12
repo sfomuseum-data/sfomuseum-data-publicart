@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3243,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3243",
-    "geom:area": 0,
+    "geom:area": 3.791676787483543e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389777,37.615464,-122.389777,37.615464",
+    "geom:bbox": "-122.389780,37.615461,-122.389774,37.615467",
     "geom:latitude": 37.615464,
-    "geom:longitude": -122.389777,
+    "geom:longitude": -122.38977700000001,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,16 +52,16 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792693, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792693,
       1729792579
     ],
     "wof:breaches": [],
@@ -74,7 +74,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387354,
-    "wof:geomhash": "2deadcbb2da4e7558bb7b6e26d658588",
+    "wof:geomhash": "8cb483e91c3259d76c967853fbd4e597",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -88,7 +88,7 @@
         "region_id": 85688637,
         "venue_id": 1729793123,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -103,7 +103,7 @@
     ],
     "wof:id": 1729793123,
     "wof:label": "DeSoto, Lewis On The Air",
-    "wof:lastmodified": 1613695772,
+    "wof:lastmodified": 1620776300,
     "wof:name": "On The Air",
     "wof:parent_id": 1729792693,
     "wof:placetype": "venue",
@@ -114,15 +114,15 @@
       1477873945
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.389777, 
-    37.615464, 
-    -122.389777, 
-    37.615464
+    -122.38978045200002,
+    37.615461254000024,
+    -122.389773548,
+    37.61546674599998
   ],
-  "geometry": {"coordinates":[-122.389777,37.615464],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.389773548,37.61546674599998],[-122.38978045200002,37.61546674599998],[-122.38978045200002,37.615461254000024],[-122.389773548,37.615461254000024],[-122.389773548,37.61546674599998]]],"type":"Polygon"}
 }

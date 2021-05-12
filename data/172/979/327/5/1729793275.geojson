@@ -8,11 +8,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 21547,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21547",
-    "geom:area": 0,
+    "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383744,37.615863,-122.383744,37.615863",
-    "geom:latitude": 37.615863,
-    "geom:longitude": -122.383744,
+    "geom:bbox": "-122.383747,37.615860,-122.383741,37.615866",
+    "geom:latitude": 37.61586299999999,
+    "geom:longitude": -122.38374400000001,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -35,16 +35,16 @@
     "sfomuseum:type": "mosaic",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792433, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792433,
       1729792389
     ],
     "wof:breaches": [],
@@ -54,7 +54,7 @@
     },
     "wof:country": "US",
     "wof:created": 1523296714,
-    "wof:geomhash": "c04e4c42cde472639ba18f97336ca4f9",
+    "wof:geomhash": "dedf9ffd7269983ac825b7a09ea01f10",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -68,7 +68,7 @@
         "region_id": 85688637,
         "venue_id": 1729793275,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -83,7 +83,7 @@
     ],
     "wof:id": 1729793275,
     "wof:label": "Riven/River",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Riven/River",
     "wof:parent_id": 1729792433,
     "wof:placetype": "venue",
@@ -96,10 +96,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.383744, 
-    37.615863, 
-    -122.383744, 
-    37.615863
+    -122.38374745200002,
+    37.61586025399998,
+    -122.38374054799999,
+    37.615865746
   ],
-  "geometry": {"coordinates":[-122.383744,37.615863],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38374054799999,37.615865746],[-122.38374745200002,37.615865746],[-122.38374745200002,37.61586025399998],[-122.38374054799999,37.61586025399998],[-122.38374054799999,37.615865746]]],"type":"Polygon"}
 }

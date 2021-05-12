@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3322,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3322",
-    "geom:area": 0,
+    "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384058,37.615880,-122.384058,37.615880",
-    "geom:latitude": 37.61588,
-    "geom:longitude": -122.384058,
+    "geom:bbox": "-122.384061,37.615877,-122.384055,37.615883",
+    "geom:latitude": 37.615880000000004,
+    "geom:longitude": -122.38405800000001,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -51,16 +51,16 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792433, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792433,
       1729792389
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387356,
-    "wof:geomhash": "1e535dcf5731190d69da9c826d8c9d7d",
+    "wof:geomhash": "f498f49dab6f07ec549130640f55855f",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -87,7 +87,7 @@
         "region_id": 85688637,
         "venue_id": 1729793145,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -102,7 +102,7 @@
     ],
     "wof:id": 1729793145,
     "wof:label": "Dixon, Willard Above Bolinas",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Above Bolinas",
     "wof:parent_id": 1729792433,
     "wof:placetype": "venue",
@@ -113,15 +113,15 @@
       1477873977
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.384058, 
-    37.61588, 
-    -122.384058, 
-    37.61588
+    -122.38406145200003,
+    37.615877254,
+    -122.384054548,
+    37.61588274600001
   ],
-  "geometry": {"coordinates":[-122.384058,37.61588],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.384054548,37.61588274600001],[-122.38406145200003,37.61588274600001],[-122.38406145200003,37.615877254],[-122.384054548,37.615877254],[-122.384054548,37.61588274600001]]],"type":"Polygon"}
 }

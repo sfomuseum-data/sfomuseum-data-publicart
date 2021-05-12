@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3302,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3302",
-    "geom:area": 0,
+    "geom:area": 3.792226020921617e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384277,37.616798,-122.384277,37.616798",
-    "geom:latitude": 37.61679762627632,
-    "geom:longitude": -122.38427653523736,
+    "geom:bbox": "-122.384280,37.616795,-122.384273,37.616800",
+    "geom:latitude": 37.61679762599999,
+    "geom:longitude": -122.38427653549999,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,15 +52,15 @@
     "sfomuseum:type": "mural",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
       1729792389
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387381,
-    "wof:geomhash": "c200451d24281f440ab53597fd2d9a6e",
+    "wof:geomhash": "3cf0718d6f96cb07e9a3600b10ba0494",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -86,7 +86,7 @@
         "region_id": 85688637,
         "venue_id": 1729793113,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -100,7 +100,7 @@
     ],
     "wof:id": 1729793113,
     "wof:label": "Sato, Norie Air Over Under",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Air Over Under",
     "wof:parent_id": 1729792389,
     "wof:placetype": "venue",
@@ -111,15 +111,15 @@
       1477874017
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.38427653523736, 
-    37.61679762627632, 
-    -122.38427653523736, 
-    37.61679762627632
+    -122.384279988,
+    37.616794879999986,
+    -122.38427308299998,
+    37.616800372
   ],
-  "geometry": {"coordinates":[-122.38427653523736,37.61679762627632],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38427308299998,37.616800372],[-122.384279988,37.616800372],[-122.384279988,37.616794879999986],[-122.38427308299998,37.616794879999986],[-122.38427308299998,37.616800372]]],"type":"Polygon"}
 }

@@ -8,11 +8,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 23381,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=23381",
-    "geom:area": 0,
+    "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.392952,37.618693,-122.392952,37.618693",
-    "geom:latitude": 37.618693,
-    "geom:longitude": -122.392952,
+    "geom:bbox": "-122.392955,37.618690,-122.392949,37.618696",
+    "geom:latitude": 37.61869300000001,
+    "geom:longitude": -122.39295200000001,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -51,7 +51,7 @@
     },
     "wof:country": "US",
     "wof:created": 1612389359,
-    "wof:geomhash": "f7515963741f9c42249e9b033aa25912",
+    "wof:geomhash": "2b126b327b4a3e2d56dc8c1ee37b7c75",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -80,7 +80,7 @@
     ],
     "wof:id": 1729793083,
     "wof:label": "Mondrian Meets the Beatles",
-    "wof:lastmodified": 1617238512,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Mondrian Meets the Beatles",
     "wof:parent_id": 1729792643,
     "wof:placetype": "venue",
@@ -93,10 +93,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.392952,
-    37.618693,
-    -122.392952,
-    37.618693
+    -122.39295545200002,
+    37.618690254,
+    -122.39294854799999,
+    37.618695746000014
   ],
-  "geometry": {"coordinates":[-122.392952,37.618693],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.39294854799999,37.618695746000014],[-122.39295545200002,37.618695746000014],[-122.39295545200002,37.618690254],[-122.39294854799999,37.618690254],[-122.39294854799999,37.618695746000014]]],"type":"Polygon"}
 }

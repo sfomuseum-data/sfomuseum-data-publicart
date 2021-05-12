@@ -6,11 +6,11 @@
     "date:inception_upper": "2019-12-31",
     "edtf:cessation": "..",
     "edtf:inception": 2019,
-    "geom:area": 0,
+    "geom:area": 3.791676795509834e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393786,37.613041,-122.393786,37.613041",
-    "geom:latitude": 37.6130408027986,
-    "geom:longitude": -122.39378617604558,
+    "geom:bbox": "-122.393790,37.613038,-122.393783,37.613044",
+    "geom:latitude": 37.61304080299999,
+    "geom:longitude": -122.39378617599999,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -46,7 +46,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259878,
-    "wof:geomhash": "d79a1af20ee891fd5f0c934dde8fe97e",
+    "wof:geomhash": "2db370c81ef335c665203fa4b7706acb",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1495165669,
     "wof:label": "Green Map",
-    "wof:lastmodified": 1619636063,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Green Map",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -82,10 +82,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39378617604558,
-    37.6130408027986,
-    -122.39378617604558,
-    37.6130408027986
+    -122.39378962799998,
+    37.61303805699998,
+    -122.393782724,
+    37.613043549
   ],
-  "geometry": {"coordinates":[-122.39378617604558,37.6130408027986],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.393782724,37.613043549],[-122.39378962799998,37.613043549],[-122.39378962799998,37.61303805699998],[-122.393782724,37.61303805699998],[-122.393782724,37.613043549]]],"type":"Polygon"}
 }

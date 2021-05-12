@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3312,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3312",
-    "geom:area": 0,
+    "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.381671,37.617788,-122.381671,37.617788",
-    "geom:latitude": 37.617788,
-    "geom:longitude": -122.381671,
+    "geom:bbox": "-122.381674,37.617785,-122.381668,37.617791",
+    "geom:latitude": 37.61778800000002,
+    "geom:longitude": -122.38167100000001,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,16 +52,16 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792391, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792391,
       1729792389
     ],
     "wof:breaches": [],
@@ -74,7 +74,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387387,
-    "wof:geomhash": "66e1b04152a6caff381287024d7b7ebd",
+    "wof:geomhash": "76664f2d631173092971ea633399ec25",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -88,7 +88,7 @@
         "region_id": 85688637,
         "venue_id": 1729793157,
         "wing_id": 1729792389
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -103,7 +103,7 @@
     ],
     "wof:id": 1729793157,
     "wof:label": "Sowers, Charles Butterfly Wall",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Butterfly Wall",
     "wof:parent_id": 1729792391,
     "wof:placetype": "venue",
@@ -114,15 +114,15 @@
       1477874053
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.381671, 
-    37.617788, 
-    -122.381671, 
-    37.617788
+    -122.38167445200003,
+    37.61778525400001,
+    -122.381667548,
+    37.617790746000026
   ],
-  "geometry": {"coordinates":[-122.381671,37.617788],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.381667548,37.617790746000026],[-122.38167445200003,37.617790746000026],[-122.38167445200003,37.61778525400001],[-122.381667548,37.61778525400001],[-122.381667548,37.617790746000026]]],"type":"Polygon"}
 }

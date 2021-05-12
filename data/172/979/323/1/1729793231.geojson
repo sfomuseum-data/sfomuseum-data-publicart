@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 21555,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21555",
-    "geom:area": 0,
+    "geom:area": 3.791676756265138e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.385277,37.618152,-122.385277,37.618152",
-    "geom:latitude": 37.61815190270394,
-    "geom:longitude": -122.38527699438299,
+    "geom:bbox": "-122.385252,37.618231,-122.385246,37.618237",
+    "geom:latitude": 37.618234,
+    "geom:longitude": -122.38524899999999,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -51,16 +51,16 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792689, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792689,
       1729792487
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387382,
-    "wof:geomhash": "39dc145c5c3b8a92246b7150b2835f91",
+    "wof:geomhash": "5b3e5a31ffa2a7824188f5b1e6ee7826",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -87,7 +87,7 @@
         "region_id": 85688637,
         "venue_id": 1729793231,
         "wing_id": 1729792487
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -102,7 +102,7 @@
     ],
     "wof:id": 1729793231,
     "wof:label": "Saunders, Raymond Letter's Missing",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Letter's Missing",
     "wof:parent_id": 1729792689,
     "wof:placetype": "venue",
@@ -113,15 +113,15 @@
       1477874065
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.38527699438299, 
-    37.61815190270394, 
-    -122.38527699438299, 
-    37.61815190270394
+    -122.38525245199997,
+    37.61823125400002,
+    -122.385245548,
+    37.61823674599998
   ],
-  "geometry": {"coordinates":[-122.38527699438299,37.61815190270394],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.385245548,37.61823674599998],[-122.38525245199997,37.61823674599998],[-122.38525245199997,37.61823125400002],[-122.385245548,37.61823125400002],[-122.385245548,37.61823674599998]]],"type":"Polygon"}
 }

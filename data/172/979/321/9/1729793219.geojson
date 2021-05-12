@@ -12,10 +12,10 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3280,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3280",
-    "geom:area": 0,
+    "geom:area": 3.791676795509834e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389973,37.611724,-122.389973,37.611724",
-    "geom:latitude": 37.611724,
+    "geom:bbox": "-122.389976,37.611721,-122.389970,37.611727",
+    "geom:latitude": 37.61172399999998,
     "geom:longitude": -122.389973,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
@@ -51,16 +51,16 @@
     "sfomuseum:type": "mosaic",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792581, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792581,
       1729792579
     ],
     "wof:breaches": [],
@@ -73,7 +73,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387371,
-    "wof:geomhash": "e0fd97c6449756eeb15a25261ef603bf",
+    "wof:geomhash": "be3f8596bf209c3011cc32554543a5cb",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -87,7 +87,7 @@
         "region_id": 85688637,
         "venue_id": 1729793219,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -102,7 +102,7 @@
     ],
     "wof:id": 1729793219,
     "wof:label": "Sultan, Larry and Mike Mandel Waiting",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Waiting",
     "wof:parent_id": 1729792581,
     "wof:placetype": "venue",
@@ -113,15 +113,15 @@
       1477873993
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.389973, 
-    37.611724, 
-    -122.389973, 
-    37.611724
+    -122.38997645199998,
+    37.611721253999974,
+    -122.38996954800001,
+    37.61172674599999
   ],
-  "geometry": {"coordinates":[-122.389973,37.611724],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38996954800001,37.61172674599999],[-122.38997645199998,37.61172674599999],[-122.38997645199998,37.611721253999974],[-122.38996954800001,37.611721253999974],[-122.38996954800001,37.61172674599999]]],"type":"Polygon"}
 }

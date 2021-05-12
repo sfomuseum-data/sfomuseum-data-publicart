@@ -8,11 +8,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 21550,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21550",
-    "geom:area": 0,
+    "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.386310,37.618600,-122.386310,37.618600",
-    "geom:latitude": 37.61859967398861,
-    "geom:longitude": -122.38630960979458,
+    "geom:bbox": "-122.386636,37.618359,-122.386630,37.618365",
+    "geom:latitude": 37.61836199999999,
+    "geom:longitude": -122.38663299999999,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -35,16 +35,16 @@
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792577, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792577,
       1729792487
     ],
     "wof:breaches": [],
@@ -57,7 +57,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1523296715,
-    "wof:geomhash": "f5ed55a331f3a8842d04a09fff0be1ea",
+    "wof:geomhash": "fc2529792078ea02acd969a60ea07b92",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -71,7 +71,7 @@
         "region_id": 85688637,
         "venue_id": 1729793093,
         "wing_id": 1729792487
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -86,7 +86,7 @@
     ],
     "wof:id": 1729793093,
     "wof:label": "New Generation",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1620776300,
     "wof:name": "New Generation",
     "wof:parent_id": 1729792577,
     "wof:placetype": "venue",
@@ -99,10 +99,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38630960979458, 
-    37.61859967398861, 
-    -122.38630960979458, 
-    37.61859967398861
+    -122.386636452,
+    37.618359253999984,
+    -122.38662954799997,
+    37.618364746
   ],
-  "geometry": {"coordinates":[-122.38630960979458,37.61859967398861],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38662954799997,37.618364746],[-122.386636452,37.618364746],[-122.386636452,37.618359253999984],[-122.38662954799997,37.618359253999984],[-122.38662954799997,37.618364746]]],"type":"Polygon"}
 }

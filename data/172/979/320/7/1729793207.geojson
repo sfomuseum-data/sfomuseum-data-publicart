@@ -12,10 +12,10 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3257,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3257",
-    "geom:area": 0,
+    "geom:area": 3.791676795509834e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389412,37.613063,-122.389412,37.613063",
-    "geom:latitude": 37.613063,
+    "geom:bbox": "-122.389415,37.613060,-122.389409,37.613066",
+    "geom:latitude": 37.61306300000001,
     "geom:longitude": -122.389412,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
@@ -52,16 +52,16 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792581, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792581,
       1729792579
     ],
     "wof:breaches": [],
@@ -74,7 +74,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387365,
-    "wof:geomhash": "6f8dd6f6f354bcb88823529ef60fcccf",
+    "wof:geomhash": "eef9f0967e0a416a938cccb38f7fc590",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -88,7 +88,7 @@
         "region_id": 85688637,
         "venue_id": 1729793207,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -103,7 +103,7 @@
     ],
     "wof:id": 1729793207,
     "wof:label": "Howard, Mildred Salty Peanuts",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Salty Peanuts",
     "wof:parent_id": 1729792581,
     "wof:placetype": "venue",
@@ -114,15 +114,15 @@
       1477874035
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.389412, 
-    37.613063, 
-    -122.389412, 
-    37.613063
+    -122.38941545199998,
+    37.613060254000004,
+    -122.389408548,
+    37.61306574600002
   ],
-  "geometry": {"coordinates":[-122.389412,37.613063],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.389408548,37.61306574600002],[-122.38941545199998,37.61306574600002],[-122.38941545199998,37.613060254000004],[-122.389408548,37.613060254000004],[-122.389408548,37.61306574600002]]],"type":"Polygon"}
 }

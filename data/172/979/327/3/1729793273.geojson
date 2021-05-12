@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 4939,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=4939",
-    "geom:area": 0,
+    "geom:area": 3.791676795509834e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389900,37.612117,-122.389900,37.612117",
-    "geom:latitude": 37.612117,
-    "geom:longitude": -122.3899,
+    "geom:bbox": "-122.389903,37.612114,-122.389897,37.612120",
+    "geom:latitude": 37.61211700000001,
+    "geom:longitude": -122.38990000000001,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,16 +52,16 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792581, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792581,
       1729792579
     ],
     "wof:breaches": [],
@@ -74,7 +74,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387377,
-    "wof:geomhash": "8c6cdd9f9c8ac621a891e388446d9902",
+    "wof:geomhash": "e8ec61eb2f6a561022df2d26e9d34cf0",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -88,7 +88,7 @@
         "region_id": 85688637,
         "venue_id": 1729793273,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -103,7 +103,7 @@
     ],
     "wof:id": 1729793273,
     "wof:label": "Preston, Ann You Were in Heaven",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "You Were in Heaven",
     "wof:parent_id": 1729792581,
     "wof:placetype": "venue",
@@ -114,15 +114,15 @@
       1477874077
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.3899, 
-    37.612117, 
-    -122.3899, 
-    37.612117
+    -122.389903452,
+    37.612114254000005,
+    -122.38989654800002,
+    37.61211974600002
   ],
-  "geometry": {"coordinates":[-122.3899,37.612117],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38989654800002,37.61211974600002],[-122.389903452,37.61211974600002],[-122.389903452,37.612114254000005],[-122.38989654800002,37.612114254000005],[-122.38989654800002,37.61211974600002]]],"type":"Polygon"}
 }

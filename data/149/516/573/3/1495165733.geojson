@@ -6,11 +6,11 @@
     "date:inception_upper": "2019-12-31",
     "edtf:cessation": "..",
     "edtf:inception": 2019,
-    "geom:area": 0,
+    "geom:area": 3.792226020921617e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393688,37.613183,-122.393688,37.613183",
-    "geom:latitude": 37.61318327373003,
-    "geom:longitude": -122.39368802940393,
+    "geom:bbox": "-122.393691,37.613181,-122.393685,37.613186",
+    "geom:latitude": 37.613183273999994,
+    "geom:longitude": -122.3936880295,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -43,7 +43,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259888,
-    "wof:geomhash": "ccf25a7e892ab5eccf9978c7578a1033",
+    "wof:geomhash": "6e0be88ecc67c12fcbbc7bf8d5c5e268",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1495165733,
     "wof:label": "Born in 1717",
-    "wof:lastmodified": 1619636063,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Born in 1717",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39368802940393,
-    37.61318327373003,
-    -122.39368802940393,
-    37.61318327373003
+    -122.39369148200001,
+    37.61318052799999,
+    -122.39368457699999,
+    37.61318602
   ],
-  "geometry": {"coordinates":[-122.39368802940393,37.61318327373003],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.39368457699999,37.61318602],[-122.39369148200001,37.61318602],[-122.39369148200001,37.61318052799999],[-122.39368457699999,37.61318052799999],[-122.39368457699999,37.61318602]]],"type":"Polygon"}
 }

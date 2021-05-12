@@ -8,11 +8,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 23380,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=23380",
-    "geom:area": 0,
+    "geom:area": 3.792916513621368e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.391338,37.617932,-122.391338,37.617932",
-    "geom:latitude": 37.6179322504229,
-    "geom:longitude": -122.39133830044813,
+    "geom:bbox": "-122.391342,37.617930,-122.391335,37.617935",
+    "geom:latitude": 37.61793225050002,
+    "geom:longitude": -122.3913383005,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -51,7 +51,7 @@
     },
     "wof:country": "US",
     "wof:created": 1612389359,
-    "wof:geomhash": "6d8d97a9355ad17a1353fb766d3bac05",
+    "wof:geomhash": "c0051afda0144443e3058f86a4607702",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -80,7 +80,7 @@
     ],
     "wof:id": 1729793057,
     "wof:label": "No Other Lands Their Glory Know",
-    "wof:lastmodified": 1617238512,
+    "wof:lastmodified": 1620776300,
     "wof:name": "No Other Lands Their Glory Know",
     "wof:parent_id": 1729792643,
     "wof:placetype": "venue",
@@ -93,10 +93,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39133830044813,
-    37.6179322504229,
-    -122.39133830044813,
-    37.6179322504229
+    -122.391341753,
+    37.61792950400002,
+    -122.39133484799999,
+    37.61793499700002
   ],
-  "geometry": {"coordinates":[-122.39133830044813,37.6179322504229],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.39133484799999,37.61793499700002],[-122.391341753,37.61793499700002],[-122.391341753,37.61792950400002],[-122.39133484799999,37.61792950400002],[-122.39133484799999,37.61793499700002]]],"type":"Polygon"}
 }

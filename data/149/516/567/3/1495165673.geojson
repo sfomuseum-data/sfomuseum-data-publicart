@@ -6,11 +6,11 @@
     "date:inception_upper": "2019-12-31",
     "edtf:cessation": "..",
     "edtf:inception": 2019,
-    "geom:area": 0,
+    "geom:area": 3.792916513621368e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393840,37.613009,-122.393840,37.613009",
-    "geom:latitude": 37.613009142591615,
-    "geom:longitude": -122.39383999839745,
+    "geom:bbox": "-122.393843,37.613006,-122.393837,37.613012",
+    "geom:latitude": 37.613009142500005,
+    "geom:longitude": -122.3938399985,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
@@ -47,7 +47,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259878,
-    "wof:geomhash": "8e06dc1c33b43a83591b89225c63e57d",
+    "wof:geomhash": "2a0dfc188da550c05bc8c65ce696e497",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -72,7 +72,7 @@
     ],
     "wof:id": 1495165673,
     "wof:label": "This Infinite Gateway of Time and Cirumstance",
-    "wof:lastmodified": 1619636063,
+    "wof:lastmodified": 1620776300,
     "wof:name": "This Infinite Gateway of Time and Cirumstance",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -83,10 +83,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39383999839745,
-    37.613009142591615,
-    -122.39383999839745,
-    37.613009142591615
+    -122.39384345100001,
+    37.613006396,
+    -122.39383654599999,
+    37.613011889000006
   ],
-  "geometry": {"coordinates":[-122.39383999839745,37.613009142591615],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.39383654599999,37.613011889000006],[-122.39384345100001,37.613011889000006],[-122.39384345100001,37.613006396],[-122.39383654599999,37.613006396],[-122.39383654599999,37.613011889000006]]],"type":"Polygon"}
 }

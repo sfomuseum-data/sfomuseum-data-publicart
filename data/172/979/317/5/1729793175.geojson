@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3258,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3258",
-    "geom:area": 0,
+    "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389101,37.612978,-122.389101,37.612978",
+    "geom:bbox": "-122.389104,37.612975,-122.389098,37.612981",
     "geom:latitude": 37.612978,
-    "geom:longitude": -122.389101,
+    "geom:longitude": -122.38910100000001,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,16 +52,16 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792581, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792581,
       1729792579
     ],
     "wof:breaches": [],
@@ -74,7 +74,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387365,
-    "wof:geomhash": "efd612d259894dc610c129a594d32ecd",
+    "wof:geomhash": "b9674da0511235ab2e33742ce8816177",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -88,7 +88,7 @@
         "region_id": 85688637,
         "venue_id": 1729793175,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -103,7 +103,7 @@
     ],
     "wof:id": 1729793175,
     "wof:label": "Hsu, Joyce Namoo House",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Namoo House",
     "wof:parent_id": 1729792581,
     "wof:placetype": "venue",
@@ -114,15 +114,15 @@
       1477874033
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.389101, 
-    37.612978, 
-    -122.389101, 
-    37.612978
+    -122.38910445200003,
+    37.61297525399999,
+    -122.389097548,
+    37.612980746000005
   ],
-  "geometry": {"coordinates":[-122.389101,37.612978],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.389097548,37.612980746000005],[-122.38910445200003,37.612980746000005],[-122.38910445200003,37.61297525399999],[-122.389097548,37.61297525399999],[-122.389097548,37.612980746000005]]],"type":"Polygon"}
 }

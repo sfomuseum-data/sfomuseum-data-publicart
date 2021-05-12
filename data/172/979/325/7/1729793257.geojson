@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3246,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3246",
-    "geom:area": 0,
+    "geom:area": 3.791676795509834e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389187,37.615740,-122.389187,37.615740",
-    "geom:latitude": 37.61574,
-    "geom:longitude": -122.389187,
+    "geom:bbox": "-122.389190,37.615737,-122.389184,37.615743",
+    "geom:latitude": 37.61574000000002,
+    "geom:longitude": -122.38918699999999,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -52,16 +52,16 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792679, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792679,
       1729792579
     ],
     "wof:breaches": [],
@@ -74,7 +74,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387369,
-    "wof:geomhash": "4466feab57f545898f94a2f7fa5ac9f1",
+    "wof:geomhash": "ffeee30747162583f01deeea7860ee5b",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -88,7 +88,7 @@
         "region_id": 85688637,
         "venue_id": 1729793257,
         "wing_id": 1729792579
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -103,7 +103,7 @@
     ],
     "wof:id": 1729793257,
     "wof:label": "Anemone",
-    "wof:lastmodified": 1617237605,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Anemone",
     "wof:parent_id": 1729792679,
     "wof:placetype": "venue",
@@ -114,15 +114,15 @@
       1477874015
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.389187, 
-    37.61574, 
-    -122.389187, 
-    37.61574
+    -122.38919045199998,
+    37.61573725400001,
+    -122.389183548,
+    37.61574274600002
   ],
-  "geometry": {"coordinates":[-122.389187,37.61574],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.389183548,37.61574274600002],[-122.38919045199998,37.61574274600002],[-122.38919045199998,37.61573725400001],[-122.389183548,37.61573725400001],[-122.389183548,37.61574274600002]]],"type":"Polygon"}
 }

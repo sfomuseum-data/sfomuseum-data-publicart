@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3328,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3328",
-    "geom:area": 0,
+    "geom:area": 3.792916513621368e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384677,37.618858,-122.384677,37.618858",
-    "geom:latitude": 37.61885801340816,
-    "geom:longitude": -122.38467732287123,
+    "geom:bbox": "-122.384681,37.618855,-122.384674,37.618861",
+    "geom:latitude": 37.61885801350002,
+    "geom:longitude": -122.38467732249998,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -50,16 +50,16 @@
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      554784711, 
-      102085387, 
-      1729792387, 
-      1729792551, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1729792387,
+      1729792551,
       1729792487
     ],
     "wof:breaches": [],
@@ -72,7 +72,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387389,
-    "wof:geomhash": "7f6abaa8d7eb99ab70b51d0a28481eb5",
+    "wof:geomhash": "ca185094da1b3e1b012ac5ee0e0b1284",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -86,7 +86,7 @@
         "region_id": 85688637,
         "venue_id": 1729793063,
         "wing_id": 1729792487
-      }, 
+      },
       {
         "building_id": 1729792387,
         "campus_id": 102527513,
@@ -101,7 +101,7 @@
     ],
     "wof:id": 1729793063,
     "wof:label": "Torlakson, James Behind Ted McMann's Garage",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Behind Ted McMann's Garage",
     "wof:parent_id": 1729792551,
     "wof:placetype": "venue",
@@ -112,15 +112,15 @@
       1477874029
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.38467732287123, 
-    37.61885801340816, 
-    -122.38467732287123, 
-    37.61885801340816
+    -122.38468077499999,
+    37.618855267000015,
+    -122.38467386999997,
+    37.61886076000002
   ],
-  "geometry": {"coordinates":[-122.38467732287123,37.61885801340816],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38467386999997,37.61886076000002],[-122.38468077499999,37.61886076000002],[-122.38468077499999,37.618855267000015],[-122.38467386999997,37.618855267000015],[-122.38467386999997,37.61886076000002]]],"type":"Polygon"}
 }

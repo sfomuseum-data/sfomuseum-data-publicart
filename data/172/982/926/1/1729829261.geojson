@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 4942,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=4942",
-    "geom:area": 0,
+    "geom:area": 3.792916482397278e-11,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383393,37.615179,-122.383393,37.615179",
-    "geom:latitude": 37.61517901660707,
-    "geom:longitude": -122.3833930492401,
+    "geom:bbox": "-122.383397,37.615176,-122.383390,37.615182",
+    "geom:latitude": 37.61517901650001,
+    "geom:longitude": -122.3833930495,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -72,7 +72,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387349,
-    "wof:geomhash": "9ed92f9064804da00d63ea8348c010ff",
+    "wof:geomhash": "7c1924d355ef8e5e1ede18817a97217b",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -101,7 +101,7 @@
     ],
     "wof:id": 1729829261,
     "wof:label": "Butterfield, Deborah Pohina",
-    "wof:lastmodified": 1617238512,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Pohina",
     "wof:parent_id": 1729792459,
     "wof:placetype": "venue",
@@ -117,10 +117,10 @@
     ]
   },
   "bbox": [
-    -122.3833930492401,
-    37.61517901660707,
-    -122.3833930492401,
-    37.61517901660707
+    -122.38339650199998,
+    37.615176270000006,
+    -122.38338959700002,
+    37.61518176300001
   ],
-  "geometry": {"coordinates":[-122.3833930492401,37.61517901660707],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38338959700002,37.61518176300001],[-122.38339650199998,37.61518176300001],[-122.38339650199998,37.615176270000006],[-122.38338959700002,37.615176270000006],[-122.38338959700002,37.61518176300001]]],"type":"Polygon"}
 }

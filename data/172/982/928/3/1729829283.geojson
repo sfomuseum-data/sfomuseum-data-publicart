@@ -5,10 +5,10 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 0,
-    "geom:bbox": "-122.388825,37.613490,-122.388825,37.613490",
-    "geom:latitude": 37.613490350845794,
-    "geom:longitude": -122.38882533303682,
+    "geom:area": 3.791676795509834e-11,
+    "geom:bbox": "-122.388829,37.613488,-122.388822,37.613493",
+    "geom:latitude": 37.613490350999996,
+    "geom:longitude": -122.388825333,
     "mz:is_current": 1,
     "sfac:accession_id": "",
     "sfo:level": 3,
@@ -39,7 +39,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614046301,
-    "wof:geomhash": "9823a3f2c899e0e1d30d11481645032b",
+    "wof:geomhash": "ea04d0d69e37aa2e022a8c4e6817950e",
     "wof:hierarchy": [
       {
         "building_id": 1729792387,
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1729829283,
     "wof:label": "Untitled",
-    "wof:lastmodified": 1620760892,
+    "wof:lastmodified": 1620776300,
     "wof:name": "Untitled",
     "wof:parent_id": 1729792581,
     "wof:placetype": "venue",
@@ -78,10 +78,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38882533303682,
-    37.613490350845794,
-    -122.38882533303682,
-    37.613490350845794
+    -122.38882878499999,
+    37.61348760499999,
+    -122.38882188100001,
+    37.613493097
   ],
-  "geometry": {"coordinates":[-122.38882533303682,37.613490350845794],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.38882188100001,37.613493097],[-122.38882878499999,37.613493097],[-122.38882878499999,37.61348760499999],[-122.38882188100001,37.61348760499999],[-122.38882188100001,37.613493097]]],"type":"Polygon"}
 }
