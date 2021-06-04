@@ -12,11 +12,11 @@
     "edtf:inception": "",
     "flysfo:node": 3250,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3250",
-    "geom:area": 0,
+    "geom:area": 4.744316934670174e-8,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.390774,37.617695,-122.390774,37.617695",
-    "geom:latitude": 37.617695164780336,
-    "geom:longitude": -122.39077381082296,
+    "geom:bbox": "-122.392183,37.615989,-122.391802,37.616201",
+    "geom:latitude": 37.61609615020807,
+    "geom:longitude": -122.3919959343371,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
@@ -50,12 +50,12 @@
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159157271, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
       85688637
     ],
     "wof:breaches": [],
@@ -68,7 +68,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387368,
-    "wof:geomhash": "d2334dfa66e026618e8147c6e4f4aec1",
+    "wof:geomhash": "d30f2ebfd086301234eaa774dca28adc",
     "wof:hierarchy": [
       {
         "building_id": 1159157271,
@@ -84,7 +84,7 @@
     ],
     "wof:id": 772975221,
     "wof:label": "Kahn, Ned Wind Portal",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1622841260,
     "wof:name": "Wind Portal",
     "wof:parent_id": 1159157271,
     "wof:placetype": "venue",
@@ -95,15 +95,15 @@
     ],
     "wof:supersedes": [],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.39077381082296, 
-    37.617695164780336, 
-    -122.39077381082296, 
-    37.617695164780336
+    -122.39218343700003,
+    37.61598876199997,
+    -122.39180219600001,
+    37.616200784
   ],
-  "geometry": {"coordinates":[-122.39077381082296,37.617695164780336],"type":"Point"}
+  "geometry": {"coordinates":[[[-122.39180219600001,37.616075298],[-122.39184688699999,37.616200784],[-122.39218343700003,37.61612217300001],[-122.39214672399999,37.61598876199997],[-122.39180219600001,37.616075298]]],"type":"Polygon"}
 }
