@@ -2,12 +2,14 @@
   "id": 1477873911,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "flysfo:node": 3303,
-    "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3303",
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/topograph-i-ii",
     "geom:area": 7.583353622238075e-11,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.384013,37.616510,-122.383717,37.617375",
@@ -87,13 +89,15 @@
     ],
     "wof:id": 1729793181,
     "wof:label": "Buster, Kendall Topograph I and II",
-    "wof:lastmodified": 1620853262,
+    "wof:lastmodified": 1623279274,
     "wof:name": "Topograph I and II",
     "wof:parent_id": 1729792685,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745903731
+    ],
     "wof:supersedes": [
       1477873911
     ],

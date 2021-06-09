@@ -2,7 +2,9 @@
   "id": 1729829281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 3.792367188206016e-11,
@@ -10,14 +12,14 @@
     "geom:latitude": 37.61461880249999,
     "geom:longitude": -122.387041651,
     "mz:is_current": 1,
-    "sfac:accession_id": "T2018.29",
+    "sfac:accession_id": "2018.29",
     "sfo:level": 1,
     "sfomuseum:boardingarea": "B",
     "sfomuseum:building": "T1",
     "sfomuseum:category": "sculpture",
     "sfomuseum:collection": "Arts Commission",
     "sfomuseum:map_id": 191,
-    "sfomuseum:medium": "Bird Plane House: aluminum, paint\rIntersection: concrete, terazzo\rShell: steel, concrete, paint",
+    "sfomuseum:medium": "aluminum, paint",
     "sfomuseum:object_id": 203427,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
@@ -67,14 +69,16 @@
       }
     ],
     "wof:id": 1729829281,
-    "wof:label": "Bird Plane House; Intersection; Shell",
-    "wof:lastmodified": 1620853262,
-    "wof:name": "Bird Plane House; Intersection; Shell",
+    "wof:label": "Bird Plane House",
+    "wof:lastmodified": 1623279265,
+    "wof:name": "Bird Plane House",
     "wof:parent_id": 1729792483,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745903715
+    ],
     "wof:supersedes": []
   },
   "bbox": [

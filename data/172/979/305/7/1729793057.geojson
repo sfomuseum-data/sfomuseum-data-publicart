@@ -2,12 +2,14 @@
   "id": 1477873903,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "flysfo:node": 23380,
-    "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=23380",
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/no-other-lands-their-glory-know",
     "geom:area": 3.792916513621368e-11,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.391342,37.617930,-122.391335,37.617935",
@@ -16,7 +18,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
-    "sfo:level": 2,
+    "sfac:accession_id": "",
+    "sfo:level": 0,
     "sfomuseum:boardingarea": "G",
     "sfomuseum:building": "IT",
     "sfomuseum:category": "mural",
@@ -30,6 +33,7 @@
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
     "sfomuseum:terminal": "IT",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -80,13 +84,15 @@
     ],
     "wof:id": 1729793057,
     "wof:label": "No Other Lands Their Glory Know",
-    "wof:lastmodified": 1620853262,
+    "wof:lastmodified": 1623279274,
     "wof:name": "No Other Lands Their Glory Know",
     "wof:parent_id": 1729792643,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745903733
+    ],
     "wof:supersedes": [
       1477873903
     ],

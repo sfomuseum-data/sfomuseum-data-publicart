@@ -1,0 +1,108 @@
+{
+  "id": 1477873929,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2021-05-25",
+    "date:inception_upper": "2021-05-25",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-05-25",
+    "flysfo:node": 21545,
+    "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21545",
+    "geom:area": 3.79167682672824e-11,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.386228,37.618087,-122.386222,37.618093",
+    "geom:latitude": 37.618089999999995,
+    "geom:longitude": -122.386225,
+    "iso:country": "US",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sfac:accession_id": "T2015.459.a-f",
+    "sfo:level": 1,
+    "sfomuseum:boardingarea": "F",
+    "sfomuseum:building": "T3",
+    "sfomuseum:category": "print",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:description": "Aluminum print reproductions of original posters commissioned by SFAC for the Art on Market Street Kiosk Poster Series.",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "1",
+    "sfomuseum:map_id": 129,
+    "sfomuseum:medium": "digital print on aluminum plate",
+    "sfomuseum:object_id": 169870,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:terminal": "3",
+    "sfomuseum:type": "print",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1745882083,
+      1745882331,
+      1745882233
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sfac:accession_id": "T2015.459.a-f",
+      "sfomuseum:object_id": 169870
+    },
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1523296716,
+    "wof:geomhash": "57d1ca0789dc750d8af4aecfdcabfd44",
+    "wof:hierarchy": [
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882331,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1745903855,
+        "wing_id": 1745882233
+      },
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882331,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1745903855,
+        "wing_id": 1745882233
+      }
+    ],
+    "wof:id": 1745903855,
+    "wof:label": "Strangerhood",
+    "wof:lastmodified": 1623279338,
+    "wof:name": "Strangerhood",
+    "wof:parent_id": 1745882331,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "publicart",
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1729793165
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.38622845200001,
+    37.61808725399999,
+    -122.38622154799998,
+    37.618092746
+  ],
+  "geometry": {"coordinates":[[[-122.38622154799998,37.618092746],[-122.38622845200001,37.618092746],[-122.38622845200001,37.61808725399999],[-122.38622154799998,37.61808725399999],[-122.38622154799998,37.618092746]]],"type":"Polygon"}
+}

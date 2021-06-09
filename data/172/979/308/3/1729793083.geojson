@@ -2,12 +2,14 @@
   "id": 1477873901,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "flysfo:node": 23381,
-    "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=23381",
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/mondrian-meets-beatles",
     "geom:area": 3.79167682672824e-11,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.392955,37.618690,-122.392949,37.618696",
@@ -16,7 +18,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
-    "sfo:level": 3,
+    "sfac:accession_id": "",
+    "sfo:level": 0,
     "sfomuseum:boardingarea": "G",
     "sfomuseum:building": "IT",
     "sfomuseum:category": "mural",
@@ -30,6 +33,7 @@
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
     "sfomuseum:terminal": "IT",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -80,13 +84,15 @@
     ],
     "wof:id": 1729793083,
     "wof:label": "Mondrian Meets the Beatles",
-    "wof:lastmodified": 1620853262,
+    "wof:lastmodified": 1623279338,
     "wof:name": "Mondrian Meets the Beatles",
     "wof:parent_id": 1729792643,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745903857
+    ],
     "wof:supersedes": [
       1477873901
     ],

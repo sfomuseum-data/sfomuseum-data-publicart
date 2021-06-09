@@ -2,12 +2,14 @@
   "id": 1477873931,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "flysfo:node": 5268,
-    "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=5268",
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/sky",
     "geom:area": 3.791676795509834e-11,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.384093,37.619395,-122.384087,37.619401",
@@ -16,7 +18,7 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
-    "sfac:accession_id": "T2013.7.a-z",
+    "sfac:accession_id": "2013.7.a-z",
     "sfo:level": 2,
     "sfomuseum:boardingarea": "E",
     "sfomuseum:building": "T3",
@@ -87,13 +89,15 @@
     ],
     "wof:id": 1729793269,
     "wof:label": "Merge Conceptual Design Sky",
-    "wof:lastmodified": 1620853262,
+    "wof:lastmodified": 1623279313,
     "wof:name": "Sky",
     "wof:parent_id": 1729792551,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745903805
+    ],
     "wof:supersedes": [
       1477873931
     ],

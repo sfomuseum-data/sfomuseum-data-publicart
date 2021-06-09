@@ -1,0 +1,91 @@
+{
+  "id": 1729829279,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2021-05-25",
+    "date:inception_upper": "2021-05-25",
+    "edtf:cessation": "..",
+    "edtf:inception": "2021-05-25",
+    "flysfo:url": "",
+    "geom:area": 3.792367188206016e-11,
+    "geom:bbox": "-122.386044,37.610757,-122.386037,37.610763",
+    "geom:latitude": 37.61076022549997,
+    "geom:longitude": -122.386040605,
+    "mz:is_current": 1,
+    "sfac:accession_id": "T2018.63",
+    "sfo:level": 2,
+    "sfomuseum:boardingarea": "B",
+    "sfomuseum:building": "T1",
+    "sfomuseum:category": "sculpture",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:map_id": 189,
+    "sfomuseum:medium": "Filters, fixtures, LED tubes",
+    "sfomuseum:object_id": 203425,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "ceiling sculpture",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1745882083,
+      1745882139,
+      1745882137
+    ],
+    "wof:country": "US",
+    "wof:created": 1614046300,
+    "wof:geomhash": "7d6c502ebcfe5bffb8e8145c704fba11",
+    "wof:hierarchy": [
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882139,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1745903867,
+        "wing_id": 1745882137
+      },
+      {
+        "building_id": 1745882083,
+        "campus_id": 102527513,
+        "concourse_id": 1745882139,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1745903867,
+        "wing_id": 1745882137
+      }
+    ],
+    "wof:id": 1745903867,
+    "wof:label": "Orion",
+    "wof:lastmodified": 1623279344,
+    "wof:name": "Orion",
+    "wof:parent_id": 1745882139,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": "publicart",
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1729829279
+    ]
+  },
+  "bbox": [
+    -122.38604405699999,
+    37.61075747899997,
+    -122.38603715300002,
+    37.610762971999975
+  ],
+  "geometry": {"coordinates":[[[-122.38603715300002,37.610762971999975],[-122.38604405699999,37.610762971999975],[-122.38604405699999,37.61075747899997],[-122.38603715300002,37.61075747899997],[-122.38603715300002,37.610762971999975]]],"type":"Polygon"}
+}

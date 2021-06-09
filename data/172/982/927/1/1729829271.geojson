@@ -2,7 +2,9 @@
   "id": 1729829271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 3.79167682672824e-11,
@@ -10,7 +12,7 @@
     "geom:latitude": 37.611397254999986,
     "geom:longitude": -122.38585859700001,
     "mz:is_current": 1,
-    "sfac:accession_id": "T2018.46 a-p",
+    "sfac:accession_id": "2018.46 a-p",
     "sfo:level": 2,
     "sfomuseum:boardingarea": "B",
     "sfomuseum:building": "T1",
@@ -68,13 +70,15 @@
     ],
     "wof:id": 1729829271,
     "wof:label": "Advice from My 80-Year-Old-Self",
-    "wof:lastmodified": 1620853262,
+    "wof:lastmodified": 1623279280,
     "wof:name": "Advice from My 80-Year-Old-Self",
     "wof:parent_id": 1729792437,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745903741
+    ],
     "wof:supersedes": []
   },
   "bbox": [

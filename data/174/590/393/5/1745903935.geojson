@@ -1,0 +1,79 @@
+{
+  "id": 1745903935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.385474,37.613955,-122.385474,37.613955",
+    "geom:latitude": 37.61395521562216,
+    "geom:longitude": -122.38547404281134,
+    "mz:is_current": 1,
+    "sfac:accession_id": "2018.39",
+    "sfo:level": 2,
+    "sfomuseum:boardingarea": "B",
+    "sfomuseum:building": "T1",
+    "sfomuseum:category": "video",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:map_id": 183,
+    "sfomuseum:medium": "two channel digital animation on 4K LCD displays, aspect ratio 32:5 (6:40), synchronized media players. 11 minute, 30 second infinite loop (on 2 screens).",
+    "sfomuseum:object_id": 203180,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
+    "src:geom": "unknown",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      1729828959,
+      85922583,
+      554784711,
+      85688637,
+      102085387
+    ],
+    "wof:country": "US",
+    "wof:created": 1623279375,
+    "wof:geomhash": "8c3843b14c74d37533dc68e6a869231e",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "liminal_id": 1729828959,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1745903935
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "liminal_id": 1729828959,
+        "region_id": 85688637,
+        "venue_id": 1745903935
+      }
+    ],
+    "wof:id": 1745903935,
+    "wof:label": "Split",
+    "wof:lastmodified": 1623282362,
+    "wof:name": "Split",
+    "wof:parent_id": 1729828959,
+    "wof:placetype": "venue",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.38547404281134,
+    37.61395521562216,
+    -122.38547404281134,
+    37.61395521562216
+  ],
+  "geometry": {"coordinates":[-122.38547404281134,37.61395521562216],"type":"Point"}
+}

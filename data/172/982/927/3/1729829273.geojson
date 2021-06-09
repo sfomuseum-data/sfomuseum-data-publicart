@@ -2,7 +2,9 @@
   "id": 1729829273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 3.792367188206016e-11,
@@ -10,7 +12,7 @@
     "geom:latitude": 37.611215246500024,
     "geom:longitude": -122.38571299,
     "mz:is_current": 1,
-    "sfac:accession_id": "T2018.7",
+    "sfac:accession_id": "2018.7",
     "sfo:level": 2,
     "sfomuseum:boardingarea": "B",
     "sfomuseum:building": "T1",
@@ -68,13 +70,15 @@
     ],
     "wof:id": 1729829273,
     "wof:label": "Unfolding Space (in Gold)",
-    "wof:lastmodified": 1620853262,
+    "wof:lastmodified": 1623279311,
     "wof:name": "Unfolding Space (in Gold)",
     "wof:parent_id": 1729792437,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745903803
+    ],
     "wof:supersedes": []
   },
   "bbox": [

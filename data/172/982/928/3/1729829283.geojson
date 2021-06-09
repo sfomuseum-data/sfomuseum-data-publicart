@@ -2,7 +2,9 @@
   "id": 1729829283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 3.791676795509834e-11,
@@ -68,13 +70,15 @@
     ],
     "wof:id": 1729829283,
     "wof:label": "Untitled",
-    "wof:lastmodified": 1620853262,
+    "wof:lastmodified": 1623279262,
     "wof:name": "Untitled",
     "wof:parent_id": 1729792581,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745903707
+    ],
     "wof:supersedes": []
   },
   "bbox": [

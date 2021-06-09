@@ -2,12 +2,14 @@
   "id": 1477873939,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2021-05-25",
+    "date:cessation_upper": "2021-05-25",
     "date:inception_lower": "2020-05-01",
     "date:inception_upper": "2020-05-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2021-05-25",
     "edtf:inception": "2020-~05",
     "flysfo:node": 3315,
-    "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3315",
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/san-francisco-bay-area-bird-encounters",
     "geom:area": 3.791676795509834e-11,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.381122,37.617122,-122.381116,37.617128",
@@ -87,13 +89,15 @@
     ],
     "wof:id": 1729793085,
     "wof:label": "Kitundu, Walter Bay Area Bird Encounters",
-    "wof:lastmodified": 1620853262,
+    "wof:lastmodified": 1623279337,
     "wof:name": "Bay Area Bird Encounters",
     "wof:parent_id": 1729792391,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1745903851
+    ],
     "wof:supersedes": [
       1477873939
     ],
