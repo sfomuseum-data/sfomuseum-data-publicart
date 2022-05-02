@@ -11,7 +11,7 @@
     "edtf:cessation": "2019-07-23",
     "edtf:inception": "",
     "flysfo:node": 3258,
-    "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3258",
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/namoo-house",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389101,37.612978,-122.389101,37.612978",
@@ -35,6 +35,7 @@
     "sfac:title": "Namoo House",
     "sfo:level": 2,
     "sfomuseum:boardingarea": "A",
+    "sfomuseum:building": "IT",
     "sfomuseum:category": "sculpture",
     "sfomuseum:collection": "Arts Commission",
     "sfomuseum:description": "The artwork, made of powder coated aluminum and stainless steel, imagines the view looking down from the air onto SFO, using a graphic background that is, in fact, a stylized aerial view of the airport. On top of this flattened and compressed landscape are flowers and insects.",
@@ -51,14 +52,14 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159157339, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159157271, 
-      1159157333, 
+      1159157339,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
+      1159157333,
       85688637
     ],
     "wof:breaches": [],
@@ -89,7 +90,7 @@
     ],
     "wof:id": 772975121,
     "wof:label": "Hsu, Joyce Namoo House",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1651524044,
     "wof:name": "Namoo House",
     "wof:parent_id": 1159157339,
     "wof:placetype": "venue",
@@ -100,14 +101,14 @@
     ],
     "wof:supersedes": [],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.3891007900238, 
-    37.6129778437367, 
-    -122.3891007900238, 
+    -122.3891007900238,
+    37.6129778437367,
+    -122.3891007900238,
     37.6129778437367
   ],
   "geometry": {"coordinates":[-122.3891007900238,37.6129778437367],"type":"Point"}

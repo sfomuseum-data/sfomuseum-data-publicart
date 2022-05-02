@@ -11,7 +11,7 @@
     "edtf:cessation": "2019-07-23",
     "edtf:inception": "",
     "flysfo:node": 3287,
-    "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3287",
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/baile",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.392416,37.618166,-122.392416,37.618166",
@@ -35,6 +35,7 @@
     "sfac:title": "Baile!",
     "sfo:level": 2,
     "sfomuseum:boardingarea": "G",
+    "sfomuseum:building": "IT",
     "sfomuseum:category": "mural",
     "sfomuseum:collection": "Arts Commission",
     "sfomuseum:description": "An image of two Jarabe Tapatio dancers (known in English as the Mexican hat dance) are shown in motion from the waist down. The metal cutout was based on a paper cutout that was photographed, digitized, and cut with a high-pressure jet stream of water; a shadow is cast onto the painted blue steel sheet behind it.",
@@ -51,14 +52,14 @@
     "sfomuseum:type": "mural",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159157337, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159157271, 
-      1159157333, 
+      1159157337,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
+      1159157333,
       85688637
     ],
     "wof:breaches": [],
@@ -89,7 +90,7 @@
     ],
     "wof:id": 772974943,
     "wof:label": "Baile!",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1651524044,
     "wof:name": "Baile!",
     "wof:parent_id": 1159157337,
     "wof:placetype": "venue",
@@ -100,14 +101,14 @@
     ],
     "wof:supersedes": [],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.3924160003662, 
-    37.61816621842744, 
-    -122.3924160003662, 
+    -122.3924160003662,
+    37.61816621842744,
+    -122.3924160003662,
     37.61816621842744
   ],
   "geometry": {"coordinates":[-122.3924160003662,37.61816621842744],"type":"Point"}

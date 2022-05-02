@@ -44,7 +44,7 @@
     "sfomuseum:is_sfo": 1,
     "sfomuseum:level": "",
     "sfomuseum:map_id": 60,
-    "sfomuseum:medium": "Flat-weave wool tapestry",
+    "sfomuseum:medium": "Wool weft on cotton warp",
     "sfomuseum:object_id": 109356,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
@@ -54,11 +54,11 @@
     "sfomuseum:type": "textile",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
       85688637
     ],
     "wof:breaches": [],
@@ -85,7 +85,7 @@
     ],
     "wof:id": 1360702199,
     "wof:label": "Adams, Mark Pond in Golden Gate Park",
-    "wof:lastmodified": 1614115726,
+    "wof:lastmodified": 1651524044,
     "wof:name": "Pond in Golden Gate Park",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -98,14 +98,14 @@
       772974357
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.38354865192963, 
-    37.617651633618124, 
-    -122.38354865192963, 
+    -122.38354865192963,
+    37.617651633618124,
+    -122.38354865192963,
     37.617651633618124
   ],
   "geometry": {"coordinates":[-122.38354865192963,37.617651633618124],"type":"Point"}

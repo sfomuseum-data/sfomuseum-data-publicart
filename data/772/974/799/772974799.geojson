@@ -11,7 +11,7 @@
     "edtf:cessation": "2019-07-23",
     "edtf:inception": "",
     "flysfo:node": 3316,
-    "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3316",
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/untitled-0",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.381870,37.617554,-122.381870,37.617554",
@@ -35,6 +35,7 @@
     "sfac:title": "Untitled",
     "sfo:level": 2,
     "sfomuseum:boardingarea": "D",
+    "sfomuseum:building": "T2",
     "sfomuseum:category": "painting",
     "sfomuseum:collection": "Arts Commission",
     "sfomuseum:description": "Laddie John Dill’s paintings of this period were closely identified with 1970s Process Art, a movement that emphasized leaving the means of construction evident on the finished creation. Here Dill trowels the cement and polymer in expressionistic gestures to create an aggressively tactile surface. The very physical nature of this painting may remind us of rough hewn concrete structures, but it is also strongly pictorial. For instance, it may suggest to you an eroded, but beautiful, desert landscape.",
@@ -51,14 +52,14 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396181, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159157271, 
-      1159396121, 
+      1159396181,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
+      1159396121,
       85688637
     ],
     "wof:brand_id": 1125159427,
@@ -90,7 +91,7 @@
     ],
     "wof:id": 772974799,
     "wof:label": "Dill, Laddie John Untitled",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1651524044,
     "wof:name": "Untitled",
     "wof:parent_id": 1159396181,
     "wof:placetype": "venue",
@@ -101,14 +102,14 @@
     ],
     "wof:supersedes": [],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.38186955451964, 
-    37.61755434048812, 
-    -122.38186955451964, 
+    -122.38186955451964,
+    37.61755434048812,
+    -122.38186955451964,
     37.61755434048812
   ],
   "geometry": {"coordinates":[-122.38186955451964,37.61755434048812],"type":"Point"}

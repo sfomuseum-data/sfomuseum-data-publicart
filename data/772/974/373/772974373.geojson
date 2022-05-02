@@ -11,7 +11,7 @@
     "edtf:cessation": "2019-07-23",
     "edtf:inception": "",
     "flysfo:node": 3289,
-    "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3289",
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/sanctuarysanctuario",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.393119,37.618430,-122.393119,37.618430",
@@ -35,6 +35,7 @@
     "sfac:title": "Sanctuario",
     "sfo:level": 2,
     "sfomuseum:boardingarea": "G",
+    "sfomuseum:building": "IT",
     "sfomuseum:category": "mural",
     "sfomuseum:collection": "Arts Commission",
     "sfomuseum:description": "Colorful sculpture depicting a range of emotions, interactions, and significant meetings and partings that travelers and their loved ones experience in an airport.",
@@ -51,14 +52,14 @@
     "sfomuseum:type": "mural",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159157337, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159157271, 
-      1159157333, 
+      1159157337,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
+      1159157333,
       85688637
     ],
     "wof:breaches": [],
@@ -88,9 +89,9 @@
       }
     ],
     "wof:id": 772974373,
-    "wof:label": "Montoya, Emmanual C. and Juana Alicia Sanctuary/Santuario",
-    "wof:lastmodified": 1617237604,
-    "wof:name": "Sanctuary/Santuario",
+    "wof:label": "Montoya, Emmanual C. and Juana Alicia Santuario/Sanctuary",
+    "wof:lastmodified": 1651524044,
+    "wof:name": "Santuario/Sanctuary",
     "wof:parent_id": 1159157337,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
@@ -100,14 +101,14 @@
     ],
     "wof:supersedes": [],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.39311873912811, 
-    37.61842966432278, 
-    -122.39311873912811, 
+    -122.39311873912811,
+    37.61842966432278,
+    -122.39311873912811,
     37.61842966432278
   ],
   "geometry": {"coordinates":[-122.39311873912811,37.61842966432278],"type":"Point"}

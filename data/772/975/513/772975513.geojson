@@ -11,7 +11,7 @@
     "edtf:cessation": "2019-07-23",
     "edtf:inception": "",
     "flysfo:node": 4939,
-    "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=4939",
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/you-were-heaven",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.389900,37.612117,-122.389900,37.612117",
@@ -35,6 +35,7 @@
     "sfac:title": "You Were in Heaven",
     "sfo:level": 1,
     "sfomuseum:boardingarea": "A",
+    "sfomuseum:building": "IT",
     "sfomuseum:category": "sculpture",
     "sfomuseum:collection": "Arts Commission",
     "sfomuseum:description": "A ceiling dome, installed at one end of the corridor and lit through blue gels, is inspired by early creation myths that describe the sky as originating from ice crystals. On the floor below the dome are bronze and terrazzo medallion. As passengers pass through the dome and walk along the corridor wall, they encounter five 60-foot long curved niches. In these niches, groups of cast hydrocal tiles with forms derived from the mathematical theories of English mathematician Arthur Penrose, are fit together to create shapes that resemble clouds. The artist creates these complex forms using only 2 unique shapes of tiles.",
@@ -51,14 +52,14 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159157339, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159157271, 
-      1159157333, 
+      1159157339,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
+      1159157333,
       85688637
     ],
     "wof:breaches": [],
@@ -89,7 +90,7 @@
     ],
     "wof:id": 772975513,
     "wof:label": "Preston, Ann You Were in Heaven",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1651524044,
     "wof:name": "You Were in Heaven",
     "wof:parent_id": 1159157339,
     "wof:placetype": "venue",
@@ -100,14 +101,14 @@
     ],
     "wof:supersedes": [],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.38990008831024, 
-    37.61211732890617, 
-    -122.38990008831024, 
+    -122.38990008831024,
+    37.61211732890617,
+    -122.38990008831024,
     37.61211732890617
   ],
   "geometry": {"coordinates":[-122.38990008831024,37.61211732890617],"type":"Point"}

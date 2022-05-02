@@ -54,11 +54,11 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
       85688637
     ],
     "wof:breaches": [],
@@ -85,7 +85,7 @@
     ],
     "wof:id": 1360702205,
     "wof:label": "Pomodoro, Arnaldo Cilindro Constuito",
-    "wof:lastmodified": 1614115726,
+    "wof:lastmodified": 1651524044,
     "wof:name": "Cilindro Constuito",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -98,14 +98,14 @@
       772975495
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.38381465371246, 
-    37.61722895807935, 
-    -122.38381465371246, 
+    -122.38381465371246,
+    37.61722895807935,
+    -122.38381465371246,
     37.61722895807935
   ],
   "geometry": {"coordinates":[-122.38381465371246,37.61722895807935],"type":"Point"}

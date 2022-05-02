@@ -54,11 +54,11 @@
     "sfomuseum:type": "textile",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
       85688637
     ],
     "wof:breaches": [],
@@ -85,7 +85,7 @@
     ],
     "wof:id": 1360702203,
     "wof:label": "Adams, Mark Garden Outside the Gate",
-    "wof:lastmodified": 1614115726,
+    "wof:lastmodified": 1651524044,
     "wof:name": "Garden Outside the Gate",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -98,14 +98,14 @@
       772974353
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.3835209852453, 
-    37.61766823362873, 
-    -122.3835209852453, 
+    -122.3835209852453,
+    37.61766823362873,
+    -122.3835209852453,
     37.61766823362873
   ],
   "geometry": {"coordinates":[-122.3835209852453,37.61766823362873],"type":"Point"}

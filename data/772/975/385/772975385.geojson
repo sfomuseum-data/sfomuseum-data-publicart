@@ -11,7 +11,7 @@
     "edtf:cessation": "2019-07-23",
     "edtf:inception": "",
     "flysfo:node": 3334,
-    "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3334",
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/billboard-series",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.388318,37.620240,-122.388318,37.620240",
@@ -35,6 +35,7 @@
     "sfac:title": "Billboard Series",
     "sfo:level": 2,
     "sfomuseum:boardingarea": "F",
+    "sfomuseum:building": "T3",
     "sfomuseum:category": "sculpture",
     "sfomuseum:collection": "Arts Commission",
     "sfomuseum:description": "Dyed cast paper sections intertwined and knotted with lengths of colored electrical wires.  This artwork, suspended above the moving walkway, responds to the transitory nature of the airport through its different views and uses of light.",
@@ -51,14 +52,14 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396301, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159157271, 
-      1159157307, 
+      1159396301,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
+      1159157307,
       85688637
     ],
     "wof:breaches": [],
@@ -89,7 +90,7 @@
     ],
     "wof:id": 772975385,
     "wof:label": "O’Banion, Nance Billboard Series",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1651524044,
     "wof:name": "Billboard Series",
     "wof:parent_id": 1159396301,
     "wof:placetype": "venue",
@@ -100,14 +101,14 @@
     ],
     "wof:supersedes": [],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.38831758499144, 
-    37.62023976732996, 
-    -122.38831758499144, 
+    -122.38831758499144,
+    37.62023976732996,
+    -122.38831758499144,
     37.62023976732996
   ],
   "geometry": {"coordinates":[-122.38831758499144,37.62023976732996],"type":"Point"}

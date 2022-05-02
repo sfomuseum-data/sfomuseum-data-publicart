@@ -11,7 +11,7 @@
     "edtf:cessation": "2019-07-23",
     "edtf:inception": "",
     "flysfo:node": 5267,
-    "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=5267",
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/angulos-en-todas-las-direcciones",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.384402,37.619305,-122.384402,37.619305",
@@ -35,6 +35,7 @@
     "sfac:title": "Angulos en Todas Direciones",
     "sfo:level": 2,
     "sfomuseum:boardingarea": "E",
+    "sfomuseum:building": "T3",
     "sfomuseum:category": "painting",
     "sfomuseum:collection": "Arts Commission",
     "sfomuseum:description": "Diptych - colorful abstract shapes.",
@@ -46,18 +47,19 @@
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159396267, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159157271, 
-      1159157307, 
+      1159396267,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
+      1159157307,
       85688637
     ],
     "wof:breaches": [],
@@ -93,7 +95,7 @@
     ],
     "wof:id": 772975299,
     "wof:label": "Ángulos en Todas las Direcciones",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1651524044,
     "wof:name": "Ángulos en Todas las Direcciones",
     "wof:parent_id": 1159396267,
     "wof:placetype": "venue",
@@ -106,14 +108,14 @@
       772975295
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.3844015598297, 
-    37.61930497785245, 
-    -122.3844015598297, 
+    -122.3844015598297,
+    37.61930497785245,
+    -122.3844015598297,
     37.61930497785245
   ],
   "geometry": {"coordinates":[-122.3844015598297,37.61930497785245],"type":"Point"}
