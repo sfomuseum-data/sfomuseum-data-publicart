@@ -8,13 +8,13 @@
     "edtf:inception": "2021-05-25",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.386069,37.611471,-122.386069,37.611471",
-    "geom:latitude": 37.611471,
-    "geom:longitude": -122.386069,
+    "geom:bbox": "-122.385820,37.611288,-122.385820,37.611288",
+    "geom:latitude": 37.611288,
+    "geom:longitude": -122.38582,
     "millsfield:waypoint_id": 1796889469,
     "mz:is_current": 1,
     "sfac:accession_id": "2018.46 a-p",
-    "sfo:level": 0,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "B",
     "sfomuseum:building": "T1",
     "sfomuseum:category": "print",
@@ -35,36 +35,45 @@
       85922583,
       554784711,
       85688637,
-      102085387
+      102085387,
+      1763588121,
+      1763588177,
+      1763588175
     ],
     "wof:country": "US",
     "wof:created": 1614046298,
-    "wof:geomhash": "1912cd78ad849758446883d58fc82ac3",
+    "wof:geomhash": "4574bf0e66b65824e7e96a4d60575426",
     "wof:hierarchy": [
       {
+        "building_id": 1763588121,
         "campus_id": 102527513,
+        "concourse_id": 1763588177,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1745903741
+        "venue_id": 1745903741,
+        "wing_id": 1763588175
       },
       {
+        "building_id": 1763588121,
         "campus_id": 102527513,
+        "concourse_id": 1763588177,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
-        "venue_id": 1745903741
+        "venue_id": 1745903741,
+        "wing_id": 1763588175
       }
     ],
     "wof:id": 1745903741,
     "wof:label": "Advice from My 80-Year-Old-Self",
-    "wof:lastmodified": 1672358602,
+    "wof:lastmodified": 1672361339,
     "wof:name": "Advice from My 80-Year-Old-Self",
-    "wof:parent_id": 102527513,
+    "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
@@ -74,10 +83,10 @@
     ]
   },
   "bbox": [
-    -122.386069,
-    37.611471,
-    -122.386069,
-    37.611471
+    -122.38582,
+    37.611288,
+    -122.38582,
+    37.611288
   ],
-  "geometry": {"coordinates":[-122.386069,37.611471],"type":"Point"}
+  "geometry": {"coordinates":[-122.38582,37.611288],"type":"Point"}
 }

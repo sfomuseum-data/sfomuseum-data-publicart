@@ -7,8 +7,8 @@
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.387405,37.614406,-122.387405,37.614406",
-    "geom:latitude": 37.614405785583834,
-    "geom:longitude": -122.38740475615187,
+    "geom:latitude": 37.614406,
+    "geom:longitude": -122.387405,
     "millsfield:waypoint_id": 1796889473,
     "mz:is_current": 1,
     "sfac:accession_id": "",
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1623279378,
-    "wof:geomhash": "a8595b258354a74f02d257b49c3aeda0",
+    "wof:geomhash": "d85e34af84e4216be8fe713faab58cb7",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1745903945,
     "wof:label": "Parallel Portions",
-    "wof:lastmodified": 1672344098,
+    "wof:lastmodified": 1672361354,
     "wof:name": "Parallel Portions",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",
@@ -78,10 +78,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38740475615187,
-    37.614405785583834,
-    -122.38740475615187,
-    37.614405785583834
+    -122.387405,
+    37.614406,
+    -122.387405,
+    37.614406
   ],
-  "geometry": {"coordinates":[-122.38740475615187,37.614405785583834],"type":"Point"}
+  "geometry": {"coordinates":[-122.387405,37.614406],"type":"Point"}
 }

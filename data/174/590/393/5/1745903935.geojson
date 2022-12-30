@@ -7,8 +7,8 @@
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.385474,37.613955,-122.385474,37.613955",
-    "geom:latitude": 37.61395521562216,
-    "geom:longitude": -122.38547404281134,
+    "geom:latitude": 37.613955,
+    "geom:longitude": -122.385474,
     "millsfield:waypoint_id": 1796889473,
     "mz:is_current": 1,
     "sfac:accession_id": "2018.39",
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1623279375,
-    "wof:geomhash": "8c3843b14c74d37533dc68e6a869231e",
+    "wof:geomhash": "22f1c225659e0ac2d1f94c1b7cd56d94",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1745903935,
     "wof:label": "Split",
-    "wof:lastmodified": 1672344113,
+    "wof:lastmodified": 1672361347,
     "wof:name": "Split",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",
@@ -78,10 +78,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38547404281134,
-    37.61395521562216,
-    -122.38547404281134,
-    37.61395521562216
+    -122.385474,
+    37.613955,
+    -122.385474,
+    37.613955
   ],
-  "geometry": {"coordinates":[-122.38547404281134,37.61395521562216],"type":"Point"}
+  "geometry": {"coordinates":[-122.385474,37.613955],"type":"Point"}
 }

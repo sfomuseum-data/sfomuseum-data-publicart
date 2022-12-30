@@ -7,12 +7,12 @@
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.387596,37.614578,-122.387596,37.614578",
-    "geom:latitude": 37.61457843388695,
-    "geom:longitude": -122.38759635365895,
+    "geom:latitude": 37.614578,
+    "geom:longitude": -122.387596,
     "millsfield:waypoint_id": 1796889629,
     "mz:is_current": 1,
     "sfac:accession_id": "2018.29",
-    "sfo:level": 1,
+    "sfo:level": 0,
     "sfomuseum:boardingarea": "B",
     "sfomuseum:building": "T1",
     "sfomuseum:category": "sculpture",
@@ -37,7 +37,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1623279377,
-    "wof:geomhash": "ced81fafe75910e2b6b6699deb331cef",
+    "wof:geomhash": "394b7668b0a0df491b58233a5793333d",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -60,7 +60,7 @@
     ],
     "wof:id": 1745903941,
     "wof:label": "Shell",
-    "wof:lastmodified": 1672344236,
+    "wof:lastmodified": 1672361353,
     "wof:name": "Shell",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
@@ -69,10 +69,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38759635365895,
-    37.61457843388695,
-    -122.38759635365895,
-    37.61457843388695
+    -122.387596,
+    37.614578,
+    -122.387596,
+    37.614578
   ],
-  "geometry": {"coordinates":[-122.38759635365895,37.61457843388695],"type":"Point"}
+  "geometry": {"coordinates":[-122.387596,37.614578],"type":"Point"}
 }
