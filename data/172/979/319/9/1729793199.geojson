@@ -12,11 +12,11 @@
     "edtf:inception": "2020-~05",
     "flysfo:node": 3250,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3250",
-    "geom:area": 4.744316934670174e-8,
+    "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.392183,37.615989,-122.391802,37.616201",
-    "geom:latitude": 37.61609615020807,
-    "geom:longitude": -122.3919959343371,
+    "geom:bbox": "-122.391996,37.616096,-122.391996,37.616096",
+    "geom:latitude": 37.616096,
+    "geom:longitude": -122.391996,
     "iso:country": "US",
     "millsfield:waypoint_id": 1796935619,
     "mz:hierarchy_label": 1,
@@ -34,7 +34,7 @@
     "sfac:revision": "2-e004938502390343cc6ca2f108f3d909",
     "sfac:source": "San Francisco Arts Commission",
     "sfac:title": "Wind Portal",
-    "sfo:level": 3,
+    "sfo:level": 0,
     "sfomuseum:building": "BART Station",
     "sfomuseum:category": "sculpture",
     "sfomuseum:collection": "Arts Commission",
@@ -58,8 +58,7 @@
       85922583,
       102087579,
       554784711,
-      102085387,
-      1729945785
+      102085387
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -71,10 +70,9 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387368,
-    "wof:geomhash": "d30f2ebfd086301234eaa774dca28adc",
+    "wof:geomhash": "4a7b54d18f8b975166def99da90c1f0d",
     "wof:hierarchy": [
       {
-        "arcade_id": 1729945785,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -85,7 +83,6 @@
         "venue_id": 1729793199
       },
       {
-        "arcade_id": 1729945785,
         "campus_id": 102527513,
         "continent_id": 102191575,
         "country_id": 85633793,
@@ -96,9 +93,9 @@
     ],
     "wof:id": 1729793199,
     "wof:label": "Kahn, Ned Wind Portal",
-    "wof:lastmodified": 1672280137,
+    "wof:lastmodified": 1672358583,
     "wof:name": "Wind Portal",
-    "wof:parent_id": 1729945785,
+    "wof:parent_id": 102527513,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
@@ -112,10 +109,10 @@
     ]
   },
   "bbox": [
-    -122.39218343700003,
-    37.61598876199997,
-    -122.39180219600001,
-    37.616200784
+    -122.391996,
+    37.616096,
+    -122.391996,
+    37.616096
   ],
-  "geometry": {"coordinates":[[[-122.39180219600001,37.616075298],[-122.39184688699999,37.616200784],[-122.39218343700003,37.61612217300001],[-122.39214672399999,37.61598876199997],[-122.39180219600001,37.616075298]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.391996,37.616096],"type":"Point"}
 }

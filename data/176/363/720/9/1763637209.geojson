@@ -5,14 +5,14 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 8.9041986092449e-10,
-    "geom:bbox": "-122.389786,37.617071,-122.389751,37.617099",
-    "geom:latitude": 37.617084585083866,
-    "geom:longitude": -122.38976847600377,
+    "geom:area": 0,
+    "geom:bbox": "-122.389994,37.617150,-122.389994,37.617150",
+    "geom:latitude": 37.61715,
+    "geom:longitude": -122.389994,
     "millsfield:waypoint_id": 1796889545,
     "mz:is_current": 1,
     "sfac:accession_id": "",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "G",
     "sfomuseum:building": "IT",
     "sfomuseum:category": "mural",
@@ -41,7 +41,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524047,
-    "wof:geomhash": "26c0510a11321590b4ed31acf1cfcdee",
+    "wof:geomhash": "db88f711cf81854c7c3fed037f46233e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1763637209,
     "wof:label": "When the Path Through the Atmosphere is Longer",
-    "wof:lastmodified": 1672340783,
+    "wof:lastmodified": 1672358631,
     "wof:name": "When the Path Through the Atmosphere is Longer",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
@@ -80,10 +80,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38978567800001,
-    37.61707147599998,
-    -122.38975080900002,
-    37.617099096000004
+    -122.389994,
+    37.61715,
+    -122.389994,
+    37.61715
   ],
-  "geometry": {"coordinates":[[[-122.38978433699998,37.617099096000004],[-122.38978567800001,37.61707147599998],[-122.38975080900002,37.61707147599998],[-122.38975214999999,37.617096971000024],[-122.38978433699998,37.617099096000004]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.389994,37.61715],"type":"Point"}
 }

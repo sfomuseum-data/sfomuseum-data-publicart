@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 5.075507324346999e-11,
-    "geom:bbox": "-122.383539,37.617600,-122.383527,37.617608",
-    "geom:latitude": 37.61760416817044,
-    "geom:longitude": -122.38353301824868,
+    "geom:area": 0,
+    "geom:bbox": "-122.383533,37.617604,-122.383533,37.617604",
+    "geom:latitude": 37.617604,
+    "geom:longitude": -122.383533,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.33",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225184,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524059,
-    "wof:geomhash": "8c368b76fd131984f52fcc62b0eaa775",
+    "wof:geomhash": "ff06fa076951bab101a98573c182d38e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637251,
     "wof:label": "Dancing in a Fillmore Flat",
-    "wof:lastmodified": 1651524059,
+    "wof:lastmodified": 1672358681,
     "wof:name": "Dancing in a Fillmore Flat",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38353948399998,
-    37.61759996799998,
-    -122.38352707799999,
-    37.617607935000024
+    -122.383533,
+    37.617604,
+    -122.383533,
+    37.617604
   ],
-  "geometry": {"coordinates":[[[-122.38353948399998,37.61760421700001],[-122.383531102,37.61759996799998],[-122.38352707799999,37.61760501399999],[-122.38353445400003,37.617607935000024],[-122.38353948399998,37.61760421700001]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383533,37.617604],"type":"Point"}
 }

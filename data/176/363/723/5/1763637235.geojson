@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 3.223319240956502e-11,
-    "geom:bbox": "-122.383401,37.617577,-122.383392,37.617584",
-    "geom:latitude": 37.61758002504575,
-    "geom:longitude": -122.38339677475028,
+    "geom:area": 0,
+    "geom:bbox": "-122.383397,37.617580,-122.383397,37.617580",
+    "geom:latitude": 37.61758,
+    "geom:longitude": -122.383397,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.26",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "CAC",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225177,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524055,
-    "wof:geomhash": "59f77fd0884dec292876b4d5e3250648",
+    "wof:geomhash": "979aa95a829374c71e149a94cc4f54ea",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637235,
     "wof:label": "Public Transit Areas #46",
-    "wof:lastmodified": 1651524055,
+    "wof:lastmodified": 1672358674,
     "wof:name": "Public Transit Areas #46",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38340101400001,
-    37.61757659800003,
-    -122.383392297,
-    37.61758350299999
+    -122.383397,
+    37.61758,
+    -122.383397,
+    37.61758
   ],
-  "geometry": {"coordinates":[[[-122.38340101400001,37.61758111300003],[-122.38339799699997,37.61757659800003],[-122.383392297,37.61757898799999],[-122.38339598499999,37.61758350299999],[-122.38340101400001,37.61758111300003]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383397,37.61758],"type":"Point"}
 }

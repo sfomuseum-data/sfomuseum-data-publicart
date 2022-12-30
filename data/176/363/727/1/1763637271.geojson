@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 2.1503088065944146e-11,
-    "geom:bbox": "-122.383431,37.617527,-122.383425,37.617531",
-    "geom:latitude": 37.617529097512005,
-    "geom:longitude": -122.38342827448251,
+    "geom:area": 0,
+    "geom:bbox": "-122.383428,37.617529,-122.383428,37.617529",
+    "geom:latitude": 37.617529,
+    "geom:longitude": -122.383428,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.42",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225193,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "gelatin silver print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524065,
-    "wof:geomhash": "d462404e7620492670f7756af235e02d",
+    "wof:geomhash": "3ec1b5c7ffd46eb2e4956c46c595e8a2",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637271,
     "wof:label": "Klamath River, California",
-    "wof:lastmodified": 1651524065,
+    "wof:lastmodified": 1672358698,
     "wof:name": "Klamath River, California",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38343085399998,
-    37.61752667000002,
-    -122.38342548999998,
-    37.61753145
+    -122.383428,
+    37.617529,
+    -122.383428,
+    37.617529
   ],
-  "geometry": {"coordinates":[[[-122.38343085399998,37.61753118500002],[-122.383430519,37.61752667000002],[-122.38342548999998,37.61752720099997],[-122.38342616,37.61753145],[-122.38343085399998,37.61753118500002]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383428,37.617529],"type":"Point"}
 }

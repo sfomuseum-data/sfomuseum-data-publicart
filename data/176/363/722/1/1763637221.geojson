@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 1.482589399763582e-10,
-    "geom:bbox": "-122.383482,37.617660,-122.383463,37.617676",
-    "geom:latitude": 37.61766794150421,
-    "geom:longitude": -122.38347211230479,
+    "geom:area": 0,
+    "geom:bbox": "-122.383472,37.617668,-122.383472,37.617668",
+    "geom:latitude": 37.617668,
+    "geom:longitude": -122.383472,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.18",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225169,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524050,
-    "wof:geomhash": "c2de24ff79d9d22915f5f952ce760f6e",
+    "wof:geomhash": "3769f8ba8d315c9f39742f54ddff0858",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637221,
     "wof:label": "Dominique DiPrima on Stage (from Public Matters, 1982-1988)",
-    "wof:lastmodified": 1651524050,
+    "wof:lastmodified": 1672358654,
     "wof:name": "Dominique DiPrima on Stage (from Public Matters, 1982-1988)",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38348162699998,
-    37.61765968100002,
-    -122.38346251600001,
-    37.617676147
+    -122.383472,
+    37.617668,
+    -122.383472,
+    37.617668
   ],
-  "geometry": {"coordinates":[[[-122.38348162699998,37.617670304],[-122.38347022699998,37.61765968100002],[-122.38346251600001,37.617665789],[-122.38347425,37.617676147],[-122.38348162699998,37.617670304]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383472,37.617668],"type":"Point"}
 }

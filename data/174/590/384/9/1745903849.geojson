@@ -12,11 +12,11 @@
     "edtf:inception": "2021-05-25",
     "flysfo:node": 4942,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=4942",
-    "geom:area": 3.792916482397278e-11,
+    "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383397,37.615176,-122.383390,37.615182",
-    "geom:latitude": 37.61517901650001,
-    "geom:longitude": -122.3833930495,
+    "geom:bbox": "-122.401625,37.635562,-122.401625,37.635562",
+    "geom:latitude": 37.635562,
+    "geom:longitude": -122.401625,
     "iso:country": "US",
     "millsfield:waypoint_id": 1796903637,
     "mz:hierarchy_label": 1,
@@ -59,9 +59,7 @@
       102087579,
       554784711,
       102085387,
-      1745882083,
-      1745882195,
-      1745882137
+      1477855987
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -73,38 +71,34 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387349,
-    "wof:geomhash": "7c1924d355ef8e5e1ede18817a97217b",
+    "wof:geomhash": "2920c0eeeaad7ecc7015ae9543f8f0cf",
     "wof:hierarchy": [
       {
-        "building_id": 1745882083,
+        "building_id": 1477855987,
         "campus_id": 102527513,
-        "concourse_id": 1745882195,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1745903849,
-        "wing_id": 1745882137
+        "venue_id": 1745903849
       },
       {
-        "building_id": 1745882083,
+        "building_id": 1477855987,
         "campus_id": 102527513,
-        "concourse_id": 1745882195,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
-        "venue_id": 1745903849,
-        "wing_id": 1745882137
+        "venue_id": 1745903849
       }
     ],
     "wof:id": 1745903849,
     "wof:label": "Butterfield, Deborah Pohina",
-    "wof:lastmodified": 1672345940,
+    "wof:lastmodified": 1672358682,
     "wof:name": "Pohina",
-    "wof:parent_id": 1745882195,
+    "wof:parent_id": 1477855987,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
@@ -118,10 +112,10 @@
     ]
   },
   "bbox": [
-    -122.38339650199998,
-    37.615176270000006,
-    -122.38338959700002,
-    37.61518176300001
+    -122.401625,
+    37.635562,
+    -122.401625,
+    37.635562
   ],
-  "geometry": {"coordinates":[[[-122.38338959700002,37.61518176300001],[-122.38339650199998,37.61518176300001],[-122.38339650199998,37.615176270000006],[-122.38338959700002,37.615176270000006],[-122.38338959700002,37.61518176300001]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.401625,37.635562],"type":"Point"}
 }

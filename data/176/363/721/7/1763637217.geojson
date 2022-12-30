@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 1.522605595716604e-10,
-    "geom:bbox": "-122.383498,37.617650,-122.383478,37.617666",
-    "geom:latitude": 37.61765787836948,
-    "geom:longitude": -122.38348774834536,
+    "geom:area": 0,
+    "geom:bbox": "-122.383488,37.617658,-122.383488,37.617658",
+    "geom:latitude": 37.617658,
+    "geom:longitude": -122.383488,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.17",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225168,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524050,
-    "wof:geomhash": "4c46484190089ba7bbf74a43ad6fc106",
+    "wof:geomhash": "57aac8b1dd84cde690d484429ca60526",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637217,
     "wof:label": "“Cookies not Contras,” Peace, Jobs and Justice Parade (from Public Matters, 1982-1988)",
-    "wof:lastmodified": 1651524050,
+    "wof:lastmodified": 1672358651,
     "wof:name": "“Cookies not Contras,” Peace, Jobs and Justice Parade (from Public Matters, 1982-1988)",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38349771999998,
-    37.617649855000025,
-    -122.383477604,
-    37.61766578999999
+    -122.383488,
+    37.617658,
+    -122.383488,
+    37.617658
   ],
-  "geometry": {"coordinates":[[[-122.38349771999998,37.617660478000005],[-122.38348632100002,37.617649855000025],[-122.383477604,37.61765569800002],[-122.38348967399997,37.61766578999999],[-122.38349771999998,37.617660478000005]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383488,37.617658],"type":"Point"}
 }

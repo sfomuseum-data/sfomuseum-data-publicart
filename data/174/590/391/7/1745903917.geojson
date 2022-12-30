@@ -12,11 +12,11 @@
     "edtf:inception": "2021-05-25",
     "flysfo:node": 3304,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3304",
-    "geom:area": 3.791676756265138e-11,
+    "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383487,37.616362,-122.383481,37.616368",
-    "geom:latitude": 37.616365,
-    "geom:longitude": -122.38348400000001,
+    "geom:bbox": "-122.383917,37.616034,-122.383917,37.616034",
+    "geom:latitude": 37.616034,
+    "geom:longitude": -122.383917,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -59,9 +59,9 @@
       102087579,
       554784711,
       102085387,
-      1745882083,
-      1745882129,
-      1745882085
+      1763588121,
+      1763588165,
+      1763588123
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -73,12 +73,12 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387368,
-    "wof:geomhash": "1a372db520aff4b7fea33253d4af256b",
+    "wof:geomhash": "482968db6029a15ac6266d369a4b7d8e",
     "wof:hierarchy": [
       {
-        "building_id": 1745882083,
+        "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1745882129,
+        "concourse_id": 1763588165,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -86,25 +86,25 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1745903917,
-        "wing_id": 1745882085
+        "wing_id": 1763588123
       },
       {
-        "building_id": 1745882083,
+        "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1745882129,
+        "concourse_id": 1763588165,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
         "venue_id": 1745903917,
-        "wing_id": 1745882085
+        "wing_id": 1763588123
       }
     ],
     "wof:id": 1745903917,
     "wof:label": "Katano, Marc Torso",
-    "wof:lastmodified": 1672352424,
+    "wof:lastmodified": 1672358718,
     "wof:name": "Torso",
-    "wof:parent_id": 1745882129,
+    "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
@@ -118,10 +118,10 @@
     ]
   },
   "bbox": [
-    -122.383487452,
-    37.61636225400002,
-    -122.38348054800002,
-    37.61636774599998
+    -122.383917,
+    37.616034,
+    -122.383917,
+    37.616034
   ],
-  "geometry": {"coordinates":[[[-122.38348054800002,37.61636774599998],[-122.383487452,37.61636774599998],[-122.383487452,37.61636225400002],[-122.38348054800002,37.61636225400002],[-122.38348054800002,37.61636774599998]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383917,37.616034],"type":"Point"}
 }

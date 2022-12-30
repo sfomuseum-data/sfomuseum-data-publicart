@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 3.7883291569082576e-11,
-    "geom:bbox": "-122.383438,37.617623,-122.383428,37.617631",
-    "geom:latitude": 37.61762723418531,
-    "geom:longitude": -122.38343303539872,
+    "geom:area": 0,
+    "geom:bbox": "-122.383433,37.617627,-122.383433,37.617627",
+    "geom:latitude": 37.617627,
+    "geom:longitude": -122.383433,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.20",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225171,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524052,
-    "wof:geomhash": "b982086cd1fd5fbeae940d897b0d6724",
+    "wof:geomhash": "34c0c682afdbd5002c83ba5a6185ef2e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637225,
     "wof:label": "The Carnaval Ride (from Public Matters, 1982-1988)",
-    "wof:lastmodified": 1651524052,
+    "wof:lastmodified": 1672358657,
     "wof:name": "The Carnaval Ride (from Public Matters, 1982-1988)",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38343789499999,
-    37.61762333899998,
-    -122.38342817199998,
-    37.61763103999999
+    -122.383433,
+    37.617627,
+    -122.383433,
+    37.617627
   ],
-  "geometry": {"coordinates":[[[-122.38343789499999,37.61762864999997],[-122.383433201,37.61762333899998],[-122.38342817199998,37.61762599399998],[-122.38343286600002,37.61763103999999],[-122.38343789499999,37.61762864999997]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383433,37.617627],"type":"Point"}
 }

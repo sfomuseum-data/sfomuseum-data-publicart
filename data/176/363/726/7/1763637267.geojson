@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 2.7691877543294515e-11,
-    "geom:bbox": "-122.383463,37.617541,-122.383457,37.617547",
-    "geom:latitude": 37.61754396477776,
-    "geom:longitude": -122.38346028565802,
+    "geom:area": 0,
+    "geom:bbox": "-122.383460,37.617544,-122.383460,37.617544",
+    "geom:latitude": 37.617544,
+    "geom:longitude": -122.38346,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.40",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225191,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524064,
-    "wof:geomhash": "b6c2f98acb972e8413ddec5b10ebdf2e",
+    "wof:geomhash": "384ea2d561ab6d7999d8aca5ede94bee",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637267,
     "wof:label": "Earl Grant on Organ, Junius Simmons on Guitar, Blue Mirror",
-    "wof:lastmodified": 1651524064,
+    "wof:lastmodified": 1672358691,
     "wof:name": "Earl Grant on Organ, Junius Simmons on Guitar, Blue Mirror",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38346337600001,
-    37.617541011000014,
-    -122.38345700600001,
-    37.61754685400001
+    -122.38346,
+    37.617544,
+    -122.38346,
+    37.617544
   ],
-  "geometry": {"coordinates":[[[-122.38346337600001,37.617546323],[-122.38346237000002,37.617541011000014],[-122.38345700600001,37.617541808],[-122.38345834699999,37.61754685400001],[-122.38346337600001,37.617546323]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.38346,37.617544],"type":"Point"}
 }

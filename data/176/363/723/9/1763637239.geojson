@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 3.4415358161471625e-11,
-    "geom:bbox": "-122.383396,37.617567,-122.383386,37.617574",
-    "geom:latitude": 37.61757027867585,
-    "geom:longitude": -122.38339091509108,
+    "geom:area": 0,
+    "geom:bbox": "-122.383391,37.617570,-122.383391,37.617570",
+    "geom:latitude": 37.61757,
+    "geom:longitude": -122.383391,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.27",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225178,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524055,
-    "wof:geomhash": "5c4722b5a6542964dd53f1edd1e445de",
+    "wof:geomhash": "f0551fd79a8cee3f86906db9e95ac7c4",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637239,
     "wof:label": "At Home with the Jangs ",
-    "wof:lastmodified": 1651524055,
+    "wof:lastmodified": 1672358667,
     "wof:name": "At Home with the Jangs ",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38339565000001,
-    37.617566771999975,
-    -122.38338626199999,
-    37.617573676999996
+    -122.383391,
+    37.61757,
+    -122.383391,
+    37.61757
   ],
-  "geometry": {"coordinates":[[[-122.38339565000001,37.617571021],[-122.383392297,37.617566771999975],[-122.38338626199999,37.61756969300001],[-122.38338928000002,37.617573676999996],[-122.38339565000001,37.617571021]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383391,37.61757],"type":"Point"}
 }

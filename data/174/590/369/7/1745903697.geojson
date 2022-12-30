@@ -12,11 +12,11 @@
     "edtf:inception": "2021-05-25",
     "flysfo:node": 3330,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3330",
-    "geom:area": 3.792916513621368e-11,
+    "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384523,37.618517,-122.384516,37.618522",
-    "geom:latitude": 37.618519319500024,
-    "geom:longitude": -122.38451926550002,
+    "geom:bbox": "-122.384696,37.618597,-122.384696,37.618597",
+    "geom:latitude": 37.618597,
+    "geom:longitude": -122.384696,
     "iso:country": "US",
     "millsfield:waypoint_id": 1796889503,
     "mz:hierarchy_label": 1,
@@ -60,9 +60,9 @@
       102087579,
       554784711,
       102085387,
-      1745882083,
-      1745882299,
-      1745882233
+      1763588121,
+      1763588335,
+      1763588269
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -74,12 +74,12 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387340,
-    "wof:geomhash": "e7f9461c485b0eb2bd800d9c94f76d52",
+    "wof:geomhash": "147550b5474f625f8a431e1e754b4b97",
     "wof:hierarchy": [
       {
-        "building_id": 1745882083,
+        "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1745882299,
+        "concourse_id": 1763588335,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -87,25 +87,25 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1745903697,
-        "wing_id": 1745882233
+        "wing_id": 1763588269
       },
       {
-        "building_id": 1745882083,
+        "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1745882299,
+        "concourse_id": 1763588335,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
         "venue_id": 1745903697,
-        "wing_id": 1745882233
+        "wing_id": 1763588269
       }
     ],
     "wof:id": 1745903697,
     "wof:label": "Bechtle, Robert San Francisco Nova",
-    "wof:lastmodified": 1672341844,
+    "wof:lastmodified": 1672358584,
     "wof:name": "San Francisco Nova",
-    "wof:parent_id": 1745882299,
+    "wof:parent_id": 1763588335,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
@@ -119,10 +119,10 @@
     ]
   },
   "bbox": [
-    -122.38452271800003,
-    37.61851657300002,
-    -122.38451581300001,
-    37.618522066000025
+    -122.384696,
+    37.618597,
+    -122.384696,
+    37.618597
   ],
-  "geometry": {"coordinates":[[[-122.38451581300001,37.618522066000025],[-122.38452271800003,37.618522066000025],[-122.38452271800003,37.61851657300002],[-122.38451581300001,37.61851657300002],[-122.38451581300001,37.618522066000025]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.384696,37.618597],"type":"Point"}
 }

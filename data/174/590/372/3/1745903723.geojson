@@ -12,11 +12,11 @@
     "edtf:inception": "2021-05-25",
     "flysfo:node": 3279,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3279",
-    "geom:area": 3.79167682672824e-11,
+    "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389967,37.611946,-122.389961,37.611952",
-    "geom:latitude": 37.61194899999998,
-    "geom:longitude": -122.38996399999999,
+    "geom:bbox": "-122.389605,37.612194,-122.389605,37.612194",
+    "geom:latitude": 37.612194,
+    "geom:longitude": -122.389605,
     "iso:country": "US",
     "millsfield:waypoint_id": 1796889533,
     "mz:hierarchy_label": 1,
@@ -60,9 +60,9 @@
       102087579,
       554784711,
       102085387,
-      1745882083,
-      1745882337,
-      1745882335
+      1763588121,
+      1763588371,
+      1763588369
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -74,12 +74,12 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387370,
-    "wof:geomhash": "8548263c53199a5dae291137c62bea4e",
+    "wof:geomhash": "d1371e88e7ab8f1154adcd94f4037848",
     "wof:hierarchy": [
       {
-        "building_id": 1745882083,
+        "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1745882337,
+        "concourse_id": 1763588371,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -87,25 +87,25 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1745903723,
-        "wing_id": 1745882335
+        "wing_id": 1763588369
       },
       {
-        "building_id": 1745882083,
+        "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1745882337,
+        "concourse_id": 1763588371,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
         "venue_id": 1745903723,
-        "wing_id": 1745882335
+        "wing_id": 1763588369
       }
     ],
     "wof:id": 1745903723,
     "wof:label": "Liu, Hung Take Off 2006",
-    "wof:lastmodified": 1672345671,
+    "wof:lastmodified": 1672358596,
     "wof:name": "Take Off 2006",
-    "wof:parent_id": 1745882337,
+    "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
@@ -119,10 +119,10 @@
     ]
   },
   "bbox": [
-    -122.38996745200001,
-    37.611946253999974,
-    -122.38996054799998,
-    37.61195174599999
+    -122.389605,
+    37.612194,
+    -122.389605,
+    37.612194
   ],
-  "geometry": {"coordinates":[[[-122.38996054799998,37.61195174599999],[-122.38996745200001,37.61195174599999],[-122.38996745200001,37.611946253999974],[-122.38996054799998,37.611946253999974],[-122.38996054799998,37.61195174599999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.389605,37.612194],"type":"Point"}
 }

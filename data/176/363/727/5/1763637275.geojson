@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 3.258868983290317e-11,
-    "geom:bbox": "-122.383417,37.617519,-122.383409,37.617524",
-    "geom:latitude": 37.61752129649679,
-    "geom:longitude": -122.38341304779999,
+    "geom:area": 0,
+    "geom:bbox": "-122.383413,37.617521,-122.383413,37.617521",
+    "geom:latitude": 37.617521,
+    "geom:longitude": -122.383413,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.43",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225194,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "gelatin silver print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524066,
-    "wof:geomhash": "339a98e9133cb518ec50b67bd2bae95a",
+    "wof:geomhash": "f7d4c454eb12b944730cd7a40cbbbc34",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637275,
     "wof:label": "Los Angeles International Airport",
-    "wof:lastmodified": 1651524066,
+    "wof:lastmodified": 1672358699,
     "wof:name": "Los Angeles International Airport",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383417108,
-    37.617518969,
-    -122.38340906100001,
-    37.617523748999986
+    -122.383413,
+    37.617521,
+    -122.383413,
+    37.617521
   ],
-  "geometry": {"coordinates":[[[-122.383417108,37.617523217999974],[-122.383416437,37.617518969],[-122.38340906100001,37.617519233999985],[-122.38340973200002,37.617523748999986],[-122.383417108,37.617523217999974]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383413,37.617521],"type":"Point"}
 }

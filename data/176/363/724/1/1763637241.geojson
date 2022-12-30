@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 3.8291532018763025e-11,
-    "geom:bbox": "-122.383393,37.617555,-122.383383,37.617563",
-    "geom:latitude": 37.617558973461584,
-    "geom:longitude": -122.38338781358708,
+    "geom:area": 0,
+    "geom:bbox": "-122.383388,37.617559,-122.383388,37.617559",
+    "geom:latitude": 37.617559,
+    "geom:longitude": -122.383388,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.28",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225179,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524056,
-    "wof:geomhash": "c73b2db60cc08688c4fa3e1fc013e8a6",
+    "wof:geomhash": "c910370ac2b087a0d177faffdfe2376c",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637241,
     "wof:label": "Chris Skiing",
-    "wof:lastmodified": 1651524056,
+    "wof:lastmodified": 1672358670,
     "wof:name": "Chris Skiing",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38339263300003,
-    37.61755535200001,
-    -122.383383245,
-    37.617562523000004
+    -122.383388,
+    37.617559,
+    -122.383388,
+    37.617559
   ],
-  "geometry": {"coordinates":[[[-122.38339263300003,37.617560663000006],[-122.38338894499998,37.61755535200001],[-122.383383245,37.61755721100002],[-122.38338626199999,37.617562523000004],[-122.38339263300003,37.617560663000006]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383388,37.617559],"type":"Point"}
 }

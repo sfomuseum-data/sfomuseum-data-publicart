@@ -12,11 +12,11 @@
     "edtf:inception": "2021-05-25",
     "flysfo:node": 4882,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=4882",
-    "geom:area": 3.79167682672824e-11,
+    "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383911,37.617526,-122.383905,37.617532",
-    "geom:latitude": 37.61752899999999,
-    "geom:longitude": -122.38390799999999,
+    "geom:bbox": "-122.384277,37.617516,-122.384277,37.617516",
+    "geom:latitude": 37.617516,
+    "geom:longitude": -122.384277,
     "iso:country": "US",
     "millsfield:waypoint_id": 1796889597,
     "mz:hierarchy_label": 1,
@@ -34,7 +34,7 @@
     "sfac:revision": "2-8753030cb342e9db5a5e011f6d4747f5",
     "sfac:source": "San Francisco Arts Commission",
     "sfac:title": "Metamorphosis",
-    "sfo:level": 2,
+    "sfo:level": 1,
     "sfomuseum:boardingarea": "D",
     "sfomuseum:building": "T2",
     "sfomuseum:category": "painting",
@@ -60,9 +60,9 @@
       102087579,
       554784711,
       102085387,
-      1745882083,
-      1745882129,
-      1745882085
+      1763588121,
+      1763588171,
+      1763588123
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -74,12 +74,12 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387385,
-    "wof:geomhash": "3bb399509ccef5f5b5b1a3234f521901",
+    "wof:geomhash": "3a5c06d6632ccb51c529b65035f4df85",
     "wof:hierarchy": [
       {
-        "building_id": 1745882083,
+        "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1745882129,
+        "concourse_id": 1763588171,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -87,25 +87,25 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1745903831,
-        "wing_id": 1745882085
+        "wing_id": 1763588123
       },
       {
-        "building_id": 1745882083,
+        "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1745882129,
+        "concourse_id": 1763588171,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
         "venue_id": 1745903831,
-        "wing_id": 1745882085
+        "wing_id": 1763588123
       }
     ],
     "wof:id": 1745903831,
     "wof:label": "Smith, Hassel Metamorphosis",
-    "wof:lastmodified": 1672342818,
+    "wof:lastmodified": 1672358659,
     "wof:name": "Metamorphosis",
-    "wof:parent_id": 1745882129,
+    "wof:parent_id": 1763588171,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
@@ -119,10 +119,10 @@
     ]
   },
   "bbox": [
-    -122.383911452,
-    37.61752625399998,
-    -122.38390454799998,
-    37.617531746
+    -122.384277,
+    37.617516,
+    -122.384277,
+    37.617516
   ],
-  "geometry": {"coordinates":[[[-122.38390454799998,37.617531746],[-122.383911452,37.617531746],[-122.383911452,37.61752625399998],[-122.38390454799998,37.61752625399998],[-122.38390454799998,37.617531746]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.384277,37.617516],"type":"Point"}
 }

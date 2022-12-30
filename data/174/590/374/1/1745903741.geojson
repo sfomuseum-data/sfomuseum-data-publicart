@@ -7,14 +7,14 @@
     "edtf:cessation": "..",
     "edtf:inception": "2021-05-25",
     "flysfo:url": "",
-    "geom:area": 3.79167682672824e-11,
-    "geom:bbox": "-122.385862,37.611395,-122.385855,37.611400",
-    "geom:latitude": 37.611397254999986,
-    "geom:longitude": -122.38585859700001,
+    "geom:area": 0,
+    "geom:bbox": "-122.386069,37.611471,-122.386069,37.611471",
+    "geom:latitude": 37.611471,
+    "geom:longitude": -122.386069,
     "millsfield:waypoint_id": 1796889469,
     "mz:is_current": 1,
     "sfac:accession_id": "2018.46 a-p",
-    "sfo:level": 2,
+    "sfo:level": 0,
     "sfomuseum:boardingarea": "B",
     "sfomuseum:building": "T1",
     "sfomuseum:category": "print",
@@ -35,45 +35,36 @@
       85922583,
       554784711,
       85688637,
-      102085387,
-      1745882083,
-      1745882139,
-      1745882137
+      102085387
     ],
     "wof:country": "US",
     "wof:created": 1614046298,
-    "wof:geomhash": "d5283b45b89974660327a1372519cbd1",
+    "wof:geomhash": "1912cd78ad849758446883d58fc82ac3",
     "wof:hierarchy": [
       {
-        "building_id": 1745882083,
         "campus_id": 102527513,
-        "concourse_id": 1745882139,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 1745903741,
-        "wing_id": 1745882137
+        "venue_id": 1745903741
       },
       {
-        "building_id": 1745882083,
         "campus_id": 102527513,
-        "concourse_id": 1745882139,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
-        "venue_id": 1745903741,
-        "wing_id": 1745882137
+        "venue_id": 1745903741
       }
     ],
     "wof:id": 1745903741,
     "wof:label": "Advice from My 80-Year-Old-Self",
-    "wof:lastmodified": 1672344942,
+    "wof:lastmodified": 1672358602,
     "wof:name": "Advice from My 80-Year-Old-Self",
-    "wof:parent_id": 1745882139,
+    "wof:parent_id": 102527513,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
@@ -83,10 +74,10 @@
     ]
   },
   "bbox": [
-    -122.38586204900002,
-    37.61139450899998,
-    -122.385855145,
-    37.61140000099999
+    -122.386069,
+    37.611471,
+    -122.386069,
+    37.611471
   ],
-  "geometry": {"coordinates":[[[-122.385855145,37.61140000099999],[-122.38586204900002,37.61140000099999],[-122.38586204900002,37.61139450899998],[-122.385855145,37.61139450899998],[-122.385855145,37.61140000099999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.386069,37.611471],"type":"Point"}
 }

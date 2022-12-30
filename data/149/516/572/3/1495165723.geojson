@@ -7,11 +7,11 @@
     "edtf:cessation": "..",
     "edtf:inception": "2019",
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/coding",
-    "geom:area": 3.792775175858929e-11,
+    "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.401663,37.635658,-122.401657,37.635664",
+    "geom:bbox": "-122.401660,37.635661,-122.401660,37.635661",
     "geom:latitude": 37.635661,
-    "geom:longitude": -122.40166000000002,
+    "geom:longitude": -122.40166,
     "iso:country": "US",
     "millsfield:waypoint_id": 1796903637,
     "mz:hierarchy_label": 1,
@@ -52,7 +52,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259887,
-    "wof:geomhash": "ea5e6e9b557e6a30e1dd72b549e4de83",
+    "wof:geomhash": "9e4993210d7d8d8063a7b8c4fd6665d2",
     "wof:hierarchy": [
       {
         "building_id": 1477855987,
@@ -77,7 +77,7 @@
     ],
     "wof:id": 1495165723,
     "wof:label": "Coding",
-    "wof:lastmodified": 1672277331,
+    "wof:lastmodified": 1672358567,
     "wof:name": "Coding",
     "wof:parent_id": 1477855987,
     "wof:placetype": "venue",
@@ -88,10 +88,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.40166345300003,
-    37.63565825400002,
-    -122.40165654700002,
-    37.63566374599998
+    -122.40166,
+    37.635661,
+    -122.40166,
+    37.635661
   ],
-  "geometry": {"coordinates":[[[-122.40165654700002,37.63566374599998],[-122.40166345300003,37.63566374599998],[-122.40166345300003,37.63565825400002],[-122.40165654700002,37.63565825400002],[-122.40165654700002,37.63566374599998]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.40166,37.635661],"type":"Point"}
 }

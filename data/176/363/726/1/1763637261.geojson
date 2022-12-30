@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 3.410365339705101e-11,
-    "geom:bbox": "-122.383506,37.617563,-122.383499,37.617569",
-    "geom:latitude": 37.61756579532826,
-    "geom:longitude": -122.3835023819664,
+    "geom:area": 0,
+    "geom:bbox": "-122.383502,37.617566,-122.383502,37.617566",
+    "geom:latitude": 37.617566,
+    "geom:longitude": -122.383502,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.37",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225188,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524062,
-    "wof:geomhash": "6419be7a2f890aaefb28d61f7c3072d9",
+    "wof:geomhash": "341cf93b6bca9b4d7e63cdef0da975f0",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637261,
     "wof:label": "A Crowd at the Primalon Ballroom",
-    "wof:lastmodified": 1651524062,
+    "wof:lastmodified": 1672358684,
     "wof:name": "A Crowd at the Primalon Ballroom",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38350595600002,
-    37.61756278799999,
-    -122.38349891500002,
-    37.61756863099998
+    -122.383502,
+    37.617566,
+    -122.383502,
+    37.617566
   ],
-  "geometry": {"coordinates":[[[-122.38350595600002,37.61756836500001],[-122.38350494999997,37.61756278799999],[-122.38349891500002,37.617563319],[-122.38349958600003,37.61756863099998],[-122.38350595600002,37.61756836500001]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383502,37.617566],"type":"Point"}
 }

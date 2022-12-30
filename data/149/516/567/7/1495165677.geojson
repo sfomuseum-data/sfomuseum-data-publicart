@@ -7,11 +7,11 @@
     "edtf:cessation": "..",
     "edtf:inception": "2019",
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/circadian-transit",
-    "geom:area": 3.792367188206016e-11,
+    "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393600,37.613158,-122.393593,37.613164",
-    "geom:latitude": 37.613161111500006,
-    "geom:longitude": -122.393596215,
+    "geom:bbox": "-122.393596,37.613161,-122.393596,37.613161",
+    "geom:latitude": 37.613161,
+    "geom:longitude": -122.393596,
     "iso:country": "US",
     "millsfield:waypoint_id": 1796942179,
     "mz:hierarchy_label": 1,
@@ -50,7 +50,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259879,
-    "wof:geomhash": "47ddc17f938fed08d26421ef0660f02c",
+    "wof:geomhash": "3f33ac7a2214d9bd7c44255ed069fab1",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1495165677,
     "wof:label": "Circadian Transit",
-    "wof:lastmodified": 1672348690,
+    "wof:lastmodified": 1672358561,
     "wof:name": "Circadian Transit",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -86,10 +86,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39359966699999,
-    37.613158365000004,
-    -122.39359276300002,
-    37.61316385800001
+    -122.393596,
+    37.613161,
+    -122.393596,
+    37.613161
   ],
-  "geometry": {"coordinates":[[[-122.39359276300002,37.61316385800001],[-122.39359966699999,37.61316385800001],[-122.39359966699999,37.613158365000004],[-122.39359276300002,37.613158365000004],[-122.39359276300002,37.61316385800001]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.393596,37.613161],"type":"Point"}
 }

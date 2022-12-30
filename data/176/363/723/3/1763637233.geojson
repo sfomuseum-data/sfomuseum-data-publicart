@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 2.92063531531774e-11,
-    "geom:bbox": "-122.383404,37.617587,-122.383396,37.617594",
-    "geom:latitude": 37.617590732590536,
-    "geom:longitude": -122.383400132708,
+    "geom:area": 0,
+    "geom:bbox": "-122.383400,37.617591,-122.383400,37.617591",
+    "geom:latitude": 37.617591,
+    "geom:longitude": -122.3834,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.24",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "CAC",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225175,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524054,
-    "wof:geomhash": "e188e18a4d96f6443d572ef2c747b9ac",
+    "wof:geomhash": "b00ec7abfdb18cfc4f0393289cd41d49",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637233,
     "wof:label": "Public Transit Areas #8",
-    "wof:lastmodified": 1651524054,
+    "wof:lastmodified": 1672358664,
     "wof:name": "Public Transit Areas #8",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38340436700003,
-    37.61758748599999,
-    -122.38339598499999,
-    37.61759386
+    -122.3834,
+    37.617591,
+    -122.3834,
+    37.617591
   ],
-  "geometry": {"coordinates":[[[-122.38340436700003,37.61759173600001],[-122.38340134999999,37.61758748599999],[-122.38339598499999,37.617589877],[-122.38339866799998,37.61759386],[-122.38340436700003,37.61759173600001]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.3834,37.617591],"type":"Point"}
 }

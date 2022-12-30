@@ -5,14 +5,14 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 1.1852639068984004e-9,
-    "geom:bbox": "-122.384126,37.617713,-122.384018,37.617766",
-    "geom:latitude": 37.617739688808264,
-    "geom:longitude": -122.38407217049588,
+    "geom:area": 0,
+    "geom:bbox": "-122.384174,37.617797,-122.384174,37.617797",
+    "geom:latitude": 37.617797,
+    "geom:longitude": -122.384174,
     "millsfield:waypoint_id": 1796889577,
     "mz:is_current": 1,
     "sfac:accession_id": "",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "T2/T3",
     "sfomuseum:category": "",
@@ -23,7 +23,7 @@
     "sfomuseum:object_id": 223767,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -41,7 +41,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524048,
-    "wof:geomhash": "7092b138fbe60a192ca377315d51b3f2",
+    "wof:geomhash": "71c4b65d9f530d6c601ce9cbd24422ed",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1763637211,
     "wof:label": "Long Arc of the Day",
-    "wof:lastmodified": 1672342197,
+    "wof:lastmodified": 1672358645,
     "wof:name": "Long Arc of the Day",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -80,10 +80,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38412638400001,
-    37.617712970000014,
-    -122.384017755,
-    37.61776608399998
+    -122.384174,
+    37.617797,
+    -122.384174,
+    37.617797
   ],
-  "geometry": {"coordinates":[[[-122.384017755,37.61772146800001],[-122.38407542200002,37.617746963],[-122.38411833800001,37.61776608399998],[-122.38412638400001,37.61775758599998],[-122.38402445999998,37.617712970000014],[-122.384017755,37.61772146800001]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.384174,37.617797],"type":"Point"}
 }

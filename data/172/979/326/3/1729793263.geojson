@@ -7,11 +7,11 @@
     "edtf:cessation": "..",
     "edtf:inception": "2019-10~",
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/we-will-walk-right-sun",
-    "geom:area": 3.791676795509834e-11,
+    "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393396,37.613454,-122.393390,37.613460",
-    "geom:latitude": 37.61345699999998,
-    "geom:longitude": -122.393393,
+    "geom:bbox": "-122.393699,37.613417,-122.393699,37.613417",
+    "geom:latitude": 37.613417,
+    "geom:longitude": -122.393699,
     "iso:country": "US",
     "millsfield:waypoint_id": 1796889551,
     "mz:hierarchy_label": 1,
@@ -50,7 +50,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259885,
-    "wof:geomhash": "f6507542c827369e8ca62d1d8c74c630",
+    "wof:geomhash": "65b56b7358812bbd378e35fe49c9bc26",
     "wof:hierarchy": [
       {
         "arcade_id": 1729791967,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1729793263,
     "wof:label": "We Will Walk Right Up To The Sun",
-    "wof:lastmodified": 1672280210,
+    "wof:lastmodified": 1672358611,
     "wof:name": "We Will Walk Right Up To The Sun",
     "wof:parent_id": 1729791967,
     "wof:placetype": "venue",
@@ -88,10 +88,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39339645199999,
-    37.613454253999976,
-    -122.39338954800002,
-    37.61345974599999
+    -122.393699,
+    37.613417,
+    -122.393699,
+    37.613417
   ],
-  "geometry": {"coordinates":[[[-122.39338954800002,37.61345974599999],[-122.39339645199999,37.61345974599999],[-122.39339645199999,37.613454253999976],[-122.39338954800002,37.613454253999976],[-122.39338954800002,37.61345974599999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.393699,37.613417],"type":"Point"}
 }

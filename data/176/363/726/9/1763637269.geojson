@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 1.8076915926185375e-11,
-    "geom:bbox": "-122.383447,37.617536,-122.383442,37.617540",
-    "geom:latitude": 37.61753771138565,
-    "geom:longitude": -122.38344479334505,
+    "geom:area": 0,
+    "geom:bbox": "-122.383445,37.617538,-122.383445,37.617538",
+    "geom:latitude": 37.617538,
+    "geom:longitude": -122.383445,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.41",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225192,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524064,
-    "wof:geomhash": "e6db3e36c0879ad450aa30fdc9910e09",
+    "wof:geomhash": "82ecb930de072f531afca0e9373ebb08",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637269,
     "wof:label": "Jam Session Inside Bop City",
-    "wof:lastmodified": 1651524064,
+    "wof:lastmodified": 1672358694,
     "wof:name": "Jam Session Inside Bop City",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38344728300001,
-    37.61753570000002,
-    -122.383442253,
-    37.61753968300002
+    -122.383445,
+    37.617538,
+    -122.383445,
+    37.617538
   ],
-  "geometry": {"coordinates":[[[-122.38344728300001,37.61753941799998],[-122.38344728300001,37.617535965],[-122.38344258900003,37.61753570000002],[-122.383442253,37.61753968300002],[-122.38344728300001,37.61753941799998]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383445,37.617538],"type":"Point"}
 }

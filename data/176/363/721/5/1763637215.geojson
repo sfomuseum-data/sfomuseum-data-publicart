@@ -5,14 +5,14 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 1.0891590307449245e-9,
-    "geom:bbox": "-122.384302,37.617779,-122.384175,37.617837",
-    "geom:latitude": 37.61780802718986,
-    "geom:longitude": -122.38423927126986,
+    "geom:area": 0,
+    "geom:bbox": "-122.384480,37.617934,-122.384480,37.617934",
+    "geom:latitude": 37.617934,
+    "geom:longitude": -122.38448,
     "millsfield:waypoint_id": 1796889577,
     "mz:is_current": 1,
     "sfac:accession_id": "",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "T2/T3",
     "sfomuseum:category": "",
@@ -23,7 +23,7 @@
     "sfomuseum:object_id": 223769,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -41,7 +41,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524049,
-    "wof:geomhash": "a51bc27f6f249ac050f4269d3d163189",
+    "wof:geomhash": "6d1786571a8886093b1117f0176f4984",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -70,7 +70,7 @@
     ],
     "wof:id": 1763637215,
     "wof:label": "Here You Are / You Are Here",
-    "wof:lastmodified": 1672342197,
+    "wof:lastmodified": 1672358649,
     "wof:name": "Here You Are / You Are Here",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -80,10 +80,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384302069,
-    37.61777883100001,
-    -122.384174664,
-    37.61783725700002
+    -122.38448,
+    37.617934,
+    -122.38448,
+    37.617934
   ],
-  "geometry": {"coordinates":[[[-122.38429804600003,37.61783725700002],[-122.384302069,37.61782982099999],[-122.38418002899999,37.61777883100001],[-122.384174664,37.61778520500002],[-122.38429804600003,37.61783725700002]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.38448,37.617934],"type":"Point"}
 }

@@ -7,11 +7,11 @@
     "edtf:cessation": "..",
     "edtf:inception": "2019",
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/so-much-more",
-    "geom:area": 3.792367188206016e-11,
+    "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393923,37.612687,-122.393916,37.612692",
-    "geom:latitude": 37.61268937450001,
-    "geom:longitude": -122.393919149,
+    "geom:bbox": "-122.393919,37.612689,-122.393919,37.612689",
+    "geom:latitude": 37.612689,
+    "geom:longitude": -122.393919,
     "iso:country": "US",
     "millsfield:waypoint_id": 1796942175,
     "mz:hierarchy_label": 1,
@@ -49,7 +49,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259887,
-    "wof:geomhash": "024a83e205623d04b4c1b78d50cc0262",
+    "wof:geomhash": "e4fc204e1ae9986ecb65c84f6c9c3fd8",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1495165729,
     "wof:label": "So Much More Than This",
-    "wof:lastmodified": 1672348961,
+    "wof:lastmodified": 1672358568,
     "wof:name": "So Much More Than This",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -85,10 +85,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39392260099999,
-    37.612686628000006,
-    -122.39391569700001,
-    37.61269212100001
+    -122.393919,
+    37.612689,
+    -122.393919,
+    37.612689
   ],
-  "geometry": {"coordinates":[[[-122.39391569700001,37.61269212100001],[-122.39392260099999,37.61269212100001],[-122.39392260099999,37.612686628000006],[-122.39391569700001,37.612686628000006],[-122.39391569700001,37.61269212100001]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.393919,37.612689],"type":"Point"}
 }

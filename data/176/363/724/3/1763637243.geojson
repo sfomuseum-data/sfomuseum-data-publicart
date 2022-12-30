@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 3.089734393934006e-11,
-    "geom:bbox": "-122.383385,37.617547,-122.383376,37.617553",
-    "geom:latitude": 37.61755017297811,
-    "geom:longitude": -122.38338022717868,
+    "geom:area": 0,
+    "geom:bbox": "-122.383380,37.617550,-122.383380,37.617550",
+    "geom:latitude": 37.61755,
+    "geom:longitude": -122.38338,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.29",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225180,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524057,
-    "wof:geomhash": "9124099bc90b1ae9fb0da3c33958a90e",
+    "wof:geomhash": "e39a3cd9cd20eb39d6afb9125b908c1e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637243,
     "wof:label": "Lucy Wearing Green ",
-    "wof:lastmodified": 1651524057,
+    "wof:lastmodified": 1672358671,
     "wof:name": "Lucy Wearing Green ",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38338492100002,
-    37.617547118999994,
-    -122.38337553299999,
-    37.61755322699997
+    -122.38338,
+    37.61755,
+    -122.38338,
+    37.61755
   ],
-  "geometry": {"coordinates":[[[-122.38338492100002,37.61755083700001],[-122.38338190399998,37.617547118999994],[-122.38337553299999,37.617549509000014],[-122.38337855100002,37.61755322699997],[-122.38338492100002,37.61755083700001]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.38338,37.61755],"type":"Point"}
 }

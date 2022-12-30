@@ -12,11 +12,11 @@
     "edtf:inception": "2021-05-25",
     "flysfo:node": 3256,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3256",
-    "geom:area": 3.79167682672824e-11,
+    "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.391400,37.617730,-122.391394,37.617736",
-    "geom:latitude": 37.61773299999999,
-    "geom:longitude": -122.39139700000001,
+    "geom:bbox": "-122.390615,37.617523,-122.390615,37.617523",
+    "geom:latitude": 37.617523,
+    "geom:longitude": -122.390615,
     "iso:country": "US",
     "millsfield:waypoint_id": 1796889533,
     "mz:hierarchy_label": 1,
@@ -61,9 +61,9 @@
       102087579,
       554784711,
       102085387,
-      1745882083,
-      1745882401,
-      1745882335
+      1763588121,
+      1763588433,
+      1763588369
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -75,12 +75,12 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387354,
-    "wof:geomhash": "ac17e66b960ae6528b03a114a553bdcd",
+    "wof:geomhash": "001225f69af6c4598e6fae938b4873dc",
     "wof:hierarchy": [
       {
-        "building_id": 1745882083,
+        "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1745882401,
+        "concourse_id": 1763588433,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -88,25 +88,25 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1745903777,
-        "wing_id": 1745882335
+        "wing_id": 1763588369
       },
       {
-        "building_id": 1745882083,
+        "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1745882401,
+        "concourse_id": 1763588433,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
         "venue_id": 1745903777,
-        "wing_id": 1745882335
+        "wing_id": 1763588369
       }
     ],
     "wof:id": 1745903777,
     "wof:label": "deSoto, Lewis Shining Paths: San Francisco’s Sister Cities",
-    "wof:lastmodified": 1672345625,
+    "wof:lastmodified": 1672358623,
     "wof:name": "Shining Paths: San Francisco’s Sister Cities",
-    "wof:parent_id": 1745882401,
+    "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
@@ -120,10 +120,10 @@
     ]
   },
   "bbox": [
-    -122.39140045200003,
-    37.61773025399998,
-    -122.391393548,
-    37.617735745999994
+    -122.390615,
+    37.617523,
+    -122.390615,
+    37.617523
   ],
-  "geometry": {"coordinates":[[[-122.391393548,37.617735745999994],[-122.39140045200003,37.617735745999994],[-122.39140045200003,37.61773025399998],[-122.391393548,37.61773025399998],[-122.391393548,37.617735745999994]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.390615,37.617523],"type":"Point"}
 }

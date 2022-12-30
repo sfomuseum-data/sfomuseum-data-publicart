@@ -12,11 +12,11 @@
     "edtf:inception": "2021-05-25",
     "flysfo:node": "",
     "flysfo:url": "",
-    "geom:area": 3.792367188206016e-11,
+    "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383552,37.617649,-122.383545,37.617654",
-    "geom:latitude": 37.617651633499975,
-    "geom:longitude": -122.383548652,
+    "geom:bbox": "-122.383383,37.617322,-122.383383,37.617322",
+    "geom:latitude": 37.617322,
+    "geom:longitude": -122.383383,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -59,9 +59,9 @@
       85688637,
       554784711,
       102085387,
-      1745882083,
-      1745882129,
-      1745882085
+      1763588121,
+      1763588165,
+      1763588123
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -73,12 +73,12 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387338,
-    "wof:geomhash": "b3ea99db02fdc9e1c89853b8296f45a4",
+    "wof:geomhash": "2c23ca6d9fa38c88e2102ca6dc5848dc",
     "wof:hierarchy": [
       {
-        "building_id": 1745882083,
+        "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1745882129,
+        "concourse_id": 1763588165,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
@@ -86,25 +86,25 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1745903701,
-        "wing_id": 1745882085
+        "wing_id": 1763588123
       },
       {
-        "building_id": 1745882083,
+        "building_id": 1763588121,
         "campus_id": 102527513,
-        "concourse_id": 1745882129,
+        "concourse_id": 1763588165,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
         "region_id": 85688637,
         "venue_id": 1745903701,
-        "wing_id": 1745882085
+        "wing_id": 1763588123
       }
     ],
     "wof:id": 1745903701,
     "wof:label": "Adams, Mark Pond in Golden Gate Park",
-    "wof:lastmodified": 1672279956,
+    "wof:lastmodified": 1672358585,
     "wof:name": "Pond in Golden Gate Park",
-    "wof:parent_id": 1745882129,
+    "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
     "wof:placetype_alt": "publicart",
     "wof:repo": "sfomuseum-data-publicart",
@@ -118,10 +118,10 @@
     ]
   },
   "bbox": [
-    -122.38355210399999,
-    37.61764888699997,
-    -122.38354520000001,
-    37.617654379999976
+    -122.383383,
+    37.617322,
+    -122.383383,
+    37.617322
   ],
-  "geometry": {"coordinates":[[[-122.38354520000001,37.617654379999976],[-122.38355210399999,37.617654379999976],[-122.38355210399999,37.61764888699997],[-122.38354520000001,37.61764888699997],[-122.38354520000001,37.617654379999976]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383383,37.617322],"type":"Point"}
 }

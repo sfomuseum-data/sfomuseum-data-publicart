@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 3.10247217669663e-11,
-    "geom:bbox": "-122.383475,37.617549,-122.383468,37.617553",
-    "geom:latitude": 37.617550951610355,
-    "geom:longitude": -122.38347133781559,
+    "geom:area": 0,
+    "geom:bbox": "-122.383471,37.617551,-122.383471,37.617551",
+    "geom:latitude": 37.617551,
+    "geom:longitude": -122.383471,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.39",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225190,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524063,
-    "wof:geomhash": "99d70e6c2bd58a89e9f020065876a6e0",
+    "wof:geomhash": "07e2f41c8265f5d1365a9b184787dc52",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637265,
     "wof:label": "Lottie “The Body” Claiborne and her Husband Harlem Globetrotters Star Goose Tatum at a Good-Bye Party at the Texas Playhouse, Celebrating their Trip to Yokohama, Japan",
-    "wof:lastmodified": 1651524063,
+    "wof:lastmodified": 1672358689,
     "wof:name": "Lottie “The Body” Claiborne and her Husband Harlem Globetrotters Star Goose Tatum at a Good-Bye Party at the Texas Playhouse, Celebrating their Trip to Yokohama, Japan",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38347477500002,
-    37.61754871300002,
-    -122.38346773400002,
-    37.61755322699997
+    -122.383471,
+    37.617551,
+    -122.383471,
+    37.617551
   ],
-  "geometry": {"coordinates":[[[-122.38347477500002,37.61755322699997],[-122.38347477500002,37.61754871300002],[-122.38346773400002,37.61754871300002],[-122.38346806999999,37.61755322699997],[-122.38347477500002,37.61755322699997]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383471,37.617551],"type":"Point"}
 }

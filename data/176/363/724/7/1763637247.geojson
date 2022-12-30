@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 3.289969589930428e-11,
-    "geom:bbox": "-122.383550,37.617618,-122.383543,37.617624",
-    "geom:latitude": 37.61762064305666,
-    "geom:longitude": -122.38354642079432,
+    "geom:area": 0,
+    "geom:bbox": "-122.383546,37.617621,-122.383546,37.617621",
+    "geom:latitude": 37.617621,
+    "geom:longitude": -122.383546,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.31",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225182,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524058,
-    "wof:geomhash": "b7f54e7a558b6093a3ef6045da51ea8e",
+    "wof:geomhash": "9d39d7438dad4015ab7ce2a5060cd90b",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637247,
     "wof:label": "Bird’s-Eye View of Fillmore Street, Looking South Towards Post Street and Geary Street",
-    "wof:lastmodified": 1651524058,
+    "wof:lastmodified": 1672358677,
     "wof:name": "Bird’s-Eye View of Fillmore Street, Looking South Towards Post Street and Geary Street",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38355021199999,
-    37.61761776200001,
-    -122.383542836,
-    37.617623604000016
+    -122.383546,
+    37.617621,
+    -122.383546,
+    37.617621
   ],
-  "geometry": {"coordinates":[[[-122.38355021199999,37.61762254199999],[-122.38354920699999,37.61761776200001],[-122.383542836,37.617618558000004],[-122.38354350700001,37.617623604000016],[-122.38355021199999,37.61762254199999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383546,37.617621],"type":"Point"}
 }

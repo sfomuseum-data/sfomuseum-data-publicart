@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 3.5796383764173006e-11,
-    "geom:bbox": "-122.383539,37.617590,-122.383530,37.617596",
-    "geom:latitude": 37.61759282953292,
-    "geom:longitude": -122.38353482387922,
+    "geom:area": 0,
+    "geom:bbox": "-122.383535,37.617593,-122.383535,37.617593",
+    "geom:latitude": 37.617593,
+    "geom:longitude": -122.383535,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.34",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225185,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524060,
-    "wof:geomhash": "fc6d8478e1932c07654a2eca9058004f",
+    "wof:geomhash": "da87815af133c95a0133130d59cd90ed",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637253,
     "wof:label": "Saunders King with One of His Many Hollow-Body Guitars",
-    "wof:lastmodified": 1651524060,
+    "wof:lastmodified": 1672358683,
     "wof:name": "Saunders King with One of His Many Hollow-Body Guitars",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38353948399998,
-    37.61758961100003,
-    -122.383530431,
-    37.61759598499998
+    -122.383535,
+    37.617593,
+    -122.383535,
+    37.617593
   ],
-  "geometry": {"coordinates":[[[-122.38353948399998,37.61759439100001],[-122.38353680099999,37.61758961100003],[-122.383530431,37.61759120400001],[-122.38353244299998,37.61759598499998],[-122.38353948399998,37.61759439100001]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383535,37.617593],"type":"Point"}
 }

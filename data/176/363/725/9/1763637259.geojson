@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 3.183297207319326e-11,
-    "geom:bbox": "-122.383524,37.617571,-122.383517,37.617578",
-    "geom:latitude": 37.61757444127104,
-    "geom:longitude": -122.38352062185629,
+    "geom:area": 0,
+    "geom:bbox": "-122.383521,37.617574,-122.383521,37.617574",
+    "geom:latitude": 37.617574,
+    "geom:longitude": -122.383521,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.36",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225187,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524061,
-    "wof:geomhash": "58118f6d39cad1139e8c894ce6b6cd70",
+    "wof:geomhash": "5a9922c1f8f6f7e1a33362a66e1a0423",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637259,
     "wof:label": "Crowd at Texas Playhouse, September 10, 1958",
-    "wof:lastmodified": 1651524061,
+    "wof:lastmodified": 1672358688,
     "wof:name": "Crowd at Texas Playhouse, September 10, 1958",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38352439599998,
-    37.617571021,
-    -122.38351702,
-    37.617577926000024
+    -122.383521,
+    37.617574,
+    -122.383521,
+    37.617574
   ],
-  "geometry": {"coordinates":[[[-122.38352439599998,37.617576067000016],[-122.383522384,37.617571021],[-122.38351702,37.61757261399998],[-122.38351869600001,37.617577926000024],[-122.38352439599998,37.617576067000016]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383521,37.617574],"type":"Point"}
 }

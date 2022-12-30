@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 2.9383273473316736e-11,
-    "geom:bbox": "-122.383553,37.617627,-122.383545,37.617633",
-    "geom:latitude": 37.617629641607486,
-    "geom:longitude": -122.38354874505438,
+    "geom:area": 0,
+    "geom:bbox": "-122.383549,37.617630,-122.383549,37.617630",
+    "geom:latitude": 37.61763,
+    "geom:longitude": -122.383549,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.30",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225181,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524057,
-    "wof:geomhash": "3a6e7acee45ab64080b1e47f665b48ec",
+    "wof:geomhash": "69ecfe48a7045813946e0d4ab5422fd2",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637245,
     "wof:label": "Rhythm Records, 1980 Sutter Street",
-    "wof:lastmodified": 1651524057,
+    "wof:lastmodified": 1672358673,
     "wof:name": "Rhythm Records, 1980 Sutter Street",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38355255900001,
-    37.61762679100002,
-    -122.38354484799999,
-    37.61763263400002
+    -122.383549,
+    37.61763,
+    -122.383549,
+    37.61763
   ],
-  "geometry": {"coordinates":[[[-122.38355255900001,37.61763103999999],[-122.38355121799998,37.61762679100002],[-122.38354484799999,37.61762811900002],[-122.383546524,37.61763263400002],[-122.38355255900001,37.61763103999999]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383549,37.61763],"type":"Point"}
 }

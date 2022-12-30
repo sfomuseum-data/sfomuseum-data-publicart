@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 2.9248191037816376e-11,
-    "geom:bbox": "-122.383415,37.617606,-122.383407,37.617613",
-    "geom:latitude": 37.617609628642064,
-    "geom:longitude": -122.38341083796129,
+    "geom:area": 0,
+    "geom:bbox": "-122.383411,37.617610,-122.383411,37.617610",
+    "geom:latitude": 37.61761,
+    "geom:longitude": -122.383411,
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.22",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "",
     "sfomuseum:category": "photography",
@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 225173,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -40,7 +40,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524053,
-    "wof:geomhash": "81744e9fe2d9dc5dd94ede9e778d598b",
+    "wof:geomhash": "c2ada6586ddc8fb0f2157d4484ed8894",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1763637229,
     "wof:label": "Young Couple at Carnaval (from Public Matters, 1982-1988)",
-    "wof:lastmodified": 1651524053,
+    "wof:lastmodified": 1672358660,
     "wof:name": "Young Couple at Carnaval (from Public Matters, 1982-1988)",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -79,10 +79,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38341509600002,
-    37.61760634199999,
-    -122.38340671399999,
-    37.61761298099998
+    -122.383411,
+    37.61761,
+    -122.383411,
+    37.61761
   ],
-  "geometry": {"coordinates":[[[-122.38341509600002,37.617610591000016],[-122.38341140799997,37.61760634199999],[-122.38340671399999,37.617608467000025],[-122.383410067,37.61761298099998],[-122.38341509600002,37.617610591000016]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.383411,37.61761],"type":"Point"}
 }

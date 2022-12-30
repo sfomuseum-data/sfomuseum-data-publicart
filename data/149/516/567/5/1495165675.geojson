@@ -7,11 +7,11 @@
     "edtf:cessation": "..",
     "edtf:inception": "2019",
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/ether",
-    "geom:area": 3.792367188206016e-11,
+    "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.394046,37.612383,-122.394039,37.612388",
-    "geom:latitude": 37.612385436500006,
-    "geom:longitude": -122.39404262400001,
+    "geom:bbox": "-122.394043,37.612385,-122.394043,37.612385",
+    "geom:latitude": 37.612385,
+    "geom:longitude": -122.394043,
     "iso:country": "US",
     "millsfield:waypoint_id": 1796942181,
     "mz:hierarchy_label": 1,
@@ -49,7 +49,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259878,
-    "wof:geomhash": "a7d77acc0b3857b3749383552118903b",
+    "wof:geomhash": "e500bca688faea50315c927dcde24580",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -72,7 +72,7 @@
     ],
     "wof:id": 1495165675,
     "wof:label": "Ether",
-    "wof:lastmodified": 1672348410,
+    "wof:lastmodified": 1672358560,
     "wof:name": "Ether",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
@@ -83,10 +83,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.394046076,
-    37.612382690000004,
-    -122.39403917200002,
-    37.61238818300001
+    -122.394043,
+    37.612385,
+    -122.394043,
+    37.612385
   ],
-  "geometry": {"coordinates":[[[-122.39403917200002,37.61238818300001],[-122.394046076,37.61238818300001],[-122.394046076,37.612382690000004],[-122.39403917200002,37.612382690000004],[-122.39403917200002,37.61238818300001]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.394043,37.612385],"type":"Point"}
 }
