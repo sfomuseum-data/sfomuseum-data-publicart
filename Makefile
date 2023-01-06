@@ -4,6 +4,6 @@ CWD=$(shell pwd)
 AS_FEATURECOLLECTION=$(shell which wof-as-featurecollection)
 
 # Dump current public artworks to a GeoJSON FeatureCollection
-export-current:
+current:
 	$(AS_FEATURECOLLECTION) -iterator-uri 'repo://?include=properties.mz:is_current=1' $(CWD) > work/publicart.geojson
 
