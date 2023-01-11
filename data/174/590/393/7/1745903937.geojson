@@ -11,7 +11,9 @@
     "geom:longitude": -122.388893,
     "millsfield:wayfinding_detail": "A",
     "millsfield:wayfinding_kind": "ITB",
-    "millsfield:waypoint_id": 1796889531,
+    "millsfield:waypoint_id": [
+      1796889531
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "",
     "sfo:level": 2,
@@ -71,7 +73,7 @@
     ],
     "wof:id": 1745903937,
     "wof:label": "River",
-    "wof:lastmodified": 1672872177,
+    "wof:lastmodified": 1673474892,
     "wof:name": "River",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",

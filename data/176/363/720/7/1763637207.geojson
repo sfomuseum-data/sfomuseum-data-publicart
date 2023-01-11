@@ -11,7 +11,9 @@
     "geom:longitude": -122.384762,
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
-    "millsfield:waypoint_id": 1796889593,
+    "millsfield:waypoint_id": [
+      1796889593
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "",
     "sfo:level": 2,
@@ -72,7 +74,7 @@
     ],
     "wof:id": 1763637207,
     "wof:label": "Flourish",
-    "wof:lastmodified": 1672872177,
+    "wof:lastmodified": 1673474892,
     "wof:name": "Flourish",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

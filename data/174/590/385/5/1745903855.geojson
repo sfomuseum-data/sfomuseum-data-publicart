@@ -16,7 +16,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "F",
     "millsfield:wayfinding_kind": "T3",
-    "millsfield:waypoint_id": 1796889613,
+    "millsfield:waypoint_id": [
+      1796889613
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfac:accession_id": "T2015.459.a-f",
@@ -89,7 +91,7 @@
     ],
     "wof:id": 1745903855,
     "wof:label": "Strangerhood",
-    "wof:lastmodified": 1672872177,
+    "wof:lastmodified": 1673474892,
     "wof:name": "Strangerhood",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",

@@ -11,7 +11,9 @@
     "geom:longitude": -122.384174,
     "millsfield:wayfinding_detail": "T3",
     "millsfield:wayfinding_kind": "T2",
-    "millsfield:waypoint_id": 1796889577,
+    "millsfield:waypoint_id": [
+      1796889577
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "",
     "sfo:level": 2,
@@ -72,7 +74,7 @@
     ],
     "wof:id": 1763637211,
     "wof:label": "Long Arc of the Day",
-    "wof:lastmodified": 1672872177,
+    "wof:lastmodified": 1673474892,
     "wof:name": "Long Arc of the Day",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",

@@ -14,7 +14,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
-    "millsfield:waypoint_id": 1796889475,
+    "millsfield:waypoint_id": [
+      1796889475
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": 1,
@@ -80,7 +82,7 @@
     ],
     "wof:id": 1745903735,
     "wof:label": "Beyond When the Golden Portal Can Come",
-    "wof:lastmodified": 1672872177,
+    "wof:lastmodified": 1673474892,
     "wof:name": "Beyond When the Golden Portal Can Come",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

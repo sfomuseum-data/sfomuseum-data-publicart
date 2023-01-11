@@ -20,7 +20,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
-    "millsfield:waypoint_id": 1796889493,
+    "millsfield:waypoint_id": [
+      1796889493
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "mz:is_retail": -1,
@@ -105,7 +107,7 @@
     ],
     "wof:id": 1745903749,
     "wof:label": "Brown, Joan The Journey #2",
-    "wof:lastmodified": 1672872177,
+    "wof:lastmodified": 1673474892,
     "wof:name": "The Journey #2",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

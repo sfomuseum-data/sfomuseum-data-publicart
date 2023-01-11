@@ -11,7 +11,9 @@
     "geom:bbox": "-122.386687,37.614284,-122.386687,37.614284",
     "geom:latitude": 37.614284,
     "geom:longitude": -122.386687,
-    "millsfield:waypoint_id": 1796889473,
+    "millsfield:waypoint_id": [
+      1796889473
+    ],
     "mz:is_current": 0,
     "sfac:accession_id": "2018.10",
     "sfo:level": 2,
@@ -71,7 +73,7 @@
     ],
     "wof:id": 1729829275,
     "wof:label": "Untitled",
-    "wof:lastmodified": 1672358580,
+    "wof:lastmodified": 1673474892,
     "wof:name": "Untitled",
     "wof:parent_id": 1763588261,
     "wof:placetype": "venue",

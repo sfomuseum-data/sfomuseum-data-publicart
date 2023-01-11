@@ -20,7 +20,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
-    "millsfield:waypoint_id": 1796889597,
+    "millsfield:waypoint_id": [
+      1796889597
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "mz:is_retail": -1,
@@ -104,7 +106,7 @@
     ],
     "wof:id": 1745903813,
     "wof:label": "Tchakalian, Sam Hitwood",
-    "wof:lastmodified": 1672872177,
+    "wof:lastmodified": 1673474892,
     "wof:name": "Hitwood",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

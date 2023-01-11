@@ -20,7 +20,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "A",
     "millsfield:wayfinding_kind": "ITB",
-    "millsfield:waypoint_id": 1796889533,
+    "millsfield:waypoint_id": [
+      1796889533
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "mz:is_retail": -1,
@@ -106,7 +108,7 @@
     ],
     "wof:id": 1745903897,
     "wof:label": "Hsu, Joyce Namoo House",
-    "wof:lastmodified": 1672872177,
+    "wof:lastmodified": 1673474892,
     "wof:name": "Namoo House",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",

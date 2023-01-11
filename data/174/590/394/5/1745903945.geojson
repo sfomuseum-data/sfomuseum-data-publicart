@@ -11,7 +11,9 @@
     "geom:longitude": -122.387405,
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
-    "millsfield:waypoint_id": 1796889473,
+    "millsfield:waypoint_id": [
+      1796889473
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "",
     "sfo:level": 2,
@@ -71,7 +73,7 @@
     ],
     "wof:id": 1745903945,
     "wof:label": "Parallel Portions",
-    "wof:lastmodified": 1672872177,
+    "wof:lastmodified": 1673474892,
     "wof:name": "Parallel Portions",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",

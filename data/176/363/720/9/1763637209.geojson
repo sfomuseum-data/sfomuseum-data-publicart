@@ -11,7 +11,9 @@
     "geom:longitude": -122.389994,
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
-    "millsfield:waypoint_id": 1796889545,
+    "millsfield:waypoint_id": [
+      1796889545
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "",
     "sfo:level": 2,
@@ -72,7 +74,7 @@
     ],
     "wof:id": 1763637209,
     "wof:label": "When the Path Through the Atmosphere is Longer",
-    "wof:lastmodified": 1672872177,
+    "wof:lastmodified": 1673474892,
     "wof:name": "When the Path Through the Atmosphere is Longer",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

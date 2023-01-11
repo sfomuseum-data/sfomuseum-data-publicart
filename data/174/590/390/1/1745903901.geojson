@@ -16,7 +16,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
-    "millsfield:waypoint_id": 1796889581,
+    "millsfield:waypoint_id": [
+      1796889581
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfac:accession_id": "T2014.19",
@@ -89,7 +91,7 @@
     ],
     "wof:id": 1745903901,
     "wof:label": "Untitled (Large Variation)",
-    "wof:lastmodified": 1672872177,
+    "wof:lastmodified": 1673474892,
     "wof:name": "Untitled (Large Variation)",
     "wof:parent_id": 1763588363,
     "wof:placetype": "venue",

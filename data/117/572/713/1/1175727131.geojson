@@ -15,7 +15,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
-    "millsfield:waypoint_id": 1796942179,
+    "millsfield:waypoint_id": [
+      1796942179
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfac:accession_id": "1979.60",
@@ -77,7 +79,7 @@
     ],
     "wof:id": 1175727131,
     "wof:label": "Untitled/ print no. 79.65-6/9",
-    "wof:lastmodified": 1672872177,
+    "wof:lastmodified": 1673474891,
     "wof:name": "Untitled/ print no. 79.65-6/9",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

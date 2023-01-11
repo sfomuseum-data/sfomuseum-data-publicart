@@ -20,7 +20,9 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
-    "millsfield:waypoint_id": 1796889529,
+    "millsfield:waypoint_id": [
+      1796889529
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "mz:is_retail": -1,
@@ -106,7 +108,7 @@
     ],
     "wof:id": 1745903789,
     "wof:label": "Montoya, Emmanual C. and Juana Alicia Sanctuary/Santuario",
-    "wof:lastmodified": 1672872177,
+    "wof:lastmodified": 1673474892,
     "wof:name": "Sanctuary/Santuario",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

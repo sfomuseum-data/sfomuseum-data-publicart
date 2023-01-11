@@ -11,7 +11,9 @@
     "geom:longitude": -122.387512,
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
-    "millsfield:waypoint_id": 1796889629,
+    "millsfield:waypoint_id": [
+      1796889629
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "2018.29",
     "sfo:level": 0,
@@ -62,7 +64,7 @@
     ],
     "wof:id": 1745903939,
     "wof:label": "Intersection",
-    "wof:lastmodified": 1672872177,
+    "wof:lastmodified": 1673474892,
     "wof:name": "Intersection",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
