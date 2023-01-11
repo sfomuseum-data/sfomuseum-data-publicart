@@ -18,7 +18,7 @@
     "geom:latitude": 37.61575,
     "geom:longitude": -122.389015,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "millsfield:waypoint_id": [
       1796935611
@@ -108,7 +108,7 @@
     ],
     "wof:id": 1745903885,
     "wof:label": "Anemone",
-    "wof:lastmodified": 1673474892,
+    "wof:lastmodified": 1673479062,
     "wof:name": "Anemone",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",

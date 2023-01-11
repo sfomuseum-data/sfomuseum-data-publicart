@@ -18,7 +18,7 @@
     "geom:latitude": 37.615592,
     "geom:longitude": -122.388919,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "PRE",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "millsfield:waypoint_id": [
       1796935611
@@ -109,7 +109,7 @@
     ],
     "wof:id": 1745903771,
     "wof:label": "Kang, Ik-Joong Gateway",
-    "wof:lastmodified": 1673474892,
+    "wof:lastmodified": 1673479062,
     "wof:name": "Gateway",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",

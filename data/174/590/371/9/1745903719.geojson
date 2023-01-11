@@ -18,7 +18,7 @@
     "geom:latitude": 37.614117,
     "geom:longitude": -122.388569,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_detail": "ARR",
     "millsfield:wayfinding_kind": "ITB",
     "millsfield:waypoint_id": [
       1796889531
@@ -108,7 +108,7 @@
     ],
     "wof:id": 1745903719,
     "wof:label": "Hung, Su-Chen Welcome",
-    "wof:lastmodified": 1673474892,
+    "wof:lastmodified": 1673479062,
     "wof:name": "Welcome",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
