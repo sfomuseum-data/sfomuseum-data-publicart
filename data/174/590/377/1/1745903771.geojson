@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3247",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.388919,37.615592,-122.388919,37.615592",
-    "geom:latitude": 37.615592,
-    "geom:longitude": -122.388919,
+    "geom:bbox": "-122.388804,37.615746,-122.388804,37.615746",
+    "geom:latitude": 37.615746,
+    "geom:longitude": -122.388804,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
@@ -80,7 +80,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387368,
-    "wof:geomhash": "931e30946b7f7fbf9140aa45d73a56a4",
+    "wof:geomhash": "4b447c68be9549a8152f989a6bb20655",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -109,7 +109,7 @@
     ],
     "wof:id": 1745903771,
     "wof:label": "Kang, Ik-Joong Gateway",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1674870052,
     "wof:name": "Gateway",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",
@@ -125,10 +125,10 @@
     ]
   },
   "bbox": [
-    -122.388919,
-    37.615592,
-    -122.388919,
-    37.615592
+    -122.388804,
+    37.615746,
+    -122.388804,
+    37.615746
   ],
-  "geometry": {"coordinates":[-122.388919,37.615592],"type":"Point"}
+  "geometry": {"coordinates":[-122.388804,37.615746],"type":"Point"}
 }
