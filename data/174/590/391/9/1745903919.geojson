@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3343",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.382765,37.617185,-122.382765,37.617185",
-    "geom:latitude": 37.617185,
-    "geom:longitude": -122.382765,
+    "geom:bbox": "-122.382907,37.617150,-122.382907,37.617150",
+    "geom:latitude": 37.61715,
+    "geom:longitude": -122.382907,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
@@ -84,7 +84,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387357,
-    "wof:geomhash": "a250254526a1d96d41c71ba3eb9d34d5",
+    "wof:geomhash": "896aeb0b536eb4ae84fb746223328996",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -113,7 +113,7 @@
     ],
     "wof:id": 1745903919,
     "wof:label": "Echelman, Janet Every Beating Second ",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1674871190,
     "wof:name": "Every Beating Second ",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
@@ -129,10 +129,10 @@
     ]
   },
   "bbox": [
-    -122.382765,
-    37.617185,
-    -122.382765,
-    37.617185
+    -122.382907,
+    37.61715,
+    -122.382907,
+    37.61715
   ],
-  "geometry": {"coordinates":[-122.382765,37.617185],"type":"Point"}
+  "geometry": {"coordinates":[-122.382907,37.61715],"type":"Point"}
 }
