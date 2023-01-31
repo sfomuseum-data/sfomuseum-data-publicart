@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21817",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.388807,37.615727,-122.388807,37.615727",
-    "geom:latitude": 37.615727,
-    "geom:longitude": -122.388807,
+    "geom:bbox": "-122.388753,37.615625,-122.388753,37.615625",
+    "geom:latitude": 37.615625,
+    "geom:longitude": -122.388753,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
@@ -76,7 +76,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387337,
-    "wof:geomhash": "6277a368ede3d9bb3a29c8302e427f08",
+    "wof:geomhash": "728c1e71821335414bd97f63a35a6d8b",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -105,7 +105,7 @@
     ],
     "wof:id": 1745903797,
     "wof:label": "Acconci, Vito Light Beams for the Sky of A Transfer Corridor",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1675189976,
     "wof:name": "Light Beams for the Sky of A Transfer Corridor",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",
@@ -121,10 +121,10 @@
     ]
   },
   "bbox": [
-    -122.388807,
-    37.615727,
-    -122.388807,
-    37.615727
+    -122.388753,
+    37.615625,
+    -122.388753,
+    37.615625
   ],
-  "geometry": {"coordinates":[-122.388807,37.615727],"type":"Point"}
+  "geometry": {"coordinates":[-122.388753,37.615625],"type":"Point"}
 }
