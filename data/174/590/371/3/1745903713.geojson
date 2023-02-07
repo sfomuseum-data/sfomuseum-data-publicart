@@ -18,7 +18,7 @@
     "geom:latitude": 37.617913,
     "geom:longitude": -122.385313,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "E",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
     "millsfield:waypoint_id": [
       1796889613
@@ -108,7 +108,7 @@
     ],
     "wof:id": 1745903713,
     "wof:label": "Beasley, Bruce The Hesperides",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1675807806,
     "wof:name": "The Hesperides",
     "wof:parent_id": 1763588365,
     "wof:placetype": "venue",

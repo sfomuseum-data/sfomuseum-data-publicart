@@ -14,7 +14,7 @@
     "geom:latitude": 37.617777,
     "geom:longitude": -122.384861,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "E",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
     "millsfield:waypoint_id": [
       1796889593
@@ -91,7 +91,7 @@
     ],
     "wof:id": 1745903931,
     "wof:label": "Simpson, David Storm, Stars, and Stripes",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1675807806,
     "wof:name": "Storm, Stars, and Stripes",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

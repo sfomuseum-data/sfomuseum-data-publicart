@@ -18,7 +18,7 @@
     "geom:latitude": 37.616249,
     "geom:longitude": -122.390368,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "G",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "millsfield:waypoint_id": [
       1796935711
@@ -98,7 +98,7 @@
     ],
     "wof:id": 1729793211,
     "wof:label": "Tamayo, Rufino Conquest of Space",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1675807806,
     "wof:name": "Conquest of Space",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

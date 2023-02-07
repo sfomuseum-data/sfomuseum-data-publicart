@@ -9,7 +9,7 @@
     "geom:bbox": "-122.387596,37.614578,-122.387596,37.614578",
     "geom:latitude": 37.614578,
     "geom:longitude": -122.387596,
-    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
       1796889629
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1745903941,
     "wof:label": "Shell",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1675807806,
     "wof:name": "Shell",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

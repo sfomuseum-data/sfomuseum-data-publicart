@@ -12,8 +12,8 @@
     "geom:latitude": 37.611443,
     "geom:longitude": -122.385433,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "B",
-    "millsfield:wayfinding_kind": "ITB",
+    "millsfield:wayfinding_detail": "DEP",
+    "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
       1796889469
     ],
@@ -31,7 +31,7 @@
     "sfomuseum:object_id": 203151,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 1,
+    "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,

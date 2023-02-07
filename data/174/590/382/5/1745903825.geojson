@@ -18,7 +18,7 @@
     "geom:latitude": 37.617578,
     "geom:longitude": -122.384431,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
       1796889601
@@ -108,7 +108,7 @@
     ],
     "wof:id": 1745903825,
     "wof:label": "Sato, Norie Air Over Under",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1675807806,
     "wof:name": "Air Over Under",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

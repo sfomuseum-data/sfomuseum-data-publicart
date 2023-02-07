@@ -18,8 +18,8 @@
     "geom:latitude": 37.616249,
     "geom:longitude": -122.383268,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "T1",
-    "millsfield:wayfinding_kind": "T2",
+    "millsfield:wayfinding_detail": "T2",
+    "millsfield:wayfinding_kind": "T1",
     "millsfield:waypoint_id": [
       1796889569,
       1797193829
@@ -110,7 +110,7 @@
     ],
     "wof:id": 1745903845,
     "wof:label": "Eversley, Fred Untitled",
-    "wof:lastmodified": 1675455473,
+    "wof:lastmodified": 1675805466,
     "wof:name": "Untitled",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

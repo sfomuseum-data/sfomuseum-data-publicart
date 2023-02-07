@@ -18,7 +18,7 @@
     "geom:latitude": 37.616287,
     "geom:longitude": -122.383708,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
       1796889601
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903765,
     "wof:label": "Kunishima, Seiji Stacking Stones",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1675807806,
     "wof:name": "Stacking Stones",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

@@ -18,7 +18,7 @@
     "geom:latitude": 37.617516,
     "geom:longitude": -122.384277,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
       1796889597
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903831,
     "wof:label": "Smith, Hassel Metamorphosis",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1675807806,
     "wof:name": "Metamorphosis",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

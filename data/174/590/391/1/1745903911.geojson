@@ -18,7 +18,7 @@
     "geom:latitude": 37.618185,
     "geom:longitude": -122.386365,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "E",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
     "millsfield:waypoint_id": [
       1796889613
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903911,
     "wof:label": "Rivera, Gustavo Azul, Azul y Hacer",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1675807806,
     "wof:name": "Azul, Azul y Hacer",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",
