@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21554",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.386365,37.618185,-122.386365,37.618185",
-    "geom:latitude": 37.618185,
-    "geom:longitude": -122.386365,
+    "geom:bbox": "-122.385905,37.618259,-122.385905,37.618259",
+    "geom:latitude": 37.618259,
+    "geom:longitude": -122.385905,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387380,
-    "wof:geomhash": "4922a2c5dcf6a7fccc2113d69bd03e44",
+    "wof:geomhash": "83ea1d237181f3a5108768292730e5cb",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903911,
     "wof:label": "Rivera, Gustavo Azul, Azul y Hacer",
-    "wof:lastmodified": 1675807806,
+    "wof:lastmodified": 1676416878,
     "wof:name": "Azul, Azul y Hacer",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.386365,
-    37.618185,
-    -122.386365,
-    37.618185
+    -122.385905,
+    37.618259,
+    -122.385905,
+    37.618259
   ],
-  "geometry": {"coordinates":[-122.386365,37.618185],"type":"Point"}
+  "geometry": {"coordinates":[-122.385905,37.618259],"type":"Point"}
 }
