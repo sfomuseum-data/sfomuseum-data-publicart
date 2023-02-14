@@ -14,11 +14,11 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=4882",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384277,37.617516,-122.384277,37.617516",
-    "geom:latitude": 37.617516,
-    "geom:longitude": -122.384277,
+    "geom:bbox": "-122.384239,37.617518,-122.384239,37.617518",
+    "geom:latitude": 37.617518,
+    "geom:longitude": -122.384239,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
       1796889597
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387385,
-    "wof:geomhash": "3a5c06d6632ccb51c529b65035f4df85",
+    "wof:geomhash": "62ba02cdb7df1e0ffc6067582c14b4b7",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903831,
     "wof:label": "Smith, Hassel Metamorphosis",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1676415802,
     "wof:name": "Metamorphosis",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.384277,
-    37.617516,
-    -122.384277,
-    37.617516
+    -122.384239,
+    37.617518,
+    -122.384239,
+    37.617518
   ],
-  "geometry": {"coordinates":[-122.384277,37.617516],"type":"Point"}
+  "geometry": {"coordinates":[-122.384239,37.617518],"type":"Point"}
 }
