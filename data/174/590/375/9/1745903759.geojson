@@ -10,9 +10,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21548",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384112,37.615736,-122.384112,37.615736",
-    "geom:latitude": 37.615736,
-    "geom:longitude": -122.384112,
+    "geom:bbox": "-122.384010,37.615819,-122.384010,37.615819",
+    "geom:latitude": 37.615819,
+    "geom:longitude": -122.38401,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "T2",
     "millsfield:wayfinding_kind": "T1",
@@ -63,7 +63,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1523296714,
-    "wof:geomhash": "07838e54d73c00c20d8c711cbf880fcc",
+    "wof:geomhash": "2c73a1cc7cb7d8f6db56dbf4e5ae51c5",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -92,7 +92,7 @@
     ],
     "wof:id": 1745903759,
     "wof:label": "Voyage",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1676418001,
     "wof:name": "Voyage",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
@@ -105,10 +105,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384112,
-    37.615736,
-    -122.384112,
-    37.615736
+    -122.38401,
+    37.615819,
+    -122.38401,
+    37.615819
   ],
-  "geometry": {"coordinates":[-122.384112,37.615736],"type":"Point"}
+  "geometry": {"coordinates":[-122.38401,37.615819],"type":"Point"}
 }
