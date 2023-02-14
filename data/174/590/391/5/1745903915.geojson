@@ -18,7 +18,7 @@
     "geom:latitude": 37.616351,
     "geom:longitude": -122.383773,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
       1796889603
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903915,
     "wof:label": "Dixon, Willard Above Bolinas",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1675807806,
     "wof:name": "Above Bolinas",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

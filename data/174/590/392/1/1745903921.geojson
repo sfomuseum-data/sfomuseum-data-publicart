@@ -14,7 +14,7 @@
     "geom:latitude": 37.618108,
     "geom:longitude": -122.385114,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "E",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
     "millsfield:waypoint_id": [
       1796889581
@@ -92,7 +92,7 @@
     ],
     "wof:id": 1745903921,
     "wof:label": "Ocean Voices II",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1675807806,
     "wof:name": "Ocean Voices II",
     "wof:parent_id": 1763588365,
     "wof:placetype": "venue",

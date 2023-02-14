@@ -14,7 +14,7 @@
     "geom:latitude": 37.61811,
     "geom:longitude": -122.386233,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "F",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
     "millsfield:waypoint_id": [
       1796889613
@@ -91,7 +91,7 @@
     ],
     "wof:id": 1745903855,
     "wof:label": "Strangerhood",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1675807806,
     "wof:name": "Strangerhood",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",

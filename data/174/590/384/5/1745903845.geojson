@@ -18,8 +18,8 @@
     "geom:latitude": 37.616221,
     "geom:longitude": -122.383252,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "T1",
-    "millsfield:wayfinding_kind": "T2",
+    "millsfield:wayfinding_detail": "T2",
+    "millsfield:wayfinding_kind": "T1",
     "millsfield:waypoint_id": [
       1796889569,
       1797193829

@@ -18,7 +18,7 @@
     "geom:latitude": 37.617694,
     "geom:longitude": -122.384704,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
       1796889593
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903929,
     "wof:label": "Hedrick, Wally 17 December 1903",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1675807806,
     "wof:name": "17 December 1903",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
