@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.384762,37.617719,-122.384762,37.617719",
-    "geom:latitude": 37.617719,
-    "geom:longitude": -122.384762,
+    "geom:bbox": "-122.384719,37.617668,-122.384719,37.617668",
+    "geom:latitude": 37.617668,
+    "geom:longitude": -122.384719,
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
     "millsfield:waypoint_id": [
@@ -45,7 +45,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524046,
-    "wof:geomhash": "6c3479f75dd80d5d78cb9a110c94eb07",
+    "wof:geomhash": "f40e5e10b5aa71bceebc00e4342f104d",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1763637207,
     "wof:label": "Flourish",
-    "wof:lastmodified": 1675807806,
+    "wof:lastmodified": 1676416377,
     "wof:name": "Flourish",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
@@ -84,10 +84,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384762,
-    37.617719,
-    -122.384762,
-    37.617719
+    -122.384719,
+    37.617668,
+    -122.384719,
+    37.617668
   ],
-  "geometry": {"coordinates":[-122.384762,37.617719],"type":"Point"}
+  "geometry": {"coordinates":[-122.384719,37.617668],"type":"Point"}
 }
