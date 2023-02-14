@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3304",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383917,37.616034,-122.383917,37.616034",
-    "geom:latitude": 37.616034,
-    "geom:longitude": -122.383917,
+    "geom:bbox": "-122.383700,37.616239,-122.383700,37.616239",
+    "geom:latitude": 37.616239,
+    "geom:longitude": -122.3837,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
@@ -75,7 +75,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387368,
-    "wof:geomhash": "482968db6029a15ac6266d369a4b7d8e",
+    "wof:geomhash": "5ea42c495edc82237d16495df4f97707",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -104,7 +104,7 @@
     ],
     "wof:id": 1745903917,
     "wof:label": "Katano, Marc Torso",
-    "wof:lastmodified": 1675807806,
+    "wof:lastmodified": 1676418152,
     "wof:name": "Torso",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
@@ -120,10 +120,10 @@
     ]
   },
   "bbox": [
-    -122.383917,
-    37.616034,
-    -122.383917,
-    37.616034
+    -122.3837,
+    37.616239,
+    -122.3837,
+    37.616239
   ],
-  "geometry": {"coordinates":[-122.383917,37.616034],"type":"Point"}
+  "geometry": {"coordinates":[-122.3837,37.616239],"type":"Point"}
 }
