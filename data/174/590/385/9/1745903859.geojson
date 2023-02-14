@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/color-horizons",
     "geom:area": 0,
-    "geom:bbox": "-122.387114,37.614662,-122.387114,37.614662",
-    "geom:latitude": 37.614662,
-    "geom:longitude": -122.387114,
+    "geom:bbox": "-122.387011,37.614708,-122.387011,37.614708",
+    "geom:latitude": 37.614708,
+    "geom:longitude": -122.387011,
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "HMT1",
     "mz:is_current": 1,
@@ -43,7 +43,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614046297,
-    "wof:geomhash": "f32d89f5c3bda38c30b51f3d904169d6",
+    "wof:geomhash": "c8db76ebeeedc90d42af24b83e8ae569",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -72,7 +72,7 @@
     ],
     "wof:id": 1745903859,
     "wof:label": "The Color of Horizons",
-    "wof:lastmodified": 1675807806,
+    "wof:lastmodified": 1676418774,
     "wof:name": "The Color of Horizons",
     "wof:parent_id": 1763588261,
     "wof:placetype": "venue",
@@ -84,10 +84,10 @@
     ]
   },
   "bbox": [
-    -122.387114,
-    37.614662,
-    -122.387114,
-    37.614662
+    -122.387011,
+    37.614708,
+    -122.387011,
+    37.614708
   ],
-  "geometry": {"coordinates":[-122.387114,37.614662],"type":"Point"}
+  "geometry": {"coordinates":[-122.387011,37.614708],"type":"Point"}
 }
