@@ -14,11 +14,11 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=4883",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384509,37.617615,-122.384509,37.617615",
-    "geom:latitude": 37.617615,
-    "geom:longitude": -122.384509,
+    "geom:bbox": "-122.384245,37.617525,-122.384245,37.617525",
+    "geom:latitude": 37.617525,
+    "geom:longitude": -122.384245,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
       1796889597
@@ -77,7 +77,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387388,
-    "wof:geomhash": "ae046e423a27426c3c528d2bfcaf5c24",
+    "wof:geomhash": "1918935248c419f29be9950f14b73c94",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -106,7 +106,7 @@
     ],
     "wof:id": 1745903813,
     "wof:label": "Tchakalian, Sam Hitwood",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1676415760,
     "wof:name": "Hitwood",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
@@ -122,10 +122,10 @@
     ]
   },
   "bbox": [
-    -122.384509,
-    37.617615,
-    -122.384509,
-    37.617615
+    -122.384245,
+    37.617525,
+    -122.384245,
+    37.617525
   ],
-  "geometry": {"coordinates":[-122.384509,37.617615],"type":"Point"}
+  "geometry": {"coordinates":[-122.384245,37.617525],"type":"Point"}
 }
