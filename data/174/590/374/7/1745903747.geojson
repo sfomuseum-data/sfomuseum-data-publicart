@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3318",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383645,37.617240,-122.383645,37.617240",
-    "geom:latitude": 37.61724,
-    "geom:longitude": -122.383645,
+    "geom:bbox": "-122.383640,37.617150,-122.383640,37.617150",
+    "geom:latitude": 37.61715,
+    "geom:longitude": -122.38364,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
@@ -76,7 +76,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387386,
-    "wof:geomhash": "88249e952f3fc788ae9bdf7f2d383939",
+    "wof:geomhash": "1527881ee75b8ddf520e62d269785a94",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -105,7 +105,7 @@
     ],
     "wof:id": 1745903747,
     "wof:label": "Snyder, Dan Welcome North, Welcome South, Welcome East, Welcome West",
-    "wof:lastmodified": 1675807806,
+    "wof:lastmodified": 1676417836,
     "wof:name": "Welcome North, Welcome South, Welcome East, Welcome West",
     "wof:parent_id": 1763588171,
     "wof:placetype": "venue",
@@ -121,10 +121,10 @@
     ]
   },
   "bbox": [
-    -122.383645,
-    37.61724,
-    -122.383645,
-    37.61724
+    -122.38364,
+    37.61715,
+    -122.38364,
+    37.61715
   ],
-  "geometry": {"coordinates":[-122.383645,37.61724],"type":"Point"}
+  "geometry": {"coordinates":[-122.38364,37.61715],"type":"Point"}
 }

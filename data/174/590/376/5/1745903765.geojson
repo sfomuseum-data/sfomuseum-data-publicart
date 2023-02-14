@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3306",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383708,37.616287,-122.383708,37.616287",
-    "geom:latitude": 37.616287,
-    "geom:longitude": -122.383708,
+    "geom:bbox": "-122.383719,37.616251,-122.383719,37.616251",
+    "geom:latitude": 37.616251,
+    "geom:longitude": -122.383719,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387370,
-    "wof:geomhash": "21d1f4281f0966eca41490138100aee9",
+    "wof:geomhash": "e8b640d3d7751898623d5e12a4b8f502",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903765,
     "wof:label": "Kunishima, Seiji Stacking Stones",
-    "wof:lastmodified": 1675807806,
+    "wof:lastmodified": 1676418113,
     "wof:name": "Stacking Stones",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.383708,
-    37.616287,
-    -122.383708,
-    37.616287
+    -122.383719,
+    37.616251,
+    -122.383719,
+    37.616251
   ],
-  "geometry": {"coordinates":[-122.383708,37.616287],"type":"Point"}
+  "geometry": {"coordinates":[-122.383719,37.616251],"type":"Point"}
 }

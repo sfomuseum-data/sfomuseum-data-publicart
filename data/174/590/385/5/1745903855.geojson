@@ -10,9 +10,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21545",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.386233,37.618110,-122.386233,37.618110",
-    "geom:latitude": 37.61811,
-    "geom:longitude": -122.386233,
+    "geom:bbox": "-122.385796,37.618144,-122.385796,37.618144",
+    "geom:latitude": 37.618144,
+    "geom:longitude": -122.385796,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
@@ -62,7 +62,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1523296716,
-    "wof:geomhash": "6c3dcb2633a47a281f963c304a0cbf6e",
+    "wof:geomhash": "d133c3d1885b76f440d9d76b12102d1e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -91,7 +91,7 @@
     ],
     "wof:id": 1745903855,
     "wof:label": "Strangerhood",
-    "wof:lastmodified": 1675807806,
+    "wof:lastmodified": 1676417630,
     "wof:name": "Strangerhood",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",
@@ -104,10 +104,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386233,
-    37.61811,
-    -122.386233,
-    37.61811
+    -122.385796,
+    37.618144,
+    -122.385796,
+    37.618144
   ],
-  "geometry": {"coordinates":[-122.386233,37.61811],"type":"Point"}
+  "geometry": {"coordinates":[-122.385796,37.618144],"type":"Point"}
 }

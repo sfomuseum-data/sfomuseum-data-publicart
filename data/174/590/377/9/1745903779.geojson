@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3305",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383877,37.616088,-122.383877,37.616088",
-    "geom:latitude": 37.616088,
-    "geom:longitude": -122.383877,
+    "geom:bbox": "-122.383752,37.616240,-122.383752,37.616240",
+    "geom:latitude": 37.61624,
+    "geom:longitude": -122.383752,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387368,
-    "wof:geomhash": "be70d1d3d304e92b1840641cfd33cbf8",
+    "wof:geomhash": "11d16fb2d9ffe6c4c12f4a0a5f57ff3c",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903779,
     "wof:label": "Katano, Marc Greeting A Totem",
-    "wof:lastmodified": 1675807806,
+    "wof:lastmodified": 1676418188,
     "wof:name": "Greeting A Totem",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.383877,
-    37.616088,
-    -122.383877,
-    37.616088
+    -122.383752,
+    37.61624,
+    -122.383752,
+    37.61624
   ],
-  "geometry": {"coordinates":[-122.383877,37.616088],"type":"Point"}
+  "geometry": {"coordinates":[-122.383752,37.61624],"type":"Point"}
 }
