@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21555",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.385350,37.618021,-122.385350,37.618021",
-    "geom:latitude": 37.618021,
-    "geom:longitude": -122.38535,
+    "geom:bbox": "-122.385192,37.617995,-122.385192,37.617995",
+    "geom:latitude": 37.617995,
+    "geom:longitude": -122.385192,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387382,
-    "wof:geomhash": "a5006b953a9cf869a28ff15275367086",
+    "wof:geomhash": "e32e3465f8c49393565e143496fca89c",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903739,
     "wof:label": "Saunders, Raymond Letter's Missing",
-    "wof:lastmodified": 1675807806,
+    "wof:lastmodified": 1676416653,
     "wof:name": "Letter's Missing",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.38535,
-    37.618021,
-    -122.38535,
-    37.618021
+    -122.385192,
+    37.617995,
+    -122.385192,
+    37.617995
   ],
-  "geometry": {"coordinates":[-122.38535,37.618021],"type":"Point"}
+  "geometry": {"coordinates":[-122.385192,37.617995],"type":"Point"}
 }
