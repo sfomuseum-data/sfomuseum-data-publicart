@@ -14,11 +14,11 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=4881",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384646,37.617673,-122.384646,37.617673",
-    "geom:latitude": 37.617673,
-    "geom:longitude": -122.384646,
+    "geom:bbox": "-122.384337,37.617560,-122.384337,37.617560",
+    "geom:latitude": 37.61756,
+    "geom:longitude": -122.384337,
     "iso:country": "US",
-    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
       1796889595
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387373,
-    "wof:geomhash": "6554a8757250b2a1e25d5402e6b5d17d",
+    "wof:geomhash": "c7cb11ed56b655f7867512f1e330fd04",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903833,
     "wof:label": "Mullican, Lee The Great Transparents",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1676415882,
     "wof:name": "The Great Transparents",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.384646,
-    37.617673,
-    -122.384646,
-    37.617673
+    -122.384337,
+    37.61756,
+    -122.384337,
+    37.61756
   ],
-  "geometry": {"coordinates":[-122.384646,37.617673],"type":"Point"}
+  "geometry": {"coordinates":[-122.384337,37.61756],"type":"Point"}
 }
