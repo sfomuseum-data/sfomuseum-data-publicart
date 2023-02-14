@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3331",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.385313,37.617913,-122.385313,37.617913",
-    "geom:latitude": 37.617913,
-    "geom:longitude": -122.385313,
+    "geom:bbox": "-122.385074,37.617957,-122.385074,37.617957",
+    "geom:latitude": 37.617957,
+    "geom:longitude": -122.385074,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
@@ -79,7 +79,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387340,
-    "wof:geomhash": "6c06d30ff9218868739157124a2e70fe",
+    "wof:geomhash": "59db44798222e8066f245c1bd132180e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -108,7 +108,7 @@
     ],
     "wof:id": 1745903713,
     "wof:label": "Beasley, Bruce The Hesperides",
-    "wof:lastmodified": 1675807806,
+    "wof:lastmodified": 1676416745,
     "wof:name": "The Hesperides",
     "wof:parent_id": 1763588365,
     "wof:placetype": "venue",
@@ -124,10 +124,10 @@
     ]
   },
   "bbox": [
-    -122.385313,
-    37.617913,
-    -122.385313,
-    37.617913
+    -122.385074,
+    37.617957,
+    -122.385074,
+    37.617957
   ],
-  "geometry": {"coordinates":[-122.385313,37.617913],"type":"Point"}
+  "geometry": {"coordinates":[-122.385074,37.617957],"type":"Point"}
 }
