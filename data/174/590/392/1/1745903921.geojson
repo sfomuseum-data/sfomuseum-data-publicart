@@ -10,9 +10,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21557",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.385114,37.618108,-122.385114,37.618108",
-    "geom:latitude": 37.618108,
-    "geom:longitude": -122.385114,
+    "geom:bbox": "-122.384966,37.618044,-122.384966,37.618044",
+    "geom:latitude": 37.618044,
+    "geom:longitude": -122.384966,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
@@ -63,7 +63,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1523296717,
-    "wof:geomhash": "de957f5e9a6bd11390445bcaeee9c914",
+    "wof:geomhash": "3e4c14befce968d76a0c02a7e2ba101e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -92,7 +92,7 @@
     ],
     "wof:id": 1745903921,
     "wof:label": "Ocean Voices II",
-    "wof:lastmodified": 1675807806,
+    "wof:lastmodified": 1676416711,
     "wof:name": "Ocean Voices II",
     "wof:parent_id": 1763588365,
     "wof:placetype": "venue",
@@ -105,10 +105,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.385114,
-    37.618108,
-    -122.385114,
-    37.618108
+    -122.384966,
+    37.618044,
+    -122.384966,
+    37.618044
   ],
-  "geometry": {"coordinates":[-122.385114,37.618108],"type":"Point"}
+  "geometry": {"coordinates":[-122.384966,37.618044],"type":"Point"}
 }
