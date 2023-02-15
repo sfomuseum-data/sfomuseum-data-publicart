@@ -9,8 +9,11 @@
     "geom:bbox": "-122.384833,37.617735,-122.384833,37.617735",
     "geom:latitude": 37.617735,
     "geom:longitude": -122.384833,
-    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
+    "millsfield:waypoing_id": [
+      1796942189
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.34",
     "sfo:level": 2,
@@ -71,7 +74,7 @@
     ],
     "wof:id": 1763637253,
     "wof:label": "Saunders King with One of His Many Hollow-Body Guitars",
-    "wof:lastmodified": 1676416422,
+    "wof:lastmodified": 1676493444,
     "wof:name": "Saunders King with One of His Many Hollow-Body Guitars",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

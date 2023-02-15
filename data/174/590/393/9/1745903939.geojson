@@ -12,11 +12,11 @@
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
-      1796889629
+      1813209007
     ],
     "mz:is_current": 1,
     "sfac:accession_id": "2018.29",
-    "sfo:level": 0,
+    "sfo:level": 1,
     "sfomuseum:boardingarea": "B",
     "sfomuseum:building": "T1",
     "sfomuseum:category": "sculpture",
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1745903939,
     "wof:label": "Intersection",
-    "wof:lastmodified": 1676419396,
+    "wof:lastmodified": 1676490294,
     "wof:name": "Intersection",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

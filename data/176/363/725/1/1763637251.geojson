@@ -9,8 +9,11 @@
     "geom:bbox": "-122.384854,37.617743,-122.384854,37.617743",
     "geom:latitude": 37.617743,
     "geom:longitude": -122.384854,
-    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
+    "millsfield:waypoint_id": [
+      1796942189
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.33",
     "sfo:level": 2,
@@ -71,7 +74,7 @@
     ],
     "wof:id": 1763637251,
     "wof:label": "Dancing in a Fillmore Flat",
-    "wof:lastmodified": 1676416464,
+    "wof:lastmodified": 1676493403,
     "wof:name": "Dancing in a Fillmore Flat",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

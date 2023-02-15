@@ -17,7 +17,8 @@
     "millsfield:wayfinding_detail": "T2",
     "millsfield:wayfinding_kind": "T1",
     "millsfield:waypoint_id": [
-      1796889605
+      1796889605,
+      1796942185
     ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -92,7 +93,7 @@
     ],
     "wof:id": 1745903759,
     "wof:label": "Voyage",
-    "wof:lastmodified": 1676418001,
+    "wof:lastmodified": 1676494414,
     "wof:name": "Voyage",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

@@ -9,8 +9,11 @@
     "geom:bbox": "-122.384599,37.617635,-122.384599,37.617635",
     "geom:latitude": 37.617635,
     "geom:longitude": -122.384599,
-    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
+    "millsfield:waypoint_id": [
+      1796942189
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.40",
     "sfo:level": 2,
@@ -71,7 +74,7 @@
     ],
     "wof:id": 1763637267,
     "wof:label": "Earl Grant on Organ, Junius Simmons on Guitar, Blue Mirror",
-    "wof:lastmodified": 1676416312,
+    "wof:lastmodified": 1676492976,
     "wof:name": "Earl Grant on Organ, Junius Simmons on Guitar, Blue Mirror",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

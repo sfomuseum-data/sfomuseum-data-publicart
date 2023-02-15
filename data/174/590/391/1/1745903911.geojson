@@ -21,7 +21,7 @@
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T3",
     "millsfield:waypoint_id": [
-      1796889613
+      1796889525
     ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903911,
     "wof:label": "Rivera, Gustavo Azul, Azul y Hacer",
-    "wof:lastmodified": 1676416878,
+    "wof:lastmodified": 1676494213,
     "wof:name": "Azul, Azul y Hacer",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",

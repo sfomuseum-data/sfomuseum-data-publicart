@@ -9,8 +9,11 @@
     "geom:bbox": "-122.384868,37.617748,-122.384868,37.617748",
     "geom:latitude": 37.617748,
     "geom:longitude": -122.384868,
-    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
+    "millsfield:waypoint_id": [
+      1796942189
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.36",
     "sfo:level": 2,
@@ -71,7 +74,7 @@
     ],
     "wof:id": 1763637259,
     "wof:label": "Crowd at Texas Playhouse, September 10, 1958",
-    "wof:lastmodified": 1676416505,
+    "wof:lastmodified": 1676493484,
     "wof:name": "Crowd at Texas Playhouse, September 10, 1958",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

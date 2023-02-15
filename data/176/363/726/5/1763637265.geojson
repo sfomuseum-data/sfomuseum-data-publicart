@@ -9,8 +9,11 @@
     "geom:bbox": "-122.384535,37.617609,-122.384535,37.617609",
     "geom:latitude": 37.617609,
     "geom:longitude": -122.384535,
-    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
+    "millsfield:waypoint_id": [
+      1796942189
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.39",
     "sfo:level": 2,
@@ -71,7 +74,7 @@
     ],
     "wof:id": 1763637265,
     "wof:label": "Lottie “The Body” Claiborne and her Husband Harlem Globetrotters Star Goose Tatum at a Good-Bye Party at the Texas Playhouse, Celebrating their Trip to Yokohama, Japan",
-    "wof:lastmodified": 1676416214,
+    "wof:lastmodified": 1676492235,
     "wof:name": "Lottie “The Body” Claiborne and her Husband Harlem Globetrotters Star Goose Tatum at a Good-Bye Party at the Texas Playhouse, Celebrating their Trip to Yokohama, Japan",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

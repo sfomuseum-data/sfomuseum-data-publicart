@@ -14,11 +14,11 @@
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
-      1796889629
+      1813209007
     ],
     "mz:is_current": 1,
     "sfac:accession_id": "2018.29",
-    "sfo:level": 2,
+    "sfo:level": 1,
     "sfomuseum:boardingarea": "B",
     "sfomuseum:building": "T1",
     "sfomuseum:category": "sculpture",
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1745903715,
     "wof:label": "Bird Plane House",
-    "wof:lastmodified": 1676419311,
+    "wof:lastmodified": 1676490516,
     "wof:name": "Bird Plane House",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

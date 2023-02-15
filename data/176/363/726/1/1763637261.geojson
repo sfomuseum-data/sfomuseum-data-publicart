@@ -9,8 +9,11 @@
     "geom:bbox": "-122.384912,37.617768,-122.384912,37.617768",
     "geom:latitude": 37.617768,
     "geom:longitude": -122.384912,
-    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
+    "millsfield:waypoint_id": [
+      1796942189
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.37",
     "sfo:level": 2,
@@ -71,7 +74,7 @@
     ],
     "wof:id": 1763637261,
     "wof:label": "A Crowd at the Primalon Ballroom",
-    "wof:lastmodified": 1676416593,
+    "wof:lastmodified": 1676493527,
     "wof:name": "A Crowd at the Primalon Ballroom",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

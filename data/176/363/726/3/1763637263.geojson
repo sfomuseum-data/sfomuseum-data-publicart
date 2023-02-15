@@ -9,8 +9,11 @@
     "geom:bbox": "-122.384567,37.617623,-122.384567,37.617623",
     "geom:latitude": 37.617623,
     "geom:longitude": -122.384567,
-    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
+    "millsfield:waypoint_id": [
+      1796942189
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.38",
     "sfo:level": 2,
@@ -71,7 +74,7 @@
     ],
     "wof:id": 1763637263,
     "wof:label": "Bar Patrons Outside the Club Flamingo",
-    "wof:lastmodified": 1676416266,
+    "wof:lastmodified": 1676492186,
     "wof:name": "Bar Patrons Outside the Club Flamingo",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
