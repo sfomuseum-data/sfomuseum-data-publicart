@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.385872,37.614538,-122.385872,37.614538",
-    "geom:latitude": 37.614538,
-    "geom:longitude": -122.385872,
+    "geom:bbox": "-122.385786,37.614438,-122.385786,37.614438",
+    "geom:latitude": 37.614438,
+    "geom:longitude": -122.385786,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "HMT1",
@@ -50,7 +50,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259884,
-    "wof:geomhash": "25be7ca1118ab627bd7f6970bafb1710",
+    "wof:geomhash": "f1ce29d529ae71857b42a9117cb9d82e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1745903725,
     "wof:label": "Terra-Techne",
-    "wof:lastmodified": 1675807806,
+    "wof:lastmodified": 1676418871,
     "wof:name": "Terra-Techne",
     "wof:parent_id": 1763588263,
     "wof:placetype": "venue",
@@ -92,10 +92,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.385872,
-    37.614538,
-    -122.385872,
-    37.614538
+    -122.385786,
+    37.614438,
+    -122.385786,
+    37.614438
   ],
-  "geometry": {"coordinates":[-122.385872,37.614538],"type":"Point"}
+  "geometry": {"coordinates":[-122.385786,37.614438],"type":"Point"}
 }

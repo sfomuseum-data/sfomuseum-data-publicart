@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3246",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389015,37.615750,-122.389015,37.615750",
-    "geom:latitude": 37.61575,
-    "geom:longitude": -122.389015,
+    "geom:bbox": "-122.388905,37.615778,-122.388905,37.615778",
+    "geom:latitude": 37.615778,
+    "geom:longitude": -122.388905,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
@@ -79,7 +79,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387369,
-    "wof:geomhash": "ef8d28119d6fdd7894070d76660f90bd",
+    "wof:geomhash": "8bdec1b266117298a0239b29b18b65bf",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -108,7 +108,7 @@
     ],
     "wof:id": 1745903885,
     "wof:label": "Anemone",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1676419823,
     "wof:name": "Anemone",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",
@@ -124,10 +124,10 @@
     ]
   },
   "bbox": [
-    -122.389015,
-    37.61575,
-    -122.389015,
-    37.61575
+    -122.388905,
+    37.615778,
+    -122.388905,
+    37.615778
   ],
-  "geometry": {"coordinates":[-122.389015,37.61575],"type":"Point"}
+  "geometry": {"coordinates":[-122.388905,37.615778],"type":"Point"}
 }
