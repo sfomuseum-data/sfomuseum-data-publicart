@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.387581,37.614675,-122.387581,37.614675",
-    "geom:latitude": 37.614675,
-    "geom:longitude": -122.387581,
+    "geom:bbox": "-122.387164,37.614712,-122.387164,37.614712",
+    "geom:latitude": 37.614712,
+    "geom:longitude": -122.387164,
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
@@ -43,7 +43,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614046301,
-    "wof:geomhash": "35b4d327cba96f5b08397fb3d129bf2b",
+    "wof:geomhash": "a37230a1152b64da88710fa210cce3cc",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1745903715,
     "wof:label": "Bird Plane House",
-    "wof:lastmodified": 1675807806,
+    "wof:lastmodified": 1676419311,
     "wof:name": "Bird Plane House",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
@@ -78,10 +78,10 @@
     ]
   },
   "bbox": [
-    -122.387581,
-    37.614675,
-    -122.387581,
-    37.614675
+    -122.387164,
+    37.614712,
+    -122.387164,
+    37.614712
   ],
-  "geometry": {"coordinates":[-122.387581,37.614675],"type":"Point"}
+  "geometry": {"coordinates":[-122.387164,37.614712],"type":"Point"}
 }
