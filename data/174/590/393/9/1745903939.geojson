@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.387512,37.614713,-122.387512,37.614713",
-    "geom:latitude": 37.614713,
-    "geom:longitude": -122.387512,
+    "geom:bbox": "-122.387134,37.614753,-122.387134,37.614753",
+    "geom:latitude": 37.614753,
+    "geom:longitude": -122.387134,
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
@@ -41,7 +41,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1623279376,
-    "wof:geomhash": "8cae9de1f7627ad4ad90ee4e94df14ef",
+    "wof:geomhash": "3c1393af31e1a543040cd33962b4ccdd",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1745903939,
     "wof:label": "Intersection",
-    "wof:lastmodified": 1675807806,
+    "wof:lastmodified": 1676419396,
     "wof:name": "Intersection",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
@@ -73,10 +73,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387512,
-    37.614713,
-    -122.387512,
-    37.614713
+    -122.387134,
+    37.614753,
+    -122.387134,
+    37.614753
   ],
-  "geometry": {"coordinates":[-122.387512,37.614713],"type":"Point"}
+  "geometry": {"coordinates":[-122.387134,37.614753],"type":"Point"}
 }
