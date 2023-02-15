@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.387596,37.614578,-122.387596,37.614578",
-    "geom:latitude": 37.614578,
-    "geom:longitude": -122.387596,
+    "geom:bbox": "-122.387180,37.614748,-122.387180,37.614748",
+    "geom:latitude": 37.614748,
+    "geom:longitude": -122.38718,
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
@@ -41,7 +41,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1623279377,
-    "wof:geomhash": "394b7668b0a0df491b58233a5793333d",
+    "wof:geomhash": "909e5b1063669a82deae1d6008d2ba6f",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -64,7 +64,7 @@
     ],
     "wof:id": 1745903941,
     "wof:label": "Shell",
-    "wof:lastmodified": 1675807806,
+    "wof:lastmodified": 1676419356,
     "wof:name": "Shell",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
@@ -73,10 +73,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.387596,
-    37.614578,
-    -122.387596,
-    37.614578
+    -122.38718,
+    37.614748,
+    -122.38718,
+    37.614748
   ],
-  "geometry": {"coordinates":[-122.387596,37.614578],"type":"Point"}
+  "geometry": {"coordinates":[-122.38718,37.614748],"type":"Point"}
 }
