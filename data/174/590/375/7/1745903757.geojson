@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3313",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.381447,37.617944,-122.381447,37.617944",
-    "geom:latitude": 37.617944,
-    "geom:longitude": -122.381447,
+    "geom:bbox": "-122.381498,37.617993,-122.381498,37.617993",
+    "geom:latitude": 37.617993,
+    "geom:longitude": -122.381498,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387378,
-    "wof:geomhash": "863d19cd69f89bc8ac1969f8186bd1b9",
+    "wof:geomhash": "893e4d0baeed41efe79e7ed5ea3fd690",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903757,
     "wof:label": "Ramirez, Robert Urns",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681241364,
     "wof:name": "Urns",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.381447,
-    37.617944,
-    -122.381447,
-    37.617944
+    -122.381498,
+    37.617993,
+    -122.381498,
+    37.617993
   ],
-  "geometry": {"coordinates":[-122.381447,37.617944],"type":"Point"}
+  "geometry": {"coordinates":[-122.381498,37.617993],"type":"Point"}
 }
