@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383428,37.617529,-122.383428,37.617529",
-    "geom:latitude": 37.617529,
-    "geom:longitude": -122.383428,
+    "geom:bbox": "-122.383408,37.617521,-122.383408,37.617521",
+    "geom:latitude": 37.61752129359123,
+    "geom:longitude": -122.38340848454368,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524065,
-    "wof:geomhash": "3ec1b5c7ffd46eb2e4956c46c595e8a2",
+    "wof:geomhash": "1b809a6e401699c9ec1bc9ad5c0690e7",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1763637271,
     "wof:label": "Klamath River, California",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Klamath River, California",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383428,
-    37.617529,
-    -122.383428,
-    37.617529
+    -122.38340848454368,
+    37.61752129359123,
+    -122.38340848454368,
+    37.61752129359123
   ],
-  "geometry": {"coordinates":[-122.383428,37.617529],"type":"Point"}
+  "geometry": {"coordinates":[-122.38340848454368,37.61752129359123],"type":"Point"}
 }

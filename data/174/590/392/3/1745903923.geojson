@@ -10,9 +10,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21550",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.386614,37.618616,-122.386614,37.618616",
-    "geom:latitude": 37.618616,
-    "geom:longitude": -122.386614,
+    "geom:bbox": "-122.386207,37.618631,-122.386207,37.618631",
+    "geom:latitude": 37.618631386612684,
+    "geom:longitude": -122.3862073235846,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
@@ -62,7 +62,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1523296715,
-    "wof:geomhash": "8df4d67aaa86ef504a46d62b20a0009a",
+    "wof:geomhash": "93c5544b53915f29a9b0cbd3c62c7e4e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -91,7 +91,7 @@
     ],
     "wof:id": 1745903923,
     "wof:label": "New Generation",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "New Generation",
     "wof:parent_id": 1763588363,
     "wof:placetype": "venue",
@@ -104,10 +104,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386614,
-    37.618616,
-    -122.386614,
-    37.618616
+    -122.3862073235846,
+    37.618631386612684,
+    -122.3862073235846,
+    37.618631386612684
   ],
-  "geometry": {"coordinates":[-122.386614,37.618616],"type":"Point"}
+  "geometry": {"coordinates":[-122.3862073235846,37.618631386612684],"type":"Point"}
 }

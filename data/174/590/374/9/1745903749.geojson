@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3311",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.381186,37.617008,-122.381186,37.617008",
-    "geom:latitude": 37.617008,
-    "geom:longitude": -122.381186,
+    "geom:bbox": "-122.381465,37.617204,-122.381465,37.617204",
+    "geom:latitude": 37.617203807349895,
+    "geom:longitude": -122.381465187604,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387348,
-    "wof:geomhash": "7a4637e0be43c8d2c6326a8789cf1319",
+    "wof:geomhash": "eab8df5addc26bdf565e0bbf1193695b",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903749,
     "wof:label": "Brown, Joan The Journey #2",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "The Journey #2",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.381186,
-    37.617008,
-    -122.381186,
-    37.617008
+    -122.381465187604,
+    37.617203807349895,
+    -122.381465187604,
+    37.617203807349895
   ],
-  "geometry": {"coordinates":[-122.381186,37.617008],"type":"Point"}
+  "geometry": {"coordinates":[-122.381465187604,37.617203807349895],"type":"Point"}
 }

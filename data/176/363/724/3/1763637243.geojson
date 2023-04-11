@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383380,37.617550,-122.383380,37.617550",
-    "geom:latitude": 37.61755,
-    "geom:longitude": -122.38338,
+    "geom:bbox": "-122.383392,37.617512,-122.383392,37.617512",
+    "geom:latitude": 37.61751181975684,
+    "geom:longitude": -122.38339204926868,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524057,
-    "wof:geomhash": "e39a3cd9cd20eb39d6afb9125b908c1e",
+    "wof:geomhash": "2816c7fc3f66e5d3a78f1b6e831b2176",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1763637243,
     "wof:label": "Lucy Wearing Green ",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Lucy Wearing Green ",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38338,
-    37.61755,
-    -122.38338,
-    37.61755
+    -122.38339204926868,
+    37.61751181975684,
+    -122.38339204926868,
+    37.61751181975684
   ],
-  "geometry": {"coordinates":[-122.38338,37.61755],"type":"Point"}
+  "geometry": {"coordinates":[-122.38339204926868,37.61751181975684],"type":"Point"}
 }

@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384530,37.613836,-122.384530,37.613836",
-    "geom:latitude": 37.613836,
-    "geom:longitude": -122.38453,
+    "geom:bbox": "-122.384320,37.613391,-122.384320,37.613391",
+    "geom:latitude": 37.61339068757953,
+    "geom:longitude": -122.38431993484495,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
@@ -50,7 +50,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259879,
-    "wof:geomhash": "67b55bc4f043a004b28219cf362a2a13",
+    "wof:geomhash": "7ed7882e073130407953464c4daa2346",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1745903887,
     "wof:label": "Ghost Extraction Dialogue for the Followers of Blood",
-    "wof:lastmodified": 1681247697,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Ghost Extraction Dialogue for the Followers of Blood",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
@@ -92,10 +92,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38453,
-    37.613836,
-    -122.38453,
-    37.613836
+    -122.38431993484495,
+    37.61339068757953,
+    -122.38431993484495,
+    37.61339068757953
   ],
-  "geometry": {"coordinates":[-122.38453,37.613836],"type":"Point"}
+  "geometry": {"coordinates":[-122.38431993484495,37.61339068757953],"type":"Point"}
 }

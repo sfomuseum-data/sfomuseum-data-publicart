@@ -8,9 +8,9 @@
     "edtf:inception": "2020-~05",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.385150,37.613691,-122.385150,37.613691",
-    "geom:latitude": 37.613691,
-    "geom:longitude": -122.38515,
+    "geom:bbox": "-122.385195,37.613391,-122.385195,37.613391",
+    "geom:latitude": 37.61339074932569,
+    "geom:longitude": -122.38519506642389,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
@@ -49,7 +49,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259883,
-    "wof:geomhash": "bae981ac01eab01584ff10110dd647fe",
+    "wof:geomhash": "7a4ea6140e4aedd821add05b1822b57e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -78,7 +78,7 @@
     ],
     "wof:id": 1729793095,
     "wof:label": "K4",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "K4",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
@@ -91,10 +91,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38515,
-    37.613691,
-    -122.38515,
-    37.613691
+    -122.38519506642389,
+    37.61339074932569,
+    -122.38519506642389,
+    37.61339074932569
   ],
-  "geometry": {"coordinates":[-122.38515,37.613691],"type":"Point"}
+  "geometry": {"coordinates":[-122.38519506642389,37.61339074932569],"type":"Point"}
 }

@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.385433,37.611443,-122.385433,37.611443",
-    "geom:latitude": 37.611443,
-    "geom:longitude": -122.385433,
+    "geom:bbox": "-122.385507,37.611186,-122.385507,37.611186",
+    "geom:latitude": 37.611186112671746,
+    "geom:longitude": -122.3855071878296,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "HMT1",
@@ -53,7 +53,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259882,
-    "wof:geomhash": "5d0dcbef065af630dbb4bfba706976b6",
+    "wof:geomhash": "dc4fefbcc59ce5c76a8e95c66f587f39",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1745903737,
     "wof:label": "Yale Portfolio",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Yale Portfolio",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
@@ -95,10 +95,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.385433,
-    37.611443,
-    -122.385433,
-    37.611443
+    -122.3855071878296,
+    37.611186112671746,
+    -122.3855071878296,
+    37.611186112671746
   ],
-  "geometry": {"coordinates":[-122.385433,37.611443],"type":"Point"}
+  "geometry": {"coordinates":[-122.3855071878296,37.611186112671746],"type":"Point"}
 }

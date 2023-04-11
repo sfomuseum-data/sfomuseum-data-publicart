@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3288",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.391671,37.618115,-122.391671,37.618115",
-    "geom:latitude": 37.618115,
-    "geom:longitude": -122.391671,
+    "geom:bbox": "-122.391675,37.618094,-122.391675,37.618094",
+    "geom:latitude": 37.61809432385271,
+    "geom:longitude": -122.3916750826582,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387379,
-    "wof:geomhash": "69a275d6e722739771308a030db30a79",
+    "wof:geomhash": "b2146d600c09fb96a51d9746ea051401",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903909,
     "wof:label": "Rigo 99 Thinking of Balmy Alley",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Thinking of Balmy Alley",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.391671,
-    37.618115,
-    -122.391671,
-    37.618115
+    -122.3916750826582,
+    37.61809432385271,
+    -122.3916750826582,
+    37.61809432385271
   ],
-  "geometry": {"coordinates":[-122.391671,37.618115],"type":"Point"}
+  "geometry": {"coordinates":[-122.3916750826582,37.61809432385271],"type":"Point"}
 }

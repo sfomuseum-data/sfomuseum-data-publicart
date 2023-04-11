@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383540,37.617613,-122.383540,37.617613",
-    "geom:latitude": 37.617613,
-    "geom:longitude": -122.38354,
+    "geom:bbox": "-122.383523,37.617567,-122.383523,37.617567",
+    "geom:latitude": 37.61756666035411,
+    "geom:longitude": -122.38352281497671,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524059,
-    "wof:geomhash": "2048fc8e8a3e86b1e243a37228ae1e78",
+    "wof:geomhash": "80729c7ca191c8d1d8b492118f99be6e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1763637249,
     "wof:label": "David Robinson, The Bass Player for Roy Milton’s Band, on the Floor of the Primalon Ballroom, 1223 Fillmore Street",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "David Robinson, The Bass Player for Roy Milton’s Band, on the Floor of the Primalon Ballroom, 1223 Fillmore Street",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38354,
-    37.617613,
-    -122.38354,
-    37.617613
+    -122.38352281497671,
+    37.61756666035411,
+    -122.38352281497671,
+    37.61756666035411
   ],
-  "geometry": {"coordinates":[-122.38354,37.617613],"type":"Point"}
+  "geometry": {"coordinates":[-122.38352281497671,37.61756666035411],"type":"Point"}
 }

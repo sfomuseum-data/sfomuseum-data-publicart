@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.384480,37.617934,-122.384480,37.617934",
-    "geom:latitude": 37.617934,
-    "geom:longitude": -122.38448,
+    "geom:bbox": "-122.384403,37.617874,-122.384403,37.617874",
+    "geom:latitude": 37.617873847455975,
+    "geom:longitude": -122.3844030205583,
     "millsfield:wayfinding_detail": "T3",
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
@@ -45,7 +45,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524049,
-    "wof:geomhash": "6d1786571a8886093b1117f0176f4984",
+    "wof:geomhash": "138281ac5f0ccd07d0e832b1eb3237a5",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1763637215,
     "wof:label": "Here You Are / You Are Here",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Here You Are / You Are Here",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -84,10 +84,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38448,
-    37.617934,
-    -122.38448,
-    37.617934
+    -122.3844030205583,
+    37.617873847455975,
+    -122.3844030205583,
+    37.617873847455975
   ],
-  "geometry": {"coordinates":[-122.38448,37.617934],"type":"Point"}
+  "geometry": {"coordinates":[-122.3844030205583,37.617873847455975],"type":"Point"}
 }

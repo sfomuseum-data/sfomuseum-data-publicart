@@ -10,9 +10,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=23380",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.392554,37.618173,-122.392554,37.618173",
-    "geom:latitude": 37.618173,
-    "geom:longitude": -122.392554,
+    "geom:bbox": "-122.392499,37.618162,-122.392499,37.618162",
+    "geom:latitude": 37.61816194949229,
+    "geom:longitude": -122.39249944234042,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
@@ -56,7 +56,7 @@
     },
     "wof:country": "US",
     "wof:created": 1612389359,
-    "wof:geomhash": "59c227d49db0e4337b5c5f12849a2f8f",
+    "wof:geomhash": "41283523c8d9cbb9b564e73588d412a2",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -85,7 +85,7 @@
     ],
     "wof:id": 1745903733,
     "wof:label": "No Other Lands Their Glory Know",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "No Other Lands Their Glory Know",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
@@ -98,10 +98,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.392554,
-    37.618173,
-    -122.392554,
-    37.618173
+    -122.39249944234042,
+    37.61816194949229,
+    -122.39249944234042,
+    37.61816194949229
   ],
-  "geometry": {"coordinates":[-122.392554,37.618173],"type":"Point"}
+  "geometry": {"coordinates":[-122.39249944234042,37.61816194949229],"type":"Point"}
 }

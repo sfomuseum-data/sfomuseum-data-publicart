@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3279",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389605,37.612194,-122.389605,37.612194",
-    "geom:latitude": 37.612194,
-    "geom:longitude": -122.389605,
+    "geom:bbox": "-122.389328,37.612645,-122.389328,37.612645",
+    "geom:latitude": 37.61264509249442,
+    "geom:longitude": -122.38932821393864,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387370,
-    "wof:geomhash": "d1371e88e7ab8f1154adcd94f4037848",
+    "wof:geomhash": "9c3e3cf040a7ea191f2cd20cce645326",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903723,
     "wof:label": "Liu, Hung Take Off 2006",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Take Off 2006",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.389605,
-    37.612194,
-    -122.389605,
-    37.612194
+    -122.38932821393864,
+    37.61264509249442,
+    -122.38932821393864,
+    37.61264509249442
   ],
-  "geometry": {"coordinates":[-122.389605,37.612194],"type":"Point"}
+  "geometry": {"coordinates":[-122.38932821393864,37.61264509249442],"type":"Point"}
 }

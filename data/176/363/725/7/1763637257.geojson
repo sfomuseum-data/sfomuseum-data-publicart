@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383530,37.617583,-122.383530,37.617583",
-    "geom:latitude": 37.617583,
-    "geom:longitude": -122.38353,
+    "geom:bbox": "-122.383564,37.617580,-122.383564,37.617580",
+    "geom:latitude": 37.61758013609937,
+    "geom:longitude": -122.3835641797193,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524061,
-    "wof:geomhash": "ab9da134a479cfb910264def318e735b",
+    "wof:geomhash": "9e7fa1a1838170a1801710c9a7c3e1c0",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1763637257,
     "wof:label": "Jam Session Inside Bop City, 1951",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Jam Session Inside Bop City, 1951",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38353,
-    37.617583,
-    -122.38353,
-    37.617583
+    -122.3835641797193,
+    37.61758013609937,
+    -122.3835641797193,
+    37.61758013609937
   ],
-  "geometry": {"coordinates":[-122.38353,37.617583],"type":"Point"}
+  "geometry": {"coordinates":[-122.3835641797193,37.61758013609937],"type":"Point"}
 }

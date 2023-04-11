@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384511,37.612897,-122.384511,37.612897",
-    "geom:latitude": 37.612897,
-    "geom:longitude": -122.384511,
+    "geom:bbox": "-122.384646,37.612647,-122.384646,37.612647",
+    "geom:latitude": 37.61264662839368,
+    "geom:longitude": -122.3846462711581,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
@@ -54,7 +54,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259886,
-    "wof:geomhash": "6e447134573a32232a3051b09988569a",
+    "wof:geomhash": "e484902da660e891afb90a9648c96e4b",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -83,7 +83,7 @@
     ],
     "wof:id": 1745903893,
     "wof:label": "Untitled",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Untitled",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
@@ -96,10 +96,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384511,
-    37.612897,
-    -122.384511,
-    37.612897
+    -122.3846462711581,
+    37.61264662839368,
+    -122.3846462711581,
+    37.61264662839368
   ],
-  "geometry": {"coordinates":[-122.384511,37.612897],"type":"Point"}
+  "geometry": {"coordinates":[-122.3846462711581,37.61264662839368],"type":"Point"}
 }

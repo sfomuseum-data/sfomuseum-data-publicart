@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393383,37.618569,-122.393383,37.618569",
-    "geom:latitude": 37.618569,
-    "geom:longitude": -122.393383,
+    "geom:bbox": "-122.393343,37.618666,-122.393343,37.618666",
+    "geom:latitude": 37.61866560662704,
+    "geom:longitude": -122.3933429881604,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
@@ -55,7 +55,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259875,
-    "wof:geomhash": "ac86c4231c5395372202ea00c7095e94",
+    "wof:geomhash": "1b2e3eb9d60992d633e25d907bc78e24",
     "wof:hierarchy": [
       {
         "arcade_id": 1763588435,
@@ -86,7 +86,7 @@
     ],
     "wof:id": 1745903843,
     "wof:label": "Timekeeper",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Timekeeper",
     "wof:parent_id": 1763588435,
     "wof:placetype": "venue",
@@ -99,10 +99,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.393383,
-    37.618569,
-    -122.393383,
-    37.618569
+    -122.3933429881604,
+    37.61866560662704,
+    -122.3933429881604,
+    37.61866560662704
   ],
-  "geometry": {"coordinates":[-122.393383,37.618569],"type":"Point"}
+  "geometry": {"coordinates":[-122.3933429881604,37.61866560662704],"type":"Point"}
 }

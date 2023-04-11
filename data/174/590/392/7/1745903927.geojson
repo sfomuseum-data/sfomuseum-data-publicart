@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.385012,37.612230,-122.385012,37.612230",
-    "geom:latitude": 37.61223,
-    "geom:longitude": -122.385012,
+    "geom:bbox": "-122.384982,37.612259,-122.384982,37.612259",
+    "geom:latitude": 37.61225930530096,
+    "geom:longitude": -122.38498216321618,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
@@ -55,7 +55,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259882,
-    "wof:geomhash": "37a09c1c010469e2aa29a4ef7815645e",
+    "wof:geomhash": "66c6d571c8efa429a98075bc024e6e89",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -84,7 +84,7 @@
     ],
     "wof:id": 1745903927,
     "wof:label": "Survival Through Figurization (white)",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Survival Through Figurization (white)",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
@@ -97,10 +97,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.385012,
-    37.61223,
-    -122.385012,
-    37.61223
+    -122.38498216321618,
+    37.61225930530096,
+    -122.38498216321618,
+    37.61225930530096
   ],
-  "geometry": {"coordinates":[-122.385012,37.61223],"type":"Point"}
+  "geometry": {"coordinates":[-122.38498216321618,37.61225930530096],"type":"Point"}
 }

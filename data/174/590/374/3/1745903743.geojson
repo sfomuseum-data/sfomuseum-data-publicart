@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.386687,37.614280,-122.386687,37.614280",
-    "geom:latitude": 37.61428,
-    "geom:longitude": -122.386687,
+    "geom:bbox": "-122.386386,37.614214,-122.386386,37.614214",
+    "geom:latitude": 37.61421405015416,
+    "geom:longitude": -122.38638637537798,
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
     "mz:is_current": 1,
@@ -43,7 +43,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614046299,
-    "wof:geomhash": "ce16c4738dd465f814601826aa9afe58",
+    "wof:geomhash": "b898631387918247f9e82aad42ae23f7",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -72,7 +72,7 @@
     ],
     "wof:id": 1745903743,
     "wof:label": "Four Corners\r",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Four Corners\r",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",
@@ -84,10 +84,10 @@
     ]
   },
   "bbox": [
-    -122.386687,
-    37.61428,
-    -122.386687,
-    37.61428
+    -122.38638637537798,
+    37.61421405015416,
+    -122.38638637537798,
+    37.61421405015416
   ],
-  "geometry": {"coordinates":[-122.386687,37.61428],"type":"Point"}
+  "geometry": {"coordinates":[-122.38638637537798,37.61421405015416],"type":"Point"}
 }

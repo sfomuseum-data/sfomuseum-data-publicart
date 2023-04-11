@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.388893,37.613922,-122.388893,37.613922",
-    "geom:latitude": 37.613922,
-    "geom:longitude": -122.388893,
+    "geom:bbox": "-122.388698,37.614252,-122.388698,37.614252",
+    "geom:latitude": 37.61425197717583,
+    "geom:longitude": -122.38869793683125,
     "millsfield:wayfinding_detail": "A",
     "millsfield:wayfinding_kind": "ITB",
     "millsfield:waypoint_id": [
@@ -44,7 +44,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1623279376,
-    "wof:geomhash": "711967369e306db36a756bf01caf4fd1",
+    "wof:geomhash": "32e34daa1f927139e74540e538bdfb59",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -73,7 +73,7 @@
     ],
     "wof:id": 1745903937,
     "wof:label": "River",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "River",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
@@ -82,10 +82,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.388893,
-    37.613922,
-    -122.388893,
-    37.613922
+    -122.38869793683125,
+    37.61425197717583,
+    -122.38869793683125,
+    37.61425197717583
   ],
-  "geometry": {"coordinates":[-122.388893,37.613922],"type":"Point"}
+  "geometry": {"coordinates":[-122.38869793683125,37.61425197717583],"type":"Point"}
 }

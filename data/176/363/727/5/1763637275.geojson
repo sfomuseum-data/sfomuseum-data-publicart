@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383413,37.617521,-122.383413,37.617521",
-    "geom:latitude": 37.617521,
-    "geom:longitude": -122.383413,
+    "geom:bbox": "-122.383426,37.617529,-122.383426,37.617529",
+    "geom:latitude": 37.61752874765905,
+    "geom:longitude": -122.38342625851602,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524066,
-    "wof:geomhash": "f7d4c454eb12b944730cd7a40cbbbc34",
+    "wof:geomhash": "b1fec86179e396b6726fbc25c9ddfc64",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1763637275,
     "wof:label": "Los Angeles International Airport",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Los Angeles International Airport",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383413,
-    37.617521,
-    -122.383413,
-    37.617521
+    -122.38342625851602,
+    37.61752874765905,
+    -122.38342625851602,
+    37.61752874765905
   ],
-  "geometry": {"coordinates":[-122.383413,37.617521],"type":"Point"}
+  "geometry": {"coordinates":[-122.38342625851602,37.61752874765905],"type":"Point"}
 }

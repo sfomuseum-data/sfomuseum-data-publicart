@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384871,37.612472,-122.384871,37.612472",
-    "geom:latitude": 37.612472,
-    "geom:longitude": -122.384871,
+    "geom:bbox": "-122.385031,37.612355,-122.385031,37.612355",
+    "geom:latitude": 37.612355046022245,
+    "geom:longitude": -122.38503132755525,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
@@ -54,7 +54,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259886,
-    "wof:geomhash": "d2e2a4fb52a240f0fffbd13d114b46de",
+    "wof:geomhash": "fcc47fe1891b39f1d617400fb25d6b54",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -83,7 +83,7 @@
     ],
     "wof:id": 1745903821,
     "wof:label": "The Author and Her Story",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "The Author and Her Story",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
@@ -96,10 +96,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384871,
-    37.612472,
-    -122.384871,
-    37.612472
+    -122.38503132755525,
+    37.612355046022245,
+    -122.38503132755525,
+    37.612355046022245
   ],
-  "geometry": {"coordinates":[-122.384871,37.612472],"type":"Point"}
+  "geometry": {"coordinates":[-122.38503132755525,37.612355046022245],"type":"Point"}
 }

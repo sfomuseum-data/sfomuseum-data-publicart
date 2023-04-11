@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.385690,37.611129,-122.385690,37.611129",
-    "geom:latitude": 37.611129,
-    "geom:longitude": -122.38569,
+    "geom:bbox": "-122.385733,37.611125,-122.385733,37.611125",
+    "geom:latitude": 37.61112461734549,
+    "geom:longitude": -122.38573333193261,
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
@@ -46,7 +46,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614046299,
-    "wof:geomhash": "d4edfa4d62440c83150b81b93778db73",
+    "wof:geomhash": "4ccba83b0d820a4f56aeccb80ad3f3bb",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1745903803,
     "wof:label": "Unfolding Space (in Gold)",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Unfolding Space (in Gold)",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
@@ -87,10 +87,10 @@
     ]
   },
   "bbox": [
-    -122.38569,
-    37.611129,
-    -122.38569,
-    37.611129
+    -122.38573333193261,
+    37.61112461734549,
+    -122.38573333193261,
+    37.61112461734549
   ],
-  "geometry": {"coordinates":[-122.38569,37.611129],"type":"Point"}
+  "geometry": {"coordinates":[-122.38573333193261,37.61112461734549],"type":"Point"}
 }

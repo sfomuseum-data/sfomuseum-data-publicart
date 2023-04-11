@@ -10,9 +10,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=23381",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.392367,37.618418,-122.392367,37.618418",
-    "geom:latitude": 37.618418,
-    "geom:longitude": -122.392367,
+    "geom:bbox": "-122.392351,37.618385,-122.392351,37.618385",
+    "geom:latitude": 37.618385241693474,
+    "geom:longitude": -122.39235147790346,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
@@ -56,7 +56,7 @@
     },
     "wof:country": "US",
     "wof:created": 1612389359,
-    "wof:geomhash": "07b1f41c11f6a659c51a327b32ddb5d8",
+    "wof:geomhash": "ac70baf81ec946f8d4eea6b8da3e5605",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -85,7 +85,7 @@
     ],
     "wof:id": 1745903857,
     "wof:label": "Mondrian Meets the Beatles",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Mondrian Meets the Beatles",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
@@ -98,10 +98,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.392367,
-    37.618418,
-    -122.392367,
-    37.618418
+    -122.39235147790346,
+    37.618385241693474,
+    -122.39235147790346,
+    37.618385241693474
   ],
-  "geometry": {"coordinates":[-122.392367,37.618418],"type":"Point"}
+  "geometry": {"coordinates":[-122.39235147790346,37.618385241693474],"type":"Point"}
 }

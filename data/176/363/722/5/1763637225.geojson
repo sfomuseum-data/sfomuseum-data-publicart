@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383433,37.617627,-122.383433,37.617627",
-    "geom:latitude": 37.617627,
-    "geom:longitude": -122.383433,
+    "geom:bbox": "-122.383449,37.617537,-122.383449,37.617537",
+    "geom:latitude": 37.61753678914122,
+    "geom:longitude": -122.38344851054785,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524052,
-    "wof:geomhash": "34c0c682afdbd5002c83ba5a6185ef2e",
+    "wof:geomhash": "2e9dc4eeedfc9ac401df4f193f71cd93",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1763637225,
     "wof:label": "The Carnaval Ride (from Public Matters, 1982-1988)",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "The Carnaval Ride (from Public Matters, 1982-1988)",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383433,
-    37.617627,
-    -122.383433,
-    37.617627
+    -122.38344851054785,
+    37.61753678914122,
+    -122.38344851054785,
+    37.61753678914122
   ],
-  "geometry": {"coordinates":[-122.383433,37.617627],"type":"Point"}
+  "geometry": {"coordinates":[-122.38344851054785,37.61753678914122],"type":"Point"}
 }

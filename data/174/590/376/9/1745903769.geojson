@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3339",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.392922,37.618633,-122.392922,37.618633",
-    "geom:latitude": 37.618633,
-    "geom:longitude": -122.392922,
+    "geom:bbox": "-122.392944,37.618630,-122.392944,37.618630",
+    "geom:latitude": 37.61862984433499,
+    "geom:longitude": -122.3929435962143,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387360,
-    "wof:geomhash": "72d2baaf2b0d096fbe571f2de1d0d05d",
+    "wof:geomhash": "2a306364ec3cbd4a1b6342421120ae6a",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903769,
     "wof:label": "Bird Technology",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Bird Technology",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.392922,
-    37.618633,
-    -122.392922,
-    37.618633
+    -122.3929435962143,
+    37.61862984433499,
+    -122.3929435962143,
+    37.61862984433499
   ],
-  "geometry": {"coordinates":[-122.392922,37.618633],"type":"Point"}
+  "geometry": {"coordinates":[-122.3929435962143,37.61862984433499],"type":"Point"}
 }

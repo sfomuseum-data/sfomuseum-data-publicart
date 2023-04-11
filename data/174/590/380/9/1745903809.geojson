@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=5270",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384571,37.618912,-122.384571,37.618912",
-    "geom:latitude": 37.618912,
-    "geom:longitude": -122.384571,
+    "geom:bbox": "-122.384666,37.618662,-122.384666,37.618662",
+    "geom:latitude": 37.61866223568855,
+    "geom:longitude": -122.38466576491787,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387353,
-    "wof:geomhash": "9d6caf00b58e026e4b3e54577e510ae0",
+    "wof:geomhash": "6dba64a193760cc9e5c0cec894042db8",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903809,
     "wof:label": "De Feo, Jay Loop Series #4: Masquerade in Black",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Loop Series #4: Masquerade in Black",
     "wof:parent_id": 1763588335,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.384571,
-    37.618912,
-    -122.384571,
-    37.618912
+    -122.38466576491787,
+    37.61866223568855,
+    -122.38466576491787,
+    37.61866223568855
   ],
-  "geometry": {"coordinates":[-122.384571,37.618912],"type":"Point"}
+  "geometry": {"coordinates":[-122.38466576491787,37.61866223568855],"type":"Point"}
 }

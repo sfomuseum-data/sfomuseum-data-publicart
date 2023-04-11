@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3281",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.390235,37.611816,-122.390235,37.611816",
-    "geom:latitude": 37.611816,
-    "geom:longitude": -122.390235,
+    "geom:bbox": "-122.389917,37.612291,-122.389917,37.612291",
+    "geom:latitude": 37.61229062505932,
+    "geom:longitude": -122.3899167636422,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "A",
     "millsfield:wayfinding_kind": "ITB",
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387350,
-    "wof:geomhash": "64b0a0066663ab700c3d1ac9e95c2a82",
+    "wof:geomhash": "9d0deef7f492d81574a684f4cdbbe062",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903791,
     "wof:label": "Chagoya, Enrique Love Letters",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Love Letters",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.390235,
-    37.611816,
-    -122.390235,
-    37.611816
+    -122.3899167636422,
+    37.61229062505932,
+    -122.3899167636422,
+    37.61229062505932
   ],
-  "geometry": {"coordinates":[-122.390235,37.611816],"type":"Point"}
+  "geometry": {"coordinates":[-122.3899167636422,37.61229062505932],"type":"Point"}
 }

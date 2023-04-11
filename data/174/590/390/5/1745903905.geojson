@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.385237,37.611893,-122.385237,37.611893",
-    "geom:latitude": 37.611893,
-    "geom:longitude": -122.385237,
+    "geom:bbox": "-122.385310,37.611939,-122.385310,37.611939",
+    "geom:latitude": 37.61193926510839,
+    "geom:longitude": -122.38531013828955,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
@@ -55,7 +55,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259886,
-    "wof:geomhash": "16c8aed8c6ee7d601ab7834dc3200a66",
+    "wof:geomhash": "d3e64e66404312f0fa7d0c84c23d12e2",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -83,7 +83,7 @@
       }
     ],
     "wof:id": 1745903905,
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Hyper-Natural Bay Area",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
@@ -96,10 +96,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.385237,
-    37.611893,
-    -122.385237,
-    37.611893
+    -122.38531013828955,
+    37.61193926510839,
+    -122.38531013828955,
+    37.61193926510839
   ],
-  "geometry": {"coordinates":[-122.385237,37.611893],"type":"Point"}
+  "geometry": {"coordinates":[-122.38531013828955,37.61193926510839],"type":"Point"}
 }

@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3257",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389048,37.613644,-122.389048,37.613644",
-    "geom:latitude": 37.613644,
-    "geom:longitude": -122.389048,
+    "geom:bbox": "-122.388920,37.613765,-122.388920,37.613765",
+    "geom:latitude": 37.61376534335063,
+    "geom:longitude": -122.38892024198505,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "A",
     "millsfield:wayfinding_kind": "ITB",
@@ -79,7 +79,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387365,
-    "wof:geomhash": "590e2a6ccf300e69976ae89137101546",
+    "wof:geomhash": "44374f51148228a7bcf9bfb122bbdf9b",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -108,7 +108,7 @@
     ],
     "wof:id": 1745903717,
     "wof:label": "Howard, Mildred Salty Peanuts",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Salty Peanuts",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
@@ -124,10 +124,10 @@
     ]
   },
   "bbox": [
-    -122.389048,
-    37.613644,
-    -122.389048,
-    37.613644
+    -122.38892024198505,
+    37.61376534335063,
+    -122.38892024198505,
+    37.61376534335063
   ],
-  "geometry": {"coordinates":[-122.389048,37.613644],"type":"Point"}
+  "geometry": {"coordinates":[-122.38892024198505,37.61376534335063],"type":"Point"}
 }

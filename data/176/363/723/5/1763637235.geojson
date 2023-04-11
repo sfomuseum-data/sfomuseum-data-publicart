@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383397,37.617580,-122.383397,37.617580",
-    "geom:latitude": 37.61758,
-    "geom:longitude": -122.383397,
+    "geom:bbox": "-122.383592,37.617588,-122.383592,37.617588",
+    "geom:latitude": 37.61758775508406,
+    "geom:longitude": -122.38359157918633,
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "CAC",
     "mz:is_current": 1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524055,
-    "wof:geomhash": "979aa95a829374c71e149a94cc4f54ea",
+    "wof:geomhash": "f31187e7d31bd820ace7b426e011c3fe",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1763637235,
     "wof:label": "Public Transit Areas #46",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Public Transit Areas #46",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383397,
-    37.61758,
-    -122.383397,
-    37.61758
+    -122.38359157918633,
+    37.61758775508406,
+    -122.38359157918633,
+    37.61758775508406
   ],
-  "geometry": {"coordinates":[-122.383397,37.61758],"type":"Point"}
+  "geometry": {"coordinates":[-122.38359157918633,37.61758775508406],"type":"Point"}
 }

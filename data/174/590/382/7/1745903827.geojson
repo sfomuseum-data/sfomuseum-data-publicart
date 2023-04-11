@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384590,37.613234,-122.384590,37.613234",
-    "geom:latitude": 37.613234,
-    "geom:longitude": -122.38459,
+    "geom:bbox": "-122.384565,37.612957,-122.384565,37.612957",
+    "geom:latitude": 37.61295659134395,
+    "geom:longitude": -122.38456493196448,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
@@ -54,7 +54,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259884,
-    "wof:geomhash": "a85882110f733d28c19e8f8cb3bb8fed",
+    "wof:geomhash": "79303b6a3b58935209bbd2a242bf8c02",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -83,7 +83,7 @@
     ],
     "wof:id": 1745903827,
     "wof:label": "Red Cadmium Giant",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Red Cadmium Giant",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
@@ -96,10 +96,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38459,
-    37.613234,
-    -122.38459,
-    37.613234
+    -122.38456493196448,
+    37.61295659134395,
+    -122.38456493196448,
+    37.61295659134395
   ],
-  "geometry": {"coordinates":[-122.38459,37.613234],"type":"Point"}
+  "geometry": {"coordinates":[-122.38456493196448,37.61295659134395],"type":"Point"}
 }

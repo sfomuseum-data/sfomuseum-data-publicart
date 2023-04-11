@@ -15,9 +15,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3329",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384771,37.618503,-122.384771,37.618503",
-    "geom:latitude": 37.618503,
-    "geom:longitude": -122.384771,
+    "geom:bbox": "-122.384753,37.618501,-122.384753,37.618501",
+    "geom:latitude": 37.61850133360031,
+    "geom:longitude": -122.38475293857243,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
@@ -79,7 +79,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387388,
-    "wof:geomhash": "8e690adacea4790a4398f2bcc0a86efb",
+    "wof:geomhash": "cade890b073a4986cdab46374cef6da7",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -108,7 +108,7 @@
     ],
     "wof:id": 1745903801,
     "wof:label": "Thiebaud, Wayne 18th Street Downgrade",
-    "wof:lastmodified": 1674172919,
+    "wof:lastmodified": 1681254301,
     "wof:name": "18th Street Downgrade",
     "wof:parent_id": 1763588335,
     "wof:placetype": "venue",
@@ -124,10 +124,10 @@
     ]
   },
   "bbox": [
-    -122.384771,
-    37.618503,
-    -122.384771,
-    37.618503
+    -122.38475293857243,
+    37.61850133360031,
+    -122.38475293857243,
+    37.61850133360031
   ],
-  "geometry": {"coordinates":[-122.384771,37.618503],"type":"Point"}
+  "geometry": {"coordinates":[-122.38475293857243,37.61850133360031],"type":"Point"}
 }

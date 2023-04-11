@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393259,37.618755,-122.393259,37.618755",
-    "geom:latitude": 37.618755,
-    "geom:longitude": -122.393259,
+    "geom:bbox": "-122.393389,37.618561,-122.393389,37.618561",
+    "geom:latitude": 37.61856072905432,
+    "geom:longitude": -122.39338948989516,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
@@ -55,7 +55,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259875,
-    "wof:geomhash": "595cab6110611377f4833d2701cb0b64",
+    "wof:geomhash": "f7cb9cfbff3376d9730f3e1c5062750d",
     "wof:hierarchy": [
       {
         "arcade_id": 1763588435,
@@ -86,7 +86,7 @@
     ],
     "wof:id": 1745903705,
     "wof:label": "Turn",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Turn",
     "wof:parent_id": 1763588435,
     "wof:placetype": "venue",
@@ -99,10 +99,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.393259,
-    37.618755,
-    -122.393259,
-    37.618755
+    -122.39338948989516,
+    37.61856072905432,
+    -122.39338948989516,
+    37.61856072905432
   ],
-  "geometry": {"coordinates":[-122.393259,37.618755],"type":"Point"}
+  "geometry": {"coordinates":[-122.39338948989516,37.61856072905432],"type":"Point"}
 }

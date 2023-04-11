@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3289",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393063,37.618393,-122.393063,37.618393",
-    "geom:latitude": 37.618393,
-    "geom:longitude": -122.393063,
+    "geom:bbox": "-122.393082,37.618421,-122.393082,37.618421",
+    "geom:latitude": 37.61842086505589,
+    "geom:longitude": -122.39308207457451,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
@@ -79,7 +79,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387338,
-    "wof:geomhash": "0ad6cc9b3fb529bce8d10dd2b0c5f9b7",
+    "wof:geomhash": "a6bfe26e3255a4fb45ae1cd17b0fb77e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -108,7 +108,7 @@
     ],
     "wof:id": 1745903789,
     "wof:label": "Montoya, Emmanual C. and Juana Alicia Sanctuary/Santuario",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Sanctuary/Santuario",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
@@ -124,10 +124,10 @@
     ]
   },
   "bbox": [
-    -122.393063,
-    37.618393,
-    -122.393063,
-    37.618393
+    -122.39308207457451,
+    37.61842086505589,
+    -122.39308207457451,
+    37.61842086505589
   ],
-  "geometry": {"coordinates":[-122.393063,37.618393],"type":"Point"}
+  "geometry": {"coordinates":[-122.39308207457451,37.61842086505589],"type":"Point"}
 }

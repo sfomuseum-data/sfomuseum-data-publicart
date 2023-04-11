@@ -10,9 +10,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3315",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.381082,37.617195,-122.381082,37.617195",
-    "geom:latitude": 37.617195,
-    "geom:longitude": -122.381082,
+    "geom:bbox": "-122.381063,37.617197,-122.381063,37.617197",
+    "geom:latitude": 37.617196912106614,
+    "geom:longitude": -122.38106326424501,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
@@ -63,7 +63,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1523296712,
-    "wof:geomhash": "8bcef7f6116678e327a659c5c185b35e",
+    "wof:geomhash": "836de2b9f851b742cb980e14f5706645",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -92,7 +92,7 @@
     ],
     "wof:id": 1745903851,
     "wof:label": "Kitundu, Walter Bay Area Bird Encounters",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Bay Area Bird Encounters",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
@@ -105,10 +105,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.381082,
-    37.617195,
-    -122.381082,
-    37.617195
+    -122.38106326424501,
+    37.617196912106614,
+    -122.38106326424501,
+    37.617196912106614
   ],
-  "geometry": {"coordinates":[-122.381082,37.617195],"type":"Point"}
+  "geometry": {"coordinates":[-122.38106326424501,37.617196912106614],"type":"Point"}
 }

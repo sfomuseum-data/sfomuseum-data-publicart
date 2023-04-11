@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3328",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384766,37.618493,-122.384766,37.618493",
-    "geom:latitude": 37.618493,
-    "geom:longitude": -122.384766,
+    "geom:bbox": "-122.384738,37.618526,-122.384738,37.618526",
+    "geom:latitude": 37.618526103366534,
+    "geom:longitude": -122.38473814406686,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
@@ -77,7 +77,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387389,
-    "wof:geomhash": "061dcd0413bc8f0c449f9ca4a61990bd",
+    "wof:geomhash": "46503fd8eee08725b9c5d257dc05a8af",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -106,7 +106,7 @@
     ],
     "wof:id": 1745903699,
     "wof:label": "Torlakson, James Behind Ted McMann's Garage",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Behind Ted McMann's Garage",
     "wof:parent_id": 1763588335,
     "wof:placetype": "venue",
@@ -122,10 +122,10 @@
     ]
   },
   "bbox": [
-    -122.384766,
-    37.618493,
-    -122.384766,
-    37.618493
+    -122.38473814406686,
+    37.618526103366534,
+    -122.38473814406686,
+    37.618526103366534
   ],
-  "geometry": {"coordinates":[-122.384766,37.618493],"type":"Point"}
+  "geometry": {"coordinates":[-122.38473814406686,37.618526103366534],"type":"Point"}
 }

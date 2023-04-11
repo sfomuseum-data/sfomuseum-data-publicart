@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383388,37.617559,-122.383388,37.617559",
-    "geom:latitude": 37.617559,
-    "geom:longitude": -122.383388,
+    "geom:bbox": "-122.383381,37.617506,-122.383381,37.617506",
+    "geom:latitude": 37.61750601797117,
+    "geom:longitude": -122.38338129249493,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524056,
-    "wof:geomhash": "c910370ac2b087a0d177faffdfe2376c",
+    "wof:geomhash": "7b877f31e86957028827e88f84f7d87e",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1763637241,
     "wof:label": "Chris Skiing",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Chris Skiing",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383388,
-    37.617559,
-    -122.383388,
-    37.617559
+    -122.38338129249493,
+    37.61750601797117,
+    -122.38338129249493,
+    37.61750601797117
   ],
-  "geometry": {"coordinates":[-122.383388,37.617559],"type":"Point"}
+  "geometry": {"coordinates":[-122.38338129249493,37.61750601797117],"type":"Point"}
 }

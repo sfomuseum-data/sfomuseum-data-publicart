@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.385474,37.613955,-122.385474,37.613955",
-    "geom:latitude": 37.613955,
-    "geom:longitude": -122.385474,
+    "geom:bbox": "-122.385381,37.613829,-122.385381,37.613829",
+    "geom:latitude": 37.61382868431113,
+    "geom:longitude": -122.38538100530039,
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
@@ -44,7 +44,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1623279375,
-    "wof:geomhash": "22f1c225659e0ac2d1f94c1b7cd56d94",
+    "wof:geomhash": "e67023efd18fc1ec10f3451bba7cfcc3",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -73,7 +73,7 @@
     ],
     "wof:id": 1745903935,
     "wof:label": "Split",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Split",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",
@@ -82,10 +82,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.385474,
-    37.613955,
-    -122.385474,
-    37.613955
+    -122.38538100530039,
+    37.61382868431113,
+    -122.38538100530039,
+    37.61382868431113
   ],
-  "geometry": {"coordinates":[-122.385474,37.613955],"type":"Point"}
+  "geometry": {"coordinates":[-122.38538100530039,37.61382868431113],"type":"Point"}
 }

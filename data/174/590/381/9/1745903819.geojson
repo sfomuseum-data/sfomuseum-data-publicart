@@ -10,9 +10,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=5269",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384203,37.619007,-122.384203,37.619007",
-    "geom:latitude": 37.619007,
-    "geom:longitude": -122.384203,
+    "geom:bbox": "-122.384315,37.618816,-122.384315,37.618816",
+    "geom:latitude": 37.6188155060176,
+    "geom:longitude": -122.38431483648665,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
@@ -60,7 +60,7 @@
     },
     "wof:country": "US",
     "wof:created": 1523296716,
-    "wof:geomhash": "5d355a9e64178f41f4fd6121948de93d",
+    "wof:geomhash": "bc86a1a2f1ea326753a3ec5fa53abd37",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -89,7 +89,7 @@
     ],
     "wof:id": 1745903819,
     "wof:label": "Spirogyrate",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Spirogyrate",
     "wof:parent_id": 1763588335,
     "wof:placetype": "venue",
@@ -102,10 +102,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384203,
-    37.619007,
-    -122.384203,
-    37.619007
+    -122.38431483648665,
+    37.6188155060176,
+    -122.38431483648665,
+    37.6188155060176
   ],
-  "geometry": {"coordinates":[-122.384203,37.619007],"type":"Point"}
+  "geometry": {"coordinates":[-122.38431483648665,37.6188155060176],"type":"Point"}
 }

@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3286",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.391104,37.617581,-122.391104,37.617581",
-    "geom:latitude": 37.617581,
-    "geom:longitude": -122.391104,
+    "geom:bbox": "-122.391067,37.617569,-122.391067,37.617569",
+    "geom:latitude": 37.617568617127205,
+    "geom:longitude": -122.39106690008279,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387380,
-    "wof:geomhash": "42b604ce710efae9beb4afbfb05a8ad2",
+    "wof:geomhash": "88ffe08972a41177edd557c283638a64",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903823,
     "wof:label": "Rojas, Claire Blue Deer",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Blue Deer",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.391104,
-    37.617581,
-    -122.391104,
-    37.617581
+    -122.39106690008279,
+    37.617568617127205,
+    -122.39106690008279,
+    37.617568617127205
   ],
-  "geometry": {"coordinates":[-122.391104,37.617581],"type":"Point"}
+  "geometry": {"coordinates":[-122.39106690008279,37.617568617127205],"type":"Point"}
 }

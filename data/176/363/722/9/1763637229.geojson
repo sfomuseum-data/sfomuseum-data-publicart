@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383411,37.617610,-122.383411,37.617610",
-    "geom:latitude": 37.61761,
-    "geom:longitude": -122.383411,
+    "geom:bbox": "-122.383438,37.617534,-122.383438,37.617534",
+    "geom:latitude": 37.61753353955838,
+    "geom:longitude": -122.38343768464297,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524053,
-    "wof:geomhash": "c2ada6586ddc8fb0f2157d4484ed8894",
+    "wof:geomhash": "5ca918a14438664e701450049572be10",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1763637229,
     "wof:label": "Young Couple at Carnaval (from Public Matters, 1982-1988)",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Young Couple at Carnaval (from Public Matters, 1982-1988)",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383411,
-    37.61761,
-    -122.383411,
-    37.61761
+    -122.38343768464297,
+    37.61753353955838,
+    -122.38343768464297,
+    37.61753353955838
   ],
-  "geometry": {"coordinates":[-122.383411,37.61761],"type":"Point"}
+  "geometry": {"coordinates":[-122.38343768464297,37.61753353955838],"type":"Point"}
 }

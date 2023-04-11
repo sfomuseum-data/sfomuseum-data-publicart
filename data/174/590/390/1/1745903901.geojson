@@ -10,9 +10,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21546",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.385284,37.618241,-122.385284,37.618241",
-    "geom:latitude": 37.618241,
-    "geom:longitude": -122.385284,
+    "geom:bbox": "-122.385403,37.618169,-122.385403,37.618169",
+    "geom:latitude": 37.61816906454515,
+    "geom:longitude": -122.38540317815969,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
@@ -62,7 +62,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1523296717,
-    "wof:geomhash": "bbdc8b3245686fa602d3960d56a06fda",
+    "wof:geomhash": "60f9149f6b2943d4535e548a26f8fae2",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -91,7 +91,7 @@
     ],
     "wof:id": 1745903901,
     "wof:label": "Untitled (Large Variation)",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Untitled (Large Variation)",
     "wof:parent_id": 1763588363,
     "wof:placetype": "venue",
@@ -104,10 +104,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.385284,
-    37.618241,
-    -122.385284,
-    37.618241
+    -122.38540317815969,
+    37.61816906454515,
+    -122.38540317815969,
+    37.61816906454515
   ],
-  "geometry": {"coordinates":[-122.385284,37.618241],"type":"Point"}
+  "geometry": {"coordinates":[-122.38540317815969,37.61816906454515],"type":"Point"}
 }

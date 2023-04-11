@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.384174,37.617797,-122.384174,37.617797",
-    "geom:latitude": 37.617797,
-    "geom:longitude": -122.384174,
+    "geom:bbox": "-122.384171,37.617778,-122.384171,37.617778",
+    "geom:latitude": 37.61777795616914,
+    "geom:longitude": -122.38417128751965,
     "millsfield:wayfinding_detail": "T3",
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
@@ -45,7 +45,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524048,
-    "wof:geomhash": "71c4b65d9f530d6c601ce9cbd24422ed",
+    "wof:geomhash": "2c7689d101cadf18ae8e493a76610f83",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1763637211,
     "wof:label": "Long Arc of the Day",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Long Arc of the Day",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -84,10 +84,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.384174,
-    37.617797,
-    -122.384174,
-    37.617797
+    -122.38417128751965,
+    37.61777795616914,
+    -122.38417128751965,
+    37.61777795616914
   ],
-  "geometry": {"coordinates":[-122.384174,37.617797],"type":"Point"}
+  "geometry": {"coordinates":[-122.38417128751965,37.61777795616914],"type":"Point"}
 }

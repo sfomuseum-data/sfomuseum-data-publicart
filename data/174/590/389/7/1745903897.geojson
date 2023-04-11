@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3258",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389937,37.612318,-122.389937,37.612318",
-    "geom:latitude": 37.612318,
-    "geom:longitude": -122.389937,
+    "geom:bbox": "-122.389592,37.612759,-122.389592,37.612759",
+    "geom:latitude": 37.61275878959625,
+    "geom:longitude": -122.38959239249877,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "A",
     "millsfield:wayfinding_kind": "ITB",
@@ -79,7 +79,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387365,
-    "wof:geomhash": "cb4c3f429cb6f8b381592fff531355b5",
+    "wof:geomhash": "be49c90ada41065fe42531bc486321ce",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -108,7 +108,7 @@
     ],
     "wof:id": 1745903897,
     "wof:label": "Hsu, Joyce Namoo House",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Namoo House",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
@@ -124,10 +124,10 @@
     ]
   },
   "bbox": [
-    -122.389937,
-    37.612318,
-    -122.389937,
-    37.612318
+    -122.38959239249877,
+    37.61275878959625,
+    -122.38959239249877,
+    37.61275878959625
   ],
-  "geometry": {"coordinates":[-122.389937,37.612318],"type":"Point"}
+  "geometry": {"coordinates":[-122.38959239249877,37.61275878959625],"type":"Point"}
 }

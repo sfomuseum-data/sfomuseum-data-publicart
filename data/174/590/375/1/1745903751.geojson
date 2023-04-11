@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384613,37.613318,-122.384613,37.613318",
-    "geom:latitude": 37.613318,
-    "geom:longitude": -122.384613,
+    "geom:bbox": "-122.384397,37.613065,-122.384397,37.613065",
+    "geom:latitude": 37.613064547529866,
+    "geom:longitude": -122.3843970001197,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
@@ -53,7 +53,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259884,
-    "wof:geomhash": "f23f544af7485cf94be0634d3009904b",
+    "wof:geomhash": "f8b90fb5c501e8bfe9a0d20b26f24778",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1745903751,
     "wof:label": "On Becoming Series",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "On Becoming Series",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
@@ -95,10 +95,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384613,
-    37.613318,
-    -122.384613,
-    37.613318
+    -122.3843970001197,
+    37.613064547529866,
+    -122.3843970001197,
+    37.613064547529866
   ],
-  "geometry": {"coordinates":[-122.384613,37.613318],"type":"Point"}
+  "geometry": {"coordinates":[-122.3843970001197,37.613064547529866],"type":"Point"}
 }

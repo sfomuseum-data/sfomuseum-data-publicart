@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383421,37.617618,-122.383421,37.617618",
-    "geom:latitude": 37.617618,
-    "geom:longitude": -122.383421,
+    "geom:bbox": "-122.383457,37.617543,-122.383457,37.617543",
+    "geom:latitude": 37.61754306837009,
+    "geom:longitude": -122.38345732841492,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524052,
-    "wof:geomhash": "5928d909517325cfec7c70f700a59c4b",
+    "wof:geomhash": "88a8e732053b3e65990628c6a3eb7d77",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1763637227,
     "wof:label": "Woman with Mexican Flag (from Public Matters, 1982-1988)",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Woman with Mexican Flag (from Public Matters, 1982-1988)",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383421,
-    37.617618,
-    -122.383421,
-    37.617618
+    -122.38345732841492,
+    37.61754306837009,
+    -122.38345732841492,
+    37.61754306837009
   ],
-  "geometry": {"coordinates":[-122.383421,37.617618],"type":"Point"}
+  "geometry": {"coordinates":[-122.38345732841492,37.61754306837009],"type":"Point"}
 }

@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=4939",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389414,37.612818,-122.389414,37.612818",
-    "geom:latitude": 37.612818,
-    "geom:longitude": -122.389414,
+    "geom:bbox": "-122.389286,37.612939,-122.389286,37.612939",
+    "geom:latitude": 37.6129386739534,
+    "geom:longitude": -122.38928572520997,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "A",
     "millsfield:wayfinding_kind": "ITB",
@@ -76,7 +76,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387377,
-    "wof:geomhash": "b533463847efe56388a27f9ab34b1cf9",
+    "wof:geomhash": "6294ceb47c110b16cc1e0a816ac93c25",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -105,7 +105,7 @@
     ],
     "wof:id": 1745903767,
     "wof:label": "Preston, Ann You Were in Heaven",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "You Were in Heaven",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",
@@ -121,10 +121,10 @@
     ]
   },
   "bbox": [
-    -122.389414,
-    37.612818,
-    -122.389414,
-    37.612818
+    -122.38928572520997,
+    37.6129386739534,
+    -122.38928572520997,
+    37.6129386739534
   ],
-  "geometry": {"coordinates":[-122.389414,37.612818],"type":"Point"}
+  "geometry": {"coordinates":[-122.38928572520997,37.6129386739534],"type":"Point"}
 }

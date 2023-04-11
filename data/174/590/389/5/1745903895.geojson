@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3284",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.390226,37.617506,-122.390226,37.617506",
-    "geom:latitude": 37.617506,
-    "geom:longitude": -122.390226,
+    "geom:bbox": "-122.390246,37.617495,-122.390246,37.617495",
+    "geom:latitude": 37.61749525610196,
+    "geom:longitude": -122.3902463423388,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387349,
-    "wof:geomhash": "1dfb0e40c3fcf13534abbe6a39ee366f",
+    "wof:geomhash": "dfee39ad40216b0163d9d68566854e66",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903895,
     "wof:label": "Carnwath, Squeak Fly, Flight, Fugit",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Fly, Flight, Fugit",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.390226,
-    37.617506,
-    -122.390226,
-    37.617506
+    -122.3902463423388,
+    37.61749525610196,
+    -122.3902463423388,
+    37.61749525610196
   ],
-  "geometry": {"coordinates":[-122.390226,37.617506],"type":"Point"}
+  "geometry": {"coordinates":[-122.3902463423388,37.61749525610196],"type":"Point"}
 }

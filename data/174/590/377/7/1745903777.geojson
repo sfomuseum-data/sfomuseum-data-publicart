@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3256",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.389424,37.612812,-122.389424,37.612812",
-    "geom:latitude": 37.61281195564814,
-    "geom:longitude": -122.38942366035944,
+    "geom:bbox": "-122.389352,37.612852,-122.389352,37.612852",
+    "geom:latitude": 37.61285242250363,
+    "geom:longitude": -122.38935162216549,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "ARR",
     "millsfield:wayfinding_kind": "ITB",
@@ -76,7 +76,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387354,
-    "wof:geomhash": "afe12ad5c2a7c4880635e0e5b0a4de6b",
+    "wof:geomhash": "7a2232f96059d9d97d6066a25df6b999",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -105,7 +105,7 @@
     ],
     "wof:id": 1745903777,
     "wof:label": "deSoto, Lewis Shining Paths: San Francisco’s Sister Cities",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Shining Paths: San Francisco’s Sister Cities",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
@@ -121,10 +121,10 @@
     ]
   },
   "bbox": [
-    -122.38942366035944,
-    37.61281195564814,
-    -122.38942366035944,
-    37.61281195564814
+    -122.38935162216549,
+    37.61285242250363,
+    -122.38935162216549,
+    37.61285242250363
   ],
-  "geometry": {"coordinates":[-122.38942366035944,37.61281195564814],"type":"Point"}
+  "geometry": {"coordinates":[-122.38935162216549,37.61285242250363],"type":"Point"}
 }

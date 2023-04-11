@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383549,37.617630,-122.383549,37.617630",
-    "geom:latitude": 37.61763,
-    "geom:longitude": -122.383549,
+    "geom:bbox": "-122.383543,37.617575,-122.383543,37.617575",
+    "geom:latitude": 37.6175751792688,
+    "geom:longitude": -122.38354312811362,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524057,
-    "wof:geomhash": "69ecfe48a7045813946e0d4ab5422fd2",
+    "wof:geomhash": "0ea324e0a2a7add57f2e34b6f5cdee93",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1763637245,
     "wof:label": "Rhythm Records, 1980 Sutter Street",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Rhythm Records, 1980 Sutter Street",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383549,
-    37.61763,
-    -122.383549,
-    37.61763
+    -122.38354312811362,
+    37.6175751792688,
+    -122.38354312811362,
+    37.6175751792688
   ],
-  "geometry": {"coordinates":[-122.383549,37.61763],"type":"Point"}
+  "geometry": {"coordinates":[-122.38354312811362,37.6175751792688],"type":"Point"}
 }

@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384514,37.613836,-122.384514,37.613836",
-    "geom:latitude": 37.613836,
-    "geom:longitude": -122.384514,
+    "geom:bbox": "-122.384373,37.613384,-122.384373,37.613384",
+    "geom:latitude": 37.61338441771037,
+    "geom:longitude": -122.38437300985618,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
@@ -53,7 +53,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259880,
-    "wof:geomhash": "2af3e876e3b4c3ff86cb3827d5a67a31",
+    "wof:geomhash": "90ad28f14cc7c53776a7df5ace3a29e2",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -82,7 +82,7 @@
     ],
     "wof:id": 1745903735,
     "wof:label": "Beyond When the Golden Portal Can Come",
-    "wof:lastmodified": 1681247679,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Beyond When the Golden Portal Can Come",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
@@ -95,10 +95,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.384514,
-    37.613836,
-    -122.384514,
-    37.613836
+    -122.38437300985618,
+    37.61338441771037,
+    -122.38437300985618,
+    37.61338441771037
   ],
-  "geometry": {"coordinates":[-122.384514,37.613836],"type":"Point"}
+  "geometry": {"coordinates":[-122.38437300985618,37.61338441771037],"type":"Point"}
 }

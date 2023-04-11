@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.385820,37.611288,-122.385820,37.611288",
-    "geom:latitude": 37.611288,
-    "geom:longitude": -122.38582,
+    "geom:bbox": "-122.385874,37.611340,-122.385874,37.611340",
+    "geom:latitude": 37.61133952036736,
+    "geom:longitude": -122.3858735148269,
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
@@ -46,7 +46,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614046298,
-    "wof:geomhash": "4574bf0e66b65824e7e96a4d60575426",
+    "wof:geomhash": "8c6e514865cd77ad79fb1079cdba04b8",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1745903741,
     "wof:label": "Advice from My 80-Year-Old-Self",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Advice from My 80-Year-Old-Self",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
@@ -87,10 +87,10 @@
     ]
   },
   "bbox": [
-    -122.38582,
-    37.611288,
-    -122.38582,
-    37.611288
+    -122.3858735148269,
+    37.61133952036736,
+    -122.3858735148269,
+    37.61133952036736
   ],
-  "geometry": {"coordinates":[-122.38582,37.611288],"type":"Point"}
+  "geometry": {"coordinates":[-122.3858735148269,37.61133952036736],"type":"Point"}
 }

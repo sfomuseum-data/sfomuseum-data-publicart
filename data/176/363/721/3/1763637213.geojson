@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383851,37.617686,-122.383851,37.617686",
-    "geom:latitude": 37.617686,
-    "geom:longitude": -122.383851,
+    "geom:bbox": "-122.383987,37.617697,-122.383987,37.617697",
+    "geom:latitude": 37.617696659848676,
+    "geom:longitude": -122.38398666760429,
     "millsfield:wayfinding_detail": "T3",
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
@@ -45,7 +45,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524048,
-    "wof:geomhash": "38806bac1ff157494e6e935833ced7b5",
+    "wof:geomhash": "171151a3b47d31684ce76d180cb79a2c",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -74,7 +74,7 @@
     ],
     "wof:id": 1763637213,
     "wof:label": "Continuous City",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Continuous City",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -84,10 +84,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383851,
-    37.617686,
-    -122.383851,
-    37.617686
+    -122.38398666760429,
+    37.617696659848676,
+    -122.38398666760429,
+    37.617696659848676
   ],
-  "geometry": {"coordinates":[-122.383851,37.617686],"type":"Point"}
+  "geometry": {"coordinates":[-122.38398666760429,37.617696659848676],"type":"Point"}
 }

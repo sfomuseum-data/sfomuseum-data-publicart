@@ -10,9 +10,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21552",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.386382,37.618582,-122.386382,37.618582",
-    "geom:latitude": 37.618582,
-    "geom:longitude": -122.386382,
+    "geom:bbox": "-122.385988,37.618570,-122.385988,37.618570",
+    "geom:latitude": 37.618570047784075,
+    "geom:longitude": -122.38598799067485,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
@@ -62,7 +62,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1523296716,
-    "wof:geomhash": "10148df47f5a2ad2bd432a75df6aa632",
+    "wof:geomhash": "565e9587f9a50e7d2151da00e1f46d41",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -91,7 +91,7 @@
     ],
     "wof:id": 1745903879,
     "wof:label": "Everywhere All At Once",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Everywhere All At Once",
     "wof:parent_id": 1763588363,
     "wof:placetype": "venue",
@@ -104,10 +104,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.386382,
-    37.618582,
-    -122.386382,
-    37.618582
+    -122.38598799067485,
+    37.618570047784075,
+    -122.38598799067485,
+    37.618570047784075
   ],
-  "geometry": {"coordinates":[-122.386382,37.618582],"type":"Point"}
+  "geometry": {"coordinates":[-122.38598799067485,37.618570047784075],"type":"Point"}
 }

@@ -10,9 +10,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=21553",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.386390,37.618665,-122.386390,37.618665",
-    "geom:latitude": 37.618665,
-    "geom:longitude": -122.38639,
+    "geom:bbox": "-122.386128,37.618664,-122.386128,37.618664",
+    "geom:latitude": 37.618664372740575,
+    "geom:longitude": -122.38612768705177,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
@@ -62,7 +62,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1523296715,
-    "wof:geomhash": "06cff2424e2a09b08974defdbfc5dd4f",
+    "wof:geomhash": "528b36c90faa88b8d432413c0e905d03",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -91,7 +91,7 @@
     ],
     "wof:id": 1745903841,
     "wof:label": "Forever in the Sky",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Forever in the Sky",
     "wof:parent_id": 1763588363,
     "wof:placetype": "venue",
@@ -104,10 +104,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38639,
-    37.618665,
-    -122.38639,
-    37.618665
+    -122.38612768705177,
+    37.618664372740575,
+    -122.38612768705177,
+    37.618664372740575
   ],
-  "geometry": {"coordinates":[-122.38639,37.618665],"type":"Point"}
+  "geometry": {"coordinates":[-122.38612768705177,37.618664372740575],"type":"Point"}
 }

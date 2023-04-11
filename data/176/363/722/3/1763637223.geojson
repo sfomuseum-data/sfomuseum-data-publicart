@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383440,37.617644,-122.383440,37.617644",
-    "geom:latitude": 37.617644,
-    "geom:longitude": -122.38344,
+    "geom:bbox": "-122.383470,37.617548,-122.383470,37.617548",
+    "geom:latitude": 37.617548392699234,
+    "geom:longitude": -122.38347002411629,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524051,
-    "wof:geomhash": "8bd4ed032cf49cd5eae3badd6c0ca7d1",
+    "wof:geomhash": "98a271e1a1c0b8d070f90ba3470b7ed8",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1763637223,
     "wof:label": "I May Not Get There…First Martin Luther King Jr. Day Parade (from Public Matters, 1982-1988)",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "I May Not Get There…First Martin Luther King Jr. Day Parade (from Public Matters, 1982-1988)",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38344,
-    37.617644,
-    -122.38344,
-    37.617644
+    -122.38347002411629,
+    37.617548392699234,
+    -122.38347002411629,
+    37.617548392699234
   ],
-  "geometry": {"coordinates":[-122.38344,37.617644],"type":"Point"}
+  "geometry": {"coordinates":[-122.38347002411629,37.617548392699234],"type":"Point"}
 }

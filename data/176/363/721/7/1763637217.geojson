@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383488,37.617658,-122.383488,37.617658",
-    "geom:latitude": 37.617658,
-    "geom:longitude": -122.383488,
+    "geom:bbox": "-122.383502,37.617561,-122.383502,37.617561",
+    "geom:latitude": 37.61756069363354,
+    "geom:longitude": -122.38350243272342,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524050,
-    "wof:geomhash": "57aac8b1dd84cde690d484429ca60526",
+    "wof:geomhash": "c872b83ad5c13457570f1c022dad7fa8",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1763637217,
     "wof:label": "“Cookies not Contras,” Peace, Jobs and Justice Parade (from Public Matters, 1982-1988)",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "“Cookies not Contras,” Peace, Jobs and Justice Parade (from Public Matters, 1982-1988)",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383488,
-    37.617658,
-    -122.383488,
-    37.617658
+    -122.38350243272342,
+    37.61756069363354,
+    -122.38350243272342,
+    37.61756069363354
   ],
-  "geometry": {"coordinates":[-122.383488,37.617658],"type":"Point"}
+  "geometry": {"coordinates":[-122.38350243272342,37.61756069363354],"type":"Point"}
 }

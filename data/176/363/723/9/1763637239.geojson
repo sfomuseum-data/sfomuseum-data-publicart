@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383391,37.617570,-122.383391,37.617570",
-    "geom:latitude": 37.61757,
-    "geom:longitude": -122.383391,
+    "geom:bbox": "-122.383363,37.617497,-122.383363,37.617497",
+    "geom:latitude": 37.617497021580775,
+    "geom:longitude": -122.38336291831102,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524055,
-    "wof:geomhash": "f0551fd79a8cee3f86906db9e95ac7c4",
+    "wof:geomhash": "9774ebaf66843cca7159b60d0641fc10",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1763637239,
     "wof:label": "At Home with the Jangs ",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "At Home with the Jangs ",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383391,
-    37.61757,
-    -122.383391,
-    37.61757
+    -122.38336291831102,
+    37.617497021580775,
+    -122.38336291831102,
+    37.617497021580775
   ],
-  "geometry": {"coordinates":[-122.383391,37.61757],"type":"Point"}
+  "geometry": {"coordinates":[-122.38336291831102,37.617497021580775],"type":"Point"}
 }

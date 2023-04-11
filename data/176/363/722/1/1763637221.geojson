@@ -6,9 +6,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.383472,37.617668,-122.383472,37.617668",
-    "geom:latitude": 37.617668,
-    "geom:longitude": -122.383472,
+    "geom:bbox": "-122.383485,37.617555,-122.383485,37.617555",
+    "geom:latitude": 37.61755478189242,
+    "geom:longitude": -122.38348525896029,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "mz:is_current": 1,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1651524050,
-    "wof:geomhash": "3769f8ba8d315c9f39742f54ddff0858",
+    "wof:geomhash": "0a5cc6e7857eb8bc1448cc62ffc58394",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -71,7 +71,7 @@
     ],
     "wof:id": 1763637221,
     "wof:label": "Dominique DiPrima on Stage (from Public Matters, 1982-1988)",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "Dominique DiPrima on Stage (from Public Matters, 1982-1988)",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.383472,
-    37.617668,
-    -122.383472,
-    37.617668
+    -122.38348525896029,
+    37.61755478189242,
+    -122.38348525896029,
+    37.61755478189242
   ],
-  "geometry": {"coordinates":[-122.383472,37.617668],"type":"Point"}
+  "geometry": {"coordinates":[-122.38348525896029,37.61755478189242],"type":"Point"}
 }

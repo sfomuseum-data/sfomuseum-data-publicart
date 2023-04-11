@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3330",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384696,37.618597,-122.384696,37.618597",
-    "geom:latitude": 37.618597,
-    "geom:longitude": -122.384696,
+    "geom:bbox": "-122.384772,37.618476,-122.384772,37.618476",
+    "geom:latitude": 37.61847560889044,
+    "geom:longitude": -122.38477161093253,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387340,
-    "wof:geomhash": "147550b5474f625f8a431e1e754b4b97",
+    "wof:geomhash": "133b399593672deb01cb7e2513591590",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903697,
     "wof:label": "Bechtle, Robert San Francisco Nova",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681254301,
     "wof:name": "San Francisco Nova",
     "wof:parent_id": 1763588335,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.384696,
-    37.618597,
-    -122.384696,
-    37.618597
+    -122.38477161093253,
+    37.61847560889044,
+    -122.38477161093253,
+    37.61847560889044
   ],
-  "geometry": {"coordinates":[-122.384696,37.618597],"type":"Point"}
+  "geometry": {"coordinates":[-122.38477161093253,37.61847560889044],"type":"Point"}
 }
