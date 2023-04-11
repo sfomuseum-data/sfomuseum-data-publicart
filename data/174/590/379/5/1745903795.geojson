@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3312",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.381520,37.617890,-122.381520,37.617890",
-    "geom:latitude": 37.61789,
-    "geom:longitude": -122.38152,
+    "geom:bbox": "-122.381604,37.617830,-122.381604,37.617830",
+    "geom:latitude": 37.61783,
+    "geom:longitude": -122.381604,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
@@ -79,7 +79,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387387,
-    "wof:geomhash": "4f13b69e4b18463dc5f18087f356a453",
+    "wof:geomhash": "e2c6e400beff3b3c68db7a9215a8ced5",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -108,7 +108,7 @@
     ],
     "wof:id": 1745903795,
     "wof:label": "Sowers, Charles Butterfly Wall",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681241419,
     "wof:name": "Butterfly Wall",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
@@ -124,10 +124,10 @@
     ]
   },
   "bbox": [
-    -122.38152,
-    37.61789,
-    -122.38152,
-    37.61789
+    -122.381604,
+    37.61783,
+    -122.381604,
+    37.61783
   ],
-  "geometry": {"coordinates":[-122.38152,37.61789],"type":"Point"}
+  "geometry": {"coordinates":[-122.381604,37.61783],"type":"Point"}
 }
