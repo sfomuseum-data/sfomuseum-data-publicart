@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3292",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383252,37.616221,-122.383252,37.616221",
-    "geom:latitude": 37.616221,
-    "geom:longitude": -122.383252,
+    "geom:bbox": "-122.383244,37.616191,-122.383244,37.616191",
+    "geom:latitude": 37.616191,
+    "geom:longitude": -122.383244,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "T2",
     "millsfield:wayfinding_kind": "T1",
@@ -81,7 +81,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387357,
-    "wof:geomhash": "bc425e181d6d8867659d43ad2f307649",
+    "wof:geomhash": "489101ccef910f315313c73da27625cd",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -110,7 +110,7 @@
     ],
     "wof:id": 1745903845,
     "wof:label": "Eversley, Fred Untitled",
-    "wof:lastmodified": 1675455644,
+    "wof:lastmodified": 1681240662,
     "wof:name": "Untitled",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
@@ -126,10 +126,10 @@
     ]
   },
   "bbox": [
-    -122.383252,
-    37.616221,
-    -122.383252,
-    37.616221
+    -122.383244,
+    37.616191,
+    -122.383244,
+    37.616191
   ],
-  "geometry": {"coordinates":[-122.383252,37.616221],"type":"Point"}
+  "geometry": {"coordinates":[-122.383244,37.616191],"type":"Point"}
 }
