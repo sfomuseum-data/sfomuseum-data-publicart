@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3316",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.381773,37.617564,-122.381773,37.617564",
-    "geom:latitude": 37.617564,
-    "geom:longitude": -122.381773,
+    "geom:bbox": "-122.381816,37.617567,-122.381816,37.617567",
+    "geom:latitude": 37.617567,
+    "geom:longitude": -122.381816,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
@@ -80,7 +80,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387356,
-    "wof:geomhash": "0cffba5409771ffb1947ccc5090fd0ac",
+    "wof:geomhash": "da42806f135dd5be5a7b4939ddde3e51",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -109,7 +109,7 @@
     ],
     "wof:id": 1745903883,
     "wof:label": "Dill, Laddie John Untitled",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681241498,
     "wof:name": "Untitled",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
@@ -125,10 +125,10 @@
     ]
   },
   "bbox": [
-    -122.381773,
-    37.617564,
-    -122.381773,
-    37.617564
+    -122.381816,
+    37.617567,
+    -122.381816,
+    37.617567
   ],
-  "geometry": {"coordinates":[-122.381773,37.617564],"type":"Point"}
+  "geometry": {"coordinates":[-122.381816,37.617567],"type":"Point"}
 }
