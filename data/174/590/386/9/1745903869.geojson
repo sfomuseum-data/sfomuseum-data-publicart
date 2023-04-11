@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3310",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.381439,37.617129,-122.381439,37.617129",
-    "geom:latitude": 37.617129,
-    "geom:longitude": -122.381439,
+    "geom:bbox": "-122.381506,37.617233,-122.381506,37.617233",
+    "geom:latitude": 37.617233,
+    "geom:longitude": -122.381506,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387353,
-    "wof:geomhash": "46c39d8f329c7da642a7f5079a40e4cf",
+    "wof:geomhash": "a0274f65197b75f89bd751238edc41f5",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903869,
     "wof:label": "deForest, Roy Homage to Zane Grey",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681240893,
     "wof:name": "Homage to Zane Grey",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.381439,
-    37.617129,
-    -122.381439,
-    37.617129
+    -122.381506,
+    37.617233,
+    -122.381506,
+    37.617233
   ],
-  "geometry": {"coordinates":[-122.381439,37.617129],"type":"Point"}
+  "geometry": {"coordinates":[-122.381506,37.617233],"type":"Point"}
 }
