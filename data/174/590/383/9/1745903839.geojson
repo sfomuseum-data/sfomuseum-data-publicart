@@ -14,9 +14,9 @@
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3314",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.381757,37.617738,-122.381757,37.617738",
-    "geom:latitude": 37.617738,
-    "geom:longitude": -122.381757,
+    "geom:bbox": "-122.381695,37.617719,-122.381695,37.617719",
+    "geom:latitude": 37.617719,
+    "geom:longitude": -122.381695,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
@@ -78,7 +78,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387364,
-    "wof:geomhash": "216f4e891352f810b79858af66e194ed",
+    "wof:geomhash": "de2e33d0b434647ac5e1f434854c0331",
     "wof:hierarchy": [
       {
         "building_id": 1763588121,
@@ -107,7 +107,7 @@
     ],
     "wof:id": 1745903839,
     "wof:label": "Hoefer, Wade The Peasant's Parade",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681241570,
     "wof:name": "The Peasant's Parade",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
@@ -123,10 +123,10 @@
     ]
   },
   "bbox": [
-    -122.381757,
-    37.617738,
-    -122.381757,
-    37.617738
+    -122.381695,
+    37.617719,
+    -122.381695,
+    37.617719
   ],
-  "geometry": {"coordinates":[-122.381757,37.617738],"type":"Point"}
+  "geometry": {"coordinates":[-122.381695,37.617719],"type":"Point"}
 }
