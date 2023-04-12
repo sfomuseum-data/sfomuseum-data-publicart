@@ -9,9 +9,9 @@
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/cultural-fabric-bay-area",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393808,37.613161,-122.393808,37.613161",
-    "geom:latitude": 37.613161,
-    "geom:longitude": -122.393808,
+    "geom:bbox": "-122.393766,37.613149,-122.393766,37.613149",
+    "geom:latitude": 37.613148789423775,
+    "geom:longitude": -122.39376578700787,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
@@ -53,7 +53,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259877,
-    "wof:geomhash": "9182366a73e9076388c93f1c5d897488",
+    "wof:geomhash": "dda4589c56b79b87cfafcda2e6d50631",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -78,7 +78,7 @@
     ],
     "wof:id": 1495165667,
     "wof:label": "Cultural Fabric (Bay Area)",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681330930,
     "wof:name": "Cultural Fabric (Bay Area)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -89,10 +89,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.393808,
-    37.613161,
-    -122.393808,
-    37.613161
+    -122.39376578700787,
+    37.613148789423775,
+    -122.39376578700787,
+    37.613148789423775
   ],
-  "geometry": {"coordinates":[-122.393808,37.613161],"type":"Point"}
+  "geometry": {"coordinates":[-122.39376578700787,37.613148789423775],"type":"Point"}
 }

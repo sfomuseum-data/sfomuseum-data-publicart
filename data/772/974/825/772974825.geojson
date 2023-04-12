@@ -13,9 +13,9 @@
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/sublimens",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393938,37.612924,-122.393938,37.612924",
-    "geom:latitude": 37.612924,
-    "geom:longitude": -122.393938,
+    "geom:bbox": "-122.393960,37.612879,-122.393960,37.612879",
+    "geom:latitude": 37.61287926726652,
+    "geom:longitude": -122.39395988879669,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
@@ -74,7 +74,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387356,
-    "wof:geomhash": "b94e212a8a77ea7501c29e6edf0ac290",
+    "wof:geomhash": "7136477ac2871d57c1c9f6b8191d7145",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -99,7 +99,7 @@
     ],
     "wof:id": 772974825,
     "wof:label": "Dvortcsak, Machael Sublimens",
-    "wof:lastmodified": 1673479061,
+    "wof:lastmodified": 1681330930,
     "wof:name": "Sublimens",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -113,10 +113,10 @@
     ]
   },
   "bbox": [
-    -122.393938,
-    37.612924,
-    -122.393938,
-    37.612924
+    -122.39395988879669,
+    37.61287926726652,
+    -122.39395988879669,
+    37.61287926726652
   ],
-  "geometry": {"coordinates":[-122.393938,37.612924],"type":"Point"}
+  "geometry": {"coordinates":[-122.39395988879669,37.61287926726652],"type":"Point"}
 }

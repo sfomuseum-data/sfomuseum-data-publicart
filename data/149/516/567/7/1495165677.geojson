@@ -9,9 +9,9 @@
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/circadian-transit",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393596,37.613161,-122.393596,37.613161",
-    "geom:latitude": 37.613161,
-    "geom:longitude": -122.393596,
+    "geom:bbox": "-122.393601,37.613170,-122.393601,37.613170",
+    "geom:latitude": 37.613169656927354,
+    "geom:longitude": -122.39360113171128,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
@@ -54,7 +54,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259879,
-    "wof:geomhash": "3f33ac7a2214d9bd7c44255ed069fab1",
+    "wof:geomhash": "1385df85b87f1243f820833e309f917b",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1495165677,
     "wof:label": "Circadian Transit",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681330930,
     "wof:name": "Circadian Transit",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -90,10 +90,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.393596,
-    37.613161,
-    -122.393596,
-    37.613161
+    -122.39360113171128,
+    37.613169656927354,
+    -122.39360113171128,
+    37.613169656927354
   ],
-  "geometry": {"coordinates":[-122.393596,37.613161],"type":"Point"}
+  "geometry": {"coordinates":[-122.39360113171128,37.613169656927354],"type":"Point"}
 }

@@ -9,9 +9,9 @@
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/born-1717",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393688,37.613183,-122.393688,37.613183",
-    "geom:latitude": 37.613183,
-    "geom:longitude": -122.393688,
+    "geom:bbox": "-122.393674,37.613183,-122.393674,37.613183",
+    "geom:latitude": 37.61318252086401,
+    "geom:longitude": -122.39367411365821,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
@@ -53,7 +53,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259888,
-    "wof:geomhash": "c7c6d19ae9829c9ceb53c4a471364e91",
+    "wof:geomhash": "60427e6d0928e2a6d8881e1a8b344333",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -78,7 +78,7 @@
     ],
     "wof:id": 1495165733,
     "wof:label": "Born in 1717",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681330930,
     "wof:name": "Born in 1717",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -89,10 +89,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.393688,
-    37.613183,
-    -122.393688,
-    37.613183
+    -122.39367411365821,
+    37.61318252086401,
+    -122.39367411365821,
+    37.61318252086401
   ],
-  "geometry": {"coordinates":[-122.393688,37.613183],"type":"Point"}
+  "geometry": {"coordinates":[-122.39367411365821,37.61318252086401],"type":"Point"}
 }

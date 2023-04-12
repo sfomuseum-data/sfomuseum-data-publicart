@@ -9,9 +9,9 @@
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/green-map",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393786,37.613041,-122.393786,37.613041",
-    "geom:latitude": 37.613041,
-    "geom:longitude": -122.393786,
+    "geom:bbox": "-122.393854,37.613011,-122.393854,37.613011",
+    "geom:latitude": 37.61301054503201,
+    "geom:longitude": -122.39385389087114,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
@@ -54,7 +54,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259878,
-    "wof:geomhash": "52ddad117014fd87e8b267301624995a",
+    "wof:geomhash": "83b153ab7ff325aaa8a4a965c298e047",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1495165669,
     "wof:label": "Green Map",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681330930,
     "wof:name": "Green Map",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -90,10 +90,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.393786,
-    37.613041,
-    -122.393786,
-    37.613041
+    -122.39385389087114,
+    37.61301054503201,
+    -122.39385389087114,
+    37.61301054503201
   ],
-  "geometry": {"coordinates":[-122.393786,37.613041],"type":"Point"}
+  "geometry": {"coordinates":[-122.39385389087114,37.61301054503201],"type":"Point"}
 }

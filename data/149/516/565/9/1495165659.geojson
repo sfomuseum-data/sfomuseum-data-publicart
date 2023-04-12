@@ -9,9 +9,9 @@
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/california-1",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393840,37.612727,-122.393840,37.612727",
-    "geom:latitude": 37.612727,
-    "geom:longitude": -122.39384,
+    "geom:bbox": "-122.393814,37.612729,-122.393814,37.612729",
+    "geom:latitude": 37.61272945865664,
+    "geom:longitude": -122.39381393591854,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
@@ -54,7 +54,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259876,
-    "wof:geomhash": "58bef7c12cce59510d1353bec9911c1e",
+    "wof:geomhash": "fc2a707953bc341b770255add26a9034",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1495165659,
     "wof:label": "California (1)",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681330930,
     "wof:name": "California (1)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -90,10 +90,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39384,
-    37.612727,
-    -122.39384,
-    37.612727
+    -122.39381393591854,
+    37.61272945865664,
+    -122.39381393591854,
+    37.61272945865664
   ],
-  "geometry": {"coordinates":[-122.39384,37.612727],"type":"Point"}
+  "geometry": {"coordinates":[-122.39381393591854,37.61272945865664],"type":"Point"}
 }

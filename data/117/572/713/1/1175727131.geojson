@@ -9,9 +9,9 @@
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/2-3-5-7-nine-drypoints-and-etchings",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393656,37.613202,-122.393656,37.613202",
-    "geom:latitude": 37.613202,
-    "geom:longitude": -122.393656,
+    "geom:bbox": "-122.393643,37.613191,-122.393643,37.613191",
+    "geom:latitude": 37.61319139772652,
+    "geom:longitude": -122.39364269924774,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
@@ -54,7 +54,7 @@
     },
     "wof:country": "US",
     "wof:created": 1612389359,
-    "wof:geomhash": "5ce1dd22cb9e167eb1774646bedc496c",
+    "wof:geomhash": "4760a69dd66e87aa27e1cc1c00da08da",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1175727131,
     "wof:label": "Untitled/ print no. 79.65-6/9",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681330930,
     "wof:name": "Untitled/ print no. 79.65-6/9",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -90,10 +90,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.393656,
-    37.613202,
-    -122.393656,
-    37.613202
+    -122.39364269924774,
+    37.61319139772652,
+    -122.39364269924774,
+    37.61319139772652
   ],
-  "geometry": {"coordinates":[-122.393656,37.613202],"type":"Point"}
+  "geometry": {"coordinates":[-122.39364269924774,37.61319139772652],"type":"Point"}
 }

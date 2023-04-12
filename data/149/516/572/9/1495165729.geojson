@@ -9,9 +9,9 @@
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/so-much-more",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393919,37.612689,-122.393919,37.612689",
-    "geom:latitude": 37.612689,
-    "geom:longitude": -122.393919,
+    "geom:bbox": "-122.393882,37.612687,-122.393882,37.612687",
+    "geom:latitude": 37.6126870223286,
+    "geom:longitude": -122.39388248690999,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
@@ -53,7 +53,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259887,
-    "wof:geomhash": "e4fc204e1ae9986ecb65c84f6c9c3fd8",
+    "wof:geomhash": "684d99baa3a5890a34fa91b8084b3f61",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -78,7 +78,7 @@
     ],
     "wof:id": 1495165729,
     "wof:label": "So Much More Than This",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681330930,
     "wof:name": "So Much More Than This",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -89,10 +89,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.393919,
-    37.612689,
-    -122.393919,
-    37.612689
+    -122.39388248690999,
+    37.6126870223286,
+    -122.39388248690999,
+    37.6126870223286
   ],
-  "geometry": {"coordinates":[-122.393919,37.612689],"type":"Point"}
+  "geometry": {"coordinates":[-122.39388248690999,37.6126870223286],"type":"Point"}
 }

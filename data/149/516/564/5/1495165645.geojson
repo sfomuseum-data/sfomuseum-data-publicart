@@ -9,9 +9,9 @@
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/golden-gate-bridge-22700-455-pm-41700-401-pm-and-3401-730-pm",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.394081,37.612943,-122.394081,37.612943",
-    "geom:latitude": 37.612943,
-    "geom:longitude": -122.394081,
+    "geom:bbox": "-122.394052,37.612896,-122.394052,37.612896",
+    "geom:latitude": 37.612895939635855,
+    "geom:longitude": -122.39405168816664,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
@@ -54,7 +54,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259874,
-    "wof:geomhash": "7b508c36d9c8e2c4eb4a9223776884ee",
+    "wof:geomhash": "32cb226bff24cebe5f853f4ecdfd5189",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1495165645,
     "wof:label": "Golden Gate Bridge, 2.27.00, 4:55pm",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681330930,
     "wof:name": "Golden Gate Bridge, 2.27.00, 4:55pm",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -90,10 +90,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.394081,
-    37.612943,
-    -122.394081,
-    37.612943
+    -122.39405168816664,
+    37.612895939635855,
+    -122.39405168816664,
+    37.612895939635855
   ],
-  "geometry": {"coordinates":[-122.394081,37.612943],"type":"Point"}
+  "geometry": {"coordinates":[-122.39405168816664,37.612895939635855],"type":"Point"}
 }

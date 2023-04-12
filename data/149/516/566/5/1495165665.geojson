@@ -9,9 +9,9 @@
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/psychscape-73-downs-mount-ca-psychscape-18-banner-ridge-ca",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393840,37.613126,-122.393840,37.613126",
-    "geom:latitude": 37.613126,
-    "geom:longitude": -122.39384,
+    "geom:bbox": "-122.393817,37.613076,-122.393817,37.613076",
+    "geom:latitude": 37.61307615801617,
+    "geom:longitude": -122.3938174722792,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
@@ -54,7 +54,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259877,
-    "wof:geomhash": "c69ed8558bd7bff1b0c1e922f0222e00",
+    "wof:geomhash": "669612bd7073af50fee3e829438205e2",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1495165665,
     "wof:label": "Psychscape 18 (Banner Ridge, CA)",
-    "wof:lastmodified": 1673479061,
+    "wof:lastmodified": 1681330930,
     "wof:name": "Psychscape 18 (Banner Ridge, CA)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -90,10 +90,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39384,
-    37.613126,
-    -122.39384,
-    37.613126
+    -122.3938174722792,
+    37.61307615801617,
+    -122.3938174722792,
+    37.61307615801617
   ],
-  "geometry": {"coordinates":[-122.39384,37.613126],"type":"Point"}
+  "geometry": {"coordinates":[-122.3938174722792,37.61307615801617],"type":"Point"}
 }

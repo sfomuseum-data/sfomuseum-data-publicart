@@ -9,9 +9,9 @@
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/cabrillo-highway-pescadero-creek-road-variation-4",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393736,37.613158,-122.393736,37.613158",
-    "geom:latitude": 37.613158,
-    "geom:longitude": -122.393736,
+    "geom:bbox": "-122.393764,37.613155,-122.393764,37.613155",
+    "geom:latitude": 37.61315469213787,
+    "geom:longitude": -122.39376419566624,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
@@ -54,7 +54,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259888,
-    "wof:geomhash": "7c3547660e42eeadb5d535244c44198e",
+    "wof:geomhash": "f5dfe4384614a9c9911fe04d64b5998f",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1495165731,
     "wof:label": "Cabrillo Highway at Pescadero Creek Road, Variation 4",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681330930,
     "wof:name": "Cabrillo Highway at Pescadero Creek Road, Variation 4",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -90,10 +90,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.393736,
-    37.613158,
-    -122.393736,
-    37.613158
+    -122.39376419566624,
+    37.61315469213787,
+    -122.39376419566624,
+    37.61315469213787
   ],
-  "geometry": {"coordinates":[-122.393736,37.613158],"type":"Point"}
+  "geometry": {"coordinates":[-122.39376419566624,37.61315469213787],"type":"Point"}
 }

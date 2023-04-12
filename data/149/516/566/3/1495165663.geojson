@@ -9,9 +9,9 @@
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/psychscape-73-downs-mount-ca-psychscape-18-banner-ridge-ca",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393911,37.612973,-122.393911,37.612973",
-    "geom:latitude": 37.612973,
-    "geom:longitude": -122.393911,
+    "geom:bbox": "-122.393840,37.613060,-122.393840,37.613060",
+    "geom:latitude": 37.61306038040703,
+    "geom:longitude": -122.39384032260968,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
@@ -54,7 +54,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259877,
-    "wof:geomhash": "10eaecc06ae7294bd0ec70ace70606e6",
+    "wof:geomhash": "4095aab2b04888daf6b9b9cdc8df4ee6",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1495165663,
     "wof:label": "Psychscape 73 (Downs, Mount, CA)",
-    "wof:lastmodified": 1673479061,
+    "wof:lastmodified": 1681330930,
     "wof:name": "Psychscape 73 (Downs, Mount, CA)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -90,10 +90,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.393911,
-    37.612973,
-    -122.393911,
-    37.612973
+    -122.39384032260968,
+    37.61306038040703,
+    -122.39384032260968,
+    37.61306038040703
   ],
-  "geometry": {"coordinates":[-122.393911,37.612973],"type":"Point"}
+  "geometry": {"coordinates":[-122.39384032260968,37.61306038040703],"type":"Point"}
 }

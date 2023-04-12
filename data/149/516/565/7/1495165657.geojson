@@ -9,9 +9,9 @@
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/november-evening-cloud-46",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.393786,37.613136,-122.393786,37.613136",
-    "geom:latitude": 37.613136,
-    "geom:longitude": -122.393786,
+    "geom:bbox": "-122.393760,37.613089,-122.393760,37.613089",
+    "geom:latitude": 37.61308907933396,
+    "geom:longitude": -122.39376007442524,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
@@ -54,7 +54,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259876,
-    "wof:geomhash": "b1efc4cbe0b565731cffaf32af35de5a",
+    "wof:geomhash": "6e682a4c9da055b2607e02691c861eb2",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1495165657,
     "wof:label": "November Evening Cloud 4.6",
-    "wof:lastmodified": 1673479062,
+    "wof:lastmodified": 1681330930,
     "wof:name": "November Evening Cloud 4.6",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -90,10 +90,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.393786,
-    37.613136,
-    -122.393786,
-    37.613136
+    -122.39376007442524,
+    37.61308907933396,
+    -122.39376007442524,
+    37.61308907933396
   ],
-  "geometry": {"coordinates":[-122.393786,37.613136],"type":"Point"}
+  "geometry": {"coordinates":[-122.39376007442524,37.61308907933396],"type":"Point"}
 }

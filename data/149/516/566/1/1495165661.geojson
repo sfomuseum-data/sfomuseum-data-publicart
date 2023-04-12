@@ -9,9 +9,9 @@
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/winterspring-standing-claremont-canyon",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.394122,37.612870,-122.394122,37.612870",
-    "geom:latitude": 37.61287,
-    "geom:longitude": -122.394122,
+    "geom:bbox": "-122.394077,37.612807,-122.394077,37.612807",
+    "geom:latitude": 37.612806714535886,
+    "geom:longitude": -122.39407725877457,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
@@ -54,7 +54,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259876,
-    "wof:geomhash": "3ceadff0b15c6de6e270810e68d1dee4",
+    "wof:geomhash": "81611d5b78e10dd21faacfedc584b85c",
     "wof:hierarchy": [
       {
         "building_id": 1477856005,
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1495165661,
     "wof:label": "Winter/Spring Standing in Claremont Canyon",
-    "wof:lastmodified": 1673479061,
+    "wof:lastmodified": 1681330930,
     "wof:name": "Winter/Spring Standing in Claremont Canyon",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -90,10 +90,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.394122,
-    37.61287,
-    -122.394122,
-    37.61287
+    -122.39407725877457,
+    37.612806714535886,
+    -122.39407725877457,
+    37.612806714535886
   ],
-  "geometry": {"coordinates":[-122.394122,37.61287],"type":"Point"}
+  "geometry": {"coordinates":[-122.39407725877457,37.612806714535886],"type":"Point"}
 }
