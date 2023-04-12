@@ -12,7 +12,7 @@
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
-      1796889473
+      1796935483
     ],
     "mz:is_current": 1,
     "sfac:accession_id": "2018.39",
@@ -73,7 +73,7 @@
     ],
     "wof:id": 1745903935,
     "wof:label": "Split",
-    "wof:lastmodified": 1681254301,
+    "wof:lastmodified": 1681324835,
     "wof:name": "Split",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",
