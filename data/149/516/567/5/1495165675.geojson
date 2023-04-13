@@ -9,9 +9,9 @@
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/ether",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.394130,37.612373,-122.394130,37.612373",
-    "geom:latitude": 37.61237296096314,
-    "geom:longitude": -122.39412989444111,
+    "geom:bbox": "-122.394078,37.612236,-122.394078,37.612236",
+    "geom:latitude": 37.61223573170311,
+    "geom:longitude": -122.3940784334686,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "GHH",
@@ -53,7 +53,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259878,
-    "wof:geomhash": "822d5ccd24fcdc9b3a673fcf1df067ae",
+    "wof:geomhash": "08b38a0eb7fee8042f9b7357be6755e8",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -76,7 +76,7 @@
     ],
     "wof:id": 1495165675,
     "wof:label": "Ether",
-    "wof:lastmodified": 1681344547,
+    "wof:lastmodified": 1681345487,
     "wof:name": "Ether",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
@@ -87,10 +87,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.39412989444111,
-    37.61237296096314,
-    -122.39412989444111,
-    37.61237296096314
+    -122.3940784334686,
+    37.61223573170311,
+    -122.3940784334686,
+    37.61223573170311
   ],
-  "geometry": {"coordinates":[-122.39412989444111,37.61237296096314],"type":"Point"}
+  "geometry": {"coordinates":[-122.3940784334686,37.61223573170311],"type":"Point"}
 }
