@@ -30,7 +30,7 @@
     "sfomuseum:object_id": 223769,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 1,
+    "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -77,7 +77,7 @@
     ],
     "wof:id": 1763637215,
     "wof:label": "Here You Are / You Are Here",
-    "wof:lastmodified": 1686952789,
+    "wof:lastmodified": 1686990152,
     "wof:name": "Here You Are / You Are Here",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
