@@ -54,7 +54,7 @@
       102085387,
       1763588121,
       1763588233,
-      1763588175
+      1763588123
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -76,7 +76,7 @@
         "postalcode_id": 554784711,
         "region_id": 85688637,
         "venue_id": 1745903903,
-        "wing_id": 1763588175
+        "wing_id": 1763588123
       },
       {
         "building_id": 1763588121,
@@ -87,12 +87,12 @@
         "county_id": 102085387,
         "region_id": 85688637,
         "venue_id": 1745903903,
-        "wing_id": 1763588175
+        "wing_id": 1763588123
       }
     ],
     "wof:id": 1745903903,
     "wof:label": "High Heels for Going to Heaven ",
-    "wof:lastmodified": 1692737925,
+    "wof:lastmodified": 1696973563,
     "wof:name": "High Heels for Going to Heaven ",
     "wof:parent_id": 1763588233,
     "wof:placetype": "venue",
