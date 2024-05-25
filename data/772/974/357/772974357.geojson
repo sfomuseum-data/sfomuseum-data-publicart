@@ -92,11 +92,13 @@
     ],
     "wof:id": 772974357,
     "wof:label": "Adams, Mark Pond in Golden Gate Park",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Pond in Golden Gate Park",
     "wof:parent_id": 1159157327,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1360702199

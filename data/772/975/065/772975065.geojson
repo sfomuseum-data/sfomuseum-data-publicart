@@ -93,11 +93,13 @@
     ],
     "wof:id": 772975065,
     "wof:label": "Hedrick, Wally 17 December 1903",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596277,
     "wof:name": "17 December 1903",
     "wof:parent_id": 1159157327,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1477874019

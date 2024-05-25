@@ -53,15 +53,15 @@
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855607, 
-      554784711, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1477855605,
+      1477855607,
+      554784711,
       102085387
     ],
     "wof:brand_id": 1125159427,
@@ -88,7 +88,7 @@
         "region_id": 85688637,
         "venue_id": 1477874049,
         "wing_id": 1477855607
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -102,11 +102,13 @@
     ],
     "wof:id": 1477874049,
     "wof:label": "Martin, Vance Untitled",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Untitled",
     "wof:parent_id": 1477855607,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1729793065
@@ -115,14 +117,14 @@
       772975335
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.384305, 
-    37.617792, 
-    -122.384305, 
+    -122.384305,
+    37.617792,
+    -122.384305,
     37.617792
   ],
   "geometry": {"coordinates":[-122.384305,37.617792],"type":"Point"}

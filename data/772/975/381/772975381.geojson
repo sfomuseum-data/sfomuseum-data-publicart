@@ -50,14 +50,14 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1159157323, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159157271, 
-      1159157317, 
+      1159157323,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
+      1159157317,
       85688637
     ],
     "wof:breaches": [],
@@ -88,25 +88,27 @@
     ],
     "wof:id": 772975381,
     "wof:label": "Noguchi, Isamu Figure",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Figure",
     "wof:parent_id": 1159157323,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1477874085
     ],
     "wof:supersedes": [],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.38277614116669, 
-    37.61500904418947, 
-    -122.38277614116669, 
+    -122.38277614116669,
+    37.61500904418947,
+    -122.38277614116669,
     37.61500904418947
   ],
   "geometry": {"coordinates":[-122.38277614116669,37.61500904418947],"type":"Point"}

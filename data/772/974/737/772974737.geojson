@@ -93,11 +93,13 @@
     ],
     "wof:id": 772974737,
     "wof:label": "DeSoto, Lewis On The Air",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596277,
     "wof:name": "On The Air",
     "wof:parent_id": 1159157335,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1477873945

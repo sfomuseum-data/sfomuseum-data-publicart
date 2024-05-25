@@ -71,11 +71,13 @@
     ],
     "wof:id": 1175727169,
     "wof:label": "Mondrian Meets the Beatles",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596276,
     "wof:name": "Mondrian Meets the Beatles",
     "wof:parent_id": 1159157337,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1477873901

@@ -105,11 +105,13 @@
     ],
     "wof:id": 1729829263,
     "wof:label": "Adams, Mark Garden in San Andreas Valley",
-    "wof:lastmodified": 1633652323,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Garden in San Andreas Valley",
     "wof:parent_id": 1729792433,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1745903877

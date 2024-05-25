@@ -54,16 +54,16 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1477855609, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855607, 
-      554784711, 
+      1477855609,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1477855605,
+      1477855607,
+      554784711,
       102085387
     ],
     "wof:breaches": [],
@@ -95,7 +95,7 @@
         "region_id": 85688637,
         "venue_id": 1477873947,
         "wing_id": 1477855607
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -110,11 +110,13 @@
     ],
     "wof:id": 1477873947,
     "wof:label": "Echelman, Janet Every Beating Second ",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Every Beating Second ",
     "wof:parent_id": 1477855609,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1729793111
@@ -123,14 +125,14 @@
       772974829
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.382765, 
-    37.617185, 
-    -122.382765, 
+    -122.382765,
+    37.617185,
+    -122.382765,
     37.617185
   ],
   "geometry": {"coordinates":[-122.382765,37.617185],"type":"Point"}

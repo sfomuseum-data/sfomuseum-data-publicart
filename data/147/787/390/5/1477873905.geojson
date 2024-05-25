@@ -92,11 +92,13 @@
     ],
     "wof:id": 1477873905,
     "wof:label": "Light",
-    "wof:lastmodified": 1619636063,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Light",
     "wof:parent_id": 1477855925,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1729793073

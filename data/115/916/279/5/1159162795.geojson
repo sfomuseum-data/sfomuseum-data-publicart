@@ -77,11 +77,13 @@
     ],
     "wof:id": 1159162795,
     "wof:label": "Merge Conceptual Design Sky",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596276,
     "wof:name": "Sky",
     "wof:parent_id": 1159396267,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1477873931

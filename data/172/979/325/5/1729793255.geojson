@@ -110,11 +110,13 @@
     ],
     "wof:id": 1729793255,
     "wof:label": "Ángulos en Todas las Direcciones",
-    "wof:lastmodified": 1633652323,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Ángulos en Todas las Direcciones",
     "wof:parent_id": 1729792551,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1745903913

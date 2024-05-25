@@ -50,13 +50,13 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1159157271, 
-      1159157317, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
+      1159157317,
       85688637
     ],
     "wof:breaches": [],
@@ -86,25 +86,27 @@
     ],
     "wof:id": 772975331,
     "wof:label": "Martin, Fran Petanque et St Savin IV",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Petanque et St Savin IV",
     "wof:parent_id": 1159157317,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1477873995
     ],
     "wof:supersedes": [],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.38248109817505, 
-    37.61466059951876, 
-    -122.38248109817505, 
+    -122.38248109817505,
+    37.61466059951876,
+    -122.38248109817505,
     37.61466059951876
   ],
   "geometry": {"coordinates":[-122.38248109817505,37.61466059951876],"type":"Point"}

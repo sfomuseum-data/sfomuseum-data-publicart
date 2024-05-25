@@ -89,11 +89,13 @@
     ],
     "wof:id": 1729793221,
     "wof:label": "Ocean Voices II",
-    "wof:lastmodified": 1633652323,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Ocean Voices II",
     "wof:parent_id": 1729792551,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1745903921

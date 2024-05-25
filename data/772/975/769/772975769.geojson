@@ -94,11 +94,13 @@
     ],
     "wof:id": 772975769,
     "wof:label": "Thiebaud, Wayne 18th Street Downgrade",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596277,
     "wof:name": "18th Street Downgrade",
     "wof:parent_id": 1159396267,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1477874047

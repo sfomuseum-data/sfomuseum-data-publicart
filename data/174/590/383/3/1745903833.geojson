@@ -111,11 +111,13 @@
     ],
     "wof:id": 1745903833,
     "wof:label": "Mullican, Lee The Great Transparents",
-    "wof:lastmodified": 1690272860,
+    "wof:lastmodified": 1716596277,
     "wof:name": "The Great Transparents",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [

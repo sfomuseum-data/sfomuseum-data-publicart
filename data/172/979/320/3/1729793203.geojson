@@ -82,11 +82,13 @@
     ],
     "wof:id": 1729793203,
     "wof:label": "Number 69S",
-    "wof:lastmodified": 1633652323,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Number 69S",
     "wof:parent_id": 1729792437,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1745903893

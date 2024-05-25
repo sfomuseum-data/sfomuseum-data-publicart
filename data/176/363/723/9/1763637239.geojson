@@ -74,11 +74,13 @@
     ],
     "wof:id": 1763637239,
     "wof:label": "At Home with the Jangs ",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596277,
     "wof:name": "At Home with the Jangs ",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": []

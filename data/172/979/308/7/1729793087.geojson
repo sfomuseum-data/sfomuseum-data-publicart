@@ -82,11 +82,13 @@
     ],
     "wof:id": 1729793087,
     "wof:label": "Turn",
-    "wof:lastmodified": 1633652323,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Turn",
     "wof:parent_id": 1729792643,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1745903705

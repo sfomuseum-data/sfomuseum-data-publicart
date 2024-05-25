@@ -101,11 +101,13 @@
     ],
     "wof:id": 1729793199,
     "wof:label": "Kahn, Ned Wind Portal",
-    "wof:lastmodified": 1682725179,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Wind Portal",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [

@@ -8,7 +8,7 @@
     "date:inception_upper": "2019-12-31",
     "edtf:cessation": "2019-10~",
     "edtf:deprecated": "2021-02-18",
-    "edtf:inception": 2019,
+    "edtf:inception": "2019",
     "flysfo:url": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -75,11 +75,13 @@
     ],
     "wof:id": 1495165715,
     "wof:label": "We Will Walk Right Up To The Sun",
-    "wof:lastmodified": 1619636063,
+    "wof:lastmodified": 1716596277,
     "wof:name": "We Will Walk Right Up To The Sun",
     "wof:parent_id": 1477856003,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1729793263

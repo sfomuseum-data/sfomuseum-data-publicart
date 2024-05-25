@@ -90,11 +90,13 @@
     ],
     "wof:id": 1729793225,
     "wof:label": "Rosenberg, Leah Everywhere, a Color",
-    "wof:lastmodified": 1682725179,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Everywhere, a Color",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [

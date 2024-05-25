@@ -54,15 +54,15 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855607, 
-      554784711, 
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      1477855605,
+      1477855607,
+      554784711,
       102085387
     ],
     "wof:breaches": [],
@@ -88,7 +88,7 @@
         "region_id": 85688637,
         "venue_id": 1477873997,
         "wing_id": 1477855607
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -102,11 +102,13 @@
     ],
     "wof:id": 1477873997,
     "wof:label": "Mullican, Lee The Great Transparents",
-    "wof:lastmodified": 1613693226,
+    "wof:lastmodified": 1716596277,
     "wof:name": "The Great Transparents",
     "wof:parent_id": 1477855607,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1729793121
@@ -115,14 +117,14 @@
       772975365
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.384385, 
-    37.617737, 
-    -122.384385, 
+    -122.384385,
+    37.617737,
+    -122.384385,
     37.617737
   ],
   "geometry": {"coordinates":[-122.384385,37.617737],"type":"Point"}

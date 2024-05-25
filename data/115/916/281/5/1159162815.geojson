@@ -77,11 +77,13 @@
     ],
     "wof:id": 1159162815,
     "wof:label": "Mayhew, Richard Seneca",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596276,
     "wof:name": "Seneca",
     "wof:parent_id": 1159157339,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1477873915

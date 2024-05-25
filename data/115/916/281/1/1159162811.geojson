@@ -77,11 +77,13 @@
     ],
     "wof:id": 1159162811,
     "wof:label": "Simpson, David Storm, Stars, and Stripes",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596276,
     "wof:name": "Storm, Stars, and Stripes",
     "wof:parent_id": 1159157309,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1477873913

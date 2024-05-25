@@ -111,11 +111,13 @@
     ],
     "wof:id": 1745903697,
     "wof:label": "Bechtle, Robert San Francisco Nova",
-    "wof:lastmodified": 1690272860,
+    "wof:lastmodified": 1716596277,
     "wof:name": "San Francisco Nova",
     "wof:parent_id": 1763588335,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [

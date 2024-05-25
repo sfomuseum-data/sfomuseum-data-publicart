@@ -66,11 +66,13 @@
     ],
     "wof:id": 1175727165,
     "wof:label": "When Pink Elephants Fly",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596276,
     "wof:name": "When Pink Elephants Fly",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1729829255

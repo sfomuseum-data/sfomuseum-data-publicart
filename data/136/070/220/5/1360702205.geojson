@@ -85,11 +85,13 @@
     ],
     "wof:id": 1360702205,
     "wof:label": "Pomodoro, Arnaldo Cilindro Constuito",
-    "wof:lastmodified": 1651524044,
+    "wof:lastmodified": 1716596276,
     "wof:name": "Cilindro Constuito",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1729829257

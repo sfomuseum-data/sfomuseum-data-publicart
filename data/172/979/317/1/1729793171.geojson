@@ -56,11 +56,13 @@
     ],
     "wof:id": 1729793171,
     "wof:label": "K5",
-    "wof:lastmodified": 1681254756,
+    "wof:lastmodified": 1716596277,
     "wof:name": "K5",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [

@@ -54,17 +54,17 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1477855835, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1477855613, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855833, 
-      554784711, 
+      1477855835,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      1477855613,
+      85922583,
+      102087579,
+      1477855605,
+      1477855833,
+      554784711,
       102085387
     ],
     "wof:breaches": [],
@@ -92,7 +92,7 @@
         "region_id": 85688637,
         "venue_id": 1477874051,
         "wing_id": 1477855833
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -108,11 +108,13 @@
     ],
     "wof:id": 1477874051,
     "wof:label": "Hudson, Robert Horse of Another Color",
-    "wof:lastmodified": 1617237604,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Horse of Another Color",
     "wof:parent_id": 1477855835,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1729793195
@@ -121,14 +123,14 @@
       772975163
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.38872, 
-    37.613581, 
-    -122.38872, 
+    -122.38872,
+    37.613581,
+    -122.38872,
     37.613581
   ],
   "geometry": {"coordinates":[-122.38872,37.613581],"type":"Point"}

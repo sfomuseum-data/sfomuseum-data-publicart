@@ -94,11 +94,13 @@
     ],
     "wof:id": 772974347,
     "wof:label": "Acconci, Vito Light Beams for the Sky of A Transfer Corridor",
-    "wof:lastmodified": 1682709773,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Light Beams for the Sky of A Transfer Corridor",
     "wof:parent_id": 1159157335,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1477873963

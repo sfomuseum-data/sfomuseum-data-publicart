@@ -81,11 +81,13 @@
     ],
     "wof:id": 1495165733,
     "wof:label": "Born in 1717",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Born in 1717",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [],

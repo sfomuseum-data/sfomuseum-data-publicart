@@ -67,10 +67,13 @@
     ],
     "wof:id": 1745903941,
     "wof:label": "Shell",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Shell",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": []

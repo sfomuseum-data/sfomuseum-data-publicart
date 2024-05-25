@@ -54,17 +54,17 @@
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1477855669, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1477855613, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855657, 
-      554784711, 
+      1477855669,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      1477855613,
+      85922583,
+      102087579,
+      1477855605,
+      1477855657,
+      554784711,
       102085387
     ],
     "wof:breaches": [],
@@ -92,7 +92,7 @@
         "region_id": 85688637,
         "venue_id": 1477873967,
         "wing_id": 1477855657
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -108,11 +108,13 @@
     ],
     "wof:id": 1477873967,
     "wof:label": "Butterfield, Deborah Pohina",
-    "wof:lastmodified": 1614116051,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Pohina",
     "wof:parent_id": 1477855669,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1729829261
@@ -121,14 +123,14 @@
       772974587
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.3833930492401, 
-    37.61517901660707, 
-    -122.3833930492401, 
+    -122.3833930492401,
+    37.61517901660707,
+    -122.3833930492401,
     37.61517901660707
   ],
   "geometry": {"coordinates":[-122.3833930492401,37.61517901660707],"type":"Point"}

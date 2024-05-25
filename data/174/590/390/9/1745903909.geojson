@@ -111,11 +111,13 @@
     ],
     "wof:id": 1745903909,
     "wof:label": "Rigo 99 Thinking of Balmy Alley",
-    "wof:lastmodified": 1690272860,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Thinking of Balmy Alley",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [

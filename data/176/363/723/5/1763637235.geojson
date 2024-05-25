@@ -74,11 +74,13 @@
     ],
     "wof:id": 1763637235,
     "wof:label": "Public Transit Areas #46",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Public Transit Areas #46",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": []

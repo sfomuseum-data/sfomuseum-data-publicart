@@ -88,11 +88,13 @@
     ],
     "wof:id": 1745903821,
     "wof:label": "The Author and Her Story",
-    "wof:lastmodified": 1682725179,
+    "wof:lastmodified": 1716596277,
     "wof:name": "The Author and Her Story",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [

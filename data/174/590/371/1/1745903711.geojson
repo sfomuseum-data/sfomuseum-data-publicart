@@ -111,11 +111,13 @@
     ],
     "wof:id": 1745903711,
     "wof:label": "Carpenter, James Four Sculptural Light Reflectors",
-    "wof:lastmodified": 1682725179,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Four Sculptural Light Reflectors",
     "wof:parent_id": 1763588469,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [

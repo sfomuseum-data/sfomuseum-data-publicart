@@ -76,11 +76,13 @@
       }
     ],
     "wof:id": 1360702183,
-    "wof:lastmodified": 1672872177,
+    "wof:lastmodified": 1716596276,
     "wof:name": "Cardboard Kore",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [

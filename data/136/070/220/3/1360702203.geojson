@@ -85,11 +85,13 @@
     ],
     "wof:id": 1360702203,
     "wof:label": "Adams, Mark Garden Outside the Gate",
-    "wof:lastmodified": 1651524044,
+    "wof:lastmodified": 1716596276,
     "wof:name": "Garden Outside the Gate",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1729829267

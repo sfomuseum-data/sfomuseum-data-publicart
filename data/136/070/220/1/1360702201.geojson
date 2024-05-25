@@ -54,11 +54,11 @@
     "sfomuseum:type": "textile",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
       85688637
     ],
     "wof:breaches": [],
@@ -85,11 +85,13 @@
     ],
     "wof:id": 1360702201,
     "wof:label": "Adams, Mark Garden in San Andreas Valley",
-    "wof:lastmodified": 1614115726,
+    "wof:lastmodified": 1716596276,
     "wof:name": "Garden in San Andreas Valley",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1729829263
@@ -98,14 +100,14 @@
       772974355
     ],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.38349055189252, 
-    37.61768760030776, 
-    -122.38349055189252, 
+    -122.38349055189252,
+    37.61768760030776,
+    -122.38349055189252,
     37.61768760030776
   ],
   "geometry": {"coordinates":[-122.38349055189252,37.61768760030776],"type":"Point"}

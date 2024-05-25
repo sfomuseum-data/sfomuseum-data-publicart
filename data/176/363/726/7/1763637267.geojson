@@ -77,11 +77,13 @@
     ],
     "wof:id": 1763637267,
     "wof:label": "Earl Grant on Organ, Junius Simmons on Guitar, Blue Mirror",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Earl Grant on Organ, Junius Simmons on Guitar, Blue Mirror",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": []

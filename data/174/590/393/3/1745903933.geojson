@@ -76,10 +76,13 @@
     ],
     "wof:id": 1745903933,
     "wof:label": "Painting #2018-8-6",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Painting #2018-8-6",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": []

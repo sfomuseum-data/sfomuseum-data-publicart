@@ -76,11 +76,13 @@
     ],
     "wof:id": 1729829269,
     "wof:label": "The Color of Horizons",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596277,
     "wof:name": "The Color of Horizons",
     "wof:parent_id": 1763588263,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1745903859

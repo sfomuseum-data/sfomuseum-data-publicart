@@ -82,11 +82,13 @@
     ],
     "wof:id": 1729793263,
     "wof:label": "We Will Walk Right Up To The Sun",
-    "wof:lastmodified": 1682709774,
+    "wof:lastmodified": 1716596277,
     "wof:name": "We Will Walk Right Up To The Sun",
     "wof:parent_id": 1729791967,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [

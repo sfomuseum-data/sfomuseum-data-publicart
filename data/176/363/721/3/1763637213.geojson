@@ -77,11 +77,13 @@
     ],
     "wof:id": 1763637213,
     "wof:label": "Continuous City",
-    "wof:lastmodified": 1687809383,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Continuous City",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": []

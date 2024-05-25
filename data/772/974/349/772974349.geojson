@@ -41,11 +41,11 @@
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102087579, 
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
       85688637
     ],
     "wof:breaches": [],
@@ -71,23 +71,25 @@
       }
     ],
     "wof:id": 772974349,
-    "wof:lastmodified": 1614116051,
+    "wof:lastmodified": 1716596277,
     "wof:name": "Cityscape #33",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.3738819360733, 
-    37.61936871387201, 
-    -122.3738819360733, 
+    -122.3738819360733,
+    37.61936871387201,
+    -122.3738819360733,
     37.61936871387201
   ],
   "geometry": {"coordinates":[-122.3738819360733,37.61936871387201],"type":"Point"}

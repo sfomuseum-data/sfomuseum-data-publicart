@@ -18,8 +18,8 @@
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
-    "sfo:level":2,
     "sfac:accession_id": "1979.71",
+    "sfo:level": 2,
     "sfomuseum:boardingarea": "A",
     "sfomuseum:building": "IT",
     "sfomuseum:category": "painting",
@@ -38,17 +38,17 @@
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      1477855835, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1477855613, 
-      85922583, 
-      102087579, 
-      1477855605, 
-      1477855833, 
-      554784711, 
+      1477855835,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      1477855613,
+      85922583,
+      102087579,
+      1477855605,
+      1477855833,
+      554784711,
       102085387
     ],
     "wof:breaches": [],
@@ -76,7 +76,7 @@
         "region_id": 85688637,
         "venue_id": 1477873915,
         "wing_id": 1477855833
-      }, 
+      },
       {
         "building_id": 1477855605,
         "campus_id": 102527513,
@@ -92,11 +92,13 @@
     ],
     "wof:id": 1477873915,
     "wof:label": "Mayhew, Richard Seneca",
-    "wof:lastmodified": 1613693226,
+    "wof:lastmodified": 1716596276,
     "wof:name": "Seneca",
     "wof:parent_id": 1477855835,
     "wof:placetype": "venue",
-    "wof:placetype_alt": "publicart",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
       1729793233
@@ -107,9 +109,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.389042, 
-    37.613628, 
-    -122.389042, 
+    -122.389042,
+    37.613628,
+    -122.389042,
     37.613628
   ],
   "geometry": {"coordinates":[-122.389042,37.613628],"type":"Point"}
