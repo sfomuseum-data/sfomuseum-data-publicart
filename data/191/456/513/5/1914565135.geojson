@@ -1,0 +1,138 @@
+{
+  "id": 1914565135,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "",
+    "addr:housenumber": "",
+    "addr:postcode": "",
+    "addr:street": "",
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "flysfo:node": 3310,
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/homage-zane-gray",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.381506,37.617233,-122.381506,37.617233",
+    "geom:latitude": 37.617233,
+    "geom:longitude": -122.381506,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_kind": "T2",
+    "millsfield:waypoint_id": [
+      1796903615
+    ],
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sfac:accession_id": "1979.32",
+    "sfac:artist": "DeForest, Roy",
+    "sfac:created_at": "01/01/1970 12:32:58 AM +0000",
+    "sfac:credit_line": "Purchased by the San Francisco Art Commission for the San Francisco International Airport.",
+    "sfac:display_dimensions": "67\" H X 85\" W",
+    "sfac:id": "63daabb62278559f8a0643be882b1cb0",
+    "sfac:location": "",
+    "sfac:location_description": "Airport : Terminal 2 : Gate 51A",
+    "sfac:medium": "Varnished polymer on canvas",
+    "sfac:revision": "2-8497e35fad8e44debe2d9b8d7d7587b2",
+    "sfac:source": "San Francisco Arts Commission",
+    "sfac:title": "Homage to Zane Grey",
+    "sfo:level": 2,
+    "sfomuseum:artist_dates": "1930 - 2007",
+    "sfomuseum:artist_name": "Roy De Forest",
+    "sfomuseum:boardingarea": "D",
+    "sfomuseum:building": "T2",
+    "sfomuseum:category": "painting",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "1978",
+    "sfomuseum:description": "Colorful painting depicting fanciful animals and people.  The title of this varnished polymer on canvas refers to Zane Grey (1872–1939) the author of many popular novels about the Old West.",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "2",
+    "sfomuseum:map_id": 13,
+    "sfomuseum:medium": "Acrylic polymer emulsion, colored pastel/chalk and varnish on linen canvas  ",
+    "sfomuseum:object_id": 109318,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
+    "sfomuseum:terminal": "2",
+    "sfomuseum:type": "painting",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1914563989,
+      1914564493,
+      1914564489
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sfac:accession_id": "1979.32",
+      "sfomuseum:object_id": 109318
+    },
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1720542685,
+    "wof:geomhash": "a0274f65197b75f89bd751238edc41f5",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564493,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914565135,
+        "wing_id": 1914564489
+      },
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564493,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914565135,
+        "wing_id": 1914564489
+      }
+    ],
+    "wof:id": 1914565135,
+    "wof:label": "Homage to Zane Grey (2024-06-17)",
+    "wof:lastmodified": 1720542685,
+    "wof:name": "Homage to Zane Grey",
+    "wof:parent_id": 1914564493,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1745903869
+    ],
+    "wof:tags": [
+      "artwork",
+      "public_art"
+    ]
+  },
+  "bbox": [
+    -122.381506,
+    37.617233,
+    -122.381506,
+    37.617233
+  ],
+  "geometry": {"coordinates":[-122.381506,37.617233],"type":"Point"}
+}

@@ -2,7 +2,9 @@
   "id": 1763637251,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
@@ -14,7 +16,7 @@
     "millsfield:waypoint_id": [
       1796942189
     ],
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfac:accession_id": "T2021.33",
     "sfo:level": 2,
     "sfomuseum:artist_dates": "b. 1926",
@@ -77,7 +79,7 @@
     ],
     "wof:id": 1763637251,
     "wof:label": "Dancing in a Fillmore Flat",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1720542709,
     "wof:name": "Dancing in a Fillmore Flat",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",
@@ -85,7 +87,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914565267
+    ],
     "wof:supersedes": []
   },
   "bbox": [

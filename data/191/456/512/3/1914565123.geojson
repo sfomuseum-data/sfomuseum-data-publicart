@@ -1,0 +1,119 @@
+{
+  "id": 1914565123,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "flysfo:node": 3315,
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/san-francisco-bay-area-bird-encounters",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.381063,37.617197,-122.381063,37.617197",
+    "geom:latitude": 37.617196912106614,
+    "geom:longitude": -122.38106326424501,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_kind": "T2",
+    "millsfield:waypoint_id": [
+      1796889493
+    ],
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sfac:accession_id": "2011.7",
+    "sfo:level": 2,
+    "sfomuseum:artist_dates": "b. 1973",
+    "sfomuseum:artist_name": "Walter Kitundu",
+    "sfomuseum:boardingarea": "D",
+    "sfomuseum:building": "T2",
+    "sfomuseum:category": "mural",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "2011",
+    "sfomuseum:description": "Kitundu’s work includes two benches shaped like bird wings that double as musical instruments. Serving as the backdrop for these musical benches, is a mural made of inlaid wood featuring the images of local birds. The birds, which are printed on wood, are photographs that the artist took in San Francisco. The focal point of the mural is a large bird whose wings, like the benches, are reminiscent of a xylophone or marimba and can be played with rubber mallets.",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "2",
+    "sfomuseum:map_id": 117,
+    "sfomuseum:medium": "Plywood, veneers, varnish",
+    "sfomuseum:object_id": 113726,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "composite mural",
+    "sfomuseum:terminal": "2",
+    "sfomuseum:type": "mural",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1914563989,
+      1914564493,
+      1914564489
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sfac:accession_id": "2011.7",
+      "sfomuseum:object_id": 113726
+    },
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1720542683,
+    "wof:geomhash": "836de2b9f851b742cb980e14f5706645",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564493,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914565123,
+        "wing_id": 1914564489
+      },
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564493,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914565123,
+        "wing_id": 1914564489
+      }
+    ],
+    "wof:id": 1914565123,
+    "wof:label": "Bay Area Bird Encounters (2024-06-17)",
+    "wof:lastmodified": 1720542683,
+    "wof:name": "Bay Area Bird Encounters",
+    "wof:parent_id": 1914564493,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1745903851
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.38106326424501,
+    37.617196912106614,
+    -122.38106326424501,
+    37.617196912106614
+  ],
+  "geometry": {"coordinates":[-122.38106326424501,37.617196912106614],"type":"Point"}
+}

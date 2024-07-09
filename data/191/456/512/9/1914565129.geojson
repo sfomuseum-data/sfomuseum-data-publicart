@@ -1,0 +1,116 @@
+{
+  "id": 1914565129,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "flysfo:node": 21547,
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/rivenriver",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.383784,37.615587,-122.383784,37.615587",
+    "geom:latitude": 37.615587,
+    "geom:longitude": -122.383784,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "T2",
+    "millsfield:wayfinding_kind": "T1",
+    "millsfield:waypoint_id": [
+      1796889479
+    ],
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sfac:accession_id": "2016.22",
+    "sfo:level": 2,
+    "sfomuseum:artist_dates": "b. 1930",
+    "sfomuseum:artist_name": "Jim Melchert",
+    "sfomuseum:boardingarea": "C",
+    "sfomuseum:building": "T1",
+    "sfomuseum:category": "mosaic",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "2014",
+    "sfomuseum:description": "Like arrivals and departures, this artwork’s two rectangular color fields are each the complement of the other. The energetic blue line that spans both fields suggests the traveler’s journey. The term “Riven” in the title refers to Melchert’s signature practice of breaking, and then reassembling his tiles to create a complex pattern of cracks and fissures. ",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "2",
+    "sfomuseum:map_id": 128,
+    "sfomuseum:medium": "Gray porcelain ceramic tile, red and blue glaze",
+    "sfomuseum:object_id": 164874,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
+    "sfomuseum:terminal": "1",
+    "sfomuseum:type": "mosaic",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1914563989,
+      1914564493,
+      1914564489
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sfac:accession_id": "2016.22",
+      "sfomuseum:object_id": 164874
+    },
+    "wof:country": "US",
+    "wof:created": 1720542685,
+    "wof:geomhash": "621b4e02a2e294fc179c7a3f9273ab97",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564493,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914565129,
+        "wing_id": 1914564489
+      },
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564493,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914565129,
+        "wing_id": 1914564489
+      }
+    ],
+    "wof:id": 1914565129,
+    "wof:label": "Riven/River (2024-06-17)",
+    "wof:lastmodified": 1720542685,
+    "wof:name": "Riven/River",
+    "wof:parent_id": 1914564493,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1745903865
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.383784,
+    37.615587,
+    -122.383784,
+    37.615587
+  ],
+  "geometry": {"coordinates":[-122.383784,37.615587],"type":"Point"}
+}

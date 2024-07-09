@@ -1,0 +1,138 @@
+{
+  "id": 1914564907,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "",
+    "addr:housenumber": "",
+    "addr:postcode": "",
+    "addr:street": "",
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "flysfo:node": 3337,
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/two-wings-wall-and-person",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.387644,37.617521,-122.387644,37.617521",
+    "geom:latitude": 37.617521,
+    "geom:longitude": -122.387644,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "ARR",
+    "millsfield:wayfinding_kind": "T3",
+    "millsfield:waypoint_id": [
+      1797018143
+    ],
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sfac:accession_id": "1986.2 a-l",
+    "sfac:artist": "Acconci, Vito",
+    "sfac:created_at": "1979-1981",
+    "sfac:credit_line": "Purchased by the San Francisco Art Commission for the San Francisco International Airport",
+    "sfac:display_dimensions": "26 1/2\" H X 41\" W",
+    "sfac:id": "63daabb62278559f8a0643be88261503",
+    "sfac:location": "",
+    "sfac:location_description": "International Airport : T3 : Lower Level",
+    "sfac:medium": "Etching on Paper",
+    "sfac:revision": "2-8418bc9b09e27aba350721c0de8b98ee",
+    "sfac:source": "San Francisco Arts Commission",
+    "sfac:title": "Two Wings for Wall and Person",
+    "sfo:level": 1,
+    "sfomuseum:artist_dates": "1940 - 2017",
+    "sfomuseum:artist_name": "Vito Acconci",
+    "sfomuseum:boardingarea": "G",
+    "sfomuseum:building": "T3",
+    "sfomuseum:category": "print",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "1979-81",
+    "sfomuseum:description": "Twelve panels, arranged in two rows of six: pink pastel wing shapes, both left and right.  In this etching, rather than the just looking at the wings, the artist suggests that the viewer has a place within the wings; lean back against the wall and see if you can fly!",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "1",
+    "sfomuseum:map_id": 68,
+    "sfomuseum:medium": "Intaglio relief etching on woven paper",
+    "sfomuseum:object_id": 109350,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:subcategory": "etching",
+    "sfomuseum:terminal": "3",
+    "sfomuseum:type": "print",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1914563989,
+      1914564333,
+      1914564157
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sfac:accession_id": "1986.2 a-l",
+      "sfomuseum:object_id": 109350
+    },
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1720542644,
+    "wof:geomhash": "740f3e29472a43e0c94e1954cabe7681",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564333,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914564907,
+        "wing_id": 1914564157
+      },
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564333,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914564907,
+        "wing_id": 1914564157
+      }
+    ],
+    "wof:id": 1914564907,
+    "wof:label": "Two Wings for Wall and Person (2024-06-17)",
+    "wof:lastmodified": 1720542644,
+    "wof:name": "Two Wings for Wall and Person",
+    "wof:parent_id": 1914564333,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1745903863
+    ],
+    "wof:tags": [
+      "artwork",
+      "public_art"
+    ]
+  },
+  "bbox": [
+    -122.387644,
+    37.617521,
+    -122.387644,
+    37.617521
+  ],
+  "geometry": {"coordinates":[-122.387644,37.617521],"type":"Point"}
+}

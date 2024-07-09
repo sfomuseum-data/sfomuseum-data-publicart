@@ -2,9 +2,9 @@
   "id": 1729829279,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2021-05-25",
-    "date:cessation_upper": "2021-05-25",
-    "edtf:cessation": "2021-05-25",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
@@ -13,7 +13,7 @@
     "geom:longitude": -122.38599386051912,
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfac:accession_id": "2018.63",
     "sfo:level": 2,
     "sfomuseum:artist_dates": "b. 1962",
@@ -75,7 +75,7 @@
     ],
     "wof:id": 1729829279,
     "wof:label": "Orion",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1720542668,
     "wof:name": "Orion",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",
@@ -84,7 +84,8 @@
     ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
-      1745903867
+      1745903867,
+      1914565037
     ],
     "wof:supersedes": []
   },

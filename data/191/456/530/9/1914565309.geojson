@@ -1,0 +1,138 @@
+{
+  "id": 1914565309,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "",
+    "addr:housenumber": "",
+    "addr:postcode": "",
+    "addr:street": "",
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "flysfo:node": 3305,
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/greeting-totem",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.383752,37.616240,-122.383752,37.616240",
+    "geom:latitude": 37.61624,
+    "geom:longitude": -122.383752,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "DEP",
+    "millsfield:wayfinding_kind": "T2",
+    "millsfield:waypoint_id": [
+      1796889603
+    ],
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sfac:accession_id": "1986.1",
+    "sfac:artist": "Katano, Marc",
+    "sfac:created_at": "01/01/1970 12:33:03 AM +0000",
+    "sfac:credit_line": "Purchased by the San Francisco Art Commission for the San Francisco International Airport",
+    "sfac:display_dimensions": "",
+    "sfac:id": "63daabb62278559f8a0643be88327999",
+    "sfac:location": "",
+    "sfac:location_description": "Airport : Terminal 2 : Ticketing Lobby : Connector to Terminal 1",
+    "sfac:medium": "Oil",
+    "sfac:revision": "2-bc26f8941d546f1317d75be41e9aa8f5",
+    "sfac:source": "San Francisco Arts Commission",
+    "sfac:title": "Greeting a Totem",
+    "sfo:level": 2,
+    "sfomuseum:artist_dates": "b. 1952",
+    "sfomuseum:artist_name": "Marc Katano",
+    "sfomuseum:boardingarea": "D",
+    "sfomuseum:building": "T2",
+    "sfomuseum:category": "painting",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "1983",
+    "sfomuseum:description": "Abstract dark shapes reminiscent of traditional calligraphic brush work against light blue/gray background.",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "2",
+    "sfomuseum:map_id": 64,
+    "sfomuseum:medium": "Oil on canvas",
+    "sfomuseum:object_id": 109324,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:subcategory": "",
+    "sfomuseum:terminal": "2",
+    "sfomuseum:type": "painting",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1914563989,
+      1914564623,
+      1914564489
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sfac:accession_id": "1986.1",
+      "sfomuseum:object_id": 109324
+    },
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1720542717,
+    "wof:geomhash": "11d16fb2d9ffe6c4c12f4a0a5f57ff3c",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564623,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914565309,
+        "wing_id": 1914564489
+      },
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564623,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914565309,
+        "wing_id": 1914564489
+      }
+    ],
+    "wof:id": 1914565309,
+    "wof:label": "Greeting A Totem (2024-06-17)",
+    "wof:lastmodified": 1720542717,
+    "wof:name": "Greeting A Totem",
+    "wof:parent_id": 1914564623,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1745903779
+    ],
+    "wof:tags": [
+      "artwork",
+      "public_art"
+    ]
+  },
+  "bbox": [
+    -122.383752,
+    37.61624,
+    -122.383752,
+    37.61624
+  ],
+  "geometry": {"coordinates":[-122.383752,37.61624],"type":"Point"}
+}

@@ -6,9 +6,11 @@
     "addr:housenumber": "",
     "addr:postcode": "",
     "addr:street": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-05-25",
     "flysfo:node": 3290,
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/ceiling-flood",
@@ -22,7 +24,7 @@
     "millsfield:wayfinding_kind": "ITB",
     "millsfield:waypoint_id": [],
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "mz:is_retail": -1,
     "sfac:accession_id": "1999.14",
     "sfac:artist": "Sonnier, Keith",
@@ -109,7 +111,7 @@
     ],
     "wof:id": 1745903793,
     "wof:label": "Sonnier, Keith Ceiling Flood",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1720542613,
     "wof:name": "Ceiling Flood",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",
@@ -117,7 +119,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914564731
+    ],
     "wof:supersedes": [
       1729793155
     ],

@@ -2,9 +2,11 @@
   "id": 1477873925,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-05-25",
     "flysfo:node": 5269,
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/spirogyrate",
@@ -20,7 +22,7 @@
       1796889503
     ],
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfac:accession_id": "2013.6.a-l",
     "sfo:level": 2,
     "sfomuseum:artist_dates": "b. 1947",
@@ -92,7 +94,7 @@
     ],
     "wof:id": 1745903819,
     "wof:label": "Spirogyrate",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1720542635,
     "wof:name": "Spirogyrate",
     "wof:parent_id": 1763588335,
     "wof:placetype": "venue",
@@ -100,7 +102,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914564855
+    ],
     "wof:supersedes": [
       1729793117
     ],

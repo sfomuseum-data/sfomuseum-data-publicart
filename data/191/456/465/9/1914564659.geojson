@@ -1,0 +1,101 @@
+{
+  "id": 1914564659,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.388695,37.613560,-122.388695,37.613560",
+    "geom:latitude": 37.61355966131776,
+    "geom:longitude": -122.3886946649475,
+    "millsfield:wayfinding_detail": "G",
+    "millsfield:wayfinding_kind": "ITB",
+    "millsfield:waypoint_id": [
+      1796889531
+    ],
+    "mz:is_current": 1,
+    "sfac:accession_id": "",
+    "sfo:level": 2,
+    "sfomuseum:artist_dates": "b. 1969",
+    "sfomuseum:artist_name": "Alicia McCarthy",
+    "sfomuseum:boardingarea": "A",
+    "sfomuseum:building": "IT",
+    "sfomuseum:category": "mural",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "2020",
+    "sfomuseum:map_id": 201,
+    "sfomuseum:medium": "Painted glass",
+    "sfomuseum:object_id": 217702,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1914563989,
+      1914563999,
+      1914563993
+    ],
+    "wof:country": "US",
+    "wof:created": 1720542602,
+    "wof:geomhash": "463c867b3b7d9d67322866f0792f8c8b",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914563999,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914564659,
+        "wing_id": 1914563993
+      },
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914563999,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914564659,
+        "wing_id": 1914563993
+      }
+    ],
+    "wof:id": 1914564659,
+    "wof:label": "Untitled (2024-06-17)",
+    "wof:lastmodified": 1720542602,
+    "wof:name": "Untitled",
+    "wof:parent_id": 1914563999,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1745903707
+    ]
+  },
+  "bbox": [
+    -122.3886946649475,
+    37.61355966131776,
+    -122.3886946649475,
+    37.61355966131776
+  ],
+  "geometry": {"coordinates":[-122.3886946649475,37.61355966131776],"type":"Point"}
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1914565147,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384171,37.617778,-122.384171,37.617778",
+    "geom:latitude": 37.61777795616914,
+    "geom:longitude": -122.38417128751965,
+    "millsfield:wayfinding_detail": "T3",
+    "millsfield:wayfinding_kind": "T2",
+    "millsfield:waypoint_id": [
+      1796889577
+    ],
+    "mz:is_current": 1,
+    "sfac:accession_id": "",
+    "sfo:level": 2,
+    "sfomuseum:artist_dates": "b. 1958",
+    "sfomuseum:artist_name": "Kim Anno",
+    "sfomuseum:boardingarea": "",
+    "sfomuseum:building": "T2/T3",
+    "sfomuseum:category": "",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "",
+    "sfomuseum:gallery_id": 223767,
+    "sfomuseum:map_id": 207,
+    "sfomuseum:medium": "aluminum and glass",
+    "sfomuseum:object_id": 223767,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1914563989,
+      1914564617,
+      1914564489
+    ],
+    "wof:country": "US",
+    "wof:created": 1720542688,
+    "wof:geomhash": "2c7689d101cadf18ae8e493a76610f83",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564617,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914565147,
+        "wing_id": 1914564489
+      },
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564617,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914565147,
+        "wing_id": 1914564489
+      }
+    ],
+    "wof:id": 1914565147,
+    "wof:label": "Long Arc of the Day (2024-06-17)",
+    "wof:lastmodified": 1720542688,
+    "wof:name": "Long Arc of the Day",
+    "wof:parent_id": 1914564617,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1763637211
+    ]
+  },
+  "bbox": [
+    -122.38417128751965,
+    37.61777795616914,
+    -122.38417128751965,
+    37.61777795616914
+  ],
+  "geometry": {"coordinates":[-122.38417128751965,37.61777795616914],"type":"Point"}
+}

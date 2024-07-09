@@ -1,0 +1,143 @@
+{
+  "id": 1914564749,
+  "type": "Feature",
+  "properties": {
+    "addr:full": "",
+    "addr:housenumber": "",
+    "addr:postcode": "",
+    "addr:street": "",
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "flysfo:node": 3338,
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/bfilryd",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.388809,37.617413,-122.388809,37.617413",
+    "geom:latitude": 37.617413,
+    "geom:longitude": -122.388809,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "G",
+    "millsfield:wayfinding_kind": "ITB",
+    "millsfield:waypoint_id": [
+      1796935723
+    ],
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "mz:is_retail": -1,
+    "sfac:accession_id": "2010.3.1-26",
+    "sfac:artist": "Zoell, Bob",
+    "sfac:created_at": "01/01/1970 12:33:30 AM +0000",
+    "sfac:credit_line": "",
+    "sfac:display_dimensions": "",
+    "sfac:id": "63daabb62278559f8a0643be883b33bc",
+    "sfac:location": "",
+    "sfac:location_description": "Airport : T-2 : Secure Connector",
+    "sfac:medium": "Frosted glass",
+    "sfac:revision": "2-ab3356113b4b7f1d1f6cea8fad6be8e2",
+    "sfac:source": "San Francisco Arts Commission",
+    "sfac:title": "Untitled [frosted glass panels]",
+    "sfo:level": 2,
+    "sfomuseum:artist_dates": "b. 1940",
+    "sfomuseum:artist_name": "Bob Zoell",
+    "sfomuseum:boardingarea": "F and G",
+    "sfomuseum:building": "IT",
+    "sfomuseum:category": "mural",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "2009",
+    "sfomuseum:description": "Zoell transforms the secure connector between Terminal 3 and International Terminal Boarding Area G into a playful, idyllic world of singing birds sitting on branches composed from letters and punctuation marks. The top and bottom frosted glass panels feature airplanes and typography, rendered in a simplified graphic style.",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "2",
+    "sfomuseum:map_id": 113,
+    "sfomuseum:medium": "Laminated glass with photographic interlayer and frosted glass",
+    "sfomuseum:object_id": 109405,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
+    "sfomuseum:terminal": "IT",
+    "sfomuseum:type": "mural",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1914563989,
+      1914564057,
+      1914563993
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sfac:accession_id": "2010.3.1-26",
+      "sfomuseum:object_id": 109405
+    },
+    "wof:concordances_alt": {
+      "sfac:accession_id": [
+        "T2009.33a-v"
+      ]
+    },
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1720542617,
+    "wof:geomhash": "502199260f2b7ae2c9144e9fb725c25b",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564057,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914564749,
+        "wing_id": 1914563993
+      },
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564057,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914564749,
+        "wing_id": 1914563993
+      }
+    ],
+    "wof:id": 1914564749,
+    "wof:label": "BFILRYD (2024-06-17)",
+    "wof:lastmodified": 1720542617,
+    "wof:name": "BFILRYD",
+    "wof:parent_id": 1914564057,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1745903899
+    ],
+    "wof:tags": [
+      "artwork",
+      "public_art"
+    ]
+  },
+  "bbox": [
+    -122.388809,
+    37.617413,
+    -122.388809,
+    37.617413
+  ],
+  "geometry": {"coordinates":[-122.388809,37.617413],"type":"Point"}
+}

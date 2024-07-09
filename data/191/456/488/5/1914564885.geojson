@@ -1,0 +1,119 @@
+{
+  "id": 1914564885,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "flysfo:node": 21546,
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/untitled-large-variation",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.385403,37.618169,-122.385403,37.618169",
+    "geom:latitude": 37.61816906454515,
+    "geom:longitude": -122.38540317815969,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "E",
+    "millsfield:wayfinding_kind": "T3",
+    "millsfield:waypoint_id": [
+      1796889581
+    ],
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sfac:accession_id": "2014.19",
+    "sfo:level": 2,
+    "sfomuseum:artist_dates": "b. 1964",
+    "sfomuseum:artist_name": "Amy Ellingson",
+    "sfomuseum:boardingarea": "E",
+    "sfomuseum:building": "T3",
+    "sfomuseum:category": "mosaic",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "2015",
+    "sfomuseum:description": "Untitled (Large Vatiation) suggests movement and transformation through color, geometry, repetition, scale and spatial illusion. Ellingson’s practice is a synergy between digital media and the hand-made object. Typically, she uses graphics software to create multilayered compositions of great complexity that are translated into physical form using traditional painting media. Here she has realized her virtual design as a mosaic mural of commanding physical presence.",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "2",
+    "sfomuseum:map_id": 124,
+    "sfomuseum:medium": "ceramic, mosaic mural",
+    "sfomuseum:object_id": 164913,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
+    "sfomuseum:terminal": "3",
+    "sfomuseum:type": "mosaic",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1914563989,
+      1914564329,
+      1914564157
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sfac:accession_id": "T2014.19",
+      "sfomuseum:object_id": 164913
+    },
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1720542641,
+    "wof:geomhash": "60f9149f6b2943d4535e548a26f8fae2",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564329,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914564885,
+        "wing_id": 1914564157
+      },
+      {
+        "building_id": 1914563989,
+        "campus_id": 102527513,
+        "concourse_id": 1914564329,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914564885,
+        "wing_id": 1914564157
+      }
+    ],
+    "wof:id": 1914564885,
+    "wof:label": "Untitled (Large Variation) (2024-06-17)",
+    "wof:lastmodified": 1720542641,
+    "wof:name": "Untitled (Large Variation)",
+    "wof:parent_id": 1914564329,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1745903901
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.38540317815969,
+    37.61816906454515,
+    -122.38540317815969,
+    37.61816906454515
+  ],
+  "geometry": {"coordinates":[-122.38540317815969,37.61816906454515],"type":"Point"}
+}
