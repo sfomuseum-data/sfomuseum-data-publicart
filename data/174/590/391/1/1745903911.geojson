@@ -6,9 +6,11 @@
     "addr:housenumber": "",
     "addr:postcode": "",
     "addr:street": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-05-25",
     "flysfo:node": 21554,
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/azul-azul-y-hacer",
@@ -25,7 +27,7 @@
       1796889589
     ],
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "mz:is_retail": -1,
     "sfac:accession_id": "1979.36",
     "sfac:artist": "Rivera, Gustavo",
@@ -112,7 +114,7 @@
     ],
     "wof:id": 1745903911,
     "wof:label": "Rivera, Gustavo Azul, Azul y Hacer",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1720821817,
     "wof:name": "Azul, Azul y Hacer",
     "wof:parent_id": 1763588359,
     "wof:placetype": "venue",
@@ -120,7 +122,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914600997
+    ],
     "wof:supersedes": [
       1729793109
     ],

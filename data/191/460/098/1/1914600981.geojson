@@ -1,0 +1,119 @@
+{
+  "id": 1914600981,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "flysfo:node": 21557,
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/ocean-voices-ii",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.384966,37.618044,-122.384966,37.618044",
+    "geom:latitude": 37.618044,
+    "geom:longitude": -122.384966,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "E",
+    "millsfield:wayfinding_kind": "T3",
+    "millsfield:waypoint_id": [
+      1796889497
+    ],
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "sfac:accession_id": "2015.408",
+    "sfo:level": 1,
+    "sfomuseum:artist_dates": "b. 1942",
+    "sfomuseum:artist_name": "Ursula von Rydingsvard",
+    "sfomuseum:boardingarea": "E ",
+    "sfomuseum:building": "T3",
+    "sfomuseum:category": "sculpture",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "2013",
+    "sfomuseum:description": "Ocean Voices II is a wooden sculpture made out of cedar.  Ursula and her assistants used circular saws and chisels to carve and chip at the cedar 4-by-4’s to create this monumental form.",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "2",
+    "sfomuseum:map_id": 130,
+    "sfomuseum:medium": "Cedar, graphite",
+    "sfomuseum:object_id": 171354,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
+    "sfomuseum:terminal": "3",
+    "sfomuseum:type": "sculpture",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1914600839,
+      1914600967,
+      1914600841
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sfac:accession_id": "T2015.408",
+      "sfomuseum:object_id": 171354
+    },
+    "wof:controlled": [
+      "wof:hierarchy"
+    ],
+    "wof:country": "US",
+    "wof:created": 1720821811,
+    "wof:geomhash": "3e4c14befce968d76a0c02a7e2ba101e",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600967,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914600981,
+        "wing_id": 1914600841
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914600967,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914600981,
+        "wing_id": 1914600841
+      }
+    ],
+    "wof:id": 1914600981,
+    "wof:label": "Ocean Voices II (2024-06-17)",
+    "wof:lastmodified": 1720821811,
+    "wof:name": "Ocean Voices II",
+    "wof:parent_id": 1914600967,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1745903921
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.384966,
+    37.618044,
+    -122.384966,
+    37.618044
+  ],
+  "geometry": {"coordinates":[-122.384966,37.618044],"type":"Point"}
+}

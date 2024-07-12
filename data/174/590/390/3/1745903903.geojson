@@ -2,11 +2,11 @@
   "id": 1477873921,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-08-01",
-    "date:cessation_upper": "2023-08-31",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "2023-08",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-05-25",
     "flysfo:node": 21551,
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/high-heels-going-heaven",
@@ -92,7 +92,7 @@
     ],
     "wof:id": 1745903903,
     "wof:label": "High Heels for Going to Heaven ",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1720821982,
     "wof:name": "High Heels for Going to Heaven ",
     "wof:parent_id": 1763588233,
     "wof:placetype": "venue",
@@ -100,7 +100,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914601441
+    ],
     "wof:supersedes": [
       1729793227
     ],

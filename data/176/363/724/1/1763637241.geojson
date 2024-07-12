@@ -2,7 +2,9 @@
   "id": 1763637241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
@@ -11,7 +13,7 @@
     "geom:longitude": -122.38338129249493,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfac:accession_id": "T2021.28",
     "sfo:level": 2,
     "sfomuseum:artist_dates": "b. 1951",
@@ -74,7 +76,7 @@
     ],
     "wof:id": 1763637241,
     "wof:label": "Chris Skiing",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1720821986,
     "wof:name": "Chris Skiing",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",
@@ -82,7 +84,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914601451
+    ],
     "wof:supersedes": []
   },
   "bbox": [

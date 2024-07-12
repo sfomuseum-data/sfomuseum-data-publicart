@@ -1,0 +1,102 @@
+{
+  "id": 1914601485,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384403,37.617874,-122.384403,37.617874",
+    "geom:latitude": 37.617873847455975,
+    "geom:longitude": -122.3844030205583,
+    "millsfield:wayfinding_detail": "T3",
+    "millsfield:wayfinding_kind": "T2",
+    "millsfield:waypoint_id": [
+      1796889577
+    ],
+    "mz:is_current": 1,
+    "sfac:accession_id": "",
+    "sfo:level": 2,
+    "sfomuseum:artist_dates": "b. 1972",
+    "sfomuseum:artist_name": "Paul Madonna",
+    "sfomuseum:boardingarea": "",
+    "sfomuseum:building": "T2/T3",
+    "sfomuseum:category": "",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "",
+    "sfomuseum:gallery_id": 223769,
+    "sfomuseum:map_id": 208,
+    "sfomuseum:medium": "photo prints mounted on acrylic panels ",
+    "sfomuseum:object_id": 223769,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1914600839,
+      1914601449,
+      1914601345
+    ],
+    "wof:country": "US",
+    "wof:created": 1720822001,
+    "wof:geomhash": "138281ac5f0ccd07d0e832b1eb3237a5",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601449,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914601485,
+        "wing_id": 1914601345
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601449,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914601485,
+        "wing_id": 1914601345
+      }
+    ],
+    "wof:id": 1914601485,
+    "wof:label": "Here You Are / You Are Here (2024-06-17)",
+    "wof:lastmodified": 1720822001,
+    "wof:name": "Here You Are / You Are Here",
+    "wof:parent_id": 1914601449,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1763637215
+    ]
+  },
+  "bbox": [
+    -122.3844030205583,
+    37.617873847455975,
+    -122.3844030205583,
+    37.617873847455975
+  ],
+  "geometry": {"coordinates":[-122.3844030205583,37.617873847455975],"type":"Point"}
+}
