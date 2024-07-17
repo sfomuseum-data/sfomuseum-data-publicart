@@ -81,13 +81,14 @@
     ],
     "wof:id": 1914650575,
     "wof:label": "Noguchi, Isamu Figure",
-    "wof:lastmodified": 1721242488,
+    "wof:lastmodified": 1721244473,
     "wof:name": "Figure",
     "wof:parent_id": 1914601309,
     "wof:placetype": "venue",
     "wof:placetype_alt": [
       "publicart"
     ],
+    "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [
       1477874085

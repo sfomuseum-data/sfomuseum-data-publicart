@@ -75,13 +75,14 @@
     ],
     "wof:id": 1914650565,
     "wof:label": "Stutz, Michael Cardboard Kore",
-    "wof:lastmodified": 1721241968,
+    "wof:lastmodified": 1721244473,
     "wof:name": "Cardboard Kore",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",
     "wof:placetype_alt": [
       "publicart"
     ],
+    "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [
       1360702183

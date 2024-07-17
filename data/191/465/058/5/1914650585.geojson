@@ -69,13 +69,14 @@
     ],
     "wof:id": 1914650585,
     "wof:label": "Jackson, Oliver Lee Painting (12.16.09)",
-    "wof:lastmodified": 1721242990,
+    "wof:lastmodified": 1721244473,
     "wof:name": "Painting (12.16.09)",
     "wof:parent_id": 1914601309,
     "wof:placetype": "venue",
     "wof:placetype_alt": [
       "publicart"
     ],
+    "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },

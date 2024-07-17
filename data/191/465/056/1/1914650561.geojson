@@ -78,13 +78,14 @@
     ],
     "wof:id": 1914650561,
     "wof:label": "Crumpler, Dewey Untitled",
-    "wof:lastmodified": 1721241538,
+    "wof:lastmodified": 1721244473,
     "wof:name": "Untitled",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",
     "wof:placetype_alt": [
       "publicart"
     ],
+    "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [
       772974673

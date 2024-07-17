@@ -81,13 +81,14 @@
     ],
     "wof:id": 1914650555,
     "wof:label": "Neri, Manuel Mujer Pegada, No. 4",
-    "wof:lastmodified": 1721241617,
+    "wof:lastmodified": 1721244473,
     "wof:name": "Mujer Pegada, No. 4",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",
     "wof:placetype_alt": [
       "publicart"
     ],
+    "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [
       1477874083

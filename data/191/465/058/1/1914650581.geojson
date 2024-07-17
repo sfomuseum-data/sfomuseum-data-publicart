@@ -70,13 +70,14 @@
     ],
     "wof:id": 1914650581,
     "wof:label": "Husky, Suzanne Close Encounter with the California Sublime",
-    "wof:lastmodified": 1721242802,
+    "wof:lastmodified": 1721244473,
     "wof:name": "Close Encounter with the California Sublime",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",
     "wof:placetype_alt": [
       "publicart"
     ],
+    "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
