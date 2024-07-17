@@ -9,9 +9,32 @@
     "geom:latitude": 37.615018827799965,
     "geom:longitude": -122.38420369814186,
     "mz:is_current": 1,
+    "sfac:accession_id": "2007.3",
+    "sfac:artist": "Shaw, Richard",
+    "sfac:created_at": "01/01/1970 12:33:26 AM +0000",
+    "sfac:credit_line": "Collection of the City and County of San Francisco. Commissioned by the San Francisco Arts Commission and the Airport Commission for San Francisco International Airport",
+    "sfac:display_dimensions": "63 in. x 21 in. x 16 in.",
+    "sfac:id": "63daabb62278559f8a0643be8838c8a9",
+    "sfac:location": "",
+    "sfac:location_description": "Airport : Terminal 1 C",
+    "sfac:medium": "Porcelain",
+    "sfac:revision": "2-35aa581c4fed2519ae472f55d237f40b",
+    "sfac:source": "San Francisco Arts Commission",
+    "sfac:title": "Martha H.",
     "sfo:level": 2,
+    "sfomuseum:category": "sculpture",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:description": "Ceramic figure made to look like a sculpture from recycled materials.",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": 2,
+    "sfomuseum:map_id": 109,
+    "sfomuseum:medium": "Porcelain with decal overglaze",
+    "sfomuseum:object_id": 109334,
+    "sfomuseum:on_display": 0,
     "sfomuseum:placetype": "publicart",
-    "src:geom": "unknown",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:type": "sculpture",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -55,15 +78,18 @@
       }
     ],
     "wof:id": 1914650571,
-    "wof:lastmodified": 1721234803,
-    "wof:name": "richsard shaw martha ",
+    "wof:label": "Shaw, Richard Martha H",
+    "wof:lastmodified": 1721242144,
+    "wof:name": "Martha H",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",
     "wof:placetype_alt": [
       "publicart"
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": []
+    "wof:supersedes": [
+      1477874059
+    ]
   },
   "bbox": [
     -122.38420369814186,
