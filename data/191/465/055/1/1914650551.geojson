@@ -22,7 +22,7 @@
     "sfomuseum:object_id": 203087,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 1,
+    "sfomuseum:post_security": 0,
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -69,7 +69,7 @@
     ],
     "wof:id": 1914650551,
     "wof:label": "Ebtekar, Ala Zenith (VII)",
-    "wof:lastmodified": 1721240864,
+    "wof:lastmodified": 1721241598,
     "wof:name": "Zenith (VII)",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",
