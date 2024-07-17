@@ -4,14 +4,38 @@
   "properties": {
     "edtf:cessation": "",
     "edtf:inception": "",
+    "flysfo:node": -1,
     "geom:area": 0,
     "geom:bbox": "-122.384419,37.615400,-122.384419,37.615400",
     "geom:latitude": 37.61539995557062,
     "geom:longitude": -122.38441929734387,
     "mz:is_current": 1,
+    "sfac:accession_id": "1986.17",
+    "sfac:artist": "Zajac, Jack",
+    "sfac:created_at": "01/01/1970 12:33:05 AM +0000",
+    "sfac:credit_line": "Purchased by the San Francisco Art Commission for the San Francisco International Airport.",
+    "sfac:display_dimensions": "95\" H X 8 1/2\" W X 8 1/2\" D",
+    "sfac:id": "63daabb62278559f8a0643be883b27ba",
+    "sfac:location": "",
+    "sfac:location_description": "",
+    "sfac:medium": "Bronze with granite base",
+    "sfac:revision": "2-67817ac988ef4b2b18f591b497dbac55",
+    "sfac:source": "San Francisco Arts Commission",
+    "sfac:title": "Falling Water Santa Cruz II",
     "sfo:level": 2,
+    "sfomuseum:category": "sculpture",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:description": "This sculpture is part of an ongoing series Jack Zajac calls “Falling Water.” The spare, elegant imagery is inspired by the free flowing action of a waterfall, and is meant to be evocative of water in motion.",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "2",
+    "sfomuseum:map_id": 66,
+    "sfomuseum:medium": "Bronze with silver patina, granite base",
+    "sfomuseum:object_id": 109339,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "src:geom": "unknown",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:type": "sculpture",
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -25,6 +49,10 @@
       1914601197,
       102085387
     ],
+    "wof:concordances": {
+      "sfac:accession_id": "1986.17",
+      "sfomuseum:object_id": 109339
+    },
     "wof:country": "US",
     "wof:created": 1721234799,
     "wof:geomhash": "41db40ae8affa6aeb413975ab323bb9a",
@@ -55,15 +83,18 @@
       }
     ],
     "wof:id": 1914650549,
-    "wof:lastmodified": 1721234799,
-    "wof:name": "jack zajac falling water",
+    "wof:label": "Zajac, Jack Falling Water, Santa Cruz VII",
+    "wof:lastmodified": 1721239872,
+    "wof:name": "Falling Water, Santa Cruz VII",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",
     "wof:placetype_alt": [
       "publicart"
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": []
+    "wof:supersedes": [
+      1477874027
+    ]
   },
   "bbox": [
     -122.38441929734387,
