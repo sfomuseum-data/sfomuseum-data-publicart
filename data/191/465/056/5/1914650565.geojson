@@ -8,10 +8,29 @@
     "geom:bbox": "-122.384230,37.615031,-122.384230,37.615031",
     "geom:latitude": 37.6150309098489,
     "geom:longitude": -122.3842301712224,
+    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_kind": "T1",
     "mz:is_current": 1,
+    "sfac:accession_id": "2005.8",
+    "sfac:artist": "Stutz, Michael",
+    "sfac:created_at": "01/01/1970 12:33:25 AM +0000",
+    "sfac:credit_line": "",
+    "sfac:display_dimensions": "",
+    "sfac:id": "63daabb62278559f8a0643be8839f375",
+    "sfac:location": "",
+    "sfac:location_description": "",
+    "sfac:medium": "",
+    "sfac:revision": "2-9262e4380a90d01e5c52e6261542bb50",
+    "sfac:source": "San Francisco Arts Commission",
+    "sfac:title": "Cardboard Kore",
     "sfo:level": 2,
+    "sfomuseum:map_id": 107,
+    "sfomuseum:medium": "Discarded cardboard packaging",
+    "sfomuseum:object_id": 109337,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "src:geom": "unknown",
+    "sfomuseum:post_security": 0,
+    "src:geom": "sfomuseum",
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -55,15 +74,18 @@
       }
     ],
     "wof:id": 1914650565,
-    "wof:lastmodified": 1721234802,
-    "wof:name": "michael stutz cardboard....",
+    "wof:label": "Stutz, Michael Cardboard Kore",
+    "wof:lastmodified": 1721241968,
+    "wof:name": "Cardboard Kore",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",
     "wof:placetype_alt": [
       "publicart"
     ],
     "wof:superseded_by": [],
-    "wof:supersedes": []
+    "wof:supersedes": [
+      1360702183
+    ]
   },
   "bbox": [
     -122.3842301712224,
