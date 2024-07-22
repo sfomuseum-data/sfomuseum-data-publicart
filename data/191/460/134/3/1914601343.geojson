@@ -14,8 +14,8 @@
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
-      1796889629,
-      1796889625
+      1914666393,
+      1914666379
     ],
     "mz:is_current": 1,
     "sfac:accession_id": "2019.14",
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1914601343,
     "wof:label": "The Color of Horizons (2024-06-17)",
-    "wof:lastmodified": 1720821946,
+    "wof:lastmodified": 1721681651,
     "wof:name": "The Color of Horizons",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",

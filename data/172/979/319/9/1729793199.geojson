@@ -21,7 +21,7 @@
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "BART",
     "millsfield:waypoint_id": [
-      1796935619
+      1930431163
     ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -101,7 +101,7 @@
     ],
     "wof:id": 1729793199,
     "wof:label": "Kahn, Ned Wind Portal",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1721681651,
     "wof:name": "Wind Portal",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

@@ -21,7 +21,7 @@
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "ITB",
     "millsfield:waypoint_id": [
-      1796889621
+      1914666387
     ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -112,7 +112,7 @@
     ],
     "wof:id": 1914601163,
     "wof:label": "Light Beams for the Sky of A Transfer Corridor (2024-06-17)",
-    "wof:lastmodified": 1720821878,
+    "wof:lastmodified": 1721681651,
     "wof:name": "Light Beams for the Sky of A Transfer Corridor",
     "wof:parent_id": 1914601135,
     "wof:placetype": "venue",

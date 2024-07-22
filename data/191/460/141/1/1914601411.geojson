@@ -21,8 +21,8 @@
     "millsfield:wayfinding_detail": "T2",
     "millsfield:wayfinding_kind": "T1",
     "millsfield:waypoint_id": [
-      1796889569,
-      1797193829
+      1914666301,
+      1914666781
     ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -113,7 +113,7 @@
     ],
     "wof:id": 1914601411,
     "wof:label": "Untitled (2024-06-17)",
-    "wof:lastmodified": 1720821970,
+    "wof:lastmodified": 1721681651,
     "wof:name": "Untitled",
     "wof:parent_id": 1914601349,
     "wof:placetype": "venue",

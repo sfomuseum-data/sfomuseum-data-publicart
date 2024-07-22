@@ -21,7 +21,7 @@
     "millsfield:wayfinding_detail": "E",
     "millsfield:wayfinding_kind": "T3",
     "millsfield:waypoint_id": [
-      1796889499
+      1914666251
     ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -116,7 +116,7 @@
     ],
     "wof:id": 1914600955,
     "wof:label": "Ángulos en Todas las Direcciones (2024-06-17)",
-    "wof:lastmodified": 1720821802,
+    "wof:lastmodified": 1721681651,
     "wof:name": "Ángulos en Todas las Direcciones",
     "wof:parent_id": 1914600917,
     "wof:placetype": "venue",
