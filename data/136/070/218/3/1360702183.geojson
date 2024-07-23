@@ -6,9 +6,11 @@
     "addr:housenumber": "",
     "addr:postcode": "",
     "addr:street": "",
+    "date:cessation_lower": "2019-10-19",
+    "date:cessation_upper": "2019-10-19",
     "date:inception_lower": "2016-08-01",
     "date:inception_upper": "2016-08-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2019-10-19",
     "edtf:inception": "2016-08",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -76,7 +78,7 @@
       }
     ],
     "wof:id": 1360702183,
-    "wof:lastmodified": 1716596276,
+    "wof:lastmodified": 1721241970,
     "wof:name": "Cardboard Kore",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -84,7 +86,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914650565
+    ],
     "wof:supersedes": [
       772975757
     ],

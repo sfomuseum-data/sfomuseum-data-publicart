@@ -6,9 +6,11 @@
     "addr:housenumber": "",
     "addr:postcode": "",
     "addr:street": "",
+    "date:cessation_lower": "2023-12-07",
+    "date:cessation_upper": "2023-12-07",
     "date:inception_lower": "2019-07-23",
     "date:inception_upper": "2019-07-23",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2023-12-07",
     "edtf:inception": "2019-07-23",
     "flysfo:node": 3342,
     "flysfo:url": "https://www.flysfo.com/museum/public-art-collection?nid=3342",
@@ -93,7 +95,7 @@
     ],
     "wof:id": 1477874027,
     "wof:label": "Zajac, Jack Falling Water, Santa Cruz VII",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1721239865,
     "wof:name": "Falling Water, Santa Cruz VII",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -101,7 +103,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914650549
+    ],
     "wof:supersedes": [
       772975851
     ],

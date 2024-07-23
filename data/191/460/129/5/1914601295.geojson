@@ -1,0 +1,112 @@
+{
+  "id": 1914601295,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/red-cadmium-giant",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.384565,37.612957,-122.384565,37.612957",
+    "geom:latitude": 37.61295659134395,
+    "geom:longitude": -122.38456493196448,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_kind": "HMT1",
+    "millsfield:waypoint_id": [
+      1914666227
+    ],
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfac:accession_id": "2018.1",
+    "sfo:level": 2,
+    "sfomuseum:artist_dates": "b. 1969",
+    "sfomuseum:artist_name": "Mark Handforth",
+    "sfomuseum:boardingarea": "B",
+    "sfomuseum:building": "T1",
+    "sfomuseum:category": "sculpture",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "2019",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:map_id": 142,
+    "sfomuseum:medium": "Painted aluminum, cast aluminum, fluorescent lights",
+    "sfomuseum:object_id": 203190,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "ceiling sculpture",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387,
+      1914600839,
+      1914601199,
+      1914601197
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sfac:accession_id": "T2018.1",
+      "sfomuseum:object_id": 203190
+    },
+    "wof:country": "US",
+    "wof:created": 1720821927,
+    "wof:geomhash": "79303b6a3b58935209bbd2a242bf8c02",
+    "wof:hierarchy": [
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914601295,
+        "wing_id": 1914601197
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1914601295,
+        "wing_id": 1914601197
+      }
+    ],
+    "wof:id": 1914601295,
+    "wof:label": "Red Cadmium Giant (2024-06-17)",
+    "wof:lastmodified": 1721681651,
+    "wof:name": "Red Cadmium Giant",
+    "wof:parent_id": 1914601199,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1745903827
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.38456493196448,
+    37.61295659134395,
+    -122.38456493196448,
+    37.61295659134395
+  ],
+  "geometry": {"coordinates":[-122.38456493196448,37.61295659134395],"type":"Point"}
+}

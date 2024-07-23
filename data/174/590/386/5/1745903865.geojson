@@ -2,9 +2,11 @@
   "id": 1477873919,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-17",
+    "date:cessation_upper": "2024-06-17",
     "date:inception_lower": "2021-05-25",
     "date:inception_upper": "2021-05-25",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-06-17",
     "edtf:inception": "2021-05-25",
     "flysfo:node": 21547,
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/rivenriver",
@@ -20,7 +22,7 @@
       1796889479
     ],
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfac:accession_id": "2016.22",
     "sfo:level": 2,
     "sfomuseum:artist_dates": "b. 1930",
@@ -92,7 +94,7 @@
     ],
     "wof:id": 1745903865,
     "wof:label": "Riven/River",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1720821971,
     "wof:name": "Riven/River",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",
@@ -100,7 +102,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914601413
+    ],
     "wof:supersedes": [
       1729793275
     ],

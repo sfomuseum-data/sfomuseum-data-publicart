@@ -2,15 +2,21 @@
   "id": 1914676763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
-    "edtf:inception": "",
+    "date:inception_lower": "2024-06-17",
+    "date:inception_upper": "2024-06-17",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-06-17",
     "flysfo:url": "",
-    "geom:area": 0.0000035075038730271646,
-    "geom:bbox": "-122.375271,37.618277,-122.372396,37.620503",
-    "geom:latitude": 37.61939390848619,
-    "geom:longitude": -122.37385309950533,
+    "geom:area": 0,
+    "geom:bbox": "-122.384243,37.615389,-122.384243,37.615389",
+    "geom:latitude": 37.61538901396383,
+    "geom:longitude": -122.38424313634023,
+    "millsfield:waypoint_id": [
+      1914676377
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "2018.34",
+    "sfo:level": 2,
     "sfomuseum:artist_dates": "b. 1978",
     "sfomuseum:artist_name": "Ala Ebtekar",
     "sfomuseum:boardingarea": "",
@@ -40,7 +46,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1721422048,
-    "wof:geomhash": "5fe5ecf00bc1ee9c6b86044c0102c278",
+    "wof:geomhash": "29e7974d44363ed352187374bdd24d4f",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -67,7 +73,7 @@
     ],
     "wof:id": 1914676763,
     "wof:label": "Zenith (VII)",
-    "wof:lastmodified": 1721422048,
+    "wof:lastmodified": 1721765730,
     "wof:name": "Zenith (VII)",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -79,10 +85,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.37527132034302,
-    37.61827669585204,
-    -122.37239599227904,
-    37.620503205877995
+    -122.38424313634023,
+    37.61538901396383,
+    -122.38424313634023,
+    37.61538901396383
   ],
-  "geometry": {"coordinates":[[[-122.37527132034302,37.61904153505861],[-122.37344741821288,37.61827669585204],[-122.37239599227904,37.61973838170797],[-122.37432718276976,37.620503205877995],[-122.37527132034302,37.61904153505861]]],"type":"Polygon"}
+  "geometry": {"coordinates":[-122.38424313634023,37.61538901396383],"type":"Point"}
 }

@@ -71,7 +71,7 @@
       }
     ],
     "wof:id": 772974349,
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1721255168,
     "wof:name": "Cityscape #33",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -79,7 +79,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1914651271
+    ],
     "wof:supersedes": [],
     "wof:tags": [
       "artwork",
