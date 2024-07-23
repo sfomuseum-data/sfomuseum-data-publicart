@@ -8,6 +8,9 @@
     "geom:bbox": "-122.384204,37.615019,-122.384204,37.615019",
     "geom:latitude": 37.615018827799965,
     "geom:longitude": -122.38420369814186,
+    "millsfield:waypoint_id": [
+      1914676381
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "2007.3",
     "sfac:artist": "Shaw, Richard",
@@ -79,7 +82,7 @@
     ],
     "wof:id": 1914650571,
     "wof:label": "Shaw, Richard Martha H",
-    "wof:lastmodified": 1721244473,
+    "wof:lastmodified": 1721766125,
     "wof:name": "Martha H",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",

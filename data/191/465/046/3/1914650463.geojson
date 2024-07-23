@@ -10,8 +10,12 @@
     "geom:bbox": "-122.384950,37.614548,-122.384679,37.614740",
     "geom:latitude": 37.61463870950627,
     "geom:longitude": -122.38481711182116,
+    "millsfield:waypoint_id": [
+      1914676385
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "",
+    "sfo:level": 2,
     "sfomuseum:category": "mural",
     "sfomuseum:collection": "Arts Commission",
     "sfomuseum:description": "",
@@ -69,7 +73,7 @@
     ],
     "wof:id": 1914650463,
     "wof:label": "Calderwood, Craig The Only Blue is the Sky",
-    "wof:lastmodified": 1721254232,
+    "wof:lastmodified": 1721766187,
     "wof:name": "The Only Blue is the Sky",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",

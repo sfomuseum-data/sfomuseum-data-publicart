@@ -10,6 +10,9 @@
     "geom:bbox": "-122.384170,37.614996,-122.384170,37.614996",
     "geom:latitude": 37.61499576397368,
     "geom:longitude": -122.38416972596826,
+    "millsfield:waypoint_id": [
+      1914676383
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "1980.7",
     "sfac:artist": "Noguchi, Isamu",
@@ -81,7 +84,7 @@
     ],
     "wof:id": 1914650575,
     "wof:label": "Noguchi, Isamu Figure",
-    "wof:lastmodified": 1721244473,
+    "wof:lastmodified": 1721765963,
     "wof:name": "Figure",
     "wof:parent_id": 1914601309,
     "wof:placetype": "venue",

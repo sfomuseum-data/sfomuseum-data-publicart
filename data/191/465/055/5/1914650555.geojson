@@ -10,6 +10,9 @@
     "geom:bbox": "-122.384243,37.615340,-122.384243,37.615340",
     "geom:latitude": 37.61534033637963,
     "geom:longitude": -122.38424303110726,
+    "millsfield:waypoint_id": [
+      1914676377
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "1986.58",
     "sfac:artist": "Neri, Manuel",
@@ -81,7 +84,7 @@
     ],
     "wof:id": 1914650555,
     "wof:label": "Neri, Manuel Mujer Pegada, No. 4",
-    "wof:lastmodified": 1721244473,
+    "wof:lastmodified": 1721765920,
     "wof:name": "Mujer Pegada, No. 4",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",

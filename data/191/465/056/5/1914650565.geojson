@@ -10,6 +10,9 @@
     "geom:longitude": -122.3842301712224,
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "T1",
+    "millsfield:waypoint_id": [
+      1914676381
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "2005.8",
     "sfac:artist": "Stutz, Michael",
@@ -75,7 +78,7 @@
     ],
     "wof:id": 1914650565,
     "wof:label": "Stutz, Michael Cardboard Kore",
-    "wof:lastmodified": 1721244473,
+    "wof:lastmodified": 1721766071,
     "wof:name": "Cardboard Kore",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",

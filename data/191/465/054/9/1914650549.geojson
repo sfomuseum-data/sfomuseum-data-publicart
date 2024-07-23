@@ -11,6 +11,9 @@
     "geom:bbox": "-122.384419,37.615400,-122.384419,37.615400",
     "geom:latitude": 37.61539995557062,
     "geom:longitude": -122.38441929734387,
+    "millsfield:waypoint_id": [
+      1914676377
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "1986.17",
     "sfac:artist": "Zajac, Jack",
@@ -86,7 +89,7 @@
     ],
     "wof:id": 1914650549,
     "wof:label": "Zajac, Jack Falling Water, Santa Cruz VII",
-    "wof:lastmodified": 1721244473,
+    "wof:lastmodified": 1721765623,
     "wof:name": "Falling Water, Santa Cruz VII",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",

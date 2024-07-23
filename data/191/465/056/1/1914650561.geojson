@@ -10,6 +10,9 @@
     "geom:bbox": "-122.384268,37.615050,-122.384268,37.615050",
     "geom:latitude": 37.61504977858537,
     "geom:longitude": -122.38426815520661,
+    "millsfield:waypoint_id": [
+      1914676381
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "1977.37",
     "sfac:artist": "Crumpler, Dewey",
@@ -78,7 +81,7 @@
     ],
     "wof:id": 1914650561,
     "wof:label": "Crumpler, Dewey Untitled",
-    "wof:lastmodified": 1721244473,
+    "wof:lastmodified": 1721766031,
     "wof:name": "Untitled",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",

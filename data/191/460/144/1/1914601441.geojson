@@ -16,7 +16,10 @@
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "T1",
-    "millsfield:waypoint_id": [],
+    "millsfield:waypoint_id": [
+      1914666215,
+      1914666575
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfac:accession_id": "2015.455.a-b",
@@ -90,7 +93,7 @@
     ],
     "wof:id": 1914601441,
     "wof:label": "High Heels for Going to Heaven  (2024-06-17)",
-    "wof:lastmodified": 1721234657,
+    "wof:lastmodified": 1721766602,
     "wof:name": "High Heels for Going to Heaven ",
     "wof:parent_id": 1914601309,
     "wof:placetype": "venue",

@@ -10,6 +10,9 @@
     "geom:bbox": "-122.384859,37.614407,-122.384859,37.614407",
     "geom:latitude": 37.61440723943002,
     "geom:longitude": -122.38485930230462,
+    "millsfield:waypoint_id": [
+      1914676387
+    ],
     "mz:is_current": 1,
     "sfac:accession_id": "",
     "sfo:level": 2,
@@ -70,7 +73,7 @@
     ],
     "wof:id": 1914650581,
     "wof:label": "Husky, Suzanne Close Encounter with the California Sublime",
-    "wof:lastmodified": 1721244473,
+    "wof:lastmodified": 1721766477,
     "wof:name": "Close Encounter with the California Sublime",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",
