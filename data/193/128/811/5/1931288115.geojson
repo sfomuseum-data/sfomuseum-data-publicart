@@ -1,15 +1,15 @@
 {
-  "id": 772974793,
+  "id": 1931288115,
   "type": "Feature",
   "properties": {
     "addr:full": "",
     "addr:housenumber": "",
     "addr:postcode": "",
     "addr:street": "",
-    "date:cessation_lower": "2024-10-15",
-    "date:cessation_upper": "2024-10-15",
-    "edtf:cessation": "2024-10-15",
-    "edtf:inception": "",
+    "date:inception_lower": "2024-09-01",
+    "date:inception_upper": "2024-09-30",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-09~",
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.373882,37.619369,-122.373882,37.619369",
@@ -17,34 +17,34 @@
     "geom:longitude": -122.3738819360733,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "mz:is_retail": -1,
-    "sfac:accession_id": "1979.65",
+    "sfac:accession_id": "1979.66",
     "sfac:artist": "Diebenkorn, Richard",
     "sfac:created_at": "01/01/1970 12:32:57 AM +0000",
     "sfac:credit_line": "Purchased by the San Francisco Art Commission for the San Francisco International Airport",
     "sfac:display_dimensions": "30\" H X 22\" W",
-    "sfac:id": "63daabb62278559f8a0643be882bd1ab",
+    "sfac:id": "63daabb62278559f8a0643be882bcf95",
     "sfac:location": "",
-    "sfac:location_description": "City Department : San Francisco International Airport : John Martin's Office",
+    "sfac:location_description": "City Department : San Francisco International Airport  : John Martin's Office",
     "sfac:medium": "Drypoint and etching",
-    "sfac:revision": "2-dd5479bb5ca655275054f392d18d92d9",
+    "sfac:revision": "2-6a6019a2d4de6aee93b7dcdfb57fcc88",
     "sfac:source": "San Francisco Arts Commission",
     "sfac:title": "Untitled",
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:category": "print",
     "sfomuseum:collection": "Arts Commission",
-    "sfomuseum:is_current": -2,
+    "sfomuseum:is_current": 2,
     "sfomuseum:is_sfo": 1,
-    "sfomuseum:level": "5",
-    "sfomuseum:map_id": 0,
+    "sfomuseum:level": 2,
+    "sfomuseum:map_id": 212,
     "sfomuseum:medium": "Paper, ink",
-    "sfomuseum:object_id": 109372,
-    "sfomuseum:on_display": 0,
+    "sfomuseum:object_id": 109373,
+    "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "etching",
-    "sfomuseum:terminal": "IT",
+    "sfomuseum:terminal": "T1",
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
@@ -53,13 +53,18 @@
       85633793,
       85922583,
       102087579,
-      85688637
+      85688637,
+      1914600839,
+      1914601199,
+      554784711,
+      1914601197,
+      102085387
     ],
     "wof:brand_id": 1125159427,
     "wof:breaches": [],
     "wof:concordances": {
-      "sfac:accession_id": "1979.65",
-      "sfomuseum:object_id": 109372
+      "sfac:accession_id": "1979.66",
+      "sfomuseum:object_id": 109373
     },
     "wof:controlled": [
       "wof:hierarchy"
@@ -69,29 +74,44 @@
     "wof:geomhash": "d738f15869ffbc2c035f95d1cb424bf8",
     "wof:hierarchy": [
       {
+        "building_id": 1914600839,
         "campus_id": 102527513,
+        "concourse_id": 1914601199,
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
         "locality_id": 85922583,
+        "postalcode_id": 554784711,
         "region_id": 85688637,
-        "venue_id": 772974793
+        "venue_id": 1931288115,
+        "wing_id": 1914601197
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601199,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1931288115,
+        "wing_id": 1914601197
       }
     ],
-    "wof:id": 772974793,
-    "wof:label": "Untitled/ print no. 79.64-5/9",
-    "wof:lastmodified": 1729026596,
-    "wof:name": "Untitled/ print no. 79.64-5/9",
-    "wof:parent_id": 1729828959,
+    "wof:id": 1931288115,
+    "wof:label": "Untitled/ print no. 79.67-8/9",
+    "wof:lastmodified": 1729027386,
+    "wof:name": "Untitled/ print no. 79.67-8/9",
+    "wof:parent_id": 1914601199,
     "wof:placetype": "venue",
     "wof:placetype_alt": [
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [
-      1931288113
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      772974791
     ],
-    "wof:supersedes": [],
     "wof:tags": [
       "artwork",
       "public_art"
