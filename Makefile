@@ -19,5 +19,8 @@ level4:
 	@make current LEVEL=4
 
 current:
+	mkdir -p work
 	$(AS_FEATURECOLLECTION) -iterator-uri 'repo://?include=properties.mz:is_current=1&include=properties.sfo:level=$(LEVEL)' $(CWD) > work/publicart-level$(LEVEL).geojson
 
+scrub:
+	find . -type f -name '*~' | xargs rm
