@@ -2,7 +2,10 @@
   "id": 1175727103,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-08-14",
+    "date:cessation_upper": "2024-08-14",
     "edtf:cessation": "2024-08-14",
+    "edtf:deprecated": "2024-08-14",
     "edtf:inception": "",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -13,14 +16,14 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "sfac:accession_id": "2004.2",
-    "sfo:level": -1,
+    "sfo:level": 2,
     "sfomuseum:is_current": -2,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:map_id": 105,
     "sfomuseum:object_id": 109340,
     "sfomuseum:on_display": 1,
     "sfomuseum:placetype": "publicart",
-    "sfomuseum:post_security": 0,
+    "sfomuseum:post_security": 1,
     "src:geom": "sfomuseum",
     "wof:belongsto": [
       102527513,
@@ -50,7 +53,7 @@
       }
     ],
     "wof:id": 1175727103,
-    "wof:lastmodified": 1716596276,
+    "wof:lastmodified": 1729032930,
     "wof:name": "Kaneko, Jun Tall Dango (00-08-21)",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -58,10 +61,12 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [1930734339],
+    "wof:superseded_by": [
+      1930734339
+    ],
     "wof:supersedes": [],
     "wof:tags": []
-  ,"edtf:deprecated":"2024-08-14"},
+  },
   "bbox": [
     -122.3738819360733,
     37.61936871387201,
