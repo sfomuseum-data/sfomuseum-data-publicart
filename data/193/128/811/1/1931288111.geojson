@@ -12,9 +12,9 @@
     "edtf:inception": "2024-09~",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.384627,37.613902,-122.384627,37.613902",
-    "geom:latitude": 37.61390199955348,
-    "geom:longitude": -122.38462654064935,
+    "geom:bbox": "-122.384639,37.614024,-122.384639,37.614024",
+    "geom:latitude": 37.614024366261745,
+    "geom:longitude": -122.38463912316269,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -71,7 +71,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387356,
-    "wof:geomhash": "8833332b94b0b8b4425af28321a2e8af",
+    "wof:geomhash": "408485d504bdce92a429946862925815",
     "wof:hierarchy": [
       {
         "building_id": 1914600839,
@@ -100,7 +100,7 @@
     ],
     "wof:id": 1931288111,
     "wof:label": "Untitled/ print no. 79.61-2/9",
-    "wof:lastmodified": 1729030434,
+    "wof:lastmodified": 1729110090,
     "wof:name": "Untitled/ print no. 79.61-2/9",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",
@@ -118,10 +118,10 @@
     ]
   },
   "bbox": [
-    -122.38462654064935,
-    37.61390199955348,
-    -122.38462654064935,
-    37.61390199955348
+    -122.38463912316269,
+    37.614024366261745,
+    -122.38463912316269,
+    37.614024366261745
   ],
-  "geometry": {"coordinates":[-122.38462654064935,37.61390199955348],"type":"Point"}
+  "geometry": {"coordinates":[-122.38463912316269,37.614024366261745],"type":"Point"}
 }
