@@ -12,6 +12,10 @@
     "geom:latitude": 37.614028186986395,
     "geom:longitude": -122.3846236391733,
     "iso:country": "US",
+    "millsfield:waypoint_id": [
+      1914676363,
+      1914666591
+    ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfac:accession_id": "1979.64",
@@ -79,7 +83,7 @@
     ],
     "wof:id": 1931288117,
     "wof:label": "Untitled/ print no. 79.65-6/9",
-    "wof:lastmodified": 1729110090,
+    "wof:lastmodified": 1729112693,
     "wof:name": "Untitled/ print no. 79.65-6/9",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",
