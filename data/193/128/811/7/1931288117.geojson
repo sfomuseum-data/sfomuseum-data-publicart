@@ -12,6 +12,8 @@
     "geom:latitude": 37.614028186986395,
     "geom:longitude": -122.3846236391733,
     "iso:country": "US",
+    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
       1914676363,
       1914666591
@@ -83,7 +85,7 @@
     ],
     "wof:id": 1931288117,
     "wof:label": "Untitled/ print no. 79.65-6/9",
-    "wof:lastmodified": 1729119181,
+    "wof:lastmodified": 1729126602,
     "wof:name": "Untitled/ print no. 79.65-6/9",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",

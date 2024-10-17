@@ -12,6 +12,8 @@
     "geom:latitude": 37.61509202103748,
     "geom:longitude": -122.38304513135412,
     "iso:country": "US",
+    "millsfield:wayfinding_detail": "C",
+    "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
       1914666707,
       1914666323
@@ -56,7 +58,7 @@
       }
     ],
     "wof:id": 1175727101,
-    "wof:lastmodified": 1729112418,
+    "wof:lastmodified": 1729126509,
     "wof:name": "Kaneko, Jun Tall Dango (02-08-04)",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
