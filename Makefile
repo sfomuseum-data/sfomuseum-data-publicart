@@ -7,7 +7,7 @@ current:
 	mkdir -p work
 	$(AS_FEATURECOLLECTION) \
 		-iterator-uri 'repo://?include=properties.mz:is_current=1' \
-		$(CWD) > work/publicart-level$(LEVEL).geojson
+		$(CWD) > work/publicart.geojson
 
 scrub:
 	find . -type f -name '*~' | xargs rm
