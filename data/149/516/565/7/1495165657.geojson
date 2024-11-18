@@ -2,9 +2,11 @@
   "id": 1495165657,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2019-01-01",
     "date:inception_upper": "2019-12-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2019",
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/november-evening-cloud-46",
     "geom:area": 0,
@@ -20,7 +22,7 @@
     ],
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfac:accession_id": "2018.32",
     "sfo:level": 3,
     "sfomuseum:artist_dates": "b. 1978",
@@ -82,7 +84,7 @@
     ],
     "wof:id": 1495165657,
     "wof:label": "November Evening Cloud 4.6",
-    "wof:lastmodified": 1721681651,
+    "wof:lastmodified": 1731966376,
     "wof:name": "November Evening Cloud 4.6",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -90,7 +92,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305635
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },

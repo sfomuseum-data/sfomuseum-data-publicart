@@ -1,0 +1,98 @@
+{
+  "id": 1947304405,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.386386,37.614214,-122.386386,37.614214",
+    "geom:latitude": 37.61421405015416,
+    "geom:longitude": -122.38638637537798,
+    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_kind": "HMT1",
+    "mz:is_current": 1,
+    "sfac:accession_id": "2018.10",
+    "sfo:level": 2,
+    "sfomuseum:artist_dates": "b. 1991",
+    "sfomuseum:artist_name": "Emily Fromm",
+    "sfomuseum:boardingarea": "B",
+    "sfomuseum:building": "T1",
+    "sfomuseum:category": "mosaic",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "2019",
+    "sfomuseum:map_id": 188,
+    "sfomuseum:medium": "Byzantine Smalti Mosaic",
+    "sfomuseum:object_id": 203424,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067,
+      1947304383,
+      1947304259
+    ],
+    "wof:country": "US",
+    "wof:created": 1731958720,
+    "wof:geomhash": "b898631387918247f9e82aad42ae23f7",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304383,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304405,
+        "wing_id": 1947304259
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304383,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1947304405,
+        "wing_id": 1947304259
+      }
+    ],
+    "wof:id": 1947304405,
+    "wof:label": "Four Corners\r (2024-11-05)",
+    "wof:lastmodified": 1731958720,
+    "wof:name": "Four Corners\r",
+    "wof:parent_id": 1947304383,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914601325
+    ]
+  },
+  "bbox": [
+    -122.38638637537798,
+    37.61421405015416,
+    -122.38638637537798,
+    37.61421405015416
+  ],
+  "geometry": {"coordinates":[-122.38638637537798,37.61421405015416],"type":"Point"}
+}

@@ -2,9 +2,11 @@
   "id": 1175727127,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2019-07-01",
     "date:inception_upper": "2019-07-31",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2019-07",
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/2-3-5-7-nine-drypoints-and-etchings",
     "geom:area": 0,
@@ -19,7 +21,7 @@
       1930431147
     ],
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfac:accession_id": "1979.67",
     "sfo:level": 4,
     "sfomuseum:artist_dates": "1922 - 1993",
@@ -82,7 +84,7 @@
     ],
     "wof:id": 1175727127,
     "wof:label": "Untitled/ print no. 79.67-4/9",
-    "wof:lastmodified": 1721681651,
+    "wof:lastmodified": 1731966364,
     "wof:name": "Untitled/ print no. 79.67-4/9",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",
@@ -90,7 +92,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947305585
+    ],
     "wof:supersedes": [],
     "wof:tags": []
   },

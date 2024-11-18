@@ -6,9 +6,11 @@
     "addr:housenumber": "",
     "addr:postcode": "",
     "addr:street": "",
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "flysfo:node": 3319,
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/17-december-1903",
@@ -22,7 +24,7 @@
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [],
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "mz:is_retail": -1,
     "sfac:accession_id": "1979.34",
     "sfac:artist": "Hedrick, Wally",
@@ -109,7 +111,7 @@
     ],
     "wof:id": 1914601531,
     "wof:label": "Hedrick, Wally 17 December 1903",
-    "wof:lastmodified": 1721806875,
+    "wof:lastmodified": 1731958816,
     "wof:name": "17 December 1903",
     "wof:parent_id": 1914601497,
     "wof:placetype": "venue",
@@ -117,7 +119,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304771
+    ],
     "wof:supersedes": [
       1745903929
     ],

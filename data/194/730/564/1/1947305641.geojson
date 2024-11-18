@@ -1,0 +1,104 @@
+{
+  "id": 1947305641,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/green-map",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.393854,37.613011,-122.393854,37.613011",
+    "geom:latitude": 37.61301054503201,
+    "geom:longitude": -122.39385389087114,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "GHH",
+    "millsfield:waypoint_id": [
+      1930431197,
+      1930431201
+    ],
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfac:accession_id": "2018.27",
+    "sfo:level": 1,
+    "sfomuseum:artist_dates": "b. 1967",
+    "sfomuseum:artist_name": "Ellen Harvey",
+    "sfomuseum:boardingarea": "",
+    "sfomuseum:building": "Hotel",
+    "sfomuseum:category": "mosaic",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "2019",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:map_id": 167,
+    "sfomuseum:medium": "hand-cut glass, stone mosaic",
+    "sfomuseum:object_id": 203093,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:subcategory": "",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sfac:accession_id": "T2018.27",
+      "sfomuseum:object_id": 203093
+    },
+    "wof:country": "US",
+    "wof:created": 1731966376,
+    "wof:geomhash": "83b153ab7ff325aaa8a4a965c298e047",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947305641
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1947305641
+      }
+    ],
+    "wof:id": 1947305641,
+    "wof:label": "Green Map (2024-11-05)",
+    "wof:lastmodified": 1731966376,
+    "wof:name": "Green Map",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1495165669
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.39385389087114,
+    37.61301054503201,
+    -122.39385389087114,
+    37.61301054503201
+  ],
+  "geometry": {"coordinates":[-122.39385389087114,37.61301054503201],"type":"Point"}
+}

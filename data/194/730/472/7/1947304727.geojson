@@ -1,0 +1,99 @@
+{
+  "id": 1947304727,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.383457,37.617543,-122.383457,37.617543",
+    "geom:latitude": 37.61754306837009,
+    "geom:longitude": -122.38345732841492,
+    "millsfield:wayfinding_detail": "D",
+    "millsfield:wayfinding_kind": "T2",
+    "mz:is_current": 1,
+    "sfac:accession_id": "T2021.21",
+    "sfo:level": 2,
+    "sfomuseum:artist_dates": "b. 1952",
+    "sfomuseum:artist_name": "Janet Delaney",
+    "sfomuseum:boardingarea": "",
+    "sfomuseum:building": "",
+    "sfomuseum:category": "photography",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "1985",
+    "sfomuseum:gallery_id": 225172,
+    "sfomuseum:map_id": 205,
+    "sfomuseum:medium": "archival pigment print",
+    "sfomuseum:object_id": 225172,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:subcategory": "archival pigment print",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067,
+      1947304691,
+      1947304591
+    ],
+    "wof:country": "US",
+    "wof:created": 1731958802,
+    "wof:geomhash": "88a8e732053b3e65990628c6a3eb7d77",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304691,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304727,
+        "wing_id": 1947304591
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304691,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1947304727,
+        "wing_id": 1947304591
+      }
+    ],
+    "wof:id": 1947304727,
+    "wof:label": "Woman with Mexican Flag (from Public Matters, 1982-1988) (2024-11-05)",
+    "wof:lastmodified": 1731958802,
+    "wof:name": "Woman with Mexican Flag (from Public Matters, 1982-1988)",
+    "wof:parent_id": 1947304691,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914601481
+    ]
+  },
+  "bbox": [
+    -122.38345732841492,
+    37.61754306837009,
+    -122.38345732841492,
+    37.61754306837009
+  ],
+  "geometry": {"coordinates":[-122.38345732841492,37.61754306837009],"type":"Point"}
+}

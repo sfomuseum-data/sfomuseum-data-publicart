@@ -2,9 +2,11 @@
   "id": 1914650463,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "geom:area": 1.4626436893374138e-9,
     "geom:bbox": "-122.384950,37.614548,-122.384679,37.614740",
@@ -13,7 +15,7 @@
     "millsfield:waypoint_id": [
       1914676385
     ],
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfac:accession_id": "",
     "sfo:level": 2,
     "sfomuseum:category": "mural",
@@ -73,7 +75,7 @@
     ],
     "wof:id": 1914650463,
     "wof:label": "Calderwood, Craig The Only Blue is the Sky",
-    "wof:lastmodified": 1721766187,
+    "wof:lastmodified": 1731958726,
     "wof:name": "The Only Blue is the Sky",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",
@@ -81,7 +83,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304427
+    ],
     "wof:supersedes": []
   },
   "bbox": [

@@ -1,0 +1,112 @@
+{
+  "id": 1947304439,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384230,37.615031,-122.384230,37.615031",
+    "geom:latitude": 37.6150309098489,
+    "geom:longitude": -122.3842301712224,
+    "millsfield:wayfinding_detail": "B",
+    "millsfield:wayfinding_kind": "T1",
+    "millsfield:waypoint_id": [
+      1914676381
+    ],
+    "mz:is_current": 1,
+    "sfac:accession_id": "2005.8",
+    "sfac:artist": "Stutz, Michael",
+    "sfac:created_at": "01/01/1970 12:33:25 AM +0000",
+    "sfac:credit_line": "",
+    "sfac:display_dimensions": "",
+    "sfac:id": "63daabb62278559f8a0643be8839f375",
+    "sfac:location": "",
+    "sfac:location_description": "",
+    "sfac:medium": "",
+    "sfac:revision": "2-9262e4380a90d01e5c52e6261542bb50",
+    "sfac:source": "San Francisco Arts Commission",
+    "sfac:title": "Cardboard Kore",
+    "sfo:level": 2,
+    "sfomuseum:artist_dates": "b. 1964",
+    "sfomuseum:artist_name": "Michael Stutz",
+    "sfomuseum:boardingarea": "C",
+    "sfomuseum:building": "T1",
+    "sfomuseum:category": "sculpture",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "2005",
+    "sfomuseum:map_id": 107,
+    "sfomuseum:medium": "Discarded cardboard packaging",
+    "sfomuseum:object_id": 109337,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067,
+      1947304417,
+      1947304259
+    ],
+    "wof:country": "US",
+    "wof:created": 1731958729,
+    "wof:geomhash": "815a20fbe3fab9b49bf284bd7e95bbd3",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304417,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304439,
+        "wing_id": 1947304259
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304417,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1947304439,
+        "wing_id": 1947304259
+      }
+    ],
+    "wof:id": 1947304439,
+    "wof:label": "Cardboard Kore / Peplos Kore (2024-11-05)",
+    "wof:lastmodified": 1731958729,
+    "wof:name": "Cardboard Kore / Peplos Kore",
+    "wof:parent_id": 1947304417,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914650565
+    ]
+  },
+  "bbox": [
+    -122.3842301712224,
+    37.6150309098489,
+    -122.3842301712224,
+    37.6150309098489
+  ],
+  "geometry": {"coordinates":[-122.3842301712224,37.6150309098489],"type":"Point"}
+}

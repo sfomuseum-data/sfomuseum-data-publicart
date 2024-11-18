@@ -1,0 +1,102 @@
+{
+  "id": 1947304729,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.383987,37.617697,-122.383987,37.617697",
+    "geom:latitude": 37.617696659848676,
+    "geom:longitude": -122.38398666760429,
+    "millsfield:wayfinding_detail": "T3",
+    "millsfield:wayfinding_kind": "T2",
+    "millsfield:waypoint_id": [
+      1914666313
+    ],
+    "mz:is_current": 1,
+    "sfac:accession_id": "",
+    "sfo:level": 2,
+    "sfomuseum:artist_dates": "",
+    "sfomuseum:artist_name": "",
+    "sfomuseum:boardingarea": "",
+    "sfomuseum:building": "T2/T3",
+    "sfomuseum:category": "mural",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "",
+    "sfomuseum:gallery_id": 223768,
+    "sfomuseum:map_id": 209,
+    "sfomuseum:medium": "aluminum dibond composite, clear acrylic glass, tempered safety glass",
+    "sfomuseum:object_id": 223768,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067,
+      1947304691,
+      1947304591
+    ],
+    "wof:country": "US",
+    "wof:created": 1731958804,
+    "wof:geomhash": "171151a3b47d31684ce76d180cb79a2c",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304691,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304729,
+        "wing_id": 1947304591
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304691,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1947304729,
+        "wing_id": 1947304591
+      }
+    ],
+    "wof:id": 1947304729,
+    "wof:label": "Continuous City (2024-11-05)",
+    "wof:lastmodified": 1731958804,
+    "wof:name": "Continuous City",
+    "wof:parent_id": 1947304691,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914601483
+    ]
+  },
+  "bbox": [
+    -122.38398666760429,
+    37.617696659848676,
+    -122.38398666760429,
+    37.617696659848676
+  ],
+  "geometry": {"coordinates":[-122.38398666760429,37.617696659848676],"type":"Point"}
+}
