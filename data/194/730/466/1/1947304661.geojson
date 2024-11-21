@@ -21,8 +21,8 @@
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
-      1914666233,
-      1914666213
+      1947304843,
+      1947304817
     ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -117,7 +117,7 @@
     ],
     "wof:id": 1947304661,
     "wof:label": "Every Beating Second  (2024-11-05)",
-    "wof:lastmodified": 1731958785,
+    "wof:lastmodified": 1731979523,
     "wof:name": "Every Beating Second ",
     "wof:parent_id": 1947304595,
     "wof:placetype": "venue",

@@ -12,7 +12,7 @@
     "geom:latitude": 37.61538901396383,
     "geom:longitude": -122.38424313634023,
     "millsfield:waypoint_id": [
-      1914676377
+      1947305195
     ],
     "mz:is_current": 1,
     "sfac:accession_id": "2018.34",
@@ -77,7 +77,7 @@
     ],
     "wof:id": 1947305599,
     "wof:label": "Zenith (VII) (2024-11-05)",
-    "wof:lastmodified": 1731966366,
+    "wof:lastmodified": 1731979523,
     "wof:name": "Zenith (VII)",
     "wof:parent_id": 1947304417,
     "wof:placetype": "venue",

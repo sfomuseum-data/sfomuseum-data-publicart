@@ -14,7 +14,7 @@
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "T2",
     "millsfield:waypoint_id": [
-      1914666421
+      1947305009
     ],
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.38",
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1947304787,
     "wof:label": "Bar Patrons Outside the Club Flamingo (2024-11-05)",
-    "wof:lastmodified": 1731958821,
+    "wof:lastmodified": 1731979523,
     "wof:name": "Bar Patrons Outside the Club Flamingo",
     "wof:parent_id": 1947304739,
     "wof:placetype": "venue",

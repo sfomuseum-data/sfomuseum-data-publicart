@@ -12,7 +12,7 @@
     "geom:latitude": 37.61499576397368,
     "geom:longitude": -122.38416972596826,
     "millsfield:waypoint_id": [
-      1914676383
+      1947305199
     ],
     "mz:is_current": 1,
     "sfac:accession_id": "1980.7",
@@ -91,7 +91,7 @@
     ],
     "wof:id": 1947304397,
     "wof:label": "Figure (2024-11-05)",
-    "wof:lastmodified": 1731958717,
+    "wof:lastmodified": 1731979523,
     "wof:name": "Figure",
     "wof:parent_id": 1947304383,
     "wof:placetype": "venue",

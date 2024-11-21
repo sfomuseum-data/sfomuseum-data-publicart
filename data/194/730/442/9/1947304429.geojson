@@ -11,7 +11,7 @@
     "geom:latitude": 37.61440723943002,
     "geom:longitude": -122.38485930230462,
     "millsfield:waypoint_id": [
-      1914676387
+      1947305207
     ],
     "mz:is_current": 1,
     "sfac:accession_id": "",
@@ -73,7 +73,7 @@
     ],
     "wof:id": 1947304429,
     "wof:label": "Close Encounter with the California Sublime (2024-11-05)",
-    "wof:lastmodified": 1731958727,
+    "wof:lastmodified": 1731979523,
     "wof:name": "Close Encounter with the California Sublime",
     "wof:parent_id": 1947304417,
     "wof:placetype": "venue",

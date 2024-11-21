@@ -12,7 +12,7 @@
     "geom:latitude": 37.615018827799965,
     "geom:longitude": -122.38420369814186,
     "millsfield:waypoint_id": [
-      1914676381
+      1947305179
     ],
     "mz:is_current": 1,
     "sfac:accession_id": "2007.3",
@@ -91,7 +91,7 @@
     ],
     "wof:id": 1947304441,
     "wof:label": "Martha H. (2024-11-05)",
-    "wof:lastmodified": 1731958729,
+    "wof:lastmodified": 1731979523,
     "wof:name": "Martha H.",
     "wof:parent_id": 1947304417,
     "wof:placetype": "venue",

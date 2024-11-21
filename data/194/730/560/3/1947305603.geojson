@@ -21,7 +21,7 @@
     "millsfield:wayfinding_detail": "ARR",
     "millsfield:wayfinding_kind": "ITB",
     "millsfield:waypoint_id": [
-      1914666265
+      1947304871
     ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -105,7 +105,7 @@
     ],
     "wof:id": 1947305603,
     "wof:label": "Welcome (2024-11-05)",
-    "wof:lastmodified": 1731966366,
+    "wof:lastmodified": 1731979523,
     "wof:name": "Welcome",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",

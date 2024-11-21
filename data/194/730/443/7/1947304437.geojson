@@ -12,7 +12,7 @@
     "geom:latitude": 37.61504977858537,
     "geom:longitude": -122.38426815520661,
     "millsfield:waypoint_id": [
-      1914676381
+      1947305179
     ],
     "mz:is_current": 1,
     "sfac:accession_id": "1977.37 A.E.",
@@ -90,7 +90,7 @@
     ],
     "wof:id": 1947304437,
     "wof:label": "Untitled (2024-11-05)",
-    "wof:lastmodified": 1731958728,
+    "wof:lastmodified": 1731979523,
     "wof:name": "Untitled",
     "wof:parent_id": 1947304417,
     "wof:placetype": "venue",

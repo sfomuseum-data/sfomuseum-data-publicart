@@ -15,8 +15,8 @@
     "millsfield:wayfinding_detail": "C",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
-      1914666323,
-      1914666699
+      1947304905,
+      1947305303
     ],
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -79,7 +79,7 @@
     ],
     "wof:id": 1947305593,
     "wof:label": "Kaneko, Jun Tall Dango (00-08-21) (2024-11-05)",
-    "wof:lastmodified": 1731966365,
+    "wof:lastmodified": 1731979523,
     "wof:name": "Kaneko, Jun Tall Dango (00-08-21)",
     "wof:parent_id": 1947304663,
     "wof:placetype": "venue",

@@ -13,7 +13,7 @@
     "geom:latitude": 37.61539995557062,
     "geom:longitude": -122.38441929734387,
     "millsfield:waypoint_id": [
-      1914676377
+      1947305195
     ],
     "mz:is_current": 1,
     "sfac:accession_id": "1986.17",
@@ -96,7 +96,7 @@
     ],
     "wof:id": 1947304433,
     "wof:label": "Falling Water, Santa Cruz VII (2024-11-05)",
-    "wof:lastmodified": 1731958727,
+    "wof:lastmodified": 1731979523,
     "wof:name": "Falling Water, Santa Cruz VII",
     "wof:parent_id": 1947304417,
     "wof:placetype": "venue",

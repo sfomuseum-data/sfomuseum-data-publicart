@@ -16,6 +16,7 @@
     "millsfield:waypoing_id": [
       1796942189
     ],
+    "millsfield:waypoint_id": [],
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.34",
     "sfo:level": 2,
@@ -79,7 +80,7 @@
     ],
     "wof:id": 1947304781,
     "wof:label": "Saunders King with One of His Many Hollow-Body Guitars (2024-11-05)",
-    "wof:lastmodified": 1731958820,
+    "wof:lastmodified": 1731979523,
     "wof:name": "Saunders King with One of His Many Hollow-Body Guitars",
     "wof:parent_id": 1947304739,
     "wof:placetype": "venue",
