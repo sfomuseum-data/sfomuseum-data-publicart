@@ -2,7 +2,9 @@
   "id": 1914650571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation": "",
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
@@ -12,7 +14,7 @@
     "millsfield:waypoint_id": [
       1914676381
     ],
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfac:accession_id": "2007.3",
     "sfac:artist": "Shaw, Richard",
     "sfac:created_at": "01/01/1970 12:33:26 AM +0000",
@@ -89,7 +91,7 @@
     ],
     "wof:id": 1914650571,
     "wof:label": "Shaw, Richard Martha H.",
-    "wof:lastmodified": 1721806873,
+    "wof:lastmodified": 1731958729,
     "wof:name": "Martha H.",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",
@@ -97,7 +99,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304441
+    ],
     "wof:supersedes": [
       1477874059
     ]

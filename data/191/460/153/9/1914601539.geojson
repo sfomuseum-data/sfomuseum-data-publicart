@@ -2,9 +2,11 @@
   "id": 1914601539,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "flysfo:url": "",
     "geom:area": 0,
@@ -16,7 +18,7 @@
     "millsfield:waypoint_id": [
       1914666421
     ],
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfac:accession_id": "T2021.31",
     "sfo:level": 2,
     "sfomuseum:artist_dates": "b. 1926",
@@ -79,7 +81,7 @@
     ],
     "wof:id": 1914601539,
     "wof:label": "Bird’s-Eye View of Fillmore Street, Looking South Towards Post Street and Geary Street",
-    "wof:lastmodified": 1721806876,
+    "wof:lastmodified": 1731958819,
     "wof:name": "Bird’s-Eye View of Fillmore Street, Looking South Towards Post Street and Geary Street",
     "wof:parent_id": 1914601497,
     "wof:placetype": "venue",
@@ -87,7 +89,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304779
+    ],
     "wof:supersedes": [
       1763637247
     ]

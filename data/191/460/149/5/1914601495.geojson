@@ -2,9 +2,11 @@
   "id": 1914601495,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "flysfo:url": "",
     "geom:area": 0,
@@ -13,7 +15,7 @@
     "geom:longitude": -122.38350243272342,
     "millsfield:wayfinding_detail": "D",
     "millsfield:wayfinding_kind": "T2",
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfac:accession_id": "T2021.17",
     "sfo:level": 2,
     "sfomuseum:artist_dates": "b. 1952",
@@ -76,7 +78,7 @@
     ],
     "wof:id": 1914601495,
     "wof:label": "“Cookies not Contras,” Peace, Jobs and Justice Parade (from Public Matters, 1982-1988)",
-    "wof:lastmodified": 1721806876,
+    "wof:lastmodified": 1731958801,
     "wof:name": "“Cookies not Contras,” Peace, Jobs and Justice Parade (from Public Matters, 1982-1988)",
     "wof:parent_id": 1914601449,
     "wof:placetype": "venue",
@@ -84,7 +86,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304725
+    ],
     "wof:supersedes": [
       1763637217
     ]

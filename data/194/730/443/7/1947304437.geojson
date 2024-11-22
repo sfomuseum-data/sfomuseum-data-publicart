@@ -1,0 +1,113 @@
+{
+  "id": 1947304437,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "flysfo:url": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.384268,37.615050,-122.384268,37.615050",
+    "geom:latitude": 37.61504977858537,
+    "geom:longitude": -122.38426815520661,
+    "millsfield:waypoint_id": [
+      1947305179
+    ],
+    "mz:is_current": 1,
+    "sfac:accession_id": "1977.37 A.E.",
+    "sfac:artist": "Crumpler, Dewey",
+    "sfac:created_at": "01/01/1970 12:32:57 AM +0000",
+    "sfac:credit_line": "Purchased by the San Francisco Art Commission for the San Francisco International Airport",
+    "sfac:display_dimensions": "48\" H X 74 1/2\" W Framed",
+    "sfac:id": "63daabb62278559f8a0643be882a7039",
+    "sfac:location": "",
+    "sfac:location_description": "Airport : T1 Food Court",
+    "sfac:medium": "Gouache on paper",
+    "sfac:revision": "2-e0d3dbb3d2095249d52012234ad2a63b",
+    "sfac:source": "San Francisco Arts Commission",
+    "sfac:title": "Untitled",
+    "sfo:level": 2,
+    "sfomuseum:artist_dates": "b. 1949",
+    "sfomuseum:artist_name": "Dewey Crumpler",
+    "sfomuseum:boardingarea": "",
+    "sfomuseum:building": "",
+    "sfomuseum:category": "painting",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "1977",
+    "sfomuseum:description": "Abstract painting characterized by the use of strong color and form.",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:map_id": 211,
+    "sfomuseum:medium": "Gouache on woven paper",
+    "sfomuseum:object_id": 109332,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:subcategory": "",
+    "sfomuseum:type": "painting",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387,
+      1947304067,
+      1947304417,
+      1947304259
+    ],
+    "wof:country": "US",
+    "wof:created": 1731958728,
+    "wof:geomhash": "e2a39fb9d3882a2cfa4cc07f3f1809ef",
+    "wof:hierarchy": [
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304417,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304437,
+        "wing_id": 1947304259
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304417,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1947304437,
+        "wing_id": 1947304259
+      }
+    ],
+    "wof:id": 1947304437,
+    "wof:label": "Untitled (2024-11-05)",
+    "wof:lastmodified": 1731979523,
+    "wof:name": "Untitled",
+    "wof:parent_id": 1947304417,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1914650561
+    ]
+  },
+  "bbox": [
+    -122.38426815520661,
+    37.61504977858537,
+    -122.38426815520661,
+    37.61504977858537
+  ],
+  "geometry": {"coordinates":[-122.38426815520661,37.61504977858537],"type":"Point"}
+}

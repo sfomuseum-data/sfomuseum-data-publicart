@@ -2,9 +2,11 @@
   "id": 1914650549,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "flysfo:node": -1,
     "flysfo:url": "",
@@ -15,7 +17,7 @@
     "millsfield:waypoint_id": [
       1914676377
     ],
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfac:accession_id": "1986.17",
     "sfac:artist": "Zajac, Jack",
     "sfac:created_at": "01/01/1970 12:33:05 AM +0000",
@@ -96,7 +98,7 @@
     ],
     "wof:id": 1914650549,
     "wof:label": "Zajac, Jack Falling Water, Santa Cruz VII",
-    "wof:lastmodified": 1721806873,
+    "wof:lastmodified": 1731958727,
     "wof:name": "Falling Water, Santa Cruz VII",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",
@@ -104,7 +106,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304433
+    ],
     "wof:supersedes": [
       1477874027
     ]

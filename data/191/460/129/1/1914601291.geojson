@@ -2,9 +2,11 @@
   "id": 1914601291,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-17",
     "date:inception_upper": "2024-06-17",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-17",
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/author-her-story",
     "geom:area": 0,
@@ -20,7 +22,7 @@
     ],
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfac:accession_id": "2018.8",
     "sfo:level": 2,
     "sfomuseum:artist_dates": "b. 1971",
@@ -88,7 +90,7 @@
     ],
     "wof:id": 1914601291,
     "wof:label": "The Author and Her Story",
-    "wof:lastmodified": 1721806876,
+    "wof:lastmodified": 1731958707,
     "wof:name": "The Author and Her Story",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",
@@ -96,7 +98,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [],
+    "wof:superseded_by": [
+      1947304353
+    ],
     "wof:supersedes": [
       1745903821
     ],

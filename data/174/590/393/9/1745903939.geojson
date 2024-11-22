@@ -12,7 +12,7 @@
     "millsfield:wayfinding_detail": "DEP",
     "millsfield:wayfinding_kind": "HMT1",
     "millsfield:waypoint_id": [
-      1914666833
+      1947305467
     ],
     "mz:is_current": 1,
     "sfac:accession_id": "2018.29",
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1745903939,
     "wof:label": "Intersection",
-    "wof:lastmodified": 1721681651,
+    "wof:lastmodified": 1731979523,
     "wof:name": "Intersection",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

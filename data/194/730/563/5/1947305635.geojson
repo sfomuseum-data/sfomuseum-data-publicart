@@ -1,0 +1,103 @@
+{
+  "id": 1947305635,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-11-05",
+    "date:inception_upper": "2024-11-05",
+    "edtf:cessation": "..",
+    "edtf:inception": "2024-11-05",
+    "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/november-evening-cloud-46",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-122.393760,37.613089,-122.393760,37.613089",
+    "geom:latitude": 37.61308907933396,
+    "geom:longitude": -122.39376007442524,
+    "iso:country": "US",
+    "millsfield:wayfinding_detail": "",
+    "millsfield:wayfinding_kind": "GHH",
+    "millsfield:waypoint_id": [
+      1930431189
+    ],
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": 1,
+    "sfac:accession_id": "2018.32",
+    "sfo:level": 3,
+    "sfomuseum:artist_dates": "b. 1978",
+    "sfomuseum:artist_name": "Miya Ando",
+    "sfomuseum:boardingarea": "",
+    "sfomuseum:building": "Hotel",
+    "sfomuseum:category": "print",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "2017",
+    "sfomuseum:is_sfo": 1,
+    "sfomuseum:map_id": 160,
+    "sfomuseum:medium": "dye on aluminum",
+    "sfomuseum:object_id": 203084,
+    "sfomuseum:on_display": 1,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 0,
+    "sfomuseum:subcategory": "",
+    "src:geom": "sfo",
+    "wof:belongsto": [
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
+      554784711,
+      102085387
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "sfac:accession_id": "T2018.32",
+      "sfomuseum:object_id": 203084
+    },
+    "wof:country": "US",
+    "wof:created": 1731966376,
+    "wof:geomhash": "6e682a4c9da055b2607e02691c861eb2",
+    "wof:hierarchy": [
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947305635
+      },
+      {
+        "campus_id": 102527513,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "region_id": 85688637,
+        "venue_id": 1947305635
+      }
+    ],
+    "wof:id": 1947305635,
+    "wof:label": "November Evening Cloud 4.6 (2024-11-05)",
+    "wof:lastmodified": 1731966376,
+    "wof:name": "November Evening Cloud 4.6",
+    "wof:parent_id": 102527513,
+    "wof:placetype": "venue",
+    "wof:placetype_alt": [
+      "publicart"
+    ],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [],
+    "wof:supersedes": [
+      1495165657
+    ],
+    "wof:tags": []
+  },
+  "bbox": [
+    -122.39376007442524,
+    37.61308907933396,
+    -122.39376007442524,
+    37.61308907933396
+  ],
+  "geometry": {"coordinates":[-122.39376007442524,37.61308907933396],"type":"Point"}
+}

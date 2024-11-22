@@ -2,16 +2,18 @@
   "id": 1914651271,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-11-05",
+    "date:cessation_upper": "2024-11-05",
     "date:inception_lower": "2024-06-16",
     "date:inception_upper": "2024-06-16",
-    "edtf:cessation": "..",
+    "edtf:cessation": "2024-11-05",
     "edtf:inception": "2024-06-16",
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.384322,37.615564,-122.384322,37.615564",
     "geom:latitude": 37.61556352290854,
     "geom:longitude": -122.38432238408191,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "sfac:accession_id": "1977.33",
     "sfac:artist": "Adams, Gloria Cozzo",
     "sfac:created_at": "01/01/1970 12:32:57 AM +0000",
@@ -91,14 +93,17 @@
     ],
     "wof:id": 1914651271,
     "wof:label": "Cityscape #33",
-    "wof:lastmodified": 1721806875,
+    "wof:lastmodified": 1731958723,
     "wof:name": "Cityscape #33",
     "wof:parent_id": 1914601327,
     "wof:placetype": "venue",
     "wof:placetype_alt": [
       "publicart"
     ],
-    "wof:superseded_by": [],
+    "wof:repo": "sfomuseum-data-publicart",
+    "wof:superseded_by": [
+      1947304415
+    ],
     "wof:supersedes": [
       772974349
     ]
