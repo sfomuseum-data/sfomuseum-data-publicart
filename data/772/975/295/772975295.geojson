@@ -31,13 +31,30 @@
     "sfac:revision": "2-af72ec6bf4aafecdd7ca53c9c2ffd80f",
     "sfac:source": "San Francisco Arts Commission",
     "sfac:title": "Angulos en Todas Direciones",
+    "sfomuseum:artist_dates": "b. 1937",
+    "sfomuseum:artist_name": "Carlos Loarca",
+    "sfomuseum:boardingarea": "E",
+    "sfomuseum:building": "T3",
+    "sfomuseum:category": "painting",
+    "sfomuseum:collection": "Arts Commission",
+    "sfomuseum:date": "1979",
+    "sfomuseum:description": "Diptych - colorful abstract shapes.",
     "sfomuseum:is_sfo": 1,
+    "sfomuseum:level": "2",
+    "sfomuseum:map_id": 38,
+    "sfomuseum:medium": "Acrylic on board, diptych",
+    "sfomuseum:object_id": 109308,
     "sfomuseum:on_display": 0,
+    "sfomuseum:placetype": "publicart",
+    "sfomuseum:post_security": 1,
+    "sfomuseum:subcategory": "",
+    "sfomuseum:terminal": "3",
+    "sfomuseum:type": "",
     "src:geom": "sfomuseum",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      85633793, 
+      102527513,
+      85688637,
+      85633793,
       102087579
     ],
     "wof:breaches": [],
@@ -61,7 +78,7 @@
       }
     ],
     "wof:id": 772975295,
-    "wof:lastmodified": 1612389359,
+    "wof:lastmodified": 1733522210,
     "wof:name": "Angulos en Todas Direciones",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
@@ -71,14 +88,14 @@
     ],
     "wof:supersedes": [],
     "wof:tags": [
-      "artwork", 
+      "artwork",
       "public_art"
     ]
   },
   "bbox": [
-    -122.389979, 
-    37.615223, 
-    -122.389979, 
+    -122.389979,
+    37.615223,
+    -122.389979,
     37.615223
   ],
   "geometry": {"coordinates":[-122.389979,37.615223],"type":"Point"}
