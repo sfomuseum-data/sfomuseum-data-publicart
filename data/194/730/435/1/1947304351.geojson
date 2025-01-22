@@ -40,6 +40,9 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1947304819
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -89,7 +92,7 @@
     ],
     "wof:id": 1947304351,
     "wof:label": "Hyper-Natural Bay Area",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Hyper-Natural Bay Area",
     "wof:parent_id": 1947304261,
     "wof:placetype": "venue",

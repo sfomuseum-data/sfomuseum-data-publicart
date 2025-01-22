@@ -39,6 +39,9 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "composite painting",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1947304825
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -88,7 +91,7 @@
     ],
     "wof:id": 1947304343,
     "wof:label": "Prisoners Repast",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Prisoners Repast",
     "wof:parent_id": 1947304261,
     "wof:placetype": "venue",

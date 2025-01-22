@@ -41,6 +41,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1930431205
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -84,7 +87,7 @@
     ],
     "wof:id": 1495165663,
     "wof:label": "Psychscape 73 (Downs, Mount, CA)",
-    "wof:lastmodified": 1731966373,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Psychscape 73 (Downs, Mount, CA)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

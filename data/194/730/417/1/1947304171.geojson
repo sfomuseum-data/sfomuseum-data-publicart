@@ -59,6 +59,9 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "mosaic",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1947304879
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -111,7 +114,7 @@
     ],
     "wof:id": 1947304171,
     "wof:label": "Rigo 99 Thinking of Balmy Alley",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Thinking of Balmy Alley",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",

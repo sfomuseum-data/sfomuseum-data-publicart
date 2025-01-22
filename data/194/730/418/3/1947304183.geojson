@@ -42,6 +42,9 @@
     "sfomuseum:subcategory": "",
     "sfomuseum:terminal": "IT",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1947304897
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -90,7 +93,7 @@
     ],
     "wof:id": 1947304183,
     "wof:label": "Rosenberg, Leah Everywhere, a Color",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Everywhere, a Color",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",

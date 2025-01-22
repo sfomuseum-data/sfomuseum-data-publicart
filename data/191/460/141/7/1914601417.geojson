@@ -62,6 +62,10 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666233,
+      1914666213
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -119,7 +123,7 @@
     ],
     "wof:id": 1914601417,
     "wof:label": "Echelman, Janet Every Beating Second ",
-    "wof:lastmodified": 1731958785,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Every Beating Second ",
     "wof:parent_id": 1914601349,
     "wof:placetype": "venue",

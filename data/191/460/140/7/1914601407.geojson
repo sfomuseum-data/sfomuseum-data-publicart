@@ -45,6 +45,9 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "mural",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666223
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -97,7 +100,7 @@
     ],
     "wof:id": 1914601407,
     "wof:label": "Kitundu, Walter Bay Area Bird Encounters",
-    "wof:lastmodified": 1731958784,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Bay Area Bird Encounters",
     "wof:parent_id": 1914601349,
     "wof:placetype": "venue",

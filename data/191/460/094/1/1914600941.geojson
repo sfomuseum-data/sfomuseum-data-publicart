@@ -61,6 +61,9 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "painting",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666253
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -113,7 +116,7 @@
     ],
     "wof:id": 1914600941,
     "wof:label": "Bechtle, Robert San Francisco Nova",
-    "wof:lastmodified": 1731958753,
+    "wof:lastmodified": 1737504477,
     "wof:name": "San Francisco Nova",
     "wof:parent_id": 1914600917,
     "wof:placetype": "venue",

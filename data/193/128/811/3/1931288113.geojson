@@ -55,6 +55,10 @@
     "sfomuseum:terminal": "T1",
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1914676363,
+      1914666591
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -108,7 +112,7 @@
     ],
     "wof:id": 1931288113,
     "wof:label": "Untitled/ print no. 79.64-5/9",
-    "wof:lastmodified": 1731958712,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Untitled/ print no. 79.64-5/9",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",

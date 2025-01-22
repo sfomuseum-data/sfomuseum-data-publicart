@@ -59,6 +59,7 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "light art",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -111,7 +112,7 @@
     ],
     "wof:id": 1914601105,
     "wof:label": "Sonnier, Keith Ceiling Flood",
-    "wof:lastmodified": 1731958662,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Ceiling Flood",
     "wof:parent_id": 1914601057,
     "wof:placetype": "venue",

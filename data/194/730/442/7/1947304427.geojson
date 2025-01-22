@@ -36,6 +36,9 @@
     "sfomuseum:subcategory": "",
     "sfomuseum:type": "mural",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1947305213
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -80,7 +83,7 @@
     ],
     "wof:id": 1947304427,
     "wof:label": "",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "",
     "wof:parent_id": 1947304417,
     "wof:placetype": "venue",

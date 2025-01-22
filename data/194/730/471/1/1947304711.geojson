@@ -33,6 +33,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -77,7 +78,7 @@
     ],
     "wof:id": 1947304711,
     "wof:label": "David Robinson, The Bass Player for Roy Milton’s Band, on the Floor of the Primalon Ballroom, 1223 Fillmore Street (2024-11-05)",
-    "wof:lastmodified": 1731979523,
+    "wof:lastmodified": 1737504478,
     "wof:name": "David Robinson, The Bass Player for Roy Milton’s Band, on the Floor of the Primalon Ballroom, 1223 Fillmore Street",
     "wof:parent_id": 1947304691,
     "wof:placetype": "venue",

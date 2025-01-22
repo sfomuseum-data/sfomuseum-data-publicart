@@ -41,6 +41,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1930431173
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -83,7 +86,7 @@
     ],
     "wof:id": 1495165727,
     "wof:label": "Underground. “Stuck in Between”",
-    "wof:lastmodified": 1731966377,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Underground. “Stuck in Between”",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

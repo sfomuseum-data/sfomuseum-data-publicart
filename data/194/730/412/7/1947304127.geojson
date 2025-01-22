@@ -34,6 +34,9 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1947304871
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -78,7 +81,7 @@
     ],
     "wof:id": 1947304127,
     "wof:label": "Untitled",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Untitled",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",

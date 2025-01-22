@@ -37,6 +37,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666421
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -81,7 +84,7 @@
     ],
     "wof:id": 1914601551,
     "wof:label": "Lottie “The Body” Claiborne and her Husband Harlem Globetrotters Star Goose Tatum at a Good-Bye Party at the Texas Playhouse, Celebrating their Trip to Yokohama, Japan",
-    "wof:lastmodified": 1731958822,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Lottie “The Body” Claiborne and her Husband Harlem Globetrotters Star Goose Tatum at a Good-Bye Party at the Texas Playhouse, Celebrating their Trip to Yokohama, Japan",
     "wof:parent_id": 1914601497,
     "wof:placetype": "venue",

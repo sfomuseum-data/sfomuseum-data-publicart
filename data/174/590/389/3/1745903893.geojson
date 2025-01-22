@@ -41,6 +41,9 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "wall piece",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1796889471
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -90,7 +93,7 @@
     ],
     "wof:id": 1745903893,
     "wof:label": "Number 69S",
-    "wof:lastmodified": 1720821930,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Number 69S",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

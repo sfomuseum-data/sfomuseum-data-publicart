@@ -37,6 +37,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666421
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -81,7 +84,7 @@
     ],
     "wof:id": 1914601549,
     "wof:label": "Bar Patrons Outside the Club Flamingo",
-    "wof:lastmodified": 1731958821,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Bar Patrons Outside the Club Flamingo",
     "wof:parent_id": 1914601497,
     "wof:placetype": "venue",

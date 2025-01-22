@@ -41,6 +41,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "neon",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1930431167
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -81,7 +84,7 @@
     ],
     "wof:id": 1947305639,
     "wof:label": "Coding",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Coding",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

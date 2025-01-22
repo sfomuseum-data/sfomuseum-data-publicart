@@ -45,6 +45,9 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "print",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666343
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -97,7 +100,7 @@
     ],
     "wof:id": 1914600959,
     "wof:label": "Forever in the Sky",
-    "wof:lastmodified": 1731958757,
+    "wof:lastmodified": 1737504477,
     "wof:name": "Forever in the Sky",
     "wof:parent_id": 1914600957,
     "wof:placetype": "venue",

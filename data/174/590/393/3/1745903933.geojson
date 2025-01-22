@@ -34,6 +34,9 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "unknown",
+    "wfnd:waypoint_id": [
+      1847562719
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -78,7 +81,7 @@
     ],
     "wof:id": 1745903933,
     "wof:label": "Painting #2018-8-6",
-    "wof:lastmodified": 1720821936,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Painting #2018-8-6",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",

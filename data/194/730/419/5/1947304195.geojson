@@ -44,6 +44,9 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666349
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -96,7 +99,7 @@
     ],
     "wof:id": 1947304195,
     "wof:label": "Light (2024-11-05)",
-    "wof:lastmodified": 1731966367,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Light",
     "wof:parent_id": 1947304191,
     "wof:placetype": "venue",

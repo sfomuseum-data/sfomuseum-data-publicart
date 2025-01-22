@@ -35,6 +35,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1796942189
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -79,7 +82,7 @@
     ],
     "wof:id": 1763637207,
     "wof:label": "Flourish",
-    "wof:lastmodified": 1720822015,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Flourish",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

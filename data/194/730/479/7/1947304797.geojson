@@ -44,6 +44,10 @@
     "sfomuseum:terminal": "1",
     "sfomuseum:type": "",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1947304947,
+      1947305027
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -96,7 +100,7 @@
     ],
     "wof:id": 1947304797,
     "wof:label": "Voyage",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Voyage",
     "wof:parent_id": 1947304739,
     "wof:placetype": "venue",

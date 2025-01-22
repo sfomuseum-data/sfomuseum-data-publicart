@@ -61,6 +61,9 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666265
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -113,7 +116,7 @@
     ],
     "wof:id": 1947304121,
     "wof:label": "Welcome (2024-11-05)",
-    "wof:lastmodified": 1731966366,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Welcome",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",

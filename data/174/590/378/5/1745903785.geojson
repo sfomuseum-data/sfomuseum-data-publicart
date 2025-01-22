@@ -42,6 +42,9 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1796889475
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -91,7 +94,7 @@
     ],
     "wof:id": 1745903785,
     "wof:label": "Impossibly",
-    "wof:lastmodified": 1720821922,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Impossibly",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

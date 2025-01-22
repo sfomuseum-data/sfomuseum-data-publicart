@@ -41,6 +41,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1796903619
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -93,7 +96,7 @@
     ],
     "wof:id": 1745903705,
     "wof:label": "Turn",
-    "wof:lastmodified": 1720821865,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Turn",
     "wof:parent_id": 1763588435,
     "wof:placetype": "venue",

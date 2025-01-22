@@ -56,6 +56,9 @@
     "sfomuseum:subcategory": "",
     "sfomuseum:type": "",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1930431183
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -99,7 +102,7 @@
     ],
     "wof:id": 1947305607,
     "wof:label": "Dvortcsak, Machael Sublimens",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Sublimens",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

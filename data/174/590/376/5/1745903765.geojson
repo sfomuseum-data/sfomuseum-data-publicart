@@ -61,6 +61,9 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1796889603
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -113,7 +116,7 @@
     ],
     "wof:id": 1745903765,
     "wof:label": "Kunishima, Seiji Stacking Stones",
-    "wof:lastmodified": 1720822010,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Stacking Stones",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

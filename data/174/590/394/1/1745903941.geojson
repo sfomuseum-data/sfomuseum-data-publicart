@@ -32,6 +32,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "unknown",
+    "wfnd:waypoint_id": [
+      1947305467
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -67,7 +70,7 @@
     ],
     "wof:id": 1745903941,
     "wof:label": "Shell",
-    "wof:lastmodified": 1731979523,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Shell",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

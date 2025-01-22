@@ -46,6 +46,10 @@
     "sfomuseum:terminal": "1",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666215,
+      1914666575
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -95,7 +99,7 @@
     ],
     "wof:id": 1947304407,
     "wof:label": "High Heels for Going to Heaven  (2024-11-05)",
-    "wof:lastmodified": 1731966384,
+    "wof:lastmodified": 1737504478,
     "wof:name": "High Heels for Going to Heaven ",
     "wof:parent_id": 1947304383,
     "wof:placetype": "venue",

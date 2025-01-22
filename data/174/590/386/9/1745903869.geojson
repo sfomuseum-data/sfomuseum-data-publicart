@@ -61,6 +61,9 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1796903615
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -113,7 +116,7 @@
     ],
     "wof:id": 1745903869,
     "wof:label": "deForest, Roy Homage to Zane Grey",
-    "wof:lastmodified": 1720821972,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Homage to Zane Grey",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

@@ -42,6 +42,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1930431173
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -84,7 +87,7 @@
     ],
     "wof:id": 1495165731,
     "wof:label": "Cabrillo Highway at Pescadero Creek Road, Variation 4",
-    "wof:lastmodified": 1731966380,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Cabrillo Highway at Pescadero Creek Road, Variation 4",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

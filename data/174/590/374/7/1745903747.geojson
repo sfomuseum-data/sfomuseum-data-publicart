@@ -61,6 +61,9 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1797018119
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -113,7 +116,7 @@
     ],
     "wof:id": 1745903747,
     "wof:label": "Snyder, Dan Welcome North, Welcome South, Welcome East, Welcome West",
-    "wof:lastmodified": 1720821984,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Welcome North, Welcome South, Welcome East, Welcome West",
     "wof:parent_id": 1763588171,
     "wof:placetype": "venue",

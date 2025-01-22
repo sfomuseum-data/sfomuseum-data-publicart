@@ -44,6 +44,7 @@
     "sfomuseum:subcategory": "",
     "sfomuseum:type": "painting",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -92,7 +93,7 @@
     ],
     "wof:id": 1947304415,
     "wof:label": "Cityscape #33",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Cityscape #33",
     "wof:parent_id": 1947304409,
     "wof:placetype": "venue",

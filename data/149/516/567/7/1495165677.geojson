@@ -41,6 +41,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "ceiling sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1930431147
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -84,7 +87,7 @@
     ],
     "wof:id": 1495165677,
     "wof:label": "Circadian Transit",
-    "wof:lastmodified": 1731966381,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Circadian Transit",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

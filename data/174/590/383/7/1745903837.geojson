@@ -59,6 +59,9 @@
     "sfomuseum:terminal": "1",
     "sfomuseum:type": "mosaic",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1947305013
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -102,7 +105,7 @@
     ],
     "wof:id": 1745903837,
     "wof:label": "Kozloff, Joyce Bay Area Victorian, Bay Area Deco, Bay Area Funk",
-    "wof:lastmodified": 1731979523,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Bay Area Victorian, Bay Area Deco, Bay Area Funk",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

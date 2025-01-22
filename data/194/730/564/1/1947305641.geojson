@@ -40,6 +40,10 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1930431197,
+      1930431201
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -80,7 +84,7 @@
     ],
     "wof:id": 1947305641,
     "wof:label": "Green Map",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Green Map",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

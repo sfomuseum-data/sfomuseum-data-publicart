@@ -61,6 +61,9 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666265
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -113,7 +116,7 @@
     ],
     "wof:id": 1914601033,
     "wof:label": "Howard, Mildred Salty Peanuts",
-    "wof:lastmodified": 1731958647,
+    "wof:lastmodified": 1737504477,
     "wof:name": "Salty Peanuts",
     "wof:parent_id": 1914601001,
     "wof:placetype": "venue",

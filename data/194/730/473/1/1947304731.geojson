@@ -35,6 +35,9 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1947304915
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -79,7 +82,7 @@
     ],
     "wof:id": 1947304731,
     "wof:label": "Here You Are / You Are Here",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Here You Are / You Are Here",
     "wof:parent_id": 1947304691,
     "wof:placetype": "venue",

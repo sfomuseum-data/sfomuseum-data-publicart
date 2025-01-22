@@ -59,6 +59,7 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "painting",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -111,7 +112,7 @@
     ],
     "wof:id": 1947304771,
     "wof:label": "17 December 1903 (2024-11-05)",
-    "wof:lastmodified": 1731966409,
+    "wof:lastmodified": 1737504478,
     "wof:name": "17 December 1903",
     "wof:parent_id": 1947304739,
     "wof:placetype": "venue",

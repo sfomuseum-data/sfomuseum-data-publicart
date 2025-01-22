@@ -61,6 +61,9 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "painting",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666241
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -114,7 +117,7 @@
     ],
     "wof:id": 1914600913,
     "wof:label": "Francis, Sam Untitled",
-    "wof:lastmodified": 1731958745,
+    "wof:lastmodified": 1737504477,
     "wof:name": "Untitled",
     "wof:parent_id": 1914600845,
     "wof:placetype": "venue",

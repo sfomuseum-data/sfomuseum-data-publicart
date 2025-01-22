@@ -60,6 +60,10 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "mural",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1947330467,
+      1947304869
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -117,7 +121,7 @@
     ],
     "wof:id": 1947304187,
     "wof:label": "BFILRYD",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "BFILRYD",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",

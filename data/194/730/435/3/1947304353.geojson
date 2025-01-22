@@ -39,6 +39,9 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1947304819
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -88,7 +91,7 @@
     ],
     "wof:id": 1947304353,
     "wof:label": "The Author and Her Story",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "The Author and Her Story",
     "wof:parent_id": 1947304261,
     "wof:placetype": "venue",

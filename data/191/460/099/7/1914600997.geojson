@@ -62,6 +62,10 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "painting",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666333,
+      1914666341
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -114,7 +118,7 @@
     ],
     "wof:id": 1914600997,
     "wof:label": "Rivera, Gustavo Azul, Azul y Hacer",
-    "wof:lastmodified": 1731958765,
+    "wof:lastmodified": 1737504477,
     "wof:name": "Azul, Azul y Hacer",
     "wof:parent_id": 1914600983,
     "wof:placetype": "venue",

@@ -58,6 +58,9 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1947304861
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -110,7 +113,7 @@
     ],
     "wof:id": 1947304535,
     "wof:label": "Torlakson, James Behind Ted McMann's Garage",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Behind Ted McMann's Garage",
     "wof:parent_id": 1947304511,
     "wof:placetype": "venue",

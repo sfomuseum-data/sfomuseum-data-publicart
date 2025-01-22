@@ -57,6 +57,7 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -109,7 +110,7 @@
     ],
     "wof:id": 1947304119,
     "wof:label": "Preston, Ann You Were in Heaven",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "You Were in Heaven",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",

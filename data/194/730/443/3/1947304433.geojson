@@ -48,6 +48,9 @@
     "sfomuseum:subcategory": "",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1947305195
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -96,7 +99,7 @@
     ],
     "wof:id": 1947304433,
     "wof:label": "Zajac, Jack Falling Water, Santa Cruz VII",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Falling Water, Santa Cruz VII",
     "wof:parent_id": 1947304417,
     "wof:placetype": "venue",

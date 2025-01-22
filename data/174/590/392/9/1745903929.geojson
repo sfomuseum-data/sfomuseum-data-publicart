@@ -59,6 +59,7 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -111,7 +112,7 @@
     ],
     "wof:id": 1745903929,
     "wof:label": "Hedrick, Wally 17 December 1903",
-    "wof:lastmodified": 1720822016,
+    "wof:lastmodified": 1737504478,
     "wof:name": "17 December 1903",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

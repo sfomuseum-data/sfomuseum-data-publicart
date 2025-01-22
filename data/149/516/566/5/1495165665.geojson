@@ -41,6 +41,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1930431205
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -84,7 +87,7 @@
     ],
     "wof:id": 1495165665,
     "wof:label": "Psychscape 18 (Banner Ridge, CA)",
-    "wof:lastmodified": 1731966374,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Psychscape 18 (Banner Ridge, CA)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

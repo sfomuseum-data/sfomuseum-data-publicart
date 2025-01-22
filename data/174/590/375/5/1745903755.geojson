@@ -58,6 +58,7 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -111,7 +112,7 @@
     ],
     "wof:id": 1745903755,
     "wof:label": "Martin, Vance Untitled",
-    "wof:lastmodified": 1720822008,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Untitled",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

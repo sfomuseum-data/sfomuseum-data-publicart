@@ -32,6 +32,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "ceiling sculpture",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -76,7 +77,7 @@
     ],
     "wof:id": 1947304331,
     "wof:label": "Orion",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Orion",
     "wof:parent_id": 1947304261,
     "wof:placetype": "venue",

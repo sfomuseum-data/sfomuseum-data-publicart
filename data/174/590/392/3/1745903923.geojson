@@ -45,6 +45,9 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1796889581
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -97,7 +100,7 @@
     ],
     "wof:id": 1745903923,
     "wof:label": "New Generation",
-    "wof:lastmodified": 1720821805,
+    "wof:lastmodified": 1737504478,
     "wof:name": "New Generation",
     "wof:parent_id": 1763588363,
     "wof:placetype": "venue",

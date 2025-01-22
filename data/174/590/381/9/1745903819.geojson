@@ -45,6 +45,9 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1796889503
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -94,7 +97,7 @@
     ],
     "wof:id": 1745903819,
     "wof:label": "Spirogyrate",
-    "wof:lastmodified": 1720821800,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Spirogyrate",
     "wof:parent_id": 1763588335,
     "wof:placetype": "venue",

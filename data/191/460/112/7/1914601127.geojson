@@ -41,6 +41,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666349
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -93,7 +96,7 @@
     ],
     "wof:id": 1914601127,
     "wof:label": "Time",
-    "wof:lastmodified": 1731958668,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Time",
     "wof:parent_id": 1914601121,
     "wof:placetype": "venue",

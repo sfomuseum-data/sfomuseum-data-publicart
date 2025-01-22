@@ -41,6 +41,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:waypoint_id": [
+      1930431203
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -83,7 +86,7 @@
     ],
     "wof:id": 1495165729,
     "wof:label": "So Much More Than This",
-    "wof:lastmodified": 1731966383,
+    "wof:lastmodified": 1737504478,
     "wof:name": "So Much More Than This",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

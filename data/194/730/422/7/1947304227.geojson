@@ -61,6 +61,9 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfo",
+    "wfnd:waypoint_id": [
+      1914666387
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -114,7 +117,7 @@
     ],
     "wof:id": 1947304227,
     "wof:label": "Light Beams for the Sky of A Transfer Corridor (2024-11-05)",
-    "wof:lastmodified": 1731966369,
+    "wof:lastmodified": 1737504478,
     "wof:name": "Light Beams for the Sky of A Transfer Corridor",
     "wof:parent_id": 1947304205,
     "wof:placetype": "venue",
