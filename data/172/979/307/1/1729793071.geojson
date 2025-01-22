@@ -37,6 +37,7 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "mosaic",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -89,7 +90,7 @@
     ],
     "wof:id": 1729793071,
     "wof:label": "Untitled (Large Variation)",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Untitled (Large Variation)",
     "wof:parent_id": 1729792551,
     "wof:placetype": "venue",

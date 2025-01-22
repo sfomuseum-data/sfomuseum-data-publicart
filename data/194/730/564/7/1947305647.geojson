@@ -40,6 +40,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "ceiling sculpture",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1930431161,
       1930431173
@@ -84,7 +85,7 @@
     ],
     "wof:id": 1947305647,
     "wof:label": "This Infinite Gateway of Time and Cirumstance",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "This Infinite Gateway of Time and Cirumstance",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

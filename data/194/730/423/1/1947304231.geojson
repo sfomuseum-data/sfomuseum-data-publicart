@@ -59,6 +59,7 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1947305361
     ],
@@ -114,7 +115,7 @@
     ],
     "wof:id": 1947304231,
     "wof:label": "Anemone",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Anemone",
     "wof:parent_id": 1947304205,
     "wof:placetype": "venue",

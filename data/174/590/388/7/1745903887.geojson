@@ -38,6 +38,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "etching",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -87,7 +88,7 @@
     ],
     "wof:id": 1745903887,
     "wof:label": "Ghost Extraction Dialogue for the Followers of Blood",
-    "wof:lastmodified": 1720821928,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Ghost Extraction Dialogue for the Followers of Blood",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

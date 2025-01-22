@@ -61,6 +61,7 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1796889531
     ],
@@ -116,7 +117,7 @@
     ],
     "wof:id": 1745903753,
     "wof:label": "Hudson, Robert Horse of Another Color",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Horse of Another Color",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",

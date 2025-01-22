@@ -36,6 +36,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1914666585
     ],
@@ -83,7 +84,7 @@
     ],
     "wof:id": 1947304401,
     "wof:label": "Split (2024-11-05)",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Split",
     "wof:parent_id": 1947304383,
     "wof:placetype": "venue",

@@ -37,6 +37,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1914666421
     ],
@@ -84,7 +85,7 @@
     ],
     "wof:id": 1914601547,
     "wof:label": "A Crowd at the Primalon Ballroom",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "A Crowd at the Primalon Ballroom",
     "wof:parent_id": 1914601497,
     "wof:placetype": "venue",

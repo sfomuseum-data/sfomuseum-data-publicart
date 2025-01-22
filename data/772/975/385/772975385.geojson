@@ -54,6 +54,7 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       1159396301,
       102527513,
@@ -93,7 +94,7 @@
     ],
     "wof:id": 772975385,
     "wof:label": "O’Banion, Nance Billboard Series",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Billboard Series",
     "wof:parent_id": 1159396301,
     "wof:placetype": "venue",

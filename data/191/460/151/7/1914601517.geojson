@@ -60,6 +60,7 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1914666355
     ],
@@ -115,7 +116,7 @@
     ],
     "wof:id": 1914601517,
     "wof:label": "Tchakalian, Sam Hitwood",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Hitwood",
     "wof:parent_id": 1914601497,
     "wof:placetype": "venue",

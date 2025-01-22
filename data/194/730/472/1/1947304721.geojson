@@ -35,6 +35,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1947304915
     ],
@@ -82,7 +83,7 @@
     ],
     "wof:id": 1947304721,
     "wof:label": "Long Arc of the Day",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Long Arc of the Day",
     "wof:parent_id": 1947304691,
     "wof:placetype": "venue",

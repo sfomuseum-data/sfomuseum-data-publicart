@@ -53,6 +53,7 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       1477855609,
       102527513,
@@ -105,7 +106,7 @@
     ],
     "wof:id": 1477874037,
     "wof:label": "Ramirez, Robert Urns",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Urns",
     "wof:parent_id": 1477855609,
     "wof:placetype": "venue",

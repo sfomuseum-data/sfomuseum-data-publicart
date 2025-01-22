@@ -43,6 +43,7 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1947305215
     ],
@@ -98,7 +99,7 @@
     ],
     "wof:id": 1947304689,
     "wof:label": "Buster, Kendall Topograph I and II",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Topograph I and II",
     "wof:parent_id": 1947304685,
     "wof:placetype": "venue",

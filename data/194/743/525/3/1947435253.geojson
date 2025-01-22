@@ -27,6 +27,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "gelatin silver print",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -67,7 +68,7 @@
     ],
     "wof:id": 1947435253,
     "wof:label": "Los Angeles, California  ",
-    "wof:lastmodified": 1733301344,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Los Angeles, California  ",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

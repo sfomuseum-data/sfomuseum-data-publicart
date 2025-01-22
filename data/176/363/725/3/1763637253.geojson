@@ -35,6 +35,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -79,7 +80,7 @@
     ],
     "wof:id": 1763637253,
     "wof:label": "Saunders King with One of His Many Hollow-Body Guitars",
-    "wof:lastmodified": 1720822020,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Saunders King with One of His Many Hollow-Body Guitars",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

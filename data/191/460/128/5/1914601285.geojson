@@ -36,6 +36,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "wall piece",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1914666207
     ],
@@ -83,7 +84,7 @@
     ],
     "wof:id": 1914601285,
     "wof:label": "Unfolding Space (in Gold)",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Unfolding Space (in Gold)",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",

@@ -37,6 +37,7 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       1477855609,
       102527513,
@@ -92,7 +93,7 @@
     ],
     "wof:id": 1477873913,
     "wof:label": "Simpson, David Storm, Stars, and Stripes",
-    "wof:lastmodified": 1716596276,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Storm, Stars, and Stripes",
     "wof:parent_id": 1477855829,
     "wof:placetype": "venue",

@@ -38,6 +38,7 @@
     "sfomuseum:subcategory": "",
     "sfomuseum:terminal": "1",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -66,7 +67,7 @@
     ],
     "wof:id": 1175727165,
     "wof:label": "When Pink Elephants Fly",
-    "wof:lastmodified": 1716596276,
+    "wof:lastmodified": 1737511373,
     "wof:name": "When Pink Elephants Fly",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

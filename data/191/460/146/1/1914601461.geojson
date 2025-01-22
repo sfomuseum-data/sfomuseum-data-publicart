@@ -34,6 +34,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -78,7 +79,7 @@
     ],
     "wof:id": 1914601461,
     "wof:label": "Lucy Wearing Green ",
-    "wof:lastmodified": 1731958794,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Lucy Wearing Green ",
     "wof:parent_id": 1914601449,
     "wof:placetype": "venue",

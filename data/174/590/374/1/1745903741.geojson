@@ -36,6 +36,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "digital print",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1796889469
     ],
@@ -83,7 +84,7 @@
     ],
     "wof:id": 1745903741,
     "wof:label": "Advice from My 80-Year-Old-Self",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Advice from My 80-Year-Old-Self",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

@@ -25,6 +25,7 @@
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -54,7 +55,7 @@
     ],
     "wof:id": 1175727151,
     "wof:label": "City Hall Dome",
-    "wof:lastmodified": 1716596276,
+    "wof:lastmodified": 1737511373,
     "wof:name": "City Hall Dome",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

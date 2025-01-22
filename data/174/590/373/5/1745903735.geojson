@@ -41,6 +41,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "etching",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1796889475
     ],
@@ -93,7 +94,7 @@
     ],
     "wof:id": 1745903735,
     "wof:label": "Beyond When the Golden Portal Can Come",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Beyond When the Golden Portal Can Come",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

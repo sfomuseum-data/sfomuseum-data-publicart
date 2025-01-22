@@ -61,6 +61,7 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "mosaic",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1914666277
     ],
@@ -116,7 +117,7 @@
     ],
     "wof:id": 1914601111,
     "wof:label": "Carnwath, Squeak Fly, Flight, Fugit",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Fly, Flight, Fugit",
     "wof:parent_id": 1914601057,
     "wof:placetype": "venue",

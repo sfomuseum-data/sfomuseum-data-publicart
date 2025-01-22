@@ -57,6 +57,7 @@
     "sfomuseum:terminal": "",
     "sfomuseum:type": "textile",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [],
     "wof:belongsto": [
       102527513,
@@ -110,7 +111,7 @@
     ],
     "wof:id": 1947304767,
     "wof:label": "Adams, Mark Garden Outside the Gate",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Garden Outside the Gate",
     "wof:parent_id": 1947304739,
     "wof:placetype": "venue",

@@ -53,6 +53,7 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       1477855785,
       102527513,
@@ -108,7 +109,7 @@
     ],
     "wof:id": 1477874065,
     "wof:label": "Saunders, Raymond Letter's Missing",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Letter's Missing",
     "wof:parent_id": 1477855785,
     "wof:placetype": "venue",

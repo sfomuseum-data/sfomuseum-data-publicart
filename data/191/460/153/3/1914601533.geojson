@@ -58,6 +58,7 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "painting",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -110,7 +111,7 @@
     ],
     "wof:id": 1914601533,
     "wof:label": "Dixon, Willard Above Bolinas",
-    "wof:lastmodified": 1731958811,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Above Bolinas",
     "wof:parent_id": 1914601497,
     "wof:placetype": "venue",

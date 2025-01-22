@@ -21,6 +21,7 @@
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -48,7 +49,7 @@
       }
     ],
     "wof:id": 1175727107,
-    "wof:lastmodified": 1716596276,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Bay Area Foothills",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

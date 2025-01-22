@@ -53,6 +53,7 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "mural",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -105,7 +106,7 @@
     ],
     "wof:id": 1729793159,
     "wof:label": "Chagoya, Enrique Love Letters",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Love Letters",
     "wof:parent_id": 1729792581,
     "wof:placetype": "venue",

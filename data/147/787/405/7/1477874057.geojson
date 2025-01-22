@@ -53,6 +53,7 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       1477855609,
       102527513,
@@ -108,7 +109,7 @@
     ],
     "wof:id": 1477874057,
     "wof:label": "Tamayo, Rufino Conquest of Space",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Conquest of Space",
     "wof:parent_id": 1477855927,
     "wof:placetype": "venue",

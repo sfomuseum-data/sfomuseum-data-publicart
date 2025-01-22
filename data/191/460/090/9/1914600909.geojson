@@ -61,6 +61,7 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "painting",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1914666241
     ],
@@ -116,7 +117,7 @@
     ],
     "wof:id": 1914600909,
     "wof:label": "Wiley, William Void",
-    "wof:lastmodified": 1737504477,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Void",
     "wof:parent_id": 1914600845,
     "wof:placetype": "venue",

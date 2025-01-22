@@ -34,6 +34,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -83,7 +84,7 @@
     ],
     "wof:id": 1729793167,
     "wof:label": "Survival Through Figurization (white)",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Survival Through Figurization (white)",
     "wof:parent_id": 1729792437,
     "wof:placetype": "venue",

@@ -27,6 +27,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "digital chromogenic print",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -67,7 +68,7 @@
     ],
     "wof:id": 1947435245,
     "wof:label": "Zuma #5",
-    "wof:lastmodified": 1733301341,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Zuma #5",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

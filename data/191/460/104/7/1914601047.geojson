@@ -61,6 +61,7 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "mosaic",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1914666275
     ],
@@ -116,7 +117,7 @@
     ],
     "wof:id": 1914601047,
     "wof:label": "Frey, Viola World Civilization",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "World Civilization",
     "wof:parent_id": 1914601001,
     "wof:placetype": "venue",

@@ -53,6 +53,7 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -106,7 +107,7 @@
     ],
     "wof:id": 1729793251,
     "wof:label": "Kang, Ik-Joong Gateway",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Gateway",
     "wof:parent_id": 1729792679,
     "wof:placetype": "venue",

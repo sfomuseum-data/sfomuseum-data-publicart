@@ -34,6 +34,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -78,7 +79,7 @@
     ],
     "wof:id": 1914601475,
     "wof:label": "I May Not Get There…First Martin Luther King Jr. Day Parade (from Public Matters, 1982-1988)",
-    "wof:lastmodified": 1731958799,
+    "wof:lastmodified": 1737511373,
     "wof:name": "I May Not Get There…First Martin Luther King Jr. Day Parade (from Public Matters, 1982-1988)",
     "wof:parent_id": 1914601449,
     "wof:placetype": "venue",

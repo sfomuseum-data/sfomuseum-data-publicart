@@ -32,6 +32,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -76,7 +77,7 @@
     ],
     "wof:id": 1763637227,
     "wof:label": "Woman with Mexican Flag (from Public Matters, 1982-1988)",
-    "wof:lastmodified": 1720821998,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Woman with Mexican Flag (from Public Matters, 1982-1988)",
     "wof:parent_id": 1763588173,
     "wof:placetype": "venue",

@@ -53,6 +53,7 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -90,7 +91,7 @@
     ],
     "wof:id": 772974809,
     "wof:label": "Dixon, Willard Death Valley II",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Death Valley II",
     "wof:parent_id": 1159396121,
     "wof:placetype": "venue",

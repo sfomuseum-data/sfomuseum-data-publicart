@@ -41,6 +41,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1930431203
     ],
@@ -87,7 +88,7 @@
     ],
     "wof:id": 1495165649,
     "wof:label": "Golden Gate Bridge, 4.17.00, 4:01 pm",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Golden Gate Bridge, 4.17.00, 4:01 pm",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

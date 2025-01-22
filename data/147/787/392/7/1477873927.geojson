@@ -37,6 +37,7 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "print",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       1477855609,
       102527513,
@@ -92,7 +93,7 @@
     ],
     "wof:id": 1477873927,
     "wof:label": "Everywhere All At Once",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Everywhere All At Once",
     "wof:parent_id": 1477855829,
     "wof:placetype": "venue",

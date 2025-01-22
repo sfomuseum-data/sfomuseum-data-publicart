@@ -58,6 +58,7 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "light art",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -110,7 +111,7 @@
     ],
     "wof:id": 1745903777,
     "wof:label": "deSoto, Lewis Shining Paths: San Francisco’s Sister Cities",
-    "wof:lastmodified": 1720821857,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Shining Paths: San Francisco’s Sister Cities",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

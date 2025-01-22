@@ -59,6 +59,7 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "painting",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1947304983
     ],
@@ -114,7 +115,7 @@
     ],
     "wof:id": 1947304751,
     "wof:label": "Smith, Hassel Metamorphosis",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Metamorphosis",
     "wof:parent_id": 1947304739,
     "wof:placetype": "venue",

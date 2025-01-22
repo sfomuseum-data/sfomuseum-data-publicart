@@ -54,6 +54,7 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "mural",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       1159157339,
       102527513,
@@ -93,7 +94,7 @@
     ],
     "wof:id": 772975289,
     "wof:label": "Liu, Hung Take Off",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Take Off",
     "wof:parent_id": 1159157339,
     "wof:placetype": "venue",

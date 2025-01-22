@@ -34,6 +34,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -78,7 +79,7 @@
     ],
     "wof:id": 1914601463,
     "wof:label": "Public Transit Areas #46",
-    "wof:lastmodified": 1731958795,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Public Transit Areas #46",
     "wof:parent_id": 1914601449,
     "wof:placetype": "venue",

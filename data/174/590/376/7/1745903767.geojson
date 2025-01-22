@@ -58,6 +58,7 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -110,7 +111,7 @@
     ],
     "wof:id": 1745903767,
     "wof:label": "Preston, Ann You Were in Heaven",
-    "wof:lastmodified": 1720821835,
+    "wof:lastmodified": 1737511373,
     "wof:name": "You Were in Heaven",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",

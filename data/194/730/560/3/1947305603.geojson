@@ -59,6 +59,7 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1947304871
     ],
@@ -108,7 +109,7 @@
     ],
     "wof:id": 1947305603,
     "wof:label": "Hung, Su-Chen Welcome",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Welcome",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",

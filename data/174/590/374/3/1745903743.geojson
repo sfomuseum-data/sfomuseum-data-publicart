@@ -33,6 +33,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -77,7 +78,7 @@
     ],
     "wof:id": 1745903743,
     "wof:label": "Four Corners\r",
-    "wof:lastmodified": 1720804171,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Four Corners\r",
     "wof:parent_id": 1745882227,
     "wof:placetype": "venue",

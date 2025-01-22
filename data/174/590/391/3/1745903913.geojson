@@ -61,6 +61,7 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1796889499
     ],
@@ -121,7 +122,7 @@
     ],
     "wof:id": 1745903913,
     "wof:label": "Ángulos en Todas las Direcciones",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Ángulos en Todas las Direcciones",
     "wof:parent_id": 1763588335,
     "wof:placetype": "venue",

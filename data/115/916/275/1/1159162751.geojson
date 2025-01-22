@@ -32,6 +32,7 @@
     "sfomuseum:terminal": "1",
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       1159396217,
       102527513,
@@ -71,7 +72,7 @@
     ],
     "wof:id": 1159162751,
     "wof:label": "Peephole Cinema",
-    "wof:lastmodified": 1716596276,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Peephole Cinema",
     "wof:parent_id": 1159396217,
     "wof:placetype": "venue",

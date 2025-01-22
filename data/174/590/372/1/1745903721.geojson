@@ -61,6 +61,7 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "mural",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1796889541
     ],
@@ -116,7 +117,7 @@
     ],
     "wof:id": 1745903721,
     "wof:label": "Baile!",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Baile!",
     "wof:parent_id": 1763588433,
     "wof:placetype": "venue",

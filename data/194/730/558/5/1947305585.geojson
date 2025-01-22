@@ -39,6 +39,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "etching",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1930431147
     ],
@@ -82,7 +83,7 @@
     ],
     "wof:id": 1947305585,
     "wof:label": "Untitled/ print no. 79.67-4/9",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Untitled/ print no. 79.67-4/9",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

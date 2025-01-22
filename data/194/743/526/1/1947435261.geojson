@@ -27,6 +27,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "archival pigment print",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -67,7 +68,7 @@
     ],
     "wof:id": 1947435261,
     "wof:label": "Arch Construction IV, George Moscone Site, San Francisco",
-    "wof:lastmodified": 1733301346,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Arch Construction IV, George Moscone Site, San Francisco",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

@@ -49,6 +49,7 @@
     "sfomuseum:subcategory": "",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1914676383
     ],
@@ -96,7 +97,7 @@
     ],
     "wof:id": 1914650575,
     "wof:label": "Noguchi, Isamu Figure",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511372,
     "wof:name": "Figure",
     "wof:parent_id": 1914601309,
     "wof:placetype": "venue",

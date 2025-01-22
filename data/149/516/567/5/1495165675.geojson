@@ -39,6 +39,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1930431199
     ],
@@ -82,7 +83,7 @@
     ],
     "wof:id": 1495165675,
     "wof:label": "Ether",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Ether",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

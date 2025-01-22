@@ -27,6 +27,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "gelatin silver print",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -67,7 +68,7 @@
     ],
     "wof:id": 1947435259,
     "wof:label": "Fairmont Hotel in Fog atop San Francisco’s Nob Hill",
-    "wof:lastmodified": 1733301346,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Fairmont Hotel in Fog atop San Francisco’s Nob Hill",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

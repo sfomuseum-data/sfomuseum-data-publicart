@@ -33,6 +33,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1947305195
     ],
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1947305599,
     "wof:label": "Zenith (VII)",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Zenith (VII)",
     "wof:parent_id": 1947304417,
     "wof:placetype": "venue",

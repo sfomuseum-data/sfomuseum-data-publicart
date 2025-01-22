@@ -24,6 +24,7 @@
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -53,7 +54,7 @@
     ],
     "wof:id": 1175727155,
     "wof:label": "Siegel, Connie Smith Beach at Tomales Bay",
-    "wof:lastmodified": 1716596276,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Beach at Tomales Bay",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

@@ -58,6 +58,7 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "painting",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -110,7 +111,7 @@
     ],
     "wof:id": 1947304753,
     "wof:label": "Above Bolinas (2024-11-05)",
-    "wof:lastmodified": 1731966409,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Above Bolinas",
     "wof:parent_id": 1947304739,
     "wof:placetype": "venue",

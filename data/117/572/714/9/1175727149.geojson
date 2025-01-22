@@ -25,6 +25,7 @@
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -54,7 +55,7 @@
     ],
     "wof:id": 1175727149,
     "wof:label": "Pylon of the Golden Gate Bridge",
-    "wof:lastmodified": 1716596276,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Pylon of the Golden Gate Bridge",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

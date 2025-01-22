@@ -53,6 +53,7 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "print",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -105,7 +106,7 @@
     ],
     "wof:id": 1729793163,
     "wof:label": "Acconci, Vito Two Wings for Wall and Person",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Two Wings for Wall and Person",
     "wof:parent_id": 1729792699,
     "wof:placetype": "venue",

@@ -59,6 +59,7 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "painting",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1947304991
     ],
@@ -114,7 +115,7 @@
     ],
     "wof:id": 1947304759,
     "wof:label": "Katano, Marc Greeting A Totem",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Greeting A Totem",
     "wof:parent_id": 1947304739,
     "wof:placetype": "venue",

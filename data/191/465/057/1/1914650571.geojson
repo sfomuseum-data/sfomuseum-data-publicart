@@ -47,6 +47,7 @@
     "sfomuseum:subcategory": "",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1914676381
     ],
@@ -94,7 +95,7 @@
     ],
     "wof:id": 1914650571,
     "wof:label": "Shaw, Richard Martha H.",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Martha H.",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",

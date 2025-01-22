@@ -43,6 +43,7 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1947304853
     ],
@@ -98,7 +99,7 @@
     ],
     "wof:id": 1947304547,
     "wof:label": "Merge Conceptual Design Sky",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Sky",
     "wof:parent_id": 1947304511,
     "wof:placetype": "venue",

@@ -36,6 +36,7 @@
     "sfomuseum:subcategory": "",
     "sfomuseum:type": "mural",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1947305207
     ],
@@ -83,7 +84,7 @@
     ],
     "wof:id": 1947304429,
     "wof:label": "Close Encounter with the California Sublime",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Close Encounter with the California Sublime",
     "wof:parent_id": 1947304417,
     "wof:placetype": "venue",

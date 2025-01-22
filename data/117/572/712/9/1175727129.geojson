@@ -37,6 +37,7 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "etching",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -80,7 +81,7 @@
     ],
     "wof:id": 1175727129,
     "wof:label": "Untitled/ print no. 79.65-6/9",
-    "wof:lastmodified": 1733265191,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Untitled/ print no. 79.65-6/9",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

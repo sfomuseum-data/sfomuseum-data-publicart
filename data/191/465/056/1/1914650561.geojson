@@ -48,6 +48,7 @@
     "sfomuseum:subcategory": "",
     "sfomuseum:type": "painting",
     "src:geom": "unknown",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1914676381
     ],
@@ -95,7 +96,7 @@
     ],
     "wof:id": 1914650561,
     "wof:label": "Untitled",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Untitled",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",

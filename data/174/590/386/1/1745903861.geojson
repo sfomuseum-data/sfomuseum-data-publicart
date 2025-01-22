@@ -61,6 +61,7 @@
     "sfomuseum:terminal": "1",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1796889607
     ],
@@ -116,7 +117,7 @@
     ],
     "wof:id": 1745903861,
     "wof:label": "Flight Patterns",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Flight Patterns",
     "wof:parent_id": 1763588261,
     "wof:placetype": "venue",

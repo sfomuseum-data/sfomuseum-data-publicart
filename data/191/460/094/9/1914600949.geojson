@@ -61,6 +61,7 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "painting",
     "src:geom": "sfo",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1914666253
     ],
@@ -116,7 +117,7 @@
     ],
     "wof:id": 1914600949,
     "wof:label": "De Feo, Jay Loop Series #4: Masquerade in Black",
-    "wof:lastmodified": 1737504477,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Loop Series #4: Masquerade in Black",
     "wof:parent_id": 1914600917,
     "wof:placetype": "venue",

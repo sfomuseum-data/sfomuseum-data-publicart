@@ -58,6 +58,7 @@
     "sfomuseum:terminal": "BART Station",
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1930431163
     ],
@@ -104,7 +105,7 @@
     ],
     "wof:id": 1729793199,
     "wof:label": "Kahn, Ned Wind Portal",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Wind Portal",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

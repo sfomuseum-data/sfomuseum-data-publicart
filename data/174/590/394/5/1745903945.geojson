@@ -34,6 +34,7 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "unknown",
+    "wfnd:placetype": "publicart",
     "wfnd:waypoint_id": [
       1847562719
     ],
@@ -81,7 +82,7 @@
     ],
     "wof:id": 1745903945,
     "wof:label": "Parallel Portions",
-    "wof:lastmodified": 1737504478,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Parallel Portions",
     "wof:parent_id": 1763588265,
     "wof:placetype": "venue",

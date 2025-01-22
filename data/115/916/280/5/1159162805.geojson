@@ -38,6 +38,7 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       1159396267,
       102527513,
@@ -77,7 +78,7 @@
     ],
     "wof:id": 1159162805,
     "wof:label": "Ocean Voices II",
-    "wof:lastmodified": 1716596276,
+    "wof:lastmodified": 1737511373,
     "wof:name": "Ocean Voices II",
     "wof:parent_id": 1159396267,
     "wof:placetype": "venue",
