@@ -53,6 +53,9 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "mural",
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": true,
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -105,7 +108,7 @@
     ],
     "wof:id": 1729793201,
     "wof:label": "Montoya, Emmanual C. and Juana Alicia Sanctuary/Santuario",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Sanctuary/Santuario",
     "wof:parent_id": 1729792643,
     "wof:placetype": "venue",

@@ -56,6 +56,14 @@
     "sfomuseum:subcategory": "",
     "sfomuseum:type": "",
     "src:geom": "sfo",
+    "wfnd:detail": "GHH",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "GHH",
+    "wfnd:level": 1,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1930431183
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -99,7 +107,7 @@
     ],
     "wof:id": 1947305607,
     "wof:label": "Dvortcsak, Machael Sublimens",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Sublimens",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

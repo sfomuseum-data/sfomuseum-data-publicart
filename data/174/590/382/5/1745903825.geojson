@@ -60,6 +60,15 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "mural",
     "src:geom": "sfomuseum",
+    "wfnd:detail": "T2",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "T2",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1947304983,
+      1947304999
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -103,7 +112,7 @@
     ],
     "wof:id": 1745903825,
     "wof:label": "Sato, Norie Air Over Under",
-    "wof:lastmodified": 1731979523,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Air Over Under",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

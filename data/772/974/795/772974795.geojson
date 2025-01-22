@@ -47,6 +47,9 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": false,
+    "wfnd:level": -1,
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -80,7 +83,7 @@
     ],
     "wof:id": 772974795,
     "wof:label": "Untitled/ print no. 79.62-3/9",
-    "wof:lastmodified": 1729026618,
+    "wof:lastmodified": 1737577065,
     "wof:name": "Untitled/ print no. 79.62-3/9",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

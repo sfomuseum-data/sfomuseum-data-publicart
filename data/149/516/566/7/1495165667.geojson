@@ -41,6 +41,14 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:detail": "GHH",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "GHH",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1930431205
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -83,7 +91,7 @@
     ],
     "wof:id": 1495165667,
     "wof:label": "Cultural Fabric (Bay Area)",
-    "wof:lastmodified": 1731966376,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Cultural Fabric (Bay Area)",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

@@ -41,6 +41,14 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfo",
+    "wfnd:detail": "HMT1",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "HMT1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1914666221
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -90,7 +98,7 @@
     ],
     "wof:id": 1914601291,
     "wof:label": "The Author and Her Story",
-    "wof:lastmodified": 1731958707,
+    "wof:lastmodified": 1737577065,
     "wof:name": "The Author and Her Story",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",

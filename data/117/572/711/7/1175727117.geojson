@@ -22,6 +22,9 @@
     "sfomuseum:placetype": "publicart",
     "sfomuseum:post_security": 0,
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": false,
+    "wfnd:level": -1,
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -50,7 +53,7 @@
       }
     ],
     "wof:id": 1175727117,
-    "wof:lastmodified": 1716596276,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Love Letters proposal drawings",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

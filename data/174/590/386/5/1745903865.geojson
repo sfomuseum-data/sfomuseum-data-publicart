@@ -45,6 +45,14 @@
     "sfomuseum:terminal": "1",
     "sfomuseum:type": "mosaic",
     "src:geom": "sfomuseum",
+    "wfnd:detail": "T1",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1796889479
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -94,7 +102,7 @@
     ],
     "wof:id": 1745903865,
     "wof:label": "Riven/River",
-    "wof:lastmodified": 1720821971,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Riven/River",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

@@ -55,6 +55,15 @@
     "sfomuseum:terminal": "T1",
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
+    "wfnd:detail": "HMT1",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "HMT1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1914676363,
+      1914666591
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -108,7 +117,7 @@
     ],
     "wof:id": 1931288111,
     "wof:label": "Untitled/ print no. 79.61-2/9",
-    "wof:lastmodified": 1731958712,
+    "wof:lastmodified": 1737577065,
     "wof:name": "Untitled/ print no. 79.61-2/9",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",

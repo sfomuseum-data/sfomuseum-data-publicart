@@ -41,6 +41,14 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "gelatin silver print",
     "src:geom": "sfo",
+    "wfnd:detail": "HMT1",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "HMT1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1914666227
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -90,7 +98,7 @@
     ],
     "wof:id": 1914601271,
     "wof:label": "Untitled (On Becoming: Billy + Katie 1964 #1-8)",
-    "wof:lastmodified": 1731958709,
+    "wof:lastmodified": 1737577065,
     "wof:name": "Untitled (On Becoming: Billy + Katie 1964 #1-8)",
     "wof:parent_id": 1914601199,
     "wof:placetype": "venue",

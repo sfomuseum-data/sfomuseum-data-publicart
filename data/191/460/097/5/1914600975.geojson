@@ -61,6 +61,14 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfo",
+    "wfnd:detail": "T3",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "T3",
+    "wfnd:level": 1,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1914666425
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -113,7 +121,7 @@
     ],
     "wof:id": 1914600975,
     "wof:label": "Beasley, Bruce The Hesperides",
-    "wof:lastmodified": 1731958761,
+    "wof:lastmodified": 1737577065,
     "wof:name": "The Hesperides",
     "wof:parent_id": 1914600967,
     "wof:placetype": "venue",

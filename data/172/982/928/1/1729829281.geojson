@@ -27,6 +27,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": false,
+    "wfnd:level": 1,
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -71,7 +74,7 @@
     ],
     "wof:id": 1729829281,
     "wof:label": "Bird Plane House",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Bird Plane House",
     "wof:parent_id": 1729792483,
     "wof:placetype": "venue",

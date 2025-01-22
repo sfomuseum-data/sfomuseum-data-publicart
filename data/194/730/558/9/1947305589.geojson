@@ -34,6 +34,14 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfo",
+    "wfnd:detail": "ITB",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "ITB",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1947304871
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -72,7 +80,7 @@
     ],
     "wof:id": 1947305589,
     "wof:label": "River",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737577066,
     "wof:name": "River",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",

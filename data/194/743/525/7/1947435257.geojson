@@ -27,6 +27,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "gelatin silver print",
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": false,
+    "wfnd:level": 0,
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       102191575,
@@ -67,7 +70,7 @@
     ],
     "wof:id": 1947435257,
     "wof:label": "Boy on Bicycle, Cabrillo and 22nd Avenue",
-    "wof:lastmodified": 1733301345,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Boy on Bicycle, Cabrillo and 22nd Avenue",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",

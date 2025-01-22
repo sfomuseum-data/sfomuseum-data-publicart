@@ -46,6 +46,15 @@
     "sfomuseum:terminal": "1",
     "sfomuseum:type": "",
     "src:geom": "sfomuseum",
+    "wfnd:detail": "T1",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "T1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1796889605,
+      1796942185
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -98,7 +107,7 @@
     ],
     "wof:id": 1745903759,
     "wof:label": "Voyage",
-    "wof:lastmodified": 1720822009,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Voyage",
     "wof:parent_id": 1763588165,
     "wof:placetype": "venue",

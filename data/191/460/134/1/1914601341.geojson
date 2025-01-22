@@ -61,6 +61,14 @@
     "sfomuseum:terminal": "1",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfo",
+    "wfnd:detail": "T1",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "T1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1914666373
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -113,7 +121,7 @@
     ],
     "wof:id": 1914601341,
     "wof:label": "Flight Patterns",
-    "wof:lastmodified": 1731958730,
+    "wof:lastmodified": 1737577065,
     "wof:name": "Flight Patterns",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",

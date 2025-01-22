@@ -32,6 +32,12 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "ceiling sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": false,
+    "wfnd:level": 1,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1796889629
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -76,7 +82,7 @@
     ],
     "wof:id": 1729829269,
     "wof:label": "The Color of Horizons",
-    "wof:lastmodified": 1720805090,
+    "wof:lastmodified": 1737577066,
     "wof:name": "The Color of Horizons",
     "wof:parent_id": 1729792483,
     "wof:placetype": "venue",

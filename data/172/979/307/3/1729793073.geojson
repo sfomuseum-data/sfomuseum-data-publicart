@@ -39,6 +39,9 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": false,
+    "wfnd:level": 0,
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -91,7 +94,7 @@
     ],
     "wof:id": 1729793073,
     "wof:label": "Light",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Light",
     "wof:parent_id": 1729792645,
     "wof:placetype": "venue",

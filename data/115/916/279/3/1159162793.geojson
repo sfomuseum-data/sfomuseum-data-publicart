@@ -38,6 +38,9 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "print",
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": false,
+    "wfnd:level": 1,
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       1159157309,
       102527513,
@@ -77,7 +80,7 @@
     ],
     "wof:id": 1159162793,
     "wof:label": "Strangerhood",
-    "wof:lastmodified": 1716596276,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Strangerhood",
     "wof:parent_id": 1159157309,
     "wof:placetype": "venue",

@@ -36,6 +36,14 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:detail": "ITB",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "ITB",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1796889531
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -80,7 +88,7 @@
     ],
     "wof:id": 1914599695,
     "wof:label": "Untitled (2021-11-09)",
-    "wof:lastmodified": 1721773156,
+    "wof:lastmodified": 1737577065,
     "wof:name": "Untitled",
     "wof:parent_id": 1763588371,
     "wof:placetype": "venue",

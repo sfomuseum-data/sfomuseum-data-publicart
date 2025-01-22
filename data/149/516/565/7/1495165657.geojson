@@ -41,6 +41,14 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:detail": "GHH",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "GHH",
+    "wfnd:level": 3,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1930431189
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -84,7 +92,7 @@
     ],
     "wof:id": 1495165657,
     "wof:label": "November Evening Cloud 4.6",
-    "wof:lastmodified": 1731966376,
+    "wof:lastmodified": 1737577066,
     "wof:name": "November Evening Cloud 4.6",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

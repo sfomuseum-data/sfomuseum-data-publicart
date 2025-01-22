@@ -37,6 +37,14 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfo",
+    "wfnd:detail": "ITB",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "ITB",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1914666281
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -81,7 +89,7 @@
     ],
     "wof:id": 1914601117,
     "wof:label": "When the Path Through the Atmosphere is Longer",
-    "wof:lastmodified": 1731958666,
+    "wof:lastmodified": 1737577065,
     "wof:name": "When the Path Through the Atmosphere is Longer",
     "wof:parent_id": 1914601057,
     "wof:placetype": "venue",

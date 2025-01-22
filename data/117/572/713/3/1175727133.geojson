@@ -41,6 +41,14 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "etching",
     "src:geom": "sfomuseum",
+    "wfnd:detail": "GHH",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "GHH",
+    "wfnd:level": 4,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1930431147
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -84,7 +92,7 @@
     ],
     "wof:id": 1175727133,
     "wof:label": "Untitled/ print no. 79.68-9/9",
-    "wof:lastmodified": 1731966365,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Untitled/ print no. 79.68-9/9",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

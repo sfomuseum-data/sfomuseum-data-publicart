@@ -59,6 +59,14 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfo",
+    "wfnd:detail": "ITB",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "ITB",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1947304871
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -111,7 +119,7 @@
     ],
     "wof:id": 1947304115,
     "wof:label": "Howard, Mildred Salty Peanuts",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Salty Peanuts",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",

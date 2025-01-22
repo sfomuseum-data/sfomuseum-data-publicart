@@ -32,6 +32,14 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "unknown",
+    "wfnd:detail": "HMT1",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "HMT1",
+    "wfnd:level": 1,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1947305467
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -67,7 +75,7 @@
     ],
     "wof:id": 1745903939,
     "wof:label": "Intersection",
-    "wof:lastmodified": 1731979523,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Intersection",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",

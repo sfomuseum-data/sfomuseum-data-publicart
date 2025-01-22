@@ -35,6 +35,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": false,
+    "wfnd:level": 4,
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -75,7 +78,7 @@
     ],
     "wof:id": 1495165715,
     "wof:label": "We Will Walk Right Up To The Sun",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737577066,
     "wof:name": "We Will Walk Right Up To The Sun",
     "wof:parent_id": 1477856003,
     "wof:placetype": "venue",

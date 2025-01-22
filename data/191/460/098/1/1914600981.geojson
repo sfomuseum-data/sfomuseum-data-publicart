@@ -45,6 +45,14 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfo",
+    "wfnd:detail": "T3",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T3",
+    "wfnd:level": 1,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1914666247
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -97,7 +105,7 @@
     ],
     "wof:id": 1914600981,
     "wof:label": "Ocean Voices II",
-    "wof:lastmodified": 1731958763,
+    "wof:lastmodified": 1737577065,
     "wof:name": "Ocean Voices II",
     "wof:parent_id": 1914600967,
     "wof:placetype": "venue",

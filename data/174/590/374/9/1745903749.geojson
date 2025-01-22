@@ -61,6 +61,14 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
+    "wfnd:detail": "T2",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T2",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1796889493
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -113,7 +121,7 @@
     ],
     "wof:id": 1745903749,
     "wof:label": "Brown, Joan The Journey #2",
-    "wof:lastmodified": 1720821966,
+    "wof:lastmodified": 1737577066,
     "wof:name": "The Journey #2",
     "wof:parent_id": 1763588125,
     "wof:placetype": "venue",

@@ -37,6 +37,9 @@
     "sfomuseum:terminal": "IT",
     "sfomuseum:type": "painting",
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": false,
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       1477855835,
       102527513,
@@ -92,7 +95,7 @@
     ],
     "wof:id": 1477873915,
     "wof:label": "Mayhew, Richard Seneca",
-    "wof:lastmodified": 1716596276,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Seneca",
     "wof:parent_id": 1477855835,
     "wof:placetype": "venue",

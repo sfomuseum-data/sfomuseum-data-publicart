@@ -37,6 +37,15 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "ceiling sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:detail": "HMT1",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "HMT1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1796889629,
+      1796889625
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -81,7 +90,7 @@
     ],
     "wof:id": 1914599721,
     "wof:label": "The Color of Horizons (2021-11-09)",
-    "wof:lastmodified": 1721773190,
+    "wof:lastmodified": 1737577065,
     "wof:name": "The Color of Horizons",
     "wof:parent_id": 1763588261,
     "wof:placetype": "venue",

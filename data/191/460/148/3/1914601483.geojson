@@ -37,6 +37,14 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfo",
+    "wfnd:detail": "T2",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T2",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1914666313
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -81,7 +89,7 @@
     ],
     "wof:id": 1914601483,
     "wof:label": "Continuous City",
-    "wof:lastmodified": 1731958804,
+    "wof:lastmodified": 1737577065,
     "wof:name": "Continuous City",
     "wof:parent_id": 1914601449,
     "wof:placetype": "venue",

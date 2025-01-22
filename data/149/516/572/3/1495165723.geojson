@@ -43,6 +43,14 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "neon",
     "src:geom": "sfomuseum",
+    "wfnd:detail": "PRK",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "PRK",
+    "wfnd:level": 0,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1930431167
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -86,7 +94,7 @@
     ],
     "wof:id": 1495165723,
     "wof:label": "Coding",
-    "wof:lastmodified": 1731966377,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Coding",
     "wof:parent_id": 1477855987,
     "wof:placetype": "venue",

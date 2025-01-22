@@ -38,6 +38,12 @@
     "sfomuseum:subcategory": "",
     "sfomuseum:type": "mural",
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": false,
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1914676385
+    ],
     "wof:belongsto": [
       1914600839,
       102527513,
@@ -82,7 +88,7 @@
     ],
     "wof:id": 1914650463,
     "wof:label": "",
-    "wof:lastmodified": 1733301341,
+    "wof:lastmodified": 1737577065,
     "wof:name": "",
     "wof:parent_id": 1914601333,
     "wof:placetype": "venue",

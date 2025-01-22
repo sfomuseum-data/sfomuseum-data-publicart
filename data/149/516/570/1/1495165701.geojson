@@ -34,6 +34,9 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": true,
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -80,7 +83,7 @@
     ],
     "wof:id": 1495165701,
     "wof:label": "K4",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737577066,
     "wof:name": "K4",
     "wof:parent_id": 1477855657,
     "wof:placetype": "venue",

@@ -61,6 +61,14 @@
     "sfomuseum:terminal": "2",
     "sfomuseum:type": "painting",
     "src:geom": "sfo",
+    "wfnd:detail": "T2",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "T2",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1914666353
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -113,7 +121,7 @@
     ],
     "wof:id": 1914601535,
     "wof:label": "Katano, Marc Torso",
-    "wof:lastmodified": 1731958811,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Torso",
     "wof:parent_id": 1914601497,
     "wof:placetype": "venue",

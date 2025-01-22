@@ -36,6 +36,14 @@
     "sfomuseum:post_security": 1,
     "sfomuseum:subcategory": "digital print",
     "src:geom": "sfomuseum",
+    "wfnd:detail": "HMT1",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "HMT1",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1796889469
+    ],
     "wof:belongsto": [
       102527513,
       102191575,
@@ -80,7 +88,7 @@
     ],
     "wof:id": 1745903741,
     "wof:label": "Advice from My 80-Year-Old-Self",
-    "wof:lastmodified": 1720821925,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Advice from My 80-Year-Old-Self",
     "wof:parent_id": 1763588177,
     "wof:placetype": "venue",

@@ -61,6 +61,14 @@
     "sfomuseum:terminal": "1",
     "sfomuseum:type": "sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:detail": "PRK",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "PRK",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1930431167
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -107,7 +115,7 @@
     ],
     "wof:id": 1745903849,
     "wof:label": "Butterfield, Deborah Pohina",
-    "wof:lastmodified": 1731966391,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Pohina",
     "wof:parent_id": 1477855987,
     "wof:placetype": "venue",

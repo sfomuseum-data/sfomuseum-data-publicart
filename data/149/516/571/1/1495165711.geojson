@@ -37,6 +37,9 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "ceiling sculpture",
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": false,
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       1477855659,
       102527513,
@@ -86,7 +89,7 @@
     ],
     "wof:id": 1495165711,
     "wof:label": "Terra-Techne",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Terra-Techne",
     "wof:parent_id": 1477855659,
     "wof:placetype": "venue",

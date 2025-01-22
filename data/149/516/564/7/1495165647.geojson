@@ -41,6 +41,14 @@
     "sfomuseum:post_security": 0,
     "sfomuseum:subcategory": "",
     "src:geom": "sfomuseum",
+    "wfnd:detail": "GHH",
+    "wfnd:is_restricted": false,
+    "wfnd:kind": "GHH",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1930431203
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -84,7 +92,7 @@
     ],
     "wof:id": 1495165647,
     "wof:label": "Golden Gate Bridge, 3.4.01, 7:30 pm",
-    "wof:lastmodified": 1731966372,
+    "wof:lastmodified": 1737577065,
     "wof:name": "Golden Gate Bridge, 3.4.01, 7:30 pm",
     "wof:parent_id": 1477856005,
     "wof:placetype": "venue",

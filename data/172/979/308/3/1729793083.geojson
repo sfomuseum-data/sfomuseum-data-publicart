@@ -36,6 +36,9 @@
     "sfomuseum:subcategory": "",
     "sfomuseum:terminal": "IT",
     "src:geom": "sfomuseum",
+    "wfnd:is_restricted": true,
+    "wfnd:level": 0,
+    "wfnd:placetype": "publicart",
     "wof:belongsto": [
       102527513,
       85688637,
@@ -84,7 +87,7 @@
     ],
     "wof:id": 1729793083,
     "wof:label": "Mondrian Meets the Beatles",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1737577066,
     "wof:name": "Mondrian Meets the Beatles",
     "wof:parent_id": 1729792643,
     "wof:placetype": "venue",

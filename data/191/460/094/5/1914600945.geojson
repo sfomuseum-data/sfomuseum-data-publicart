@@ -62,6 +62,14 @@
     "sfomuseum:terminal": "3",
     "sfomuseum:type": "painting",
     "src:geom": "sfo",
+    "wfnd:detail": "T3",
+    "wfnd:is_restricted": true,
+    "wfnd:kind": "T3",
+    "wfnd:level": 2,
+    "wfnd:placetype": "publicart",
+    "wfnd:waypoint_id": [
+      1914666253
+    ],
     "wof:belongsto": [
       102527513,
       85688637,
@@ -114,7 +122,7 @@
     ],
     "wof:id": 1914600945,
     "wof:label": "Thiebaud, Wayne 18th Street Downgrade",
-    "wof:lastmodified": 1731958754,
+    "wof:lastmodified": 1737577065,
     "wof:name": "18th Street Downgrade",
     "wof:parent_id": 1914600917,
     "wof:placetype": "venue",
