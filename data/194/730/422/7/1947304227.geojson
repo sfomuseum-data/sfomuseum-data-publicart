@@ -6,11 +6,11 @@
     "addr:housenumber": "",
     "addr:postcode": "",
     "addr:street": "",
-    "date:cessation_lower": "2024-11-05",
-    "date:cessation_upper": "2024-11-05",
+    "date:cessation_lower": "2025-03-12",
+    "date:cessation_upper": "2025-03-12",
     "date:inception_lower": "2024-11-05",
     "date:inception_upper": "2024-11-05",
-    "edtf:cessation": "2024-11-05",
+    "edtf:cessation": "2025-03-12",
     "edtf:inception": "2024-11-05",
     "flysfo:node": 21817,
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/light-beams-sky-transfer-corridor",
@@ -114,7 +114,7 @@
     ],
     "wof:id": 1947304227,
     "wof:label": "Light Beams for the Sky of A Transfer Corridor (2024-11-05)",
-    "wof:lastmodified": 1731966369,
+    "wof:lastmodified": 1741736123,
     "wof:name": "Light Beams for the Sky of A Transfer Corridor",
     "wof:parent_id": 1947304205,
     "wof:placetype": "venue",
@@ -123,7 +123,8 @@
     ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
-      1947305617
+      1947305617,
+      1963990357
     ],
     "wof:supersedes": [
       1914601163

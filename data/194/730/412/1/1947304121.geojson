@@ -6,11 +6,11 @@
     "addr:housenumber": "",
     "addr:postcode": "",
     "addr:street": "",
-    "date:cessation_lower": "2024-11-05",
-    "date:cessation_upper": "2024-11-05",
+    "date:cessation_lower": "2025-03-12",
+    "date:cessation_upper": "2025-03-12",
     "date:inception_lower": "2024-11-05",
     "date:inception_upper": "2024-11-05",
-    "edtf:cessation": "2024-11-05",
+    "edtf:cessation": "2025-03-12",
     "edtf:inception": "2024-11-05",
     "flysfo:node": 3291,
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/welcome",
@@ -113,7 +113,7 @@
     ],
     "wof:id": 1947304121,
     "wof:label": "Welcome (2024-11-05)",
-    "wof:lastmodified": 1731966366,
+    "wof:lastmodified": 1741736098,
     "wof:name": "Welcome",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",
@@ -122,7 +122,8 @@
     ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
-      1947305603
+      1947305603,
+      1963990273
     ],
     "wof:supersedes": [
       1914601035

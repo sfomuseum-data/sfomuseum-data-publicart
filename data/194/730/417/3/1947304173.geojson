@@ -6,11 +6,11 @@
     "addr:housenumber": "",
     "addr:postcode": "",
     "addr:street": "",
-    "date:cessation_lower": "2024-11-05",
-    "date:cessation_upper": "2024-11-05",
+    "date:cessation_lower": "2025-03-12",
+    "date:cessation_upper": "2025-03-12",
     "date:inception_lower": "2024-11-05",
     "date:inception_upper": "2024-11-05",
-    "edtf:cessation": "2024-11-05",
+    "edtf:cessation": "2025-03-12",
     "edtf:inception": "2024-11-05",
     "flysfo:node": 3256,
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/shining-paths-san-franciscos-sister-cities",
@@ -110,7 +110,7 @@
     ],
     "wof:id": 1947304173,
     "wof:label": "Shining Paths: San Francisco’s Sister Cities (2024-11-05)",
-    "wof:lastmodified": 1731966366,
+    "wof:lastmodified": 1741736116,
     "wof:name": "Shining Paths: San Francisco’s Sister Cities",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",
@@ -119,7 +119,8 @@
     ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
-      1947305605
+      1947305605,
+      1963990331
     ],
     "wof:supersedes": [
       1914601103

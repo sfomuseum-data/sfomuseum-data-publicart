@@ -2,11 +2,11 @@
   "id": 1947304123,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2024-11-05",
-    "date:cessation_upper": "2024-11-05",
+    "date:cessation_lower": "2025-03-12",
+    "date:cessation_upper": "2025-03-12",
     "date:inception_lower": "2024-11-05",
     "date:inception_upper": "2024-11-05",
-    "edtf:cessation": "2024-11-05",
+    "edtf:cessation": "2025-03-12",
     "edtf:inception": "2024-11-05",
     "flysfo:url": "",
     "geom:area": 0,
@@ -80,7 +80,7 @@
     ],
     "wof:id": 1947304123,
     "wof:label": "River (2024-11-05)",
-    "wof:lastmodified": 1731966365,
+    "wof:lastmodified": 1741736098,
     "wof:name": "River",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",
@@ -89,7 +89,8 @@
     ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
-      1947305589
+      1947305589,
+      1963990271
     ],
     "wof:supersedes": [
       1914601053
