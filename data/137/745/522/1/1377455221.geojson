@@ -1,0 +1,346 @@
+{
+  "id": 1377455221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "",
+    "edtf:inception": "",
+    "geom:area": 0,
+    "geom:bbox": "-122.389385,37.615510,-122.389385,37.615510",
+    "geom:latitude": 37.61551,
+    "geom:longitude": -122.389385,
+    "iso:country": "US",
+    "media:created": 1256169976,
+    "media:fingerprint": "3d77df84b1b83bcc7a2363447a22bb408cd6ce64",
+    "media:imagehash_avg": "a:3ffcfde79f390200",
+    "media:imagehash_diff": "d:e2f8c10e3ce1ce9d",
+    "media:medium": "image",
+    "media:mimetype": "image/jpeg",
+    "media:placetype": "publicart",
+    "media:properties": {
+      "colours": [
+        {
+          "hex": "#325dc9",
+          "name": "#325dc9",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#516dce",
+          "name": "#516dce",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#3c4aa6",
+          "name": "#3c4aa6",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#5b4ea0",
+          "name": "#5b4ea0",
+          "reference": "vibrant"
+        },
+        {
+          "hex": "#a4b4c4",
+          "name": "#a4b4c4",
+          "reference": "vibrant"
+        }
+      ],
+      "depicts": [
+        772974593
+      ],
+      "sizes": {
+        "b": {
+          "extension": "jpg",
+          "height": 767,
+          "mimetype": "image/jpeg",
+          "secret": "lVyegb7vMGn98t7OEQZShdTIkbPzFX7E",
+          "width": 510
+        },
+        "c": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "lVyegb7vMGn98t7OEQZShdTIkbPzFX7E",
+          "width": 398
+        },
+        "dc": {
+          "extension": "jpg",
+          "height": 600,
+          "mimetype": "image/jpeg",
+          "secret": "lVyegb7vMGn98t7OEQZShdTIkbPzFX7E",
+          "width": 398
+        },
+        "ds": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "lVyegb7vMGn98t7OEQZShdTIkbPzFX7E",
+          "width": 320
+        },
+        "k": {
+          "extension": "jpg",
+          "height": 1535,
+          "mimetype": "image/jpeg",
+          "secret": "lVyegb7vMGn98t7OEQZShdTIkbPzFX7E",
+          "width": 1021
+        },
+        "n": {
+          "extension": "jpg",
+          "height": 240,
+          "mimetype": "image/jpeg",
+          "secret": "lVyegb7vMGn98t7OEQZShdTIkbPzFX7E",
+          "width": 159
+        },
+        "o": {
+          "extension": "jpg",
+          "height": 3008,
+          "mimetype": "image/jpeg",
+          "secret": "gJ3d6xXl97pXEFTYaQrqfIplJMmzmcLk",
+          "width": 2000
+        },
+        "s": {
+          "extension": "jpg",
+          "height": 320,
+          "mimetype": "image/jpeg",
+          "secret": "lVyegb7vMGn98t7OEQZShdTIkbPzFX7E",
+          "width": 320
+        },
+        "z": {
+          "extension": "jpg",
+          "height": 480,
+          "mimetype": "image/jpeg",
+          "secret": "lVyegb7vMGn98t7OEQZShdTIkbPzFX7E",
+          "width": 319
+        }
+      }
+    },
+    "media:source": "sfomuseum",
+    "media:status_id": 1,
+    "mz:hierarchy_label": 1,
+    "mz:is_approximate": 1,
+    "mz:is_current": -1,
+    "sfomuseum:filename": "64220.jpg",
+    "sfomuseum:image_id": 64220,
+    "sfomuseum:object_id": 109295,
+    "sfomuseum:placetype": "image",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      102527513,
+      85922583,
+      772974593,
+      1159157333,
+      1159157335,
+      85633793,
+      85688637,
+      1159157271,
+      102191575,
+      102087579,
+      1477855605,
+      1477855609,
+      1477855613,
+      554784711,
+      1477873943,
+      1477855833,
+      102085387,
+      1729792387,
+      1729792679,
+      1729793249,
+      1729792579,
+      1763588121,
+      1763588469,
+      1745903711,
+      1763588369,
+      1914600839,
+      1914601135,
+      1914601155,
+      1914600999,
+      1947304067,
+      1947304205,
+      1947304225,
+      1947304069
+    ],
+    "wof:country": "US",
+    "wof:created": 1555457588,
+    "wof:depicts": [
+      772974593,
+      102527513
+    ],
+    "wof:geomhash": "b6f137f95c212e84d626dad6e805962a",
+    "wof:hierarchy": [
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855609,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1377455221,
+        "enclosure_id": 1477855613,
+        "image_id": 1377455221,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1477873943,
+        "wing_id": 1477855833
+      },
+      {
+        "building_id": 1477855605,
+        "campus_id": 102527513,
+        "concourse_id": 1477855609,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1377455221,
+        "enclosure_id": 1477855613,
+        "image_id": 1377455221,
+        "region_id": 85688637,
+        "venue_id": 1477873943,
+        "wing_id": 1477855833
+      },
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792679,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1377455221,
+        "image_id": 1377455221,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1729793249,
+        "wing_id": 1729792579
+      },
+      {
+        "building_id": 1729792387,
+        "campus_id": 102527513,
+        "concourse_id": 1729792679,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1377455221,
+        "image_id": 1377455221,
+        "region_id": 85688637,
+        "venue_id": 1729793249,
+        "wing_id": 1729792579
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1377455221,
+        "image_id": 1377455221,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1745903711,
+        "wing_id": 1763588369
+      },
+      {
+        "building_id": 1763588121,
+        "campus_id": 102527513,
+        "concourse_id": 1763588469,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1377455221,
+        "image_id": 1377455221,
+        "region_id": 85688637,
+        "venue_id": 1745903711,
+        "wing_id": 1763588369
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601135,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1377455221,
+        "image_id": 1377455221,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1914601155,
+        "wing_id": 1914600999
+      },
+      {
+        "building_id": 1914600839,
+        "campus_id": 102527513,
+        "concourse_id": 1914601135,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1377455221,
+        "image_id": 1377455221,
+        "region_id": 85688637,
+        "venue_id": 1914601155,
+        "wing_id": 1914600999
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304205,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1377455221,
+        "image_id": 1377455221,
+        "locality_id": 85922583,
+        "postalcode_id": 554784711,
+        "region_id": 85688637,
+        "venue_id": 1947304225,
+        "wing_id": 1947304069
+      },
+      {
+        "building_id": 1947304067,
+        "campus_id": 102527513,
+        "concourse_id": 1947304205,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1377455221,
+        "image_id": 1377455221,
+        "region_id": 85688637,
+        "venue_id": 1947304225,
+        "wing_id": 1947304069
+      },
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": 1159157335,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "custom_id": 1377455221,
+        "image_id": 1377455221,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": 772974593,
+        "wing_id": 1159157333
+      }
+    ],
+    "wof:id": 1377455221,
+    "wof:lastmodified": 1758220422,
+    "wof:name": "Four Sculptural Light Reflectors",
+    "wof:parent_id": -4,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "image"
+    ],
+    "wof:repo": "sfomuseum-data-media",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.389385,
+    37.61551,
+    -122.389385,
+    37.61551
+  ],
+  "geometry": {"type":"Point","coordinates":[-122.389385,37.61551]}
+}
