@@ -15,8 +15,8 @@
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.383549,37.617580,-122.383549,37.617580",
-    "geom:latitude": 37.6175798355028,
-    "geom:longitude": -122.38354861736298,
+    "geom:latitude": 37.61758,
+    "geom:longitude": -122.383549,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
@@ -33,6 +33,7 @@
     "sfac:revision": "2-b62dd5bf7e5f6b7e8a62cd78a216d052",
     "sfac:source": "San Francisco Arts Commission",
     "sfac:title": "Garden Outside the Gate (The Garden Tapestries)",
+    "sfo:level": 0,
     "sfomuseum:artist_dates": "1925 - 2006",
     "sfomuseum:artist_name": "Mark Adams **",
     "sfomuseum:boardingarea": "D",
@@ -74,7 +75,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387337,
-    "wof:geomhash": "f72b593680b47fc2542a0cd5b867c349",
+    "wof:geomhash": "8e79755e09bdf79b083458ef2db50d2f",
     "wof:hierarchy": [
       {
         "building_id": 1159157271,
@@ -92,7 +93,7 @@
     ],
     "wof:id": 772974353,
     "wof:label": "Adams, Mark Garden Outside the Gate",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1761697594,
     "wof:name": "Garden Outside the Gate",
     "wof:parent_id": 1159157327,
     "wof:placetype": "venue",
@@ -110,10 +111,10 @@
     ]
   },
   "bbox": [
-    -122.38354861736298,
-    37.6175798355028,
-    -122.38354861736298,
-    37.6175798355028
+    -122.383549,
+    37.61758,
+    -122.383549,
+    37.61758
   ],
-  "geometry": {"coordinates":[-122.38354861736298,37.6175798355028],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.383549,37.61758]}
 }

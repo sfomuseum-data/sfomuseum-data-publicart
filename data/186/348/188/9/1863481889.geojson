@@ -9,6 +9,7 @@
     "geom:latitude": 37.618631,
     "geom:longitude": -122.386207,
     "media:placetype": "publicart",
+    "sfo:level": 0,
     "sfomuseum:filename": "",
     "sfomuseum:image_id": 143233,
     "sfomuseum:object_id": 173238,
@@ -1625,7 +1626,7 @@
       }
     ],
     "wof:id": 1863481889,
-    "wof:lastmodified": 1759823346,
+    "wof:lastmodified": 1761697594,
     "wof:name": "New Generation",
     "wof:parent_id": -4,
     "wof:placetype": "custom",

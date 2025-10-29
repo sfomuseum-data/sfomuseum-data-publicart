@@ -118,6 +118,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfo:level": 0,
     "sfomuseum:filename": "64245.jpg",
     "sfomuseum:image_id": 64245,
     "sfomuseum:object_id": 109347,
@@ -1107,7 +1108,7 @@
       }
     ],
     "wof:id": 1377455231,
-    "wof:lastmodified": 1759823336,
+    "wof:lastmodified": 1761697593,
     "wof:name": "Bay Area Victorian, Bay Area Deco, Bay Area Funk",
     "wof:parent_id": -4,
     "wof:placetype": "custom",

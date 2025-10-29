@@ -1,5 +1,5 @@
 {
-  "id": 1495165701,
+  "id": 1729793095,
   "type": "Feature",
   "properties": {
     "date:inception_lower": "2020-05-01",
@@ -9,8 +9,8 @@
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.385195,37.613391,-122.385195,37.613391",
-    "geom:latitude": 37.61339074932569,
-    "geom:longitude": -122.38519506642389,
+    "geom:latitude": 37.613391,
+    "geom:longitude": -122.385195,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "HMT1",
@@ -18,6 +18,7 @@
     "mz:is_approximate": 1,
     "mz:is_current": 0,
     "sfac:accession_id": "T2018.70",
+    "sfo:level": 0,
     "sfomuseum:collection": "Arts Commission",
     "sfomuseum:is_sfo": 1,
     "sfomuseum:map_id": 151,
@@ -41,7 +42,7 @@
     },
     "wof:country": "US",
     "wof:created": 1571259883,
-    "wof:geomhash": "7a4ea6140e4aedd821add05b1822b57e",
+    "wof:geomhash": "086d05a667fa15a39d8021b7d2c98bd4",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -55,7 +56,7 @@
     ],
     "wof:id": 1729793095,
     "wof:label": "K4",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1761697594,
     "wof:name": "K4",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -70,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38519506642389,
-    37.61339074932569,
-    -122.38519506642389,
-    37.61339074932569
+    -122.385195,
+    37.613391,
+    -122.385195,
+    37.613391
   ],
-  "geometry": {"coordinates":[-122.38519506642389,37.61339074932569],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.385195,37.613391]}
 }

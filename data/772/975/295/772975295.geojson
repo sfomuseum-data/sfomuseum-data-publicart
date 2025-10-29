@@ -31,6 +31,7 @@
     "sfac:revision": "2-af72ec6bf4aafecdd7ca53c9c2ffd80f",
     "sfac:source": "San Francisco Arts Commission",
     "sfac:title": "Angulos en Todas Direciones",
+    "sfo:level": 0,
     "sfomuseum:artist_dates": "b. 1937",
     "sfomuseum:artist_name": "Carlos Loarca",
     "sfomuseum:boardingarea": "E",
@@ -78,7 +79,7 @@
       }
     ],
     "wof:id": 772975295,
-    "wof:lastmodified": 1733522210,
+    "wof:lastmodified": 1761697594,
     "wof:name": "Angulos en Todas Direciones",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
@@ -98,5 +99,5 @@
     -122.389979,
     37.615223
   ],
-  "geometry": {"coordinates":[-122.389979,37.615223],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.389979,37.615223]}
 }

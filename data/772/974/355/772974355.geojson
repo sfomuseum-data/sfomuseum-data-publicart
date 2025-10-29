@@ -15,8 +15,8 @@
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.383511,37.617478,-122.383511,37.617478",
-    "geom:latitude": 37.61747785539166,
-    "geom:longitude": -122.38351106643675,
+    "geom:latitude": 37.617478,
+    "geom:longitude": -122.383511,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
@@ -33,6 +33,7 @@
     "sfac:revision": "2-0857c73da09a7df8750689d22872110d",
     "sfac:source": "San Francisco Arts Commission",
     "sfac:title": "Garden in San Andreas Valley (The Garden Tapestries)",
+    "sfo:level": 0,
     "sfomuseum:artist_dates": "1925 - 2006",
     "sfomuseum:artist_name": "Mark Adams **",
     "sfomuseum:boardingarea": "D",
@@ -74,7 +75,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387338,
-    "wof:geomhash": "bc71051aff969c66f3f835b06ad7ba27",
+    "wof:geomhash": "1852b6079d5a12cef7e593c375219f59",
     "wof:hierarchy": [
       {
         "building_id": 1159157271,
@@ -92,7 +93,7 @@
     ],
     "wof:id": 772974355,
     "wof:label": "Adams, Mark Garden in San Andreas Valley",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1761697594,
     "wof:name": "Garden in San Andreas Valley",
     "wof:parent_id": 1159157327,
     "wof:placetype": "venue",
@@ -110,10 +111,10 @@
     ]
   },
   "bbox": [
-    -122.38351106643675,
-    37.61747785539166,
-    -122.38351106643675,
-    37.61747785539166
+    -122.383511,
+    37.617478,
+    -122.383511,
+    37.617478
   ],
-  "geometry": {"coordinates":[-122.38351106643675,37.61747785539166],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.383511,37.617478]}
 }

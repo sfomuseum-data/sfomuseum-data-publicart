@@ -33,6 +33,7 @@
     "sfac:revision": "2-9262e4380a90d01e5c52e6261542bb50",
     "sfac:source": "San Francisco Arts Commission",
     "sfac:title": "Cardboard Kore",
+    "sfo:level": 0,
     "sfomuseum:is_sfo": 1,
     "sfomuseum:map_id": 107,
     "sfomuseum:medium": "Discarded cardboard packaging",
@@ -80,7 +81,7 @@
       }
     ],
     "wof:id": 772975757,
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1761697594,
     "wof:name": "Cardboard Kore",
     "wof:parent_id": 1159157323,
     "wof:placetype": "venue",
@@ -103,5 +104,5 @@
     -122.383296,
     37.61526
   ],
-  "geometry": {"coordinates":[-122.383296,37.61526],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.383296,37.61526]}
 }

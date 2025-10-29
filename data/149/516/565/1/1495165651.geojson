@@ -19,6 +19,7 @@
     "mz:is_approximate": 1,
     "mz:is_current": 0,
     "sfac:accession_id": "2018.30",
+    "sfo:level": 0,
     "sfomuseum:artist_dates": "b. 1991",
     "sfomuseum:artist_name": "Woody De Othello",
     "sfomuseum:boardingarea": "G",
@@ -85,7 +86,7 @@
     ],
     "wof:id": 1495165651,
     "wof:label": "Time",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1761697594,
     "wof:name": "Time",
     "wof:parent_id": 1477855885,
     "wof:placetype": "venue",
@@ -105,5 +106,5 @@
     -122.391359,
     37.617853
   ],
-  "geometry": {"coordinates":[-122.391359,37.617853],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.391359,37.617853]}
 }

@@ -19,6 +19,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "sfac:accession_id": "2018.3",
+    "sfo:level": 0,
     "sfomuseum:artist_dates": "b. 1979",
     "sfomuseum:artist_name": "Leah Rosenberg",
     "sfomuseum:boardingarea": "G",
@@ -73,7 +74,7 @@
     ],
     "wof:id": 1175727171,
     "wof:label": "Rosenberg, Leah Everywhere, a Color",
-    "wof:lastmodified": 1716596276,
+    "wof:lastmodified": 1761697593,
     "wof:name": "Everywhere, a Color",
     "wof:parent_id": 1159157337,
     "wof:placetype": "venue",
@@ -93,5 +94,5 @@
     -122.391214,
     37.617962
   ],
-  "geometry": {"coordinates":[-122.391214,37.617962],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.391214,37.617962]}
 }

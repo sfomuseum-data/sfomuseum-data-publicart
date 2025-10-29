@@ -30,6 +30,7 @@
     "sfac:revision": "2-14a58f7aea6c1ec64a825758cd5e8d10",
     "sfac:source": "San Francisco Arts Commission",
     "sfac:title": "The Red Horizon",
+    "sfo:level": 0,
     "sfomuseum:is_sfo": 0,
     "sfomuseum:object_id": -1,
     "sfomuseum:on_display": 0,
@@ -62,7 +63,7 @@
       }
     ],
     "wof:id": 772975789,
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1761697594,
     "wof:name": "The Red Horizon",
     "wof:parent_id": 102527513,
     "wof:placetype": "venue",
@@ -83,5 +84,5 @@
     -122.389979,
     37.615223
   ],
-  "geometry": {"coordinates":[-122.389979,37.615223],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.389979,37.615223]}
 }

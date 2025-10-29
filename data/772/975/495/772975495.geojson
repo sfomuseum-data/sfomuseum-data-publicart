@@ -14,8 +14,8 @@
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.383693,37.617350,-122.383693,37.617350",
-    "geom:latitude": 37.61735038005604,
-    "geom:longitude": -122.38369345664978,
+    "geom:latitude": 37.61735,
+    "geom:longitude": -122.383693,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
@@ -32,6 +32,7 @@
     "sfac:revision": "2-6c9bc5546f9e38e0f9626ba04c878892",
     "sfac:source": "San Francisco Arts Commission",
     "sfac:title": "Cilindro Costruito",
+    "sfo:level": 0,
     "sfomuseum:artist_dates": "b. 1926",
     "sfomuseum:artist_name": "Arnaldo Pomodoro",
     "sfomuseum:boardingarea": "D",
@@ -71,7 +72,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387377,
-    "wof:geomhash": "b71968d5e8d85a3849f9d9c86fc133a3",
+    "wof:geomhash": "d38aa76538c4706c2f1b1a3079b93b57",
     "wof:hierarchy": [
       {
         "building_id": 1159157271,
@@ -89,7 +90,7 @@
     ],
     "wof:id": 772975495,
     "wof:label": "Pomodoro, Arnaldo Cilindro Constuito",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1761697594,
     "wof:name": "Cilindro Constuito",
     "wof:parent_id": 1159157327,
     "wof:placetype": "venue",
@@ -107,10 +108,10 @@
     ]
   },
   "bbox": [
-    -122.38369345664978,
-    37.61735038005604,
-    -122.38369345664978,
-    37.61735038005604
+    -122.383693,
+    37.61735,
+    -122.383693,
+    37.61735
   ],
-  "geometry": {"coordinates":[-122.38369345664978,37.61735038005604],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.383693,37.61735]}
 }

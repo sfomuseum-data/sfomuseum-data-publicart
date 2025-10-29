@@ -15,8 +15,8 @@
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.383490,37.617372,-122.383490,37.617372",
-    "geom:latitude": 37.6173716259605,
-    "geom:longitude": -122.38348960876465,
+    "geom:latitude": 37.617372,
+    "geom:longitude": -122.38349,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
@@ -33,6 +33,7 @@
     "sfac:revision": "2-710e5caa71a55fd99577ae8e3a7ccbbf",
     "sfac:source": "San Francisco Arts Commission",
     "sfac:title": "Pond in Golden Gate Park (The Garden Tapestries)",
+    "sfo:level": 0,
     "sfomuseum:artist_dates": "1925 - 2006",
     "sfomuseum:artist_name": "Mark Adams **",
     "sfomuseum:boardingarea": "D",
@@ -74,7 +75,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387338,
-    "wof:geomhash": "36b17aa125f7e3cbd91d70973ce3b95a",
+    "wof:geomhash": "da77049dd2bb0be078d4e4aeb7477cad",
     "wof:hierarchy": [
       {
         "building_id": 1159157271,
@@ -92,7 +93,7 @@
     ],
     "wof:id": 772974357,
     "wof:label": "Adams, Mark Pond in Golden Gate Park",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1761697594,
     "wof:name": "Pond in Golden Gate Park",
     "wof:parent_id": 1159157327,
     "wof:placetype": "venue",
@@ -110,10 +111,10 @@
     ]
   },
   "bbox": [
-    -122.38348960876465,
-    37.6173716259605,
-    -122.38348960876465,
-    37.6173716259605
+    -122.38349,
+    37.617372,
+    -122.38349,
+    37.617372
   ],
-  "geometry": {"coordinates":[-122.38348960876465,37.6173716259605],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.38349,37.617372]}
 }

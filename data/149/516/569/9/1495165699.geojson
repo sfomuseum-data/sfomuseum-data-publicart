@@ -19,6 +19,7 @@
     "mz:is_approximate": 1,
     "mz:is_current": 0,
     "sfac:accession_id": "T2018.69",
+    "sfo:level": 0,
     "sfomuseum:boardingarea": "",
     "sfomuseum:building": "T1",
     "sfomuseum:category": "painting",
@@ -79,7 +80,7 @@
     ],
     "wof:id": 1495165699,
     "wof:label": "K5",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1761697594,
     "wof:name": "K5",
     "wof:parent_id": 1477855657,
     "wof:placetype": "venue",
@@ -99,5 +100,5 @@
     -122.38515,
     37.613691
   ],
-  "geometry": {"coordinates":[-122.38515,37.613691],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.38515,37.613691]}
 }

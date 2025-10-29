@@ -118,6 +118,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
     "mz:is_current": -1,
+    "sfo:level": 0,
     "sfomuseum:filename": "64112.jpg",
     "sfomuseum:image_id": 64112,
     "sfomuseum:object_id": 109343,
@@ -1738,7 +1739,7 @@
       }
     ],
     "wof:id": 1377455159,
-    "wof:lastmodified": 1759823324,
+    "wof:lastmodified": 1761697593,
     "wof:name": "Flight Patterns",
     "wof:parent_id": -4,
     "wof:placetype": "custom",

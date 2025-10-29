@@ -100,6 +100,7 @@
     "media:source": "sfomuseum",
     "media:status_id": 1,
     "media:uri_template": "https://static.sfomuseum.org/media/172/996/646/5/1729966465_{secret}_{label}.{extention}",
+    "sfo:level": 0,
     "sfomuseum:filename": "22463.tif",
     "sfomuseum:image_id": 22463,
     "sfomuseum:object_id": 113727,
@@ -1695,7 +1696,7 @@
       }
     ],
     "wof:id": 1729966465,
-    "wof:lastmodified": 1759823324,
+    "wof:lastmodified": 1761697594,
     "wof:name": "Every Beating Second ",
     "wof:parent_id": -4,
     "wof:placetype": "custom",

@@ -11,12 +11,13 @@
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.384949,37.613518,-122.384949,37.613518",
-    "geom:latitude": 37.61351751956212,
-    "geom:longitude": -122.38494873046875,
+    "geom:latitude": 37.613518,
+    "geom:longitude": -122.384949,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "sfac:accession_id": "T2017.1.1-6",
+    "sfo:level": 0,
     "sfomuseum:boardingarea": "B",
     "sfomuseum:category": "video",
     "sfomuseum:collection": "Arts Commission",
@@ -53,7 +54,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1523296710,
-    "wof:geomhash": "0036c58844a395a19d627ea73d61dcea",
+    "wof:geomhash": "9040a32425055ef50aac057225bc0b11",
     "wof:hierarchy": [
       {
         "building_id": 1159157271,
@@ -71,7 +72,7 @@
     ],
     "wof:id": 1159162751,
     "wof:label": "Peephole Cinema",
-    "wof:lastmodified": 1716596276,
+    "wof:lastmodified": 1761697593,
     "wof:name": "Peephole Cinema",
     "wof:parent_id": 1159396217,
     "wof:placetype": "venue",
@@ -84,10 +85,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38494873046875,
-    37.61351751956212,
-    -122.38494873046875,
-    37.61351751956212
+    -122.384949,
+    37.613518,
+    -122.384949,
+    37.613518
   ],
-  "geometry": {"coordinates":[-122.38494873046875,37.61351751956212],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.384949,37.613518]}
 }

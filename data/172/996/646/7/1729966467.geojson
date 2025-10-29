@@ -9,6 +9,7 @@
     "geom:latitude": 37.615489,
     "geom:longitude": -122.389112,
     "media:placetype": "publicart",
+    "sfo:level": 0,
     "sfomuseum:filename": "64221.jpg",
     "sfomuseum:image_id": 64221,
     "sfomuseum:object_id": 109317,
@@ -1625,7 +1626,7 @@
       }
     ],
     "wof:id": 1729966467,
-    "wof:lastmodified": 1759823324,
+    "wof:lastmodified": 1761697594,
     "wof:name": "Gateway",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
