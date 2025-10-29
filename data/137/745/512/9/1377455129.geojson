@@ -117,7 +117,7 @@
     "media:status_id": 1,
     "mz:hierarchy_label": 1,
     "mz:is_approximate": 1,
-    "mz:is_current": -1,
+    "mz:is_current": 0,
     "sfo:level": 0,
     "sfomuseum:filename": "64105.jpg",
     "sfomuseum:image_id": 64105,
@@ -1118,7 +1118,7 @@
     "wof:repo": "sfomuseum-data-media",
     "wof:superseded_by": [],
     "wof:supersedes": []
-  },
+  ,"edtf:deprecated":"2025-10-29"},
   "bbox": [
     -122.382883,
     37.614839,
