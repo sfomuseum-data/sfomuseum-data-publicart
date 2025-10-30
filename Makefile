@@ -11,3 +11,4 @@ current:
 
 scrub:
 	find . -type f -name '*~' | xargs rm
+	find data -type d -empty -delete
