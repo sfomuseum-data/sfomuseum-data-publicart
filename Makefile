@@ -1,13 +1,14 @@
 CWD=$(shell pwd)
 
-# https://github.com/whosonfirst/go-whosonfirst-exportify#wof-as-featurecollection
-AS_FEATURECOLLECTION=$(shell which wof-as-featurecollection)
+# https://github.com/whosonfirst/wof-cli
+WOF_CLI=$(shell which wof)
 
 current:
 	mkdir -p work
-	$(AS_FEATURECOLLECTION) \
+	$(WOF_CLI) emit \
 		-iterator-uri 'repo://?include=properties.mz:is_current=1' \
-		$(CWD) > work/publicart.geojson
+		-writer-uri 'featurecollection://?writer=stdout://' \
+		$(CWD) > work/publicart-latest.geojson
 
 scrub:
 	find . -type f -name '*~' | xargs rm
