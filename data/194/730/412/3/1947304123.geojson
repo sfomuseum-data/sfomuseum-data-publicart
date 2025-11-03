@@ -2,23 +2,21 @@
   "id": 1947304123,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-03-12",
-    "date:cessation_upper": "2025-03-12",
     "date:inception_lower": "2024-11-05",
     "date:inception_upper": "2024-11-05",
-    "edtf:cessation": "2025-03-12",
+    "edtf:cessation": "..",
     "edtf:inception": "2024-11-05",
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.388698,37.614252,-122.388698,37.614252",
-    "geom:latitude": 37.61425197717583,
-    "geom:longitude": -122.38869793683125,
+    "geom:latitude": 37.614252,
+    "geom:longitude": -122.388698,
     "millsfield:wayfinding_detail": "A",
     "millsfield:wayfinding_kind": "ITB",
     "millsfield:waypoint_id": [
       1914666265
     ],
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "sfac:accession_id": "",
     "sfo:level": 2,
     "sfomuseum:artist_dates": "b. 1960",
@@ -51,7 +49,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1731958649,
-    "wof:geomhash": "32e34daa1f927139e74540e538bdfb59",
+    "wof:geomhash": "faf9993b42dd32554cb954775b930ccd",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -80,7 +78,7 @@
     ],
     "wof:id": 1947304123,
     "wof:label": "River (2024-11-05)",
-    "wof:lastmodified": 1741736098,
+    "wof:lastmodified": 1762199226,
     "wof:name": "River",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",
@@ -97,10 +95,10 @@
     ]
   },
   "bbox": [
-    -122.38869793683125,
-    37.61425197717583,
-    -122.38869793683125,
-    37.61425197717583
+    -122.388698,
+    37.614252,
+    -122.388698,
+    37.614252
   ],
-  "geometry": {"coordinates":[-122.38869793683125,37.61425197717583],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.388698,37.614252]}
 }

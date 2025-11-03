@@ -2,23 +2,21 @@
   "id": 1947304127,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2025-03-12",
-    "date:cessation_upper": "2025-03-12",
     "date:inception_lower": "2024-11-05",
     "date:inception_upper": "2024-11-05",
-    "edtf:cessation": "2025-03-12",
+    "edtf:cessation": "..",
     "edtf:inception": "2024-11-05",
     "flysfo:url": "",
     "geom:area": 0,
     "geom:bbox": "-122.388695,37.613560,-122.388695,37.613560",
-    "geom:latitude": 37.61355966131776,
-    "geom:longitude": -122.3886946649475,
+    "geom:latitude": 37.61356,
+    "geom:longitude": -122.388695,
     "millsfield:wayfinding_detail": "G",
     "millsfield:wayfinding_kind": "ITB",
     "millsfield:waypoint_id": [
       1947304871
     ],
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "sfac:accession_id": "",
     "sfo:level": 2,
     "sfomuseum:artist_dates": "b. 1969",
@@ -51,7 +49,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1731958650,
-    "wof:geomhash": "463c867b3b7d9d67322866f0792f8c8b",
+    "wof:geomhash": "b5f30979cba4b1dd47732e11f793b4ef",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -80,7 +78,7 @@
     ],
     "wof:id": 1947304127,
     "wof:label": "Untitled",
-    "wof:lastmodified": 1741736101,
+    "wof:lastmodified": 1762199226,
     "wof:name": "Untitled",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",
@@ -96,10 +94,10 @@
     ]
   },
   "bbox": [
-    -122.3886946649475,
-    37.61355966131776,
-    -122.3886946649475,
-    37.61355966131776
+    -122.388695,
+    37.61356,
+    -122.388695,
+    37.61356
   ],
-  "geometry": {"coordinates":[-122.3886946649475,37.61355966131776],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.388695,37.61356]}
 }
