@@ -1,5 +1,5 @@
 {
-  "id": 1729829279,
+  "id": 1745903867,
   "type": "Feature",
   "properties": {
     "date:inception_lower": "2021-05-25",
@@ -8,9 +8,9 @@
     "edtf:inception": "2021-05-25",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.386339,37.610504,-122.386339,37.610504",
-    "geom:latitude": 37.610504,
-    "geom:longitude": -122.386339,
+    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
+    "geom:latitude": 37.619394,
+    "geom:longitude": -122.373853,
     "millsfield:waypoint_id": [
       1796889469
     ],
@@ -41,7 +41,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614046300,
-    "wof:geomhash": "f9b85f2af12a3f7929e05376eb6be8e1",
+    "wof:geomhash": "0fec56767953f56e010f3c5c18ce9b1c",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -66,7 +66,7 @@
     ],
     "wof:id": 1745903867,
     "wof:label": "Orion",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1762289188,
     "wof:name": "Orion",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -80,10 +80,10 @@
     ]
   },
   "bbox": [
-    -122.386339,
-    37.610504,
-    -122.386339,
-    37.610504
+    -122.373853,
+    37.619394,
+    -122.373853,
+    37.619394
   ],
-  "geometry": {"coordinates":[-122.386339,37.610504],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.373853,37.619394]}
 }

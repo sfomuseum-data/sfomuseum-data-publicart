@@ -10,9 +10,9 @@
     "edtf:inception": "2024-09~",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383045,37.615092,-122.383045,37.615092",
-    "geom:latitude": 37.61509202103748,
-    "geom:longitude": -122.38304513135412,
+    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
+    "geom:latitude": 37.619394,
+    "geom:longitude": -122.373853,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "C",
     "millsfield:wayfinding_kind": "HMT1",
@@ -47,7 +47,7 @@
     },
     "wof:country": "US",
     "wof:created": 1612389359,
-    "wof:geomhash": "36f216a028eb885e5017afeb5674481b",
+    "wof:geomhash": "0fec56767953f56e010f3c5c18ce9b1c",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -60,7 +60,7 @@
       }
     ],
     "wof:id": 1175727101,
-    "wof:lastmodified": 1731966364,
+    "wof:lastmodified": 1762289188,
     "wof:name": "Kaneko, Jun Tall Dango (02-08-04)",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -75,10 +75,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -122.38304513135412,
-    37.61509202103748,
-    -122.38304513135412,
-    37.61509202103748
+    -122.373853,
+    37.619394,
+    -122.373853,
+    37.619394
   ],
-  "geometry": {"coordinates":[-122.38304513135412,37.61509202103748],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.373853,37.619394]}
 }

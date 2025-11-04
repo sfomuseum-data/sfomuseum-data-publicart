@@ -16,9 +16,9 @@
     "flysfo:url": "https://www.sfomuseum.org/public-art/public-collection/garden-outside-gate",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.383521,37.617668,-122.383521,37.617668",
-    "geom:latitude": 37.61766823362873,
-    "geom:longitude": -122.3835209852453,
+    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
+    "geom:latitude": 37.619394,
+    "geom:longitude": -122.373853,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
@@ -71,7 +71,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1462387337,
-    "wof:geomhash": "a9e6d5d3d591cc540dfd3e48c05acab7",
+    "wof:geomhash": "0fec56767953f56e010f3c5c18ce9b1c",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -85,7 +85,7 @@
     ],
     "wof:id": 1360702203,
     "wof:label": "Adams, Mark Garden Outside the Gate",
-    "wof:lastmodified": 1716596276,
+    "wof:lastmodified": 1762289188,
     "wof:name": "Garden Outside the Gate",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -105,10 +105,10 @@
     ]
   },
   "bbox": [
-    -122.3835209852453,
-    37.61766823362873,
-    -122.3835209852453,
-    37.61766823362873
+    -122.373853,
+    37.619394,
+    -122.373853,
+    37.619394
   ],
-  "geometry": {"coordinates":[-122.3835209852453,37.61766823362873],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.373853,37.619394]}
 }

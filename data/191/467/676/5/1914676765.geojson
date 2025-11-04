@@ -10,9 +10,9 @@
     "edtf:inception": "2024-06-17",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.384255,37.614844,-122.384255,37.614844",
-    "geom:latitude": 37.61484439439251,
-    "geom:longitude": -122.38425503931387,
+    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
+    "geom:latitude": 37.619394,
+    "geom:longitude": -122.373853,
     "mz:is_current": 0,
     "sfac:accession_id": "2018.66108",
     "sfo:level": 2,
@@ -45,7 +45,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1721422049,
-    "wof:geomhash": "fed7f3f31a27393f92dfee762405e00e",
+    "wof:geomhash": "0fec56767953f56e010f3c5c18ce9b1c",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -72,7 +72,7 @@
     ],
     "wof:id": 1914676765,
     "wof:label": "Painting (12.16.09)",
-    "wof:lastmodified": 1731966365,
+    "wof:lastmodified": 1762289188,
     "wof:name": "Painting (12.16.09)",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -86,10 +86,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.38425503931387,
-    37.61484439439251,
-    -122.38425503931387,
-    37.61484439439251
+    -122.373853,
+    37.619394,
+    -122.373853,
+    37.619394
   ],
-  "geometry": {"coordinates":[-122.38425503931387,37.61484439439251],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.373853,37.619394]}
 }

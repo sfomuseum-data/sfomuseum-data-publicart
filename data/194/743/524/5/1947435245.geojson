@@ -5,13 +5,13 @@
     "edtf:cessation": "",
     "edtf:inception": "",
     "flysfo:url": "",
-    "geom:area": 0.0000035075038730271646,
-    "geom:bbox": "-122.375271,37.618277,-122.372396,37.620503",
-    "geom:latitude": 37.61939390848619,
-    "geom:longitude": -122.37385309950533,
+    "geom:area": 0,
+    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
+    "geom:latitude": 37.619394,
+    "geom:longitude": -122.373853,
     "mz:is_current": 1,
-    "sfo:level": 2,
     "sfac:accession_id": "T2021.44",
+    "sfo:level": 2,
     "sfomuseum:artist_dates": "b. 1949",
     "sfomuseum:artist_name": "John Divola",
     "sfomuseum:boardingarea": "",
@@ -41,7 +41,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1733301341,
-    "wof:geomhash": "5fe5ecf00bc1ee9c6b86044c0102c278",
+    "wof:geomhash": "0fec56767953f56e010f3c5c18ce9b1c",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -68,7 +68,7 @@
     ],
     "wof:id": 1947435245,
     "wof:label": "Zuma #5",
-    "wof:lastmodified": 1733301341,
+    "wof:lastmodified": 1762289188,
     "wof:name": "Zuma #5",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -80,10 +80,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.37527132034302,
-    37.61827669585204,
-    -122.37239599227904,
-    37.620503205877995
+    -122.373853,
+    37.619394,
+    -122.373853,
+    37.619394
   ],
-  "geometry": {"coordinates":[[[-122.37527132034302,37.61904153505861],[-122.37344741821288,37.61827669585204],[-122.37239599227904,37.61973838170797],[-122.37432718276976,37.620503205877995],[-122.37527132034302,37.61904153505861]]],"type":"Polygon"}
+  "geometry": {"type":"Point","coordinates":[-122.373853,37.619394]}
 }

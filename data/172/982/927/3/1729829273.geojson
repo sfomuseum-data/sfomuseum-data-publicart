@@ -8,9 +8,9 @@
     "edtf:inception": "",
     "flysfo:url": "",
     "geom:area": 0,
-    "geom:bbox": "-122.385608,37.611258,-122.385608,37.611258",
-    "geom:latitude": 37.611258,
-    "geom:longitude": -122.385608,
+    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
+    "geom:latitude": 37.619394,
+    "geom:longitude": -122.373853,
     "mz:is_current": 0,
     "sfac:accession_id": "2018.7",
     "sfo:level": 2,
@@ -42,7 +42,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1614046299,
-    "wof:geomhash": "8e5b6bdfa85fe9d8e7aabdaa05ac416b",
+    "wof:geomhash": "0fec56767953f56e010f3c5c18ce9b1c",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -67,7 +67,7 @@
     ],
     "wof:id": 1729829273,
     "wof:label": "Unfolding Space (in Gold)",
-    "wof:lastmodified": 1716596277,
+    "wof:lastmodified": 1762289188,
     "wof:name": "Unfolding Space (in Gold)",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -81,10 +81,10 @@
     "wof:supersedes": []
   },
   "bbox": [
-    -122.385608,
-    37.611258,
-    -122.385608,
-    37.611258
+    -122.373853,
+    37.619394,
+    -122.373853,
+    37.619394
   ],
-  "geometry": {"coordinates":[-122.385608,37.611258],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.373853,37.619394]}
 }

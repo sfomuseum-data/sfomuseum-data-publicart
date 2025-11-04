@@ -14,9 +14,9 @@
     "edtf:inception": "2016-08",
     "geom:area": 0,
     "geom:area_square_m": 0,
-    "geom:bbox": "-122.373882,37.619369,-122.373882,37.619369",
-    "geom:latitude": 37.61936871387201,
-    "geom:longitude": -122.3738819360733,
+    "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
+    "geom:latitude": 37.619394,
+    "geom:longitude": -122.373853,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "",
     "millsfield:wayfinding_kind": "",
@@ -65,7 +65,7 @@
     ],
     "wof:country": "US",
     "wof:created": 1543958838,
-    "wof:geomhash": "d738f15869ffbc2c035f95d1cb424bf8",
+    "wof:geomhash": "0fec56767953f56e010f3c5c18ce9b1c",
     "wof:hierarchy": [
       {
         "campus_id": 102527513,
@@ -78,7 +78,7 @@
       }
     ],
     "wof:id": 1360702183,
-    "wof:lastmodified": 1721241970,
+    "wof:lastmodified": 1762289188,
     "wof:name": "Cardboard Kore",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -98,10 +98,10 @@
     ]
   },
   "bbox": [
-    -122.3738819360733,
-    37.61936871387201,
-    -122.3738819360733,
-    37.61936871387201
+    -122.373853,
+    37.619394,
+    -122.373853,
+    37.619394
   ],
-  "geometry": {"coordinates":[-122.3738819360733,37.61936871387201],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.373853,37.619394]}
 }
