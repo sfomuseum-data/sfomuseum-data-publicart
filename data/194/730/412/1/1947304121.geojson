@@ -111,7 +111,7 @@
     ],
     "wof:id": 1947304121,
     "wof:label": "Welcome (2024-11-05)",
-    "wof:lastmodified": 1762199226,
+    "wof:lastmodified": 1762374163,
     "wof:name": "Welcome",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",
@@ -119,11 +119,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [
-      1947305603,
-      1963990273
-    ],
+    "wof:superseded_by": [],
     "wof:supersedes": [
+      1947305603,
       1914601035
     ],
     "wof:tags": [
