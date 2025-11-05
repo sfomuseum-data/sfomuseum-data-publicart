@@ -108,7 +108,7 @@
     ],
     "wof:id": 1947304173,
     "wof:label": "Shining Paths: San Francisco’s Sister Cities (2024-11-05)",
-    "wof:lastmodified": 1762199226,
+    "wof:lastmodified": 1762375038,
     "wof:name": "Shining Paths: San Francisco’s Sister Cities",
     "wof:parent_id": 1947304129,
     "wof:placetype": "venue",
@@ -116,11 +116,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [
-      1947305605,
-      1963990331
-    ],
+    "wof:superseded_by": [],
     "wof:supersedes": [
+      1947305605,
       1914601103
     ],
     "wof:tags": [
