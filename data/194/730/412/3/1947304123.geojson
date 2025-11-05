@@ -78,7 +78,7 @@
     ],
     "wof:id": 1947304123,
     "wof:label": "River (2024-11-05)",
-    "wof:lastmodified": 1762199226,
+    "wof:lastmodified": 1762372762,
     "wof:name": "River",
     "wof:parent_id": 1947304073,
     "wof:placetype": "venue",
@@ -86,11 +86,9 @@
       "publicart"
     ],
     "wof:repo": "sfomuseum-data-publicart",
-    "wof:superseded_by": [
-      1947305589,
-      1963990271
-    ],
+    "wof:superseded_by": [],
     "wof:supersedes": [
+      1947305589,
       1914601053
     ]
   },
