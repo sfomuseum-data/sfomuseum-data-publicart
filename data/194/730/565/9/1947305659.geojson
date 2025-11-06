@@ -11,8 +11,8 @@
     "geom:area": 0,
     "geom:area_square_m": 0,
     "geom:bbox": "-122.386263,37.614061,-122.386263,37.614061",
-    "geom:latitude": 37.6140608960178,
-    "geom:longitude": -122.38626251396124,
+    "geom:latitude": 37.614061,
+    "geom:longitude": -122.386263,
     "iso:country": "US",
     "millsfield:wayfinding_detail": "B",
     "millsfield:wayfinding_kind": "T1",
@@ -62,7 +62,7 @@
     },
     "wof:country": "US",
     "wof:created": 1731966384,
-    "wof:geomhash": "c408849f629e7088b033d6ce1497076e",
+    "wof:geomhash": "222a65ff2928149f75d09ba09f8eebde",
     "wof:hierarchy": [
       {
         "building_id": 1947304067,
@@ -87,7 +87,7 @@
     ],
     "wof:id": 1947305659,
     "wof:label": "High Heels for Going to Heaven ",
-    "wof:lastmodified": 1762390476,
+    "wof:lastmodified": 1762393208,
     "wof:name": "High Heels for Going to Heaven ",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",
@@ -97,15 +97,16 @@
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [],
     "wof:supersedes": [
+      1914601441,
       1947304407
     ],
     "wof:tags": []
   },
   "bbox": [
-    -122.38626251396124,
-    37.6140608960178,
-    -122.38626251396124,
-    37.6140608960178
+    -122.386263,
+    37.614061,
+    -122.386263,
+    37.614061
   ],
   "geometry": {"type":"Point","coordinates":[-122.386263,37.614061]}
 }

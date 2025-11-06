@@ -95,7 +95,7 @@
     ],
     "wof:id": 1914601441,
     "wof:label": "High Heels for Going to Heaven ",
-    "wof:lastmodified": 1731958721,
+    "wof:lastmodified": 1762393230,
     "wof:name": "High Heels for Going to Heaven ",
     "wof:parent_id": 1914601309,
     "wof:placetype": "venue",
@@ -104,7 +104,7 @@
     ],
     "wof:repo": "sfomuseum-data-publicart",
     "wof:superseded_by": [
-      1947304407
+      1947305659
     ],
     "wof:supersedes": [
       1745903903
@@ -117,5 +117,5 @@
     -122.38626251396124,
     37.6140608960178
   ],
-  "geometry": {"coordinates":[-122.38626251396124,37.6140608960178],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386263,37.614061]}
 }
