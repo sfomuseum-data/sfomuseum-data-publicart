@@ -23,7 +23,7 @@
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "sfac:accession_id": "2015.455.a-b",
-    "sfo:level": 1,
+    "sfo:level": 2,
     "sfomuseum:artist_dates": "b. 1929",
     "sfomuseum:artist_name": "Yayoi Kusama",
     "sfomuseum:boardingarea": "C",
@@ -87,7 +87,7 @@
     ],
     "wof:id": 1947305659,
     "wof:label": "High Heels for Going to Heaven ",
-    "wof:lastmodified": 1733525209,
+    "wof:lastmodified": 1762390476,
     "wof:name": "High Heels for Going to Heaven ",
     "wof:parent_id": 1947304067,
     "wof:placetype": "venue",
@@ -107,5 +107,5 @@
     -122.38626251396124,
     37.6140608960178
   ],
-  "geometry": {"coordinates":[-122.38626251396124,37.6140608960178],"type":"Point"}
+  "geometry": {"type":"Point","coordinates":[-122.386263,37.614061]}
 }
