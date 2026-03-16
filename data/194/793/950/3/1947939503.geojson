@@ -9,6 +9,7 @@
     "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
     "geom:latitude": 37.619394,
     "geom:longitude": -122.373853,
+    "millsfield:waypoint_id": [],
     "mz:is_current": 1,
     "sfac:accession_id": "2018.41",
     "sfo:level": 2,
@@ -68,7 +69,7 @@
     ],
     "wof:id": 1947939503,
     "wof:label": "Setting the Scene",
-    "wof:lastmodified": 1762289188,
+    "wof:lastmodified": 1773693113,
     "wof:name": "Setting the Scene",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -85,5 +86,5 @@
     -122.373853,
     37.619394
   ],
-  "geometry": {"type":"Point","coordinates":[-122.373853,37.619394]}
+  "geometry": {"coordinates":[-122.373853,37.619394],"type":"Point"}
 }

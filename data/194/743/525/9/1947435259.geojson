@@ -9,6 +9,7 @@
     "geom:bbox": "-122.373853,37.619394,-122.373853,37.619394",
     "geom:latitude": 37.619394,
     "geom:longitude": -122.373853,
+    "millsfield:waypoint_id": [],
     "mz:is_current": 1,
     "sfac:accession_id": "T2021.50",
     "sfo:level": 2,
@@ -68,7 +69,7 @@
     ],
     "wof:id": 1947435259,
     "wof:label": "Fairmont Hotel in Fog atop San Francisco’s Nob Hill",
-    "wof:lastmodified": 1762289188,
+    "wof:lastmodified": 1773693113,
     "wof:name": "Fairmont Hotel in Fog atop San Francisco’s Nob Hill",
     "wof:parent_id": 1729828959,
     "wof:placetype": "venue",
@@ -85,5 +86,5 @@
     -122.373853,
     37.619394
   ],
-  "geometry": {"type":"Point","coordinates":[-122.373853,37.619394]}
+  "geometry": {"coordinates":[-122.373853,37.619394],"type":"Point"}
 }
